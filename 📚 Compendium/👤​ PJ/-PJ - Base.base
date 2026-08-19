@@ -1,0 +1,30 @@
+formulas:
+  Portrait: image(note["🖼️ Portrait"])
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.inFolder("📚 Compendium/👤​ PJ")
+        - '!file.name.contains(".base")'
+    order:
+      - formula.Portrait
+      - file.name
+      - ⚔️ Classe
+      - 🧬 Race
+      - ⭐ Niveau
+      - ❤️‍🩹 PV
+      - 🎂 Age
+      - 🛡️ CA
+      - 📏 Taille
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: ⚔️ Classe
+        direction: ASC
+      - property: 🖼️ Portrait
+        direction: ASC
+    rowHeight: tall
+    columnSize:
+      formula.Portrait: 131
+      file.name: 106

@@ -1,0 +1,17 @@
+formulas:
+  Carte: image(note["🗺️ Carte"])
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.inFolder("📚 Compendium/🗺️ Lieux")
+        - '!file.name.contains(".base")'
+    order:
+      - formula.Carte
+      - file.name
+      - ⭐ Niveau
+      - Description
+    rowHeight: tall
+    columnSize:
+      formula.Carte: 128

@@ -1,0 +1,24 @@
+.callout[data-callout="mj"] {
+    --callout-color: #fc4949;
+    --callout-icon: book-lock;
+}
+
+.callout[data-callout="desc"] {
+    --callout-color: #4b93ff;
+    --callout-icon: scroll-text;
+}
+
+.callout[data-callout="note"] {
+    --callout-color: #39c34b;
+    --callout-icon: notebook-pen;
+}
+
+.callout[data-callout="but"] {
+    --callout-color: #fba730;
+    --callout-icon: list-checks;
+}
+
+.callout[data-callout="fiche"] {
+    --callout-color: #e0cbcb;
+    --callout-icon: scroll;
+}

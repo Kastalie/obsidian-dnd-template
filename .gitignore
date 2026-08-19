@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Obsidian - état local de l'interface
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Corbeille locale éventuelle
+.trash/

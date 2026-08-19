@@ -1,0 +1,71 @@
+formulas:
+  Sans titre: ""
+properties:
+  note.PV:
+    displayName: ❤️ PV
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.inFolder("📚 Compendium/👹 Monstres")
+        - '!file.name.contains("Base")'
+    order:
+      - file.name
+      - ⚔️ FP
+      - 👾 Type
+      - 🛡️ CA
+      - ❤️‍🩹 PV
+      - 🏃 Vitesse
+    sort:
+      - property: PV
+        direction: DESC
+      - property: nature
+        direction: ASC
+      - property: FP
+        direction: ASC
+  - type: table
+    name: Combat session 1
+    filters:
+      and:
+        - file.inFolder("Compendium/Monstres")
+        - '!file.name.contains("Base")'
+        - file.name.containsAny("Vampirien")
+    order:
+      - file.name
+      - ⚔️ FP
+      - 👾 Type
+      - 🛡️ CA
+      - ❤️‍🩹 PV
+      - 🏃 Vitesse
+    sort:
+      - property: PV
+        direction: DESC
+      - property: nature
+        direction: ASC
+      - property: FP
+        direction: ASC
+  - type: table
+    name: Vue
+  - type: table
+    name: Vue 2
+  - type: table
+    name: Tableau 2
+    filters:
+      and:
+        - file.inFolder("📚 Compendium/👹 Monstres")
+        - '!file.name.contains("Base")'
+    order:
+      - file.name
+      - ⚔️ FP
+      - 👾 Type
+      - 🛡️ CA
+      - ❤️‍🩹 PV
+      - 🏃 Vitesse
+    sort:
+      - property: PV
+        direction: DESC
+      - property: nature
+        direction: ASC
+      - property: FP
+        direction: ASC

@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.inFolder("📚 Compendium/🔮​ Artefacts")
+        - '!file.name.contains(".base")'
+    order:
+      - file.name
+      - 💎 Rareté
+      - 💰 Prix
+      - 📍Lieux

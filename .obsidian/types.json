@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "🛡️ CA": "number",
+    "🏃 Vitesse": "text",
+    "🎂 Age": "number",
+    "⭐ Niveau": "number"
+  }
+}
