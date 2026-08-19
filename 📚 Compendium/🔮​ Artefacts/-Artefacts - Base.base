@@ -1,5 +1,8 @@
 formulas:
-  Sans titre: ""
+  Sans titre: image(note["🖼️ Portrait"])
+properties:
+  formula.Sans titre:
+    displayName: Portrait
 views:
   - type: table
     name: Tableau
@@ -8,9 +11,13 @@ views:
         - file.inFolder("📚 Compendium/🔮​ Artefacts")
         - '!file.name.contains(".base")'
     order:
+      - formula.Sans titre
       - file.name
       - 💎 Rareté
       - 💰 Prix
       - 📍Lieux
-      - 🖼️ Portrait
-      - formula.Sans titre
+      - Description
+      - ✨ Effet
+    sort:
+      - property: 🖼️ Portrait
+        direction: ASC
