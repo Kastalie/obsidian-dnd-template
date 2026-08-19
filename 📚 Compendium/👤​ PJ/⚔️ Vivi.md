@@ -54,17 +54,8 @@ Je crois que le destin qui t'a conduit à cette existence n'est pas un accident.
 Tu n'accompliras cependant pas ce voyage seul. D'autres recevront une lettre semblable à celle-ci. Des âmes poursuivies par leurs propres quêtes. Lorsque viendra le moment, retrouve-les au **Carnaval de Sorcelume**. Ensemble, vous emprunterez un chemin qui vous mènera jusqu'à Pismeer. 
 
 Peut-être découvriras-tu pourquoi tu as été transformé.
-
-Peut-être retrouveras-tu ton maître.
-
 Peut-être même retrouveras-tu la forme que tu as perdue.
-
-Mais pour cela, il faut d'abord sauver une reine.
-
-Présente cette lettre à l'entrée du Carnaval lors de la nuit d'ouverture.
-
-Elle te guidera vers ceux qui, comme toi, ont été choisis.
-
 Le temps presse davantage que tu ne l'imagines.
 
-**A. l'Occultiste**
+**Madryck Roslof**  
+_Dernier serviteur de Zybilna_
