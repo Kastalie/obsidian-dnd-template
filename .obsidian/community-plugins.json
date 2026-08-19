@@ -1,4 +1,7 @@
 [
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "tag-wrangler",
+  "calendar",
+  "editing-toolbar"
 ]

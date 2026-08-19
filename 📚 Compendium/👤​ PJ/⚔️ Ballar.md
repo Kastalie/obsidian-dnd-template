@@ -1,12 +1,12 @@
 ---
-⚔️ Classe: Rôdeur
-Sous-classe: Vagabond féérique
-🧬 Race: Hiboulin
+⚔️ Classe: barbare
+Sous-classe: voie du cœur sauvage
+🧬 Race: elfe des bois
 ⭐ Niveau: 3
 🎂 Age:
 🛡️ CA:
 ❤️‍🩹 PV:
-📏 Taille: P
+📏 Taille: M
 🖼️ Portrait:
 ---
 
@@ -14,13 +14,15 @@ Sous-classe: Vagabond féérique
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10      | 10      | 10      | 10      | 10      | 10      |
 <u>Les 3 objets magiques qu'il aimerait posséder</u>
-- La toque du grand pâtissier : la légende raconte qu'il serait possible de faire apparaître n'importe quel gâteau et viennoiserie
-- La torche du courage : capable d'allumer la flamme dans les cœurs les plus sombres et de ne pas oublier d'où l'on vient
-- L'arc du serment : un arc surpuissant présent dans les livres que lui contaient sa grand-mère le soir avant de dormir
+ - Une hache, perdue depuis siècle qui renfermerai un peu de la sagesse de ses ancêtres.
+ - Un artéfact qui pourrait sauver son père
+ - Un sifflet pour appeler une monture
 
 <u>Le souhait / voeux</u>
- - Retrouver celle qu'il n'a pas entendue à temps, avant qu'elle n'oublie son propre nom
- Créature dont il a peur : Une ombre mystérieuse qui se joue de tous ceux qui s'aventureraient trop loin dans sa grande forêt, les égarant à tout jamais de leur propre réalité
+  - Une manière de montrer aux siens qu'il est aussi doué que le reste de sa famille (en clair que lui aussi peut lancer des sorts incroyables)
+<u>Peur</u> :
+- Couatl
+- ![[Pasted image 20260720170009.png|310]]
 
 Aquaraile pour la mère (elle était une grande artiste) et Soufflemer pour le père (et lui un grand guerrier)
 Tous deux étaient Druides Cercle des Mers

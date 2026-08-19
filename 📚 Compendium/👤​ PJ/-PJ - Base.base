@@ -8,7 +8,6 @@ views:
         - file.inFolder("📚 Compendium/👤​ PJ")
         - '!file.name.contains(".base")'
     order:
-      - formula.Portrait
       - file.name
       - ⚔️ Classe
       - 🧬 Race
@@ -19,7 +18,7 @@ views:
       - 📏 Taille
     sort:
       - property: file.name
-        direction: DESC
+        direction: ASC
       - property: ⚔️ Classe
         direction: ASC
       - property: 🖼️ Portrait
