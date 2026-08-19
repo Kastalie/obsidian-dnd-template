@@ -1,0 +1,16 @@
+Animés par magie, des chariots de mine chargés de visiteurs s'engouffrent dans une ouverture taillée à l'image d'une gueule de dragon. Les chariots réapparaissent un peu plus tard à l'autre bout de l'attraction, l'expression des passagers mêlant stupéfaction, terreur et griserie. Près de l'entrée, un nain vêtu comme un magicien s'écrie:« Élucidez les énigmes de votre esprit dans la Mine des mystères!» Doté de sourcils broussailleux, il porte un chapeau pointu et tient un gros instrument mécanique en forme d'œil géant.
+
+Cette attraction coûte **1 poinçon**.
+La mine est la création d'un nain excentrique du nom de Zéphixo, qui se tient en personne devant son « bébé ». Il reprend le profil du mage, avec les modifications suivantes:
+• Zéphixo (chaotique bon) parle le commun, le gnome, le nain et le sylvestre .
+• Il est doté de la vision dans le noir sur 18 m et de la résistance aux dégâts de poison, et bénéficie de l'avantage aux jets de sauvegarde contre le poison.
+
+Zéphixo invite les personnages à admirer son « Œil omniscient ». Si les aventuriers regardent l'œil mécanique de près, demandez à chaque joueur d'inscrire le nom de son personnage et celui de la créature que ce dernier craint le plus. Ramassez ces notes qui vous serviront pendant le parcours. Les personnages qui n'ont pas scruté l'Œil omniscient ont tout de même accès à la mine, mais l'expérience sera bien moins mémorable.
+
+LE TOUR DE LA MINE DES MYSTÈRES
+Chaque chariot de mine peut accueillir jusqu'à huit créatures de taille M. Alors que les personnages passent la gueule du dragon, les rails les entraînent dans un demi-plan saturé d'illusions, fait de collines ondoyantes, d'arbres en tire-bouchon et de cieux prismatiques. Tandis que le chariot des personnages file sur les rails, reportez-vous aux notes des joueurs. Des formes illusoires représentant les pires terreurs des personnages se jettent sur le chariot ; à vous d'en décrire la manifestation. Le nombre de formes illusoires égale celui des occupants du chariot, chaque personnage n'étant confronté qu'une fois par sa pire terreur.
+
+Chacun des occupants du chariot doit effectuer un jet de sauvegarde de Sagesse DD 12 à l'apparition de chacune des illusions. Quand se présente la phobie d'un personnage donné, celui-ci est désavantagé au JS. Un personnage qui rate le jet de sauvegarde ne peut retenir un hurlement, ébranlé par l'illusion ; en cas de réussite, il rit de cette évocation inoffensive qui ne fait que passer. Demandez aux joueurs de noter le nombre d'échecs qu'ils essuient à ces JS.
+
+Tout personnage qui réussit tous les jets de sauvegarde reçoit l'avantage à tous ses tests de Charisme intervenant au carnaval. Cet effet persiste jusqu'au couronnement du monarque.
+Tout personnage qui rate au moins trois de ces jets de sauvegarde est hanté par des cauchemars pendant ld8 jours. Jusqu'à la fin de ces rêves, le personnage doit réussir un jet de sauvegarde de Sagesse DD 12 chaque fois qu'il termine un repos long, sous peine de subir ld3 niveaux d'épuisement. Sur le Suivi d'aventure, consignez les noms de ces personnages et le nombre de jours restants jusqu'à la fin des cauchemars, en le réduisant de 1 après chaque repos long. Tout sort qui met fin à une malédiction débarrasse l'aventurier de ces cauchemars, mais pas des niveaux d'épuisement qui en ont résulté.

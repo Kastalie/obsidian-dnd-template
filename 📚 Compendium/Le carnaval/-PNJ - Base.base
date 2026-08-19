@@ -1,0 +1,77 @@
+formulas:
+  Portrait: image(note["🖼️ Portrait"])
+views:
+  - type: table
+    name: Liste PNJ
+    filters:
+      and:
+        - file.inFolder("Compendium/PNJ")
+        - '!file.name.contains(".base")'
+    order:
+      - formula.Portrait
+      - file.name
+      - 🧬 Race
+      - 🎂 Age
+      - ❤️ État
+      - 🛠️ Occupation
+      - 📍Lieux
+      - 🤝 Faction
+    sort:
+      - property: 🤝 Faction
+        direction: ASC
+    columnSize:
+      formula.Portrait: 83
+      file.name: 99
+      note.🎂 Age: 73
+      note.🛠️ Occupation: 120
+    markers: number
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.inFolder("📚 Compendium/🎭 PNJ")
+        - '!file.name.contains(".base")'
+    order:
+      - formula.Portrait
+      - file.name
+      - 🧬 Race
+      - 🎂 Age
+      - ❤️ État
+      - 🛠️ Occupation
+      - 📍Lieux
+      - 🤝 Faction
+    sort:
+      - property: formula.Portrait
+        direction: DESC
+      - property: 🧬 Race
+        direction: ASC
+    rowHeight: tall
+    columnSize:
+      formula.Portrait: 83
+      file.name: 99
+      note.🎂 Age: 73
+      note.🛠️ Occupation: 120
+  - type: table
+    name: Liste PNJ 2
+    filters:
+      and:
+        - file.inFolder("Compendium/PNJ")
+        - '!file.name.contains(".base")'
+    order:
+      - formula.Portrait
+      - file.name
+      - 🧬 Race
+      - 🎂 Age
+      - ❤️ État
+      - 🛠️ Occupation
+      - 📍Lieux
+      - 🤝 Faction
+    sort:
+      - property: 🤝 Faction
+        direction: ASC
+    columnSize:
+      formula.Portrait: 83
+      file.name: 99
+      note.🎂 Age: 73
+      note.🛠️ Occupation: 120
+    markers: number

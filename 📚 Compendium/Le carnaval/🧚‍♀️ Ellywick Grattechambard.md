@@ -1,0 +1,9 @@
+
+Cette bardesse gnomide (« Grattechambard » pour les intimes) se trouve au Verger ripailleur quand les personnages s'y présentent pour la première fois. Elle est assise sur une balançoire suspendue à la branche d'un poirier, pinçant les cordes de son luth en observant les aventuriers.
+Si les personnages évoquent leurs billets gratuits, elle leur révèle qu'elle en est l'acheteuse. Si on lui
+demande plus de détails, elle affirme sur un ton énigmatique que les personnages sont bien là où ils doivent être à l'instant présent, mais n'en dit pas plus.
+
+Au fil de la soirée, Grattechambard peut se représenter pour fournir des indices sur la marche à suivre ; elle peut même guider les aventuriers jusqu'à Prismeer si jamais tous leurs plans échouent. 
+
+Si elle se trouve menacée, elle disparaît dans un feu d'artifice inoffensif. Nul besoin de disposer de son profil de jeu, car elle n'a pas l'intention de blesser ou de gêner les personnages, qui eux-mêmes ne pourront pas lui faire de mal. Ses pensées sont de même insondables, y compris par magie. Grattechambard doit rester une énigme pour les personnages joueurs. En réalité, il s'agit d'une voyageuse planaire avertie qui s'est rendue sur d'innombrables mondes dont elle a ravi les populations par ses spectacles. En certains confins du multivers, on la connaît comme une Arpenteuse des plans, entité farouchement indépendante et extrêmement puissante avec laquelle on ne badine pas. Grattechambard réprouve la cruauté de l'assemblée du Sablier et compte lui rendre la monnaie de sa pièce. La gnomide voit les personnages comme des agents du changement, capables de réparer les dommages causés par l'assemblée. Elle s'imagine même que,
+ce faisant, ces héros en herbe mériteraient de figurer dans quelques chansons épiques.
