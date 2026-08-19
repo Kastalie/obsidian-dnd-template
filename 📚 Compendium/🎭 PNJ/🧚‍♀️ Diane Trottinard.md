@@ -1,14 +1,14 @@
 ---
-🧬 Race: Humain
+🧬 Race: Centaure
 🛠️ Occupation: Forain
 🎂 Age: 20
 🤝 Faction:
 ❤️ État:
 📍Lieux: Carnaval
-🖼️ Portrait: "[[bohu.png]]"
+🖼️ Portrait: "[[diane.png]]"
 ---
 > [!description]+ Résumé
-> *Un gobelours vêtu d'une salopette, d'ailes de fée et d'une citrouille illuminée en guise de casque s'approche de vous. « Suivez moi, grogne-t-il. Les patrons veulent vous voir. »*
+>
 
 
 La personne qui gère le [[🎡 Manège 🦄]] (billets et activation) se nomme Diane Trottinard. Autrefois humaine, Diane se présenta auprès de Mère-grand Belladone de l'assemblée du Sablier dans un dernier espoir de retrouver son fidèle destrier, disparu au combat.

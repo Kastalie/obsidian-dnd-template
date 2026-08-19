@@ -1,5 +1,5 @@
 ---
-🧬 Race: Humain
+🧬 Race: gobelours
 🛠️ Occupation: Forain
 🎂 Age: 20
 🤝 Faction:

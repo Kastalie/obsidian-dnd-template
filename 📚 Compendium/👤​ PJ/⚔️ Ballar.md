@@ -22,7 +22,7 @@ Sous-classe: voie du cœur sauvage
   - Une manière de montrer aux siens qu'il est aussi doué que le reste de sa famille (en clair que lui aussi peut lancer des sorts incroyables)
 <u>Peur</u> :
 - Couatl
-- ![[Pasted image 20260720170009.png|310]]
+- ![[coatl.png|310]]
 
 
 ### Apparence
