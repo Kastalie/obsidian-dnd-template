@@ -30,3 +30,41 @@ Sous-classe: Magie sauvage
 
 Il était un un lapin normal de magicien, en spectacle son magicien le transforme en conil : lapin humanoïde et s'enfuit.
 Depuis 6 mois il cherche a retrouver son maitre pour qu'il lui rende son apparence normale
+
+
+## Lettre
+**À Vivian, celui qui fut lapin avant de devenir autre chose,**
+
+Tu ne me connais pas.
+Pourtant, je connais ton histoire.
+Un magicien.
+Un spectacle.
+Une transformation qui n'aurait jamais dû se produire.
+Puis une disparition.
+Depuis lors, tu poursuis une ombre.
+
+Six mois à suivre de fausses pistes, des témoignages contradictoires et des rumeurs de foire en foire. Tu cherches un homme capable de te rendre ce qui t'a été pris.
+
+Au-delà de ce monde existe un domaine féerique nommé **Prismeer**. Jadis, ses terres prospéraient sous la protection d'une souveraine connue sous le nom de **Zybilna**. Aujourd'hui, cette souveraine a disparu. Sa cour s'est effondrée et les frontières entre les mondes commencent à se fissurer.
+
+Les conséquences de cette catastrophe se manifestent parfois dans le monde mortel sous la forme d'événements inexplicables. Des malédictions. Des disparitions. Des métamorphoses impossibles. Comme la tienne.
+
+Je crois que le destin qui t'a conduit à cette existence n'est pas un accident. Je crois qu'il est lié à ce qui est arrivé à Zybilna. Et je crois également que l'homme que tu recherches possède des réponses. Les réponses que tu cherches se trouve déjà en Féerie.
+
+Tu n'accompliras cependant pas ce voyage seul. D'autres recevront une lettre semblable à celle-ci. Des âmes poursuivies par leurs propres quêtes. Lorsque viendra le moment, retrouve-les au **Carnaval de Sorcelume**. Ensemble, vous emprunterez un chemin qui vous mènera jusqu'à Pismeer. 
+
+Peut-être découvriras-tu pourquoi tu as été transformé.
+
+Peut-être retrouveras-tu ton maître.
+
+Peut-être même retrouveras-tu la forme que tu as perdue.
+
+Mais pour cela, il faut d'abord sauver une reine.
+
+Présente cette lettre à l'entrée du Carnaval lors de la nuit d'ouverture.
+
+Elle te guidera vers ceux qui, comme toi, ont été choisis.
+
+Le temps presse davantage que tu ne l'imagines.
+
+**A. l'Occultiste**
