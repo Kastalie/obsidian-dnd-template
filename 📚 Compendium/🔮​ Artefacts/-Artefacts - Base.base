@@ -1,3 +1,5 @@
+formulas:
+  Sans titre: ""
 views:
   - type: table
     name: Tableau
@@ -10,3 +12,5 @@ views:
       - 💎 Rareté
       - 💰 Prix
       - 📍Lieux
+      - 🖼️ Portrait
+      - formula.Sans titre

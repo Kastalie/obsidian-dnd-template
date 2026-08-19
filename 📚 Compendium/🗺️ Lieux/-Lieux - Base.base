@@ -12,6 +12,9 @@ views:
       - file.name
       - ⭐ Niveau
       - Description
+    sort:
+      - property: formula.Carte
+        direction: DESC
     rowHeight: tall
     columnSize:
       formula.Carte: 128
