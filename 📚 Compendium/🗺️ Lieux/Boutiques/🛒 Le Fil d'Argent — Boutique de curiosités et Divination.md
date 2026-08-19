@@ -1,9 +1,10 @@
 ---
-👾 Type:
+👾 Type: Artéfacts divinatoires, outils de voyance, analyses astrales
+✨ Ambiance: Une pièce circulaire emplie d’encens doux, murs couverts de fils brillants représentant les lignes du destin.
+👨 Tenancier: |-
+  **Halia Prisme-Lointain**, demi-elfe aux yeux argentés. Elle voit les possibles futurs comme d’autres voient la météo.  
+  Elle parle souvent par métaphores (“les chemins s’emmêlent autour de toi…”).
 ---
-**Type :** Artéfacts divinatoires, outils de voyance, analyses astrales  
-**Ambiance :** Une pièce circulaire emplie d’encens doux, murs couverts de fils brillants représentant les lignes du destin.
-
 ### **Tenancière**
 
 **Halia Prisme-Lointain**, demi-elfe aux yeux argentés. Elle voit les possibles futurs comme d’autres voient la météo.  
