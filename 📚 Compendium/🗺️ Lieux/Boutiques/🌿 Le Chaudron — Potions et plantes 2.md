@@ -1,7 +1,10 @@
-
-**Type :** Potions standard, soins, utilitaires, recettes simples  
-**Ambiance :** Une petite boutique chaleureuse, remplie d’odeurs herbacées. Des fioles colorées s’alignent sur des étagères en bois, certaines fumant doucement.
-
+---
+👾 Type: Potions standard, soins, utilitaires, recettes simples
+✨ Ambiance: Une petite boutique chaleureuse, remplie d’odeurs herbacées. Des fioles colorées s’alignent sur des étagères en bois, certaines fumant doucement.
+👨 Tenancier: |-
+  **Maître Bronn Keldren**, un alchimiste humain vétéran à la barbe brûlée en plusieurs endroits.  
+  Toujours grincheux, mais adore qu’on lui demande comment il fabrique “ses mixtures magiques”.
+---
 ### **Tenancier**
 
 **Maître Bronn Keldren**, un alchimiste humain vétéran à la barbe brûlée en plusieurs endroits.  

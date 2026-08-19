@@ -1,5 +1,8 @@
-**Type :** Objets enchantés faits main  
-**Ambiance :** Parfums de résine chaude, fils dorés suspendus au plafond, crépitements magiques.  
+---
+👾 Type: Objets enchantés faits main
+✨ Ambiance: Parfums de résine chaude, fils dorés suspendus au plafond, crépitements magiques.
+👨 Tenancier: "**Merys Ambrelune**, tisserande mystique capable d’imprégner ses créations d’émotions."
+---
 **Tenancière :** **Merys Ambrelune**, tisserande mystique capable d’imprégner ses créations d’émotions.
 ### **Objets vendus**
 

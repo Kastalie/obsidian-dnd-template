@@ -1,6 +1,8 @@
-**Type :** Armes & armures robustes  
-**Ambiance :** Chaleur étouffante, murs en pierre, enclumes résonnant constamment.
-
+---
+✨ Ambiance: Chaleur étouffante, murs en pierre, enclumes résonnant constamment.
+👾 Type: Armes & armures robustes
+👨 Tenancier: Brom et Bruna Forge-Longue, jumeaux nains toujours en train de se chamailler pour savoir qui est le meilleur artisan.
+---
 ### **Tenanciers**
 
 **Brom et Bruna Forge-Longue**, jumeaux nains toujours en train de se chamailler pour savoir qui est le meilleur artisan.

@@ -1,5 +1,11 @@
-**Type :** Vêtements utilitaires, équipements d’aventuriers, textiles enchantés légers  
-**Ambiance :** Une grande boutique lumineuse, mi‑tailleuse mi‑armurerie légère. Des mannequins portent des tenues adaptées à chaque classe : ranger, mage, voleur, chevalier, barde… Au plafond, des cordes et des sacs pendent comme dans un campement organisé.  
+---
+👾 Type: Vêtements utilitaires, équipements d’aventuriers, textiles enchantés légers
+✨ Ambiance: "Une grande boutique lumineuse, mi‑tailleuse mi‑armurerie légère. Des mannequins portent des tenues adaptées à chaque classe : ranger, mage, voleur, chevalier, barde… Au plafond, des cordes et des sacs pendent comme dans un campement organisé."
+👨 Tenancier: |-
+  **Marla Hameçon-de-Soie**
+  Une humaine énergique au sourire trop large et à la voix trop aiguë.  
+  Elle a voyagé pendant 10 ans avant d’ouvrir sa boutique. Elle adore conseiller des tenues complètes, même si le client voulait “juste un pantalon”.
+---
 **Tenancière :** **Marla Hameçon-de-Soie**
 Une humaine énergique au sourire trop large et à la voix trop aiguë.  
 Elle a voyagé pendant 10 ans avant d’ouvrir sa boutique. Elle adore conseiller des tenues complètes, même si le client voulait “juste un pantalon”.

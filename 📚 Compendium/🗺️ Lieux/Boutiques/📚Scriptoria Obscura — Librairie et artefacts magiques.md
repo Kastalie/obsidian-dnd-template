@@ -1,6 +1,8 @@
-**Type :** Grimoires, parchemins, objets enchantés  
-**Ambiance :** Silence religieux, murs couverts de livres anciens, odeur d’encre et de cuir.
-
+---
+👾 Type: Grimoires, parchemins, objets enchantés
+✨ Ambiance: Silence religieux, murs couverts de livres anciens, odeur d’encre et de cuir.
+👨 Tenancier: "**Maître Livarius**, mage vieillissant qui prétend avoir “écrit lui-même les livres écrits par d’autres”."
+---
 ### **Tenancier**
 
 **Maître Livarius**, mage vieillissant qui prétend avoir “écrit lui-même les livres écrits par d’autres”.

@@ -1,8 +1,11 @@
-**Type :** Équipement furtif, vêtements truqués, accessoires illégaux  
-**Ambiance :** Une échoppe cachée dans une ruelle où la lumière n’arrive jamais vraiment. À l’intérieur, des étoffes sombres et des mannequins ressemblant étrangement à des silhouettes encapuchonnées.
-**Tenancier** : Silk "Sans-bruit" Vantrel. Toujours souriant, jamais sincère.  
-Il propose un rabais “famille” si on rejoint sa guilde…  
-(et une surtaxe si on travaille pour une guilde rivale).
+---
+👾 Type: Équipement furtif, vêtements truqués, accessoires illégaux
+✨ Ambiance: Une échoppe cachée dans une ruelle où la lumière n’arrive jamais vraiment. À l’intérieur, des étoffes sombres et des mannequins ressemblant étrangement à des silhouettes encapuchonnées.
+👨 Tenancier: |-
+  Silk "Sans-bruit" Vantrel. Toujours souriant, jamais sincère.  
+  Il propose un rabais “famille” si on rejoint sa guilde…  
+  (et une surtaxe si on travaille pour une guilde rivale).
+---
 ### **Objets vendus**
 
 | Objet                            | Prix   | Description                                                                                                                                                                                                               |

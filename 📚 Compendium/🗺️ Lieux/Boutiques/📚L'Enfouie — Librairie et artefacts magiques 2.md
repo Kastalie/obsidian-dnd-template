@@ -1,6 +1,8 @@
-**Type :** Librairie spécialisée dans les manuscrits rares, les grimoires poussiéreux, les traités oubliés et les cartes antiques.  
-**Ambiance :** Une boutique située sous terre, dans une ancienne crypte réaménagée. Des lampes à huile montent et descendent doucement au plafond. L’air sent la poussière, le cuir et quelque chose d’inconnu… peut‑être la magie.
-
+---
+👾 Type: Librairie spécialisée dans les manuscrits rares, les grimoires poussiéreux, les traités oubliés et les cartes antiques.
+✨ Ambiance: Une boutique située sous terre, dans une ancienne crypte réaménagée. Des lampes à huile montent et descendent doucement au plafond. L’air sent la poussière, le cuir et quelque chose d’inconnu… peut‑être la magie.
+👨 Tenancier: "**Maître Edravan l’Enfoui**"
+---
 ### **Tenancier**
 
  **Maître Edravan l’Enfoui**

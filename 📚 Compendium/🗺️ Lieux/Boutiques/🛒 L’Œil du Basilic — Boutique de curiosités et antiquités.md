@@ -1,3 +1,10 @@
+---
+👾 Type: Objet rares, étranges ou maudits
+✨ Ambiance: Une boutique sombre éclairée par des lanternes vertes. Les étagères grincent sous le poids de coffres poussiéreux et de bocaux contenant… des choses qui bougent encore.
+👨 Tenancier: |-
+  **Virella Craspin**, gnome excentrique, passionnée par les artefacts dangereux.  
+  Elle porte un monocle qu’elle prétend être un “fragment d’œil de basilic”.
+---
 **Type :** Objet rares, étranges ou maudits  
 **Ambiance :** Une boutique sombre éclairée par des lanternes vertes. Les étagères grincent sous le poids de coffres poussiéreux et de bocaux contenant… des choses qui bougent encore.
 ### **Tenancière**

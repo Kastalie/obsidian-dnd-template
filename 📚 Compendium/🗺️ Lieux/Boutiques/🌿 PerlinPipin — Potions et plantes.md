@@ -1,7 +1,8 @@
-
-**Type :** Magie naturelle, alchimie  
-**Ambiance :** Une échoppe parfumée, murs recouverts de plantes grimpantes, ambiance zen.
-
+---
+👾 Type: Magie naturelle, alchimie
+✨ Ambiance: Une échoppe parfumée, murs recouverts de plantes grimpantes, ambiance zen.
+👨 Tenancier: "**Sillana Perlinpipin**, elfe druide au sourire apaisant, mais qui refuse de vendre ses potions “à des idiots qui les boiraient n’importe comment”."
+---
 ### **Tenancière**
 
 **Sillana Perlinpipin**, elfe druide au sourire apaisant, mais qui refuse de vendre ses potions “à des idiots qui les boiraient n’importe comment”.

@@ -1,3 +1,6 @@
+---
+👾 Type:
+---
 **Type :** Artéfacts divinatoires, outils de voyance, analyses astrales  
 **Ambiance :** Une pièce circulaire emplie d’encens doux, murs couverts de fils brillants représentant les lignes du destin.
 

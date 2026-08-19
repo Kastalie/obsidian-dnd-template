@@ -1,6 +1,10 @@
-**Type :** Artefacts dangereux, objets possédés, reliques maudites  
-**Ambiance :** Un local humide, éclairé par des chandelles qui s’éteignent sans prévenir. Les objets semblent… t’observer.
-
+---
+👾 Type: Artefacts dangereux, objets possédés, reliques maudites
+✨ Ambiance: Un local humide, éclairé par des chandelles qui s’éteignent sans prévenir. Les objets semblent… t’observer.
+👨 Tenancier: |-
+  **Maître Corvus Tarn**, humain au visage pâle, jadis exorciste. Aujourd’hui, il “garde ce qui ne peut être détruit”.  
+  Il parle peu… ou bien murmure à des choses que personne ne voit.
+---
 ### **Tenancier**
 
 **Maître Corvus Tarn**, humain au visage pâle, jadis exorciste. Aujourd’hui, il “garde ce qui ne peut être détruit”.  
