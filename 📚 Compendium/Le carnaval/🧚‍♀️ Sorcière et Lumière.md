@@ -30,7 +30,7 @@ pour pouvoir réutiliser cette propriété.
 - L'harmonisation avec la tocante entraîne chez la créature un gain de poids de 15 kg. Ce surpoids disparaît quand l' harmonisation prend fin.
 - La créature harmonisée avec la montre doit chaque jour boire et manger huit fois plus que la normale.
 
-![[Pasted image 20260713155737.png|697]]
+![[sorciere.png]]
 
 
 
@@ -54,7 +54,7 @@ La créature qui tient la girouette est vulnérable aux dégâts de foudre.
 • La créature harmonisée avec la girouette est immunisée contre les états suivants : assourdi, aveuglé, étourdi et pétrifié.
 • Tant qu'elle porte la girouette, la créature harmonisée peut lancer le sort lumières dansantes, métamorphose ou rayon de givre au prix d'une action, sans la moindre composante, le Charisme étant sa caractéristique d' incantation. Une fois que le sort métamorphose a été lancé par le biais de la girouette, lancez un d8 ; sur un résultat de 3 ou 8, la girouette ne peut plus resservir à lancer ce sort jusqu'à l'aube suivante.
 
-![[Pasted image 20260713160233.png]]
+![[lumière.png]]
 
 « Les forces à l'œuvre de l'autre côté sont totalement hors de notre contrôle ».
 Monsieur Sorcière ajoute : « La roue du temps tourne sans cesse… ce qui est perdu est perdu, ce qui est parti est parti.»

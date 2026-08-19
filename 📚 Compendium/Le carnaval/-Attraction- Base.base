@@ -7,7 +7,7 @@ views:
       and:
         - '!file.name.contains(".base")'
         - file.inFolder("📚 Compendium/Le carnaval")
-        - file.name.contains("🧚")
+        - file.name.contains("🎡")
     order:
       - formula.Portrait
       - file.name

@@ -18,4 +18,4 @@ fiche, hein. On forme tous une grande famille ici ! » « Le carnaval ne peut pa
 « Pour monsieur Lumière, rien n'est plus beau qu'un parterre de visages souriants ; si le carnaval est joyeux, lui aussi!»
 Septentriol ignore tout de l'assemblée du Sablier et de ce qui a pu advenir de Prismeer et de l'archifée qui y régnait ; il est convaincu que Zybilna est toujours à la tête de son domaine prospère.
 
-![[Pasted image 20260713144502.png]]
+![[libbelule géante.png]]
