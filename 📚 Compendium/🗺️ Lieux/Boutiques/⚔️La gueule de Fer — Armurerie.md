@@ -1,3 +1,7 @@
+---
+👾 Type:
+---
+
 **Type :** Armes classiques, armes spécialisées, forge enchantée  
 **Ambiance :** Une grande forge ouverte, chaleur étouffante, sons de marteaux, odeur de métal brûlant. Des armes sont exposées sur des râteliers, certaines encore fumantes.
 
