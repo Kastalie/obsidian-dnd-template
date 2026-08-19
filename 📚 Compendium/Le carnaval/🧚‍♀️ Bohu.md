@@ -1,8 +1,17 @@
+---
+🧬 Race: gobelours
+🛠️ Occupation: Forain
+🎂 Age: 20
+🤝 Faction:
+❤️ État:
+📍Lieux: Carnaval
+🖼️ Portrait: "[[bohu.png]]"
+---
+> [!description]+ Résumé
+> *Un gobelours vêtu d'une salopette, d'ailes de fée et d'une citrouille illuminée en guise de casque s'approche de vous. « Suivez moi, grogne-t-il. Les patrons veulent vous voir. »*
+
 
 Les personnages reçoivent une invitation à rencontrer [[🧚‍♀️ Sorcière et Lumière]] en privé quand l'ambiance du carnaval atteint l'une des extrémités de l'enfilade ou s'ils font grande impression à monsieur Lumière lors du clou du grand chapiteau. Sorcière et Lumière chargent Bohu le gobelours (neutre bon) d'aller chercher les personnages.
-
-*Un gobelours vêtu d'une salopette, d'ailes de fée et d'une citrouille illuminée en guise de casque s'approche de vous. « Suivez moi, grogne-t-il. Les patrons veulent vous voir. »*
-
 D'un geste de la main, Bohu crée une ouverture dans la haie de ronces qui encercle les roulottes du personnel  et invite les aventuriers à s'y engager avec lui. Si on l' interroge sur la nature de cette entrevue, Bohu se contente d'affirmer qu'il n'y a rien à craindre. Si l'ambiance du carnaval
 est bonne, il ajoute que ses patrons sont d'excellente humeur. Si les personnages suivent Bohu, lisez ceci :
 
@@ -32,4 +41,24 @@ Monsieur Sorcière garde la montre dans la poche de son gilet, une chaînette re
 durant la tentative. Le personnage aura besoin d'outils de voleur, d'une dague ou d'une paire de ciseaux pour couper ou détacher la chaîne.
 Si les aventuriers soulagent monsieur Sorcière de sa tocante, Lumière et lui-même veulent la retrouver coûte que coûte. Ils font tout pour ne pas affoler l'assistance, mais promettent aux personnages de leur montrer le chemin jusqu'à Prismeer si on leur rapporte leur montre. Sorcière et Lumière n'ont qu'une parole.
 
-![[Pasted image 20260715153541.png|341]]
+![[bohu.png|341]]
+### Secrets
+...
+### Relations
+- Alliés :
+	- 
+- Ennemis :
+	- 
+- Famille :
+	- 
+
+> [!mj] Notes
+> ...
+
+
+> [!fiche]- Fiche
+> ...
+
+
+
+

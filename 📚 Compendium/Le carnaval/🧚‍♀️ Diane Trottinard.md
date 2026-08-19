@@ -1,3 +1,15 @@
+---
+🧬 Race: Centaure
+🛠️ Occupation: Forain
+🎂 Age: 20
+🤝 Faction:
+❤️ État:
+📍Lieux: Carnaval
+🖼️ Portrait: "[[diane.png]]"
+---
+> [!description]+ Résumé
+>
+
 
 La personne qui gère le [[🎡 Manège 🦄]] (billets et activation) se nomme Diane Trottinard. Autrefois humaine, Diane se présenta auprès de Mère-grand Belladone de l'assemblée du Sablier dans un dernier espoir de retrouver son fidèle destrier, disparu au combat.
 
@@ -11,4 +23,23 @@ Si Diane comprend que les aventuriers enquêtent au carnaval pour leurs propres 
 Si elle tente de s'exprimer (à l'oral ou par écrit) sur l'un de ces sujets tabous, elle commence à expectorer une sève brune dans la douleur ou bien des champignons font éclater la peau de ses doigts, jusqu'à ce qu'elle avorte sa tentative. Les licornes en bois du manège, en revanche, peuvent fournir des indices sur les guenaudes.
 Diane explique aux aventuriers qu'ils doivent « parler aux licornes », mais qu'elles n'auront confiance en eux que s'ils apprennent leurs huit noms. Diane confie à l'un des personnages un pot en argile contenant de la peinture dorée et quelques pinceaux. Elle dit pouvoir fermer
 le manège quelque temps pour procéder à des « réparations urgentes ».
+### Secrets
+...
+### Relations
+- Alliés :
+	- 
+- Ennemis :
+	- 
+- Famille :
+	- 
+
+> [!mj] Notes
+> ...
+
+
+> [!fiche]- Fiche
+> ...
+
+
+
 
