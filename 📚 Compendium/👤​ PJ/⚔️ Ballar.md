@@ -24,135 +24,69 @@ Sous-classe: voie du cœur sauvage
 - Couatl
 - ![[Pasted image 20260720170009.png|310]]
 
-Aquaraile pour la mère (elle était une grande artiste) et Soufflemer pour le père (et lui un grand guerrier)
-Tous deux étaient Druides Cercle des Mers
+
 ### Apparence
 ...
 ### Histoire
-Il était une fois, au fin fond du monde de la Féérie, une légende qui parlait de créatures qui pouvaient apaiser votre âme en échange d'un magnifique cupcake fait avec amour.
+Pour un peu de détails, je me disais que le pouvoir du personnage (barbare du cœur sauvage, donc lié à la faune) pourrait être la manière dont la magie de son peuple s'est manifesté chez lui. La hache de ses ancêtres serait un artéfact qui accompagné ceux de ses ancêtres qui était comme lui, avant d'être perdue longtemps avant sa naissance. 
+D'ailleurs son souhait ne se réalisera jamais, pas sous cette forme, il ne pourra jamais être un grand jeteur de sort. Son voyage pourrait lui permettre d'accepter que son pouvoir s'est manifester sous une autre forme mais qu'il n'est pas moins méritant que sa famille, contrairement à ce que peut penser les anciens de son clan.
 
-Si on écoutait les rumeurs, elles étaient cachées en haut de l'arbre situé au plus haut de la plus haute des forêts ! Certains disaient même qu'il fallait savoir voler. Sans quoi, il serait impossible d'entendre leurs douces mélodies.
 
-Car oui, on disait que leur pouvoir résidait dans de douces et envoûtantes musiques qui résonnaient au plus profond de votre être.
+Cadet de la famille : 
+Grand frère parti a l'aventure, n'est toujours pas revenu. est partit dans un premier temps pour explorer le monde avant de commencer une quête de pouvoir. La quête de pouvoir pourrait avoir un lien avec la mal du père (une malédiction par exemple) et du coup elle a choisie de rester en exil estimant avoir causé trop de dégâts.
+Benjamin super talentueux
+et lui part a la recherche de son frère
 
-C'est en découvrant tout cela qu'un jour, un jeune haut-elfe décida de voir si tout cela était vrai. Il prit avec lui quelques affaires et victuailles, fin prêt à braver le monde féérique à la recherche de cette mystérieuse légende.
 
-Son périple ne fut pas des plus aisés, au contraire ! Dans ce monde, tout semblait calme et enchanteur au premier abord. Mais, à y regarder de plus près, il était possible de remarquer à quel point les chemins pouvaient être capricieux, joueurs, voire tortueux.
+Ça serait un elfe des bois, né au sein d'un clan de puissants manieurs de magie sylvestre / druidique, plus précisément dans une famille de prodige dont le paternel est l'actuel chef de clan. Pas très bon dans l'art magique, le personnage cherche plus à profiter de la vie en fuyant ses responsabilités et avec un étrange talent pour la bagarre.
+Alors qu'on découvre que son père souffre d'un mal étrange et incurable, le personnage surprend une conversation des anciens qui réfléchisse à l'avenir du clan, notamment qu'ils ne voient pas l'irresponsable qu'il est succéder à son père, surtout avec le/la benjamin/e qui est le nouveau prodige de leur génération.
 
-Vous vouliez grimper un escalier ? Vous pouviez vous retrouver sur les premières marches, comme par magie ! Vous vouliez entrer dans une maison ? Vous pouviez vous retrouver nez à nez avec une falaise, comme par magie ! Ou encore, vous vouliez rejoindre les forêts les plus profondes ? Vous pouviez vous retrouver les pieds dans l'eau… comme par magie !
+Il s'appel Ballar, sa sous-classe c'est la Voie du Cœur Sauvage. Il est impulsif, respectueux de la tradition même s'il ne la suit pas toujours, il cherche pas vraiment la bagarre même ça lui fait clairement pas peur. La tradition fait qu'il se préoccupe de la nature et à pas mal de connaissance sur le sujet. Il est plutôt "Loyal Neutre" mais avec un peu de "True Neutral".
 
-« Comme par magie ! »
 
-Ce sont ces mots que lui avaient répétés ses parents avant que notre jeune haut-elfe ne parte à l'aventure !
+Bon c'est décidé, quelques temps après avoir quitté son clan, mon perso (Ballar) traversé une zone désertique (un peu type toundra) quand il a été surpris par un averse, il s'est réfugié dans une grotte. Il est tombé sur un bébé Ouatl et a eu le réflexe malheureux de lever sa hache, résultat le parent l'a attaqué... Comment c'était la merde (bestiole résistante aux dégâts physiques tout ça), Ballar s'est tiré fissa et est resté traumatisé de cette expérience. Résultat il a une terreur des Ouatl et une aversion pour les serpents.
 
-« Comme par magie ! »
-
-Ces mêmes mots qui l'amenèrent, au détour d'une cascade magique et d'une porte dissimulée et protégée par un arbre bienveillant, au pied de sa destination.
-
-Notre jeune haut-elfe avait une vue imprenable sur le monde entier. Il était si haut, et tout était si beau ! Il avait du mal à savoir s'il rêvait ou non.
-
-Et pourtant, au-dessus de lui se trouvaient ces fameuses créatures.
-
-Il y avait des oiseaux aussi étranges que magnifiques, des licornes ailées, mais surtout… des hiboulins. Il fut surpris d'en voir ici, car ils n'étaient pas si rares et ne vivaient pas aussi reculés en temps normal.
-
-Et si la légende n'était finalement qu'une légende ?
-
-Soudain, il sentit ses pieds légers, son esprit envoûté. Il se mit à… à flotter. À flotter, oui ! Même lui qui vivait dans ce monde savait que c'était étrange.
-
-Jamais il n'avait entendu pareille musique.
-
-Elle était belle, douce, agréable. C'était comme si elle lui caressait la peau et l'enveloppait dans un cocon chaud dont il ne voudrait jamais partir. Levant les yeux, il chercha d'où pouvait venir cette magnifique mélodie.
-
-Là-bas !
-
-Se tenait un petit hiboulin, pas plus grand qu'un halfelin. Ses plumes étaient blanches comme neige, et ses yeux aussi verts que la plus belle des émeraudes. Il jouait de la flûte.
-
-Le spectacle dura de longues minutes. Notre jeune haut-elfe avait les larmes aux yeux. C'était la plus belle chose qu'il avait pu voir, entendre et même vivre depuis sa plus tendre enfance !
-
-Il se voyait déjà raconter et scander à tout le monde que la légende existait bel et bien !
-
-Le petit hiboulin termina sa chanson. Il regarda le jeune haut-elfe et lui tendit la main. Quelque peu désorienté au début, celui-ci comprit et fouilla dans son sac. Il en sortit un magnifique cupcake qu'il avait fait avec amour.
-
-Enfin, magnifique, mais pas vraiment. Le pauvre cupcake avait visiblement subi lui aussi le long et capricieux périple. Fort heureusement, cela ne découragea pas le petit hiboulin qui, en un éclair, le récupéra et retourna sur sa branche pour savourer le délicieux cadeau.
-
-Entre deux bouchées, il jeta un œil vers le bas, vers la forêt, comme s'il guettait quelque chose. Puis il sourit à nouveau.
-
-La petite boule de plumes le remercia en s'inclinant poliment.
-
-— Pourquoi te caches-tu ici, petit hiboulin ?
-
-— Je guide les âmes perdues, jeune haut-elfe.
-
-— Les âmes perdues, dis-tu ?
-
-— Oui. Il m'arrive d'en entendre une trop tard…
-
-Puis, très vite :
-
-— N'étais-tu pas perdu dans la grande forêt ?
-
-Le jeune haut-elfe ne comprit pas. Il n'était pas perdu. Enfin, si, peut-être ?
-
-— Je voulais voir si la légende était vraie. Et regarde, je t'ai trouvé !
-
-— Oh ! Je comprends mieux. Tu penses m'avoir trouvé !
-
-Le petit hiboulin se rapprocha du jeune haut-elfe et glissa quelque chose dans sa poche. Il lui fit signe de ne pas faire de bruit.
-
-— Tiens ! C'est pour toi !
-
-— Pour m…
-
-— Ssshhhh ! Écoute, si un jour tu es de nouveau perdu, je viendrai te donner un cours. En tout cas, merci pour le cupcake !
-
-Puis il claqua des doigts.
-
-Le jeune haut-elfe se retrouva instantanément devant l'endroit où la porte était initialement cachée par l'arbre bienveillant. Ce dernier lui adressa un clin d'œil et l'invita à rejoindre les siens.
-
-Une semaine plus tard, et souhaitant revoir son ami hiboulin, il revint plein d'enthousiasme au même endroit. Mais sans succès. Il n'y avait que la cascade, rien d'autre.
-
-Un mois plus tard, avec plus de cupcakes encore ! Mais toujours rien, sans même la cascade.
-
-Une saison plus tard, il abandonna les cupcakes.
-
-Il réessaya encore et encore, mais il dut se résigner. Tout cela n'avait peut-être été qu'un rêve, pensait-il.
-
-Ou peut-être, tout simplement, qu'il n'était plus assez perdu.
-
-Ses parents le consolèrent, lui disant que tout cela n'était bel et bien qu'une légende après tout ! Eux qui lui avaient tant répété « Comme par magie ! ».
-
-Personne ne le croyait.
-
-Pourtant, il lui suffisait de glisser la main dans sa poche pour savoir que cette légende battait au plus profond de son cœur.
-
-— Quand viendras-tu m'apprendre à jouer de cette flûte petit hiboulin ?
+clan : Faolán
 
 ### lettre
-À l'attention de Murmure, guide des voix égarées**
+**À l'attention de Ballar, fils de la Maison Faolán**
 
-Murmure, tu possède la plume Ferlie, tu as été choisi, et je sollicite aujourd'hui ton aide.
-Les habitants de la Féerie racontent parfois l'histoire d'un jeune hiboulin qui connaît les chemins que les cartes ignorent et qui tend l'oreille aux âmes perdues lorsque plus personne ne les entend. 
+Ballar,
+On m'a parlé de ton peuple. D'un clan dont les membres font fleurir les forêts, parlent aux rivières et plient la magie à leur volonté comme d'autres respirent.
 
-Je suis un vieil homme nommé **Madryck Roslof**. Je ne t'écris pas parce que tu es un combattant. Je ne t'écris pas parce que tu sais manier un arc ou suivre une piste. Je t'écris parce que tu comprends ce que signifie guider quelqu'un dans l'obscurité. 
+On m'a également parlé de toi. Du fils qui n'a jamais lancé les sorts que l'on attendait de lui. Du frère d'un prodige disparu. Du fils d'un chef dont l'état inquiète désormais jusqu'aux confins de la féerie.
 
-Il existe, au-delà de notre monde, un royaume féerique nommé **Prismeer**.
+Je suis un vieil homme, Ballar.
+J'ai vécu suffisamment longtemps pour apprendre une chose :
+les anciens se trompent parfois.
+Ils regardent une graine et décident déjà quel arbre elle devrait devenir. Puis ils s'étonnent lorsqu'elle choisit une autre forme. Je t'écris aujourd'hui parce qu'un royaume est en péril.
 
-J'y ai connu une souveraine sage et bienveillante nommée **Zybilna**. Durant de nombreuses années, elle a protégé des voyageurs, des rêveurs et des êtres qui, sans elle, auraient été perdus. Aujourd'hui, son royaume est plongé dans le silence. Et le silence est rarement bon signe.
-Murmure, Ton nom m'a été transmis il y a longtemps par Zybilna elle-même.
-Lors d'une visite en Féerie, elle rencontra une vieille hibouline nommée Brisaile et son petit-fils.
-Elle prétendit alors avoir aperçu chez ce dernier quelque chose de rare :
-Avant son départ, elle confia à ta grand-mère la plume Ferlie et lui demanda de la conserver jusqu'au jour où son royaume aurait besoin d'aide. Ce jour est arrivé.
+Au-delà de notre monde se trouve un domaine féerique nommé **Prismeer**.
+Sa souveraine, Zybilna, a disparu sans laisser de trace. Son royaume est en péril.
+Et je cherche des êtres capables d'emprunter la route menant jusqu'à elle.
 
-Je sais que tu poursuis toi aussi quelque chose qui se dérobe. Une voix entendue trop tard. 
-Un souvenir que tu refuses d'abandonner. Quelqu'un dont le nom mérite encore d'être prononcé. 
-Je ne prétends pas connaître son destin. Mais je sais une chose à propos de la Féerie : Les chemins y sont étranges. Ce qui est perdu n'y demeure pas toujours perdu.
+À première vue, tu pourrais croire que cette affaire ne te concerne pas.
+Pourtant, certaines informations que j'ai récemment découvertes m'ont convaincu du contraire.
+Au cours de mes recherches, j'ai découvert la mention d'un ancien héritage des Faolán.
+Bien avant que votre clan ne devienne célèbre pour ses grands druides et ses maîtres de la magie sylvestre, certains de ses protecteurs suivaient une voie différente.
+Ils ne commandaient pas aux forces de la nature. Ils les incarnaient.
 
-Dans quelques jours ouvrira le **Carnaval de Sorcelume**. Derrière ses lumières et ses musiques se trouve un passage menant à Prismeer. Je te demande de l'emprunter. Découvre ce qui est arrivé à Zybilna et à son royaume. Je ne demande pas cet effort sans contrepartie. Au cours de mes voyages, j'ai accumulé bien des trésors, mais il en est un qui pourrait davantage t'intéresser que l'or ou les pierres précieuses. Parmi ces objets se trouve un arc ancien provenant de la Féerie. Les légendes racontent qu'il est capable de percer les ténèbres les plus épaisses lorsque celui qui le manie combat pour tenir une promesse. Si tu découvres ce qu'il est advenu de Zybilna, cet arc sera tien.
+Leurs récits parlent de guerriers capables de déchaîner en eux les instincts du monde sauvage, de courir avec les prédateurs et de combattre avec la force des tempêtes.
 
-Je suis trop vieux pour accomplir cette quête. Toi, en revanche, n'as pas encore cessé d'écouter. Si tu acceptes, présente toi au Carnaval à la tombée du jour. Cherche les autres porteurs de cette lettre. Peut-être ensemble sauverez vous un royaume.
+Leur symbole était une vieille hache aujourd'hui disparue. Selon plusieurs textes féeriques, elle ne fut jamais détruite. Elle fut emportée en Prismeer il y a plusieurs siècles. Les rares chroniqueurs qui la mentionnent affirment qu'elle conserve les souvenirs et la sagesse de ceux qui l'ont portée..
+Je ne peux affirmer que ces récits sont véridiques. Mais je sais que ton clan la recherche depuis bien plus longtemps que toi ou moi sommes en vie.
 
-Peut-être retrouveras tu autre chose.
-Car les chemins de Féerie ont parfois l'étrange habitude de mener les voyageurs là où leur cœur souhaitait aller depuis le début.
+Les chemins de Prismeer croisent parfois ceux des objets perdus, des malédictions anciennes, de remèdes... et des voyageurs qui ont disparu en poursuivant un espoir trop grand pour eux.
+
+Je ne te demande pas de devenir quelqu'un d'autre. Je ne te demande pas de devenir un mage. Je ne te demande pas de ressembler à ton frère. Je te demande seulement d'aller là où moi-même je ne peux plus aller.
+
+Si tu découvres ce qu'il est advenu de Zybilna et rapportes la vérité sur son royaume, je partagerai avec toi tout ce que je possède concernant ces légendes de ton peuple. Peut-être y trouveras-tu de quoi sauver ton père. Peut-être y trouveras-tu des réponses concernant ton frère. Peut-être y trouveras-tu quelque chose d'encore plus précieux.
+
+
+Dans quelques jours ouvrira le **Carnaval de Sorcelume**. Derrière ses lumières et ses musiques se trouve un passage menant à Prismeer. Je te demande de l'emprunter. Découvre ce qui est arrivé à Zybilna et à son royaume.
+
+Les anciens de ton peuple voient peut-être un fils incapable d'égaler les dons de sa famille. Moi, je vois autre chose. Je vois un homme qui a reçu les mêmes racines, mais dont les branches ont choisi de pousser dans une autre direction. Les arbres les plus solides ne sont pas toujours ceux qui grandissent le plus droit.
+
 
 **Madryck Roslof**  
 _Dernier serviteur de Zybilna_
