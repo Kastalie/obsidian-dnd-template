@@ -16,7 +16,9 @@ views:
       - 🛠️ Occupation
       - 📍Lieux
       - 🤝 Faction
-    sort: []
+    sort:
+      - property: 🧬 Race
+        direction: ASC
     rowHeight: medium
     columnSize:
       formula.Portrait: 83
