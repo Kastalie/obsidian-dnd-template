@@ -5,18 +5,13 @@ views:
     name: Tableau
     filters:
       and:
-        - file.inFolder("📚 Compendium/🗺️ Lieux")
+        - file.inFolder("📚 Compendium/🗺️ Lieux/Boutiques")
         - '!file.name.contains(".base")'
-        - '!file.inFolder("📚 Compendium/🗺️ Lieux/Boutiques")'
-        - '!file.inFolder("📚 Compendium/🗺️ Lieux/Taverne")'
     order:
-      - formula.Carte
       - file.name
-      - ⭐ Niveau
-      - Description
+      - 👾 Type
       - ✨ Ambiance
       - 👨 Tenancier
-      - 👾 Type
     sort:
       - property: formula.Carte
         direction: DESC

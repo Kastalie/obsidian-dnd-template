@@ -1,12 +1,8 @@
 ---
-👾 Type:
+👾 Type: Armes classiques, armes spécialisées, forge enchantée
+✨ Ambiance: Une grande forge ouverte, chaleur étouffante, sons de marteaux, odeur de métal brûlant. Des armes sont exposées sur des râteliers, certaines encore fumantes.
+👨 Tenancier: Gorvak Gueule-de-Fer, nain au bras mécanique artisanal.
 ---
-
-**Type :** Armes classiques, armes spécialisées, forge enchantée  
-**Ambiance :** Une grande forge ouverte, chaleur étouffante, sons de marteaux, odeur de métal brûlant. Des armes sont exposées sur des râteliers, certaines encore fumantes.
-
-### **Tenanciers**
-
 **Gorvak Gueule-de-Fer**, nain au bras mécanique artisanal.
 
 Il a perdu son bras droit “dans une dispute contre un troll”, et l’a remplacé par un bras forgé.  
