@@ -18,6 +18,8 @@ views:
       - 📍Lieux
       - 🤝 Faction
     sort:
+      - property: file.name
+        direction: DESC
       - property: formula.Portrait
         direction: DESC
       - property: 🧬 Race

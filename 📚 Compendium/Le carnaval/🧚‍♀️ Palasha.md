@@ -1,3 +1,10 @@
+---
+🖼️ Portrait: "[[palasha.png]]"
+🧬 Race: sirène
+📍Lieux: Carnaval
+🛠️ Occupation: Forain
+🎂 Age: 20
+---
 
 
 Palasha, sirène élégante à la voix sublime, agite ses longues nageoires, même hors de l'eau.
