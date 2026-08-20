@@ -8,7 +8,9 @@ Sous-classe: voie du cœur sauvage
 ❤️‍🩹 PV:
 📏 Taille: M
 🖼️ Portrait: "[[ballar.png]]"
+📍Lieux: Bois d'hiver
 ---
+![[Pasted image 20260820100638.png|493]]
 
 | **For** | **Dex** | **Sag** | **Int** | **Con** | **Cha** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
