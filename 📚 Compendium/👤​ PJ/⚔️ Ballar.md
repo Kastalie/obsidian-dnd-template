@@ -103,15 +103,16 @@ _Dernier serviteur de Zybilna_
 - 
 
 ### Clans d'elfes druides
-
+Ballar est allé apprendre auprès du clan Ailbhean
+Les anciens du clan Ailbhean pourraient reconnaître immédiatement la hache de Ballar et comprendre qu'elle appartient aux anciennes **Neuf Haches Primordiales**, forgées avant la séparation des clans druidiques.
 Chaque hache serait liée à un élément naturel :
 
-- Faolán : Plantes et Nuit
-- Ailbhean : Eau et Acier - Forêt de Th
-- Dravenkor : Pierre et Sang
-- Erwyn : Vent et Foudre
-- Caerlann : Feu et Son
-- Corvach : Lumière et Faune
-- Elderglace :  Glace et Mort
-- Draiocht : Esprit et Poison
+- Faolán : Plantes et Nuit -Bois d'hiver -  Emeraude
+- Ailbhean : Eau et Acier - Forêt de Thetir - Saphir
+- Dravenkor : Pierre et Sang - Rubis
+- Erwyn : Vent et Foudre - Topaze
+- Caerlann : Feu et Son - Ambre
+- Corvach : Lumière et Faune - Citrine
+- Elderglace :  Glace et Mort - diamant
+- Draiocht : Esprit et Poison - améthyste
 
