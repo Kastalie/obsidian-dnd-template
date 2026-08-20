@@ -10,9 +10,10 @@ Sous-classe: Vagabond féérique
 🖼️ Portrait:
 ---
 Murmure est originaire de la cour d'été,
-En règle générale, la Cour de l’été représente ce que les gens voient comme le côté bienveillant des Fées. Les créatures de cette Cour sont généralement considérées comme plus polies ou maniérées, toutefois attention : elles sont encore bien capables de cruauté (mais ce sera plus en catimini, ou avec subtilité, que les oeuvres de la Cour d'Hiver). La Cour d’été a libre cours au solstice d’été et après les mois de l’équinoxe de printemps, elle est la plus forte durant cette période. Titania la reeinde d'Ete règne sur cette cour, tout en étendant son pouvoir sur les Fées du printemps.
+En règle générale, la Cour de l’été représente ce que les gens voient comme le côté bienveillant des Fées. Les créatures de cette Cour sont généralement considérées comme plus polies ou maniérées, toutefois attention : elles sont encore bien capables de cruauté (mais ce sera plus en catimini, ou avec subtilité, que les oeuvres de la Cour d'Hiver). La Cour d’été a libre cours au solstice d’été et après les mois de l’équinoxe de printemps, elle est la plus forte durant cette période. Titania la reine d'Ete règne sur cette cour, tout en étendant son pouvoir sur les Fées du printemps.
 La Cour d’été et la Cour de printemps sont étroitement liées, et forment la Cour Seelie. La Cour de l’hiver et la cour d'automne sont étroitement liées et constituent la cour Unseelie. En réalité, les noms de Fée "Seelie" ou "Unseelie" viennent des interprétations humaines. Les Fées se présentent toujours comme venant d'une cour saisonnière, jamais comme Fée "bonne" ou "mauvaise" ; seulement, les gens ont tendance à les distinguer sur ce critère.
-Murmure vient de la plus haute des plus grande forêt
+Murmure vient de la plus haute des plus grande forêt de cette cour, il n'a que très peu été en contact avec les membres de la cour qui ne viennent pas de son village mais connait de vue un certain Messire Talavar. Talavar est un dragon féerique serviteur de la reine Titania. Il parcourt le domaine pour veiller à la sécurité des habitants contre l'ennemi de toujours : les fomoriens.
+![[talavar.png]]
 
 | **For** | **Dex** | **Sag** | **Int** | **Con** | **Cha** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
