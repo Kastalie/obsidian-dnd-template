@@ -106,11 +106,12 @@ _Dernier serviteur de Zybilna_
 
 Chaque hache serait liée à un élément naturel :
 
-- Faolán : Plantes et nuit
-- Ailbhean : Eau et 
+- Faolán : Plantes et Nuit
+- Ailbhean : Eau et Acier - Forêt de Th
 - Dravenkor : Pierre et Sang
 - Erwyn : Vent et Foudre
-- Caerlann : Feu
-- Corvach : Lumière et faune
-- Elderglace :  Glace 
+- Caerlann : Feu et Son
+- Corvach : Lumière et Faune
+- Elderglace :  Glace et Mort
+- Draiocht : Esprit et Poison
 
