@@ -9,6 +9,7 @@ Sous-classe: Vagabond féérique
 📏 Taille: P
 🖼️ Portrait:
 ---
+Murmure est orginaire 
 
 | **For** | **Dex** | **Sag** | **Int** | **Con** | **Cha** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
