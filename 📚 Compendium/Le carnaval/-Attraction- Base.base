@@ -11,12 +11,6 @@ views:
     order:
       - formula.Portrait
       - file.name
-      - 🧬 Race
-      - 🎂 Age
-      - ❤️ État
-      - 🛠️ Occupation
-      - 📍Lieux
-      - 🤝 Faction
     sort:
       - property: formula.Portrait
         direction: DESC
@@ -25,6 +19,6 @@ views:
     rowHeight: tall
     columnSize:
       formula.Portrait: 83
-      file.name: 99
+      file.name: 342
       note.🎂 Age: 73
       note.🛠️ Occupation: 120
