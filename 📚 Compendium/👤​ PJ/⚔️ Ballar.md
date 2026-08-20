@@ -3,11 +3,11 @@
 Sous-classe: voie du cœur sauvage
 🧬 Race: elfe des bois
 ⭐ Niveau: 3
-🎂 Age:
+🎂 Age: 20
 🛡️ CA:
 ❤️‍🩹 PV:
 📏 Taille: M
-🖼️ Portrait:
+🖼️ Portrait: "[[ballar.png]]"
 ---
 
 | **For** | **Dex** | **Sag** | **Int** | **Con** | **Cha** |

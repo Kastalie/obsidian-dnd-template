@@ -8,6 +8,7 @@ views:
         - file.inFolder("📚 Compendium/👤​ PJ")
         - '!file.name.contains(".base")'
     order:
+      - formula.Portrait
       - file.name
       - ⚔️ Classe
       - 🧬 Race
