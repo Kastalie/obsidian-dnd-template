@@ -102,5 +102,15 @@ _Dernier serviteur de Zybilna_
 - 
 - 
 
-Clans d'elfes druides
+### Clans d'elfes druides
+
+Chaque hache serait liée à un élément naturel :
+
+- Faolán : Plantes et nuit
+- Ailbhean : Eau et 
+- Dravenkor : Pierre et Sang
+- Erwyn : Vent et Foudre
+- Caerlann : Feu
+- Corvach : Lumière et faune
+- Elderglace :  Glace 
 
