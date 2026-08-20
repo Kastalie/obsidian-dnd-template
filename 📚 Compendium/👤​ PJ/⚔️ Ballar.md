@@ -36,6 +36,7 @@ Cadet de la famille :
 Grand frère parti a l'aventure, n'est toujours pas revenu. est partit dans un premier temps pour explorer le monde avant de commencer une quête de pouvoir. La quête de pouvoir pourrait avoir un lien avec la mal du père (une malédiction par exemple) et du coup elle a choisie de rester en exil estimant avoir causé trop de dégâts.
 Benjamin super talentueux
 et lui part a la recherche de son frère
+Les sœurs de Ballar: Qina (l'ainée), Dara (la benjamine)
 
 
 Ça serait un elfe des bois, né au sein d'un clan de puissants manieurs de magie sylvestre / druidique, plus précisément dans une famille de prodige dont le paternel est l'actuel chef de clan. Pas très bon dans l'art magique, le personnage cherche plus à profiter de la vie en fuyant ses responsabilités et avec un étrange talent pour la bagarre.
@@ -47,6 +48,8 @@ Il s'appel Ballar, sa sous-classe c'est la Voie du Cœur Sauvage. Il est impulsi
 Bon c'est décidé, quelques temps après avoir quitté son clan, mon perso (Ballar) traversé une zone désertique (un peu type toundra) quand il a été surpris par un averse, il s'est réfugié dans une grotte. Il est tombé sur un bébé Ouatl et a eu le réflexe malheureux de lever sa hache, résultat le parent l'a attaqué... Comment c'était la merde (bestiole résistante aux dégâts physiques tout ça), Ballar s'est tiré fissa et est resté traumatisé de cette expérience. Résultat il a une terreur des Ouatl et une aversion pour les serpents.
 
 clan : Faolán
+magie : plante et nuit
+![[clan faolan.jpg]]
 
 ### lettre
 **À l'attention de Ballar, fils de la Maison Faolán**
