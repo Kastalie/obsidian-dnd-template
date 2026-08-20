@@ -109,10 +109,10 @@ Chaque hache serait liée à un élément naturel :
 
 - Faolán : Plantes et Nuit -Bois d'hiver -  Emeraude
 - Ailbhean : Eau et Acier - Forêt de Thetir - Saphir
-- Dravenkor : Pierre et Sang - Rubis
+- Dravenkor : Faune et Sang - Rubis
 - Erwyn : Vent et Foudre - Topaze
 - Caerlann : Feu et Son - Ambre
-- Corvach : Lumière et Faune - Citrine
+- Corvach : Lumière et Pierre - Citrine
 - Elderglace :  Glace et Mort - diamant
 - Draiocht : Esprit et Poison - améthyste
 
