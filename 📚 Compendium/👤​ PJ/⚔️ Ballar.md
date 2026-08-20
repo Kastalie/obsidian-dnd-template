@@ -10,7 +10,7 @@ Sous-classe: voie du cœur sauvage
 🖼️ Portrait: "[[ballar.png]]"
 📍Lieux: Bois d'hiver
 ---
-![[Pasted image 20260820100638.png|493]]
+![[ballar lieu de vie.png|493]]
 
 | **For** | **Dex** | **Sag** | **Int** | **Con** | **Cha** |
 | ------- | ------- | ------- | ------- | ------- | ------- |

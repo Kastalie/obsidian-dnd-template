@@ -1,3 +1,4 @@
+![[scornubel.png|433]]
 
 <font color="#c00000">- 1e heure : Cadeaux de bienvenue. De menus présents sont offerts à quelques chanceux.</font>
 <font color="#1f497d">Un arbre ambulant haut de plus de trois mètres cinquante, enrubanné d'or, s'avance dans l'avenue principale. Des nuages émeraude tournoient autour du grand végétal, faisant pleuvoir des graines dorées de sycomore. Les festivaliers se ruent pour attraper les graines avant qu'elles touchent le sol. Tandis que cette semence tombe en flottant, un écureuil bavard gambade dans les rameaux de</font>
