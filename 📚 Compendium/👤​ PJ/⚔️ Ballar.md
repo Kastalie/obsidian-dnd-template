@@ -116,6 +116,6 @@ Chaque hache serait liée à un élément naturel :
 - Elderglace :  Glace et Mort - diamant
 - Draiocht : Esprit et Poison - améthyste
 
-
+### Fiche infos
 ![[Pasted image 20260821103722.png]]
 ![[Pasted image 20260821103737.png|601]]
