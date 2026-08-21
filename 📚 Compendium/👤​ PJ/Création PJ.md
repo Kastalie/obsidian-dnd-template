@@ -4,10 +4,8 @@
 
 
 # Fiche Joueur - Préparation de Campagne
-
 _Merci de prendre quelques minutes pour remplir cette fiche. Elle m'aidera à préparer une campagne qui corresponde aux envies de chacun tout en garantissant une expérience agréable pour tous._
 # Ce que j'aimerais trouver dans cette campagne
-
 Pour chaque élément, note de **1 (peu important)** à **5 (très important)**.
 
 | Élément                        | Note           |
@@ -25,21 +23,17 @@ Pour chaque élément, note de **1 (peu important)** à **5 (très important)**.
 | Gestion de ressources / survie | ☐1 ☐2 ☐3 ☐4 ☐5 |
 | Développement du personnage    | ☐1 ☐2 ☐3 ☐4 ☐5 |
 # Progression
-
 **Quelle vitesse de montée en niveau préfères-tu ?**
 
 
 **Niveau maximum que tu aimerais atteindre (ou niveau a partir duquel tu serais satisfait)?**
 
 # Limites et sujets sensibles
-
 Y a-t-il des sujets que tu ne souhaites pas voir apparaître dans la campagne ?
 D'éventuelles phobies ?
 
 # Joueur ≠ Personnage
-
 ### Petit rappel important
-
 Un personnage peut :
 - mentir ;
 - avoir des préjugés ;
@@ -67,17 +61,25 @@ Es-tu à l'aise avec :
 |Romance entre PJ|☐|☐|☐|
 |Conflits verbaux entre PJ|☐|☐|☐|
 # Ce que tu attends du groupe
-
 Coche les affirmations qui te correspondent :
 ☐ Je préfère une campagne sérieuse.
 ☐ Je préfère une campagne légère.
 ☐ J'aime les blagues mais sans casser l'immersion.
-☐ Je suis prêt à partager la scène avec les autres.
 ☐ J'aime prendre les décisions importantes.
 ☐ J'aime suivre le groupe.
 ☐ J'apprécie quand mon passé influence l'histoire.
 ☐ J'aime avoir des objectifs personnels.
 
+# Charte du groupe
+Nous nous engageons à :
+- Respecter les autres joueurs.
+- Nous écouter.
+- Accepter les erreurs et les oublis de chacun.
+- Prévenir en cas d'absence.
+- Signaler si quelque chose nous met mal à l'aise.
+- Favoriser l'amusement collectif plutôt que la victoire individuelle.
+
+Y-a-t il autre chose que tu souhaites transmettre ?
 
 1. Vous avez déjà croisé Zybilna
 Lors de votre enfance, une femme aux longs cheveux blancs est apparue à un moment crucial de votre vie :
