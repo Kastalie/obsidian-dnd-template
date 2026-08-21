@@ -52,6 +52,7 @@ Bon c'est décidé, quelques temps après avoir quitté son clan, mon perso (Bal
 clan : Faolán
 magie : plante et nuit
 ![[clan faolan.jpg]]
+![[Qina.png|558]]
 
 ### lettre
 **À l'attention de Ballar, fils de la Maison Faolán**

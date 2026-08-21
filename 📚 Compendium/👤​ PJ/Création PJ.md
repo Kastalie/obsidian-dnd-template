@@ -5,7 +5,7 @@
 
 # Fiche Joueur - Préparation de Campagne
 _Merci de prendre quelques minutes pour remplir cette fiche. Elle m'aidera à préparer une campagne qui corresponde aux envies de chacun tout en garantissant une expérience agréable pour tous._
-# Ce que j'aimerais trouver dans cette campagne
+## Ce que j'aimerais trouver dans cette campagne
 Pour chaque élément, note de **1 (peu important)** à **5 (très important)**.
 
 | Élément                        | Note           |
@@ -22,17 +22,17 @@ Pour chaque élément, note de **1 (peu important)** à **5 (très important)**.
 | Loot et objets magiques        | ☐1 ☐2 ☐3 ☐4 ☐5 |
 | Gestion de ressources / survie | ☐1 ☐2 ☐3 ☐4 ☐5 |
 | Développement du personnage    | ☐1 ☐2 ☐3 ☐4 ☐5 |
-# Progression
+## Progression
 **Quelle vitesse de montée en niveau préfères-tu ?**
 
 
 **Niveau maximum que tu aimerais atteindre (ou niveau a partir duquel tu serais satisfait)?**
 
-# Limites et sujets sensibles
+## Limites et sujets sensibles
 Y a-t-il des sujets que tu ne souhaites pas voir apparaître dans la campagne ?
 D'éventuelles phobies ?
 
-# Joueur ≠ Personnage
+## Joueur ≠ Personnage
 ### Petit rappel important
 Un personnage peut :
 - mentir ;
@@ -52,15 +52,15 @@ Cela dit certaines situations entre personnage peuvent mettre mal à l'aise les 
 
 Es-tu à l'aise avec :
 
-|Situation|Oui|Non|À discuter|
-|---|---|---|---|
-|Rivalités entre PJ|☐|☐|☐|
-|Secrets entre PJ|☐|☐|☐|
-|Vol entre PJ|☐|☐|☐|
-|Mensonges entre PJ|☐|☐|☐|
-|Romance entre PJ|☐|☐|☐|
-|Conflits verbaux entre PJ|☐|☐|☐|
-# Ce que tu attends du groupe
+| Situation                 | Oui | Non | À discuter |
+| ------------------------- | --- | --- | ---------- |
+| Rivalités entre PJ        | ☐   | ☐   | ☐          |
+| Secrets entre PJ          | ☐   | ☐   | ☐          |
+| Vol entre PJ              | ☐   | ☐   | ☐          |
+| Mensonges entre PJ        | ☐   | ☐   | ☐          |
+| Romance entre PJ          | ☐   | ☐   | ☐          |
+| Conflits verbaux entre PJ | ☐   | ☐   | ☐          |
+## Ce que tu attends du groupe
 Coche les affirmations qui te correspondent :
 ☐ Je préfère une campagne sérieuse.
 ☐ Je préfère une campagne légère.
@@ -70,7 +70,7 @@ Coche les affirmations qui te correspondent :
 ☐ J'apprécie quand mon passé influence l'histoire.
 ☐ J'aime avoir des objectifs personnels.
 
-# Charte du groupe
+## Charte du groupe
 Nous nous engageons à :
 - Respecter les autres joueurs.
 - Nous écouter.
@@ -81,6 +81,7 @@ Nous nous engageons à :
 
 Y-a-t il autre chose que tu souhaites transmettre ?
 
+# perso
 1. Vous avez déjà croisé Zybilna
 Lors de votre enfance, une femme aux longs cheveux blancs est apparue à un moment crucial de votre vie :
 - elle vous a retrouvé après que vous vous soyez perdu ;
