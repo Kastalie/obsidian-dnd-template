@@ -47,16 +47,36 @@ Un personnage peut :
 - être colérique ;
 - prendre de mauvaises décisions.
 
-Cela ne signifie pas que **moi, joueur**, je pense ou souhaite réellement ces choses.
-
+Cela ne signifie pas que **le joueur**, pense ou souhaite réellement ces choses.
 De la même façon :
-
 - Une critique adressée à un personnage n'est pas une critique du joueur.
 - Une dispute entre personnages n'est pas une dispute entre joueurs.
 - Un échec en jeu n'est pas un échec personnel.
 - Nous sommes tous là pour raconter une histoire ensemble et passer un bon moment.
 
+Cela dit certaines situations entre personnage peuvent mettre mal à l'aise les joueurs et rendre l'expérience moins agréable pour certains.
 
+Es-tu à l'aise avec :
+
+|Situation|Oui|Non|À discuter|
+|---|---|---|---|
+|Rivalités entre PJ|☐|☐|☐|
+|Secrets entre PJ|☐|☐|☐|
+|Vol entre PJ|☐|☐|☐|
+|Mensonges entre PJ|☐|☐|☐|
+|Romance entre PJ|☐|☐|☐|
+|Conflits verbaux entre PJ|☐|☐|☐|
+# Ce que tu attends du groupe
+
+Coche les affirmations qui te correspondent :
+☐ Je préfère une campagne sérieuse.
+☐ Je préfère une campagne légère.
+☐ J'aime les blagues mais sans casser l'immersion.
+☐ Je suis prêt à partager la scène avec les autres.
+☐ J'aime prendre les décisions importantes.
+☐ J'aime suivre le groupe.
+☐ J'apprécie quand mon passé influence l'histoire.
+☐ J'aime avoir des objectifs personnels.
 
 
 1. Vous avez déjà croisé Zybilna
