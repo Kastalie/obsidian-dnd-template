@@ -65,3 +65,21 @@ Sort niveau 1 :
 - catapulte
 - identification
 - soins
+
+
+Peurs :
+- Oublier sa famille, ses proches, ne pas être la pour eux si ils en ont besoin. Elle a hâte de découvrir le monde mais s'en voudrait beaucoup si il arrivait quelque chose à ses frères et sœurs en son absence.
+- Provoquer un accident, faire du mal à un ami avec une invention.
+- Peur des créatures mort-vivantes telles que les vampires. Elle trouve cela contre nature et malsain.
+
+Rêves :
+- Aider son ami à vaincre sa malédiction
+- Devenir un modèle et rendre sa famille fière en maitrisant les artifices et la magie.
+
+Personnes importantes :
+- Elle ne peut pas choisir parmi ces 5 frères et sœurs mais elle est la plus proche de Venlie. Elles ont peu de différences d'âge et c'est à elle qu'elle se confie.
+- Son père (sa mère aussi), mais elle a toujours admiré son père : son talent pour le spectacle, le bricolage, cet art de toujours réparer les choses, de rendre tout le monde heureux et voir le positif à chaque situation.
+- Son frère de cœur, Garath, avec qui elle a partagé tant d'années et d'aventure.
+
+Accomplissement :
+À seulement quinze ans, elle a conçu seule un nouveau mécanisme pour le spectacle familial en vadrouille dans un village Goliath. Grâce à un système de poulies cachées, de contrepoids et de lumières colorées, les marionnettes semblaient réellement voler parmi les étoiles. Le public en a parlé pendant des mois.
