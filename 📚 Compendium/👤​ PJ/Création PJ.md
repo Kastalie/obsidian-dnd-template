@@ -3,7 +3,60 @@
 - 2-3 objets magiques qu'il aimerait acquérir  [[🧚‍♀️ Madryck Roslof]]
 
 
-Avant de commencer
+# Fiche Joueur - Préparation de Campagne
+
+_Merci de prendre quelques minutes pour remplir cette fiche. Elle m'aidera à préparer une campagne qui corresponde aux envies de chacun tout en garantissant une expérience agréable pour tous._
+# Ce que j'aimerais trouver dans cette campagne
+
+Pour chaque élément, note de **1 (peu important)** à **5 (très important)**.
+
+| Élément                        | Note           |
+| ------------------------------ | -------------- |
+| Combats tactiques              | ☐1 ☐2 ☐3 ☐4 ☐5 |
+| RP / interprétation            | ☐1 ☐2 ☐3 ☐4 ☐5 |
+| Exploration                    | ☐1 ☐2 ☐3 ☐4 ☐5 |
+| Enquêtes / mystères            | ☐1 ☐2 ☐3 ☐4 ☐5 |
+| Intrigues politiques           | ☐1 ☐2 ☐3 ☐4 ☐5 |
+| Relations entre personnages    | ☐1 ☐2 ☐3 ☐4 ☐5 |
+| Humour                         | ☐1 ☐2 ☐3 ☐4 ☐5 |
+| Moments épiques / héroïques    | ☐1 ☐2 ☐3 ☐4 ☐5 |
+| Tension                        | ☐1 ☐2 ☐3 ☐4 ☐5 |
+| Loot et objets magiques        | ☐1 ☐2 ☐3 ☐4 ☐5 |
+| Gestion de ressources / survie | ☐1 ☐2 ☐3 ☐4 ☐5 |
+| Développement du personnage    | ☐1 ☐2 ☐3 ☐4 ☐5 |
+# Progression
+
+**Quelle vitesse de montée en niveau préfères-tu ?**
+
+
+**Niveau maximum que tu aimerais atteindre (ou niveau a partir duquel tu serais satisfait)?**
+
+# Limites et sujets sensibles
+
+Y a-t-il des sujets que tu ne souhaites pas voir apparaître dans la campagne ?
+D'éventuelles phobies ?
+
+# Joueur ≠ Personnage
+
+### Petit rappel important
+
+Un personnage peut :
+- mentir ;
+- avoir des préjugés ;
+- faire des erreurs ;
+- être colérique ;
+- prendre de mauvaises décisions.
+
+Cela ne signifie pas que **moi, joueur**, je pense ou souhaite réellement ces choses.
+
+De la même façon :
+
+- Une critique adressée à un personnage n'est pas une critique du joueur.
+- Une dispute entre personnages n'est pas une dispute entre joueurs.
+- Un échec en jeu n'est pas un échec personnel.
+- Nous sommes tous là pour raconter une histoire ensemble et passer un bon moment.
+
+
 
 
 1. Vous avez déjà croisé Zybilna
