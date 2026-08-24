@@ -3436,6 +3436,215 @@
         "reactions": [],
         "legendary_actions": []
       }
+    ],
+    [
+      "Flumph",
+      {
+        "name": "Flumph",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Petite",
+        "type": "aberration",
+        "subtype": "",
+        "alignment": "loyal bon",
+        "ac": 12,
+        "hp": 7,
+        "hit_dice": "2d6",
+        "speed": "1,50 m, vol 9 m",
+        "stats": [
+          6,
+          15,
+          10,
+          14,
+          14,
+          11
+        ],
+        "skillsaves": [
+          {
+            "arcanes": 4
+          },
+          {
+            "histoire": 4
+          },
+          {
+            "religion": 4
+          }
+        ],
+        "damage_vulnerabilities": "psychique",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "vision dans le noir 18 m, Perception passive 12",
+        "languages": "comprend le commun des profondeurs mais ne peut pas parler, télépathie 18 m",
+        "cr": "1/8",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Télépathie avancée",
+            "desc": "Le flumph peut percevoir la teneur de toute communication télépathique établie dans un rayon de 18 mètres autour de lui et ne peut pas être surpris par des créatures possédant une quelconque forme de télépathie."
+          },
+          {
+            "name": "Handicap à terre",
+            "desc": "Si le flumph est à terre, lancez un d8. Sur un résultat impair, le flumph se retrouve à l'envers et est incapable d'agir. À la fin de chacun de ses tours, le flumph peut effectuer un jet de sauvegarde de Dextérité DD 10 pour se redresser."
+          },
+          {
+            "name": "Voile télépathique",
+            "desc": "Le flumph est immunisé contre tout effet qui pourrait percevoir ses émotions ou lire ses pensées ainsi qu'à tous les sorts de divination."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Vrilles",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature. Touché : 4 (1d4 + 2) dégâts perforants plus 2 (1d4) dégâts d'acide. La cible effectue un jet de sauvegarde de Constitution DD 10. En cas d'échec, elle subit encore 2 (1d4) dégâts d'acide au début de chacun de ses tours jusqu'à ce qu'un sort de restauration partielle lui soit lancé.",
+            "attack_bonus": 4
+          },
+          {
+            "name": "Vaporisation nauséabonde (1/jour)",
+            "desc": "Chaque créature dans un cône de 4,50 m devant le flumph doit réussir un jet de sauvegarde de Dextérité DD 10 ou être recouverte d'un liquide répugnant. Pendant 1d4 heures, la créature dégage une odeur infecte. Tant que cette odeur persiste, les autres créatures dans un rayon de 1,50 m sont empoisonnées."
+          }
+        ]
+      }
+    ],
+    [
+      "Lorgneur",
+      {
+        "name": "Lorgneur",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Petite",
+        "type": "aberration",
+        "subtype": "",
+        "alignment": "neutre mauvais",
+        "ac": 13,
+        "hp": 13,
+        "hit_dice": "3d4 + 6",
+        "speed": "0 m, vol 9 m (stationnaire)",
+        "stats": [
+          3,
+          17,
+          14,
+          3,
+          10,
+          7
+        ],
+        "saves": [
+          {
+            "sagesse": 2
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 4
+          },
+          {
+            "discrétion": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "à terre",
+        "senses": "vision dans le noir 18 m, Perception passive 14",
+        "languages": "",
+        "cr": "1/2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Agressif",
+            "desc": "Par une action bonus, le lorgneur peut se déplacer à sa vitesse vers une créature hostile qu'il peut voir."
+          },
+          {
+            "name": "Imitation",
+            "desc": "Le lorgneur peut reproduire des sons et des voix simples qu'il a entendus. Une créature qui entend ces sons peut déterminer qu'il s'agit d'une imitation avec un test de Sagesse (Intuition) DD 10."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 1 dégât perforant.",
+            "attack_bonus": 5,
+            "damage_bonus": 1
+          },
+          {
+            "name": "Rayons oculaires",
+            "desc": "Le lorgneur tire aléatoirement deux rayons sur une ou deux cibles visibles dans un rayon de 18 m."
+          },
+          {
+            "name": "Rayon étourdissant",
+            "desc": "La cible doit réussir un jet de sauvegarde de Sagesse DD 12 ou être charmée jusqu'au début du prochain tour du lorgneur. Tant qu'elle est charmée de cette manière, sa vitesse est réduite de moitié et elle est désavantagée à ses jets d'attaque."
+          },
+          {
+            "name": "Rayon de la peur",
+            "desc": "La créature cible doit réussir un jet de sauvegarde de Sagesse DD 12 ou être effrayée jusqu'au début du prochain tour du lorgneur."
+          },
+          {
+            "name": "Rayon de givre",
+            "desc": "La créature cible doit réussir un jet de sauvegarde de Dextérité DD 12 ou subir 10 (3d6) dégâts de froid."
+          },
+          {
+            "name": "Rayon télékinésique",
+            "desc": "Si la cible est une créature de taille M ou inférieure, elle doit réussir un jet de sauvegarde de Force DD 12. En cas d'échec, elle est déplacée jusqu'à 9 m dans une direction choisie. Un objet de 5 kg ou moins peut également être déplacé ou manipulé."
+          }
+        ]
+      }
+    ],
+    [
+      "Clown de carnaval",
+      {
+        "name": "Clown de carnaval",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "artificiel",
+        "subtype": "",
+        "alignment": "chaotique mauvais",
+        "ac": 11,
+        "hp": 36,
+        "hit_dice": "8d8",
+        "speed": "9 m",
+        "stats": [
+          11,
+          13,
+          11,
+          10,
+          10,
+          13
+        ],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "contondants, perforants et tranchants des attaques non magiques",
+        "damage_immunities": "",
+        "condition_immunities": "charmé, effrayé, épuisement",
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "languages": "comprend le commun mais peut seulement ricaner",
+        "cr": "1",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Être singulier",
+            "desc": "Le clown de carnaval se passe d'air, de nourriture, de boisson et de sommeil."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le clown effectue deux attaques avec ses griffes.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Fausse masse '100 tonnes'",
+            "desc": "Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 8 (2d4 + 1) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Sagesse DD 11 ou être effrayée jusqu'à la fin du prochain tour du clown.",
+            "attack_bonus": 3,
+            "damage_dice": "2d4",
+            "damage_bonus": 1
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Rire contagieux",
+            "desc": "Le clown peut forcer jusqu'à deux créatures qu'il voit dans un rayon de 10 m à faire un jet de sauvegarde de Sagesse DD 11 si le clown n'est pas neutralisé. En cas d'échec, la créature tombe à terre, devient neutralisée et incapable de se relever pour la durée de la crise de rire, jusqu'au début du prochain tour du clown."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {
