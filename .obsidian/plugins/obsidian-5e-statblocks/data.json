@@ -843,6 +843,654 @@
         ],
         "legendary_actions": []
       }
+    ],
+    [
+      "Endelyne Tombelune",
+      {
+        "name": "Endelyne Tombelune",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "fée",
+        "subtype": "guenaude",
+        "alignment": "neutre mauvais",
+        "ac": 17,
+        "hp": 114,
+        "hit_dice": "12d8 + 60",
+        "speed": "9 m, escalade 9 m",
+        "stats": [
+          20,
+          13,
+          20,
+          13,
+          10,
+          17
+        ],
+        "saves": [
+          {
+            "constitution": 8
+          },
+          {
+            "intelligence": 4
+          },
+          {
+            "wisdom": 3
+          },
+          {
+            "charisma": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "arcanes": 7
+          },
+          {
+            "discrétion": 4
+          },
+          {
+            "perception": 3
+          },
+          {
+            "tromperie": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "vision lucide 18 m, Perception passive 13",
+        "languages": "commun, elfique, sylvestre",
+        "cr": "6",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Destin éclipsé",
+            "desc": "Endelyne ne peut être tuée que si elle est réduite à 0 point de vie lors d'une éclipse solaire ou tandis qu'elle se trouve dans un rayon de 18 m d'une représentation symbolique d'éclipse. Dans le cas contraire, Endelyne disparaît dans un nuage de fumée noire lorsqu'elle tombe à 0 point de vie, avec tout ce qu'elle portait, et réapparaît 24 heures plus tard au même endroit ou dans l'espace inoccupé le plus proche.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Faveur d'immortalité",
+            "desc": "Endelyne est immunisée contre tout effet censé la faire vieillir et elle ne peut mourir de vieillesse.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Vigilance instinctive",
+            "desc": "Endelyne ne peut pas être surprise.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Endelyne effectue deux attaques de Flagellation de marionnettiste.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Flagellation de marionnettiste",
+            "desc": "Attaque de sort au corps à corps ou à distance : +6 pour toucher, allonge 1,50 m ou portée 18 m, une créature. Touché : 17 (4d6 + 3) dégâts psychiques et, si la cible est une créature de taille G ou inférieure, Endelyne la fait pivoter par télékinésie d'un maximum de 3 m dans la direction de son choix.",
+            "attack_bonus": 6,
+            "damage_dice": "4d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Incantation",
+            "desc": "Endelyne lance l'un des sorts suivants sans composante matérielle, le Charisme étant sa caractéristique d'incantation (DD 14).\n\nÀ volonté : détection de la magie, main du mage.\n\n2/jour chacun : augure, métamorphose.\n\n1/jour : changement de plan (sur elle-même uniquement).",
+            "attack_bonus": 0
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Skabatha Belladone",
+      {
+        "name": "Skabatha Belladone",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "fée",
+        "subtype": "guenaude",
+        "alignment": "neutre mauvais",
+        "ac": 16,
+        "hp": 150,
+        "hit_dice": "20d8 + 60",
+        "speed": "9 m",
+        "stats": [
+          18,
+          9,
+          16,
+          12,
+          16,
+          15
+        ],
+        "saves": [
+          {
+            "constitution": 6
+          },
+          {
+            "intelligence": 4
+          },
+          {
+            "wisdom": 6
+          },
+          {
+            "charisma": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "arcanes": 7
+          },
+          {
+            "discrétion": 2
+          },
+          {
+            "perception": 6
+          },
+          {
+            "tromperie": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "vision lucide 18 m, Perception passive 16",
+        "languages": "commun, elfique, infernal, sylvestre",
+        "cr": "8",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Faveur d'immortalité",
+            "desc": "Skabatha est immunisée contre tout effet censé la faire vieillir et elle ne peut mourir de vieillesse.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Trou de mémoire",
+            "desc": "La première créature que Skabatha voit après avoir terminé un repos long lui est invisible. Elle n'a pas souvenir d'avoir vu cette créature ou de l'avoir perçue au moyen de sa vision lucide jusqu'à la fin de son prochain repos long.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Skabatha effectue deux attaques de Griffe.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Griffe",
+            "desc": "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une créature. Touché : 25 (6d6 + 4) dégâts de poison.",
+            "attack_bonus": 7,
+            "damage_dice": "6d6",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Incantation",
+            "desc": "Skabatha lance l'un des sorts suivants, sans la moindre composante matérielle, la Sagesse étant sa caractéristique d'incantation (DD de sauvegarde des sorts 14).\n\nÀ volonté : détection de la magie, druidisme, communication avec les animaux.\n\n2/jour chacun : communication avec les plantes, délivrance des malédictions, métamorphose.\n\n1/jour chacun : éveil (au prix d'une action), changement de plan (sur elle-même uniquement).",
+            "attack_bonus": 0
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Modification de taille",
+            "desc": "Skabatha se rétrécit magiquement à la taille TP (entre 10 et 20 cm de haut) ou retrouve sa taille normale. Si Skabatha manque d'espace pour retrouver sa taille normale, elle atteint la taille maximale possible dans l'espace disponible. Tout ce qu'elle porte change de taille avec elle."
+          },
+          {
+            "name": "Forme minuscule",
+            "desc": "Tant qu'elle est de taille TP, Skabatha inflige 2 (1d4) dégâts de poison lorsqu'elle touche avec une attaque de Griffe. Elle est avantagée aux tests de Dextérité (Discrétion) et désavantagée aux tests de Force et jets de sauvegarde de Force. Son profil est inchangé par ailleurs."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Affreduche",
+      {
+        "name": "Affreduche",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "humain",
+        "alignment": "chaotique mauvais",
+        "ac": 17,
+        "hp": 78,
+        "hit_dice": "12d8 + 24",
+        "speed": "9 m",
+        "stats": [
+          16,
+          11,
+          14,
+          9,
+          11,
+          11
+        ],
+        "saves": [
+          {
+            "strength": 6
+          },
+          {
+            "constitution": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "athlétisme": 6
+          },
+          {
+            "intimidation": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Perception passive 10",
+        "languages": "commun",
+        "cr": "5",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Équipement spécial",
+            "desc": "Affreduche porte un heaume effrayant et une épée longue ardente.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Affreduche effectue trois attaques de Dague ou d'Épée ardente.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps à corps ou à distance : +6 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants.",
+            "attack_bonus": 6,
+            "damage_dice": "1d4",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Épée ardente",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts tranchants, ou 8 (1d10 + 3) dégâts tranchants si utilisée à deux mains, plus 7 (2d6) dégâts de feu si l'épée est enflammée.",
+            "attack_bonus": 6,
+            "damage_dice": "1d8",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Lame enflammée",
+            "desc": "Affreduche embrase ou éteint son épée longue ardente. Tant qu'elle est enflammée, elle projette une lumière vive sur un rayon de 12 m et une lumière faible sur 12 m de plus."
+          },
+          {
+            "name": "Second souffle (1/repos court ou long)",
+            "desc": "Affreduche récupère 13 points de vie."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Kelek",
+      {
+        "name": "Kelek",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "humain, ensorceleur",
+        "alignment": "chaotique mauvais",
+        "ac": 12,
+        "hp": 45,
+        "hit_dice": "7d8 + 14",
+        "speed": "9 m",
+        "stats": [
+          15,
+          10,
+          14,
+          15,
+          13,
+          17
+        ],
+        "saves": [
+          {
+            "constitution": 5
+          },
+          {
+            "charisma": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "intimidation": 6
+          },
+          {
+            "tromperie": 6
+          }
+        ],
+        "senses": "Perception passive 11",
+        "languages": "commun, draconique, elfique",
+        "cr": "5",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Équipement spécial",
+            "desc": "Kelek porte des bracelets de défense et un bâton percussif doté de 10 charges.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Kelek effectue une combinaison de trois attaques choisies entre Trait d'ensorceleur et Bâton percussif. Il peut remplacer l'une de ces attaques par une utilisation d'Incantation.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Bâton percussif",
+            "desc": "Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d6 + 5) dégâts contondants, ou 9 (1d8 + 5) dégâts contondants si utilisé à deux mains. Kelek peut dépenser jusqu'à 3 charges du bâton pour infliger 3 (1d6) dégâts de force supplémentaires par charge dépensée.",
+            "attack_bonus": 8,
+            "damage_dice": "1d6",
+            "damage_bonus": 5
+          },
+          {
+            "name": "Trait d'ensorceleur",
+            "desc": "Attaque de sort au corps à corps ou à distance : +6 pour toucher, allonge 1,50 m ou portée 18 m, une cible. Touché : 13 (2d12) dégâts de force.",
+            "attack_bonus": 6,
+            "damage_dice": "2d12",
+            "damage_bonus": 0
+          },
+          {
+            "name": "Explosion ardente (Recharge 4-6)",
+            "desc": "Kelek crée une explosion de feu magique centrée sur un point qu'il voit dans un rayon de 36 m. Chaque créature dans une sphère de 6 m de rayon effectue un jet de sauvegarde de Dextérité DD 14 et subit 35 (10d6) dégâts de feu en cas d'échec, ou la moitié en cas de réussite.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Incantation",
+            "desc": "Le Charisme est sa caractéristique d'incantation (DD 14).\n\nÀ volonté : lumière, main du mage, prestidigitation.\n\n1/jour chacun : domination d'animal, image miroir, toile d'araignée, vol.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Sorts du bâton",
+            "desc": "Le bâton percussif permet de lancer des sorts en dépensant ses charges.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Défense arcanique (3/jour)",
+            "desc": "Lorsqu'il est touché par une attaque, Kelek crée une barrière invisible de force magique. Jusqu'à la fin de son tour suivant, il reçoit un bonus de +5 à la CA, y compris contre l'attaque déclencheuse."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Skylla",
+      {
+        "name": "Skylla",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "humain, occultiste",
+        "alignment": "chaotique mauvais",
+        "ac": 10,
+        "hp": 39,
+        "hit_dice": "6d8 + 12",
+        "speed": "9 m",
+        "stats": [
+          9,
+          11,
+          14,
+          12,
+          15,
+          17
+        ],
+        "saves": [
+          {
+            "wisdom": 4
+          },
+          {
+            "charisma": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "intimidation": 5
+          },
+          {
+            "nature": 3
+          },
+          {
+            "persuasion": 5
+          },
+          {
+            "tromperie": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Perception passive 12",
+        "languages": "commun, elfique",
+        "cr": "2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Équipement spécial",
+            "desc": "Skylla porte un bâton lugubre doté de 10 charges. Le bâton récupère quotidiennement 1d6 + 4 charges dépensées à l'aube. Si sa dernière charge est dépensée, lancez un d20 ; sur un résultat de 1, le bâton est détruit.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Skylla effectue deux attaques de Bâton lugubre. Elle peut remplacer l'une de ces attaques par une utilisation d'Incantation.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Bâton lugubre",
+            "desc": "Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts contondants, ou 4 (1d8) dégâts contondants si utilisé à deux mains. Skylla peut dépenser jusqu'à 3 charges du bâton pour infliger 4 (1d8) dégâts de foudre supplémentaires par charge ainsi dépensée.",
+            "attack_bonus": 2,
+            "damage_dice": "1d6",
+            "damage_bonus": 0
+          },
+          {
+            "name": "Incantation",
+            "desc": "Skylla lance l'un des sorts suivants, sans la moindre composante matérielle, le Charisme étant sa caractéristique d'incantation (DD de sauvegarde des sorts 13).\n\n1/jour chacun : armure du mage, déguisement, détection de la magie, invisibilité, lueurs féeriques, motif hypnotique, vol.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Évasion lugubre",
+            "desc": "Lorsque Skylla subit des dégâts, elle peut dépenser 3 charges de son bâton lugubre pour se rendre invisible et se téléporter avec tout l'équipement qu'elle porte en un espace inoccupé qu'elle voit dans un rayon de 18 m. Elle demeure invisible jusqu'au début de son tour suivant sauf si elle attaque, lance un sort ou inflige des dégâts."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Zarak",
+      {
+        "name": "Zarak",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "orc",
+        "alignment": "chaotique mauvais",
+        "ac": 14,
+        "hp": 37,
+        "hit_dice": "5d8 + 15",
+        "speed": "9 m",
+        "stats": [
+          13,
+          16,
+          16,
+          11,
+          15,
+          6
+        ],
+        "saves": [
+          {
+            "dexterity": 5
+          },
+          {
+            "intelligence": 2
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobaties": 7
+          },
+          {
+            "discrétion": 7
+          },
+          {
+            "intuition": 6
+          },
+          {
+            "perception": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "vision dans le noir 18 m, Perception passive 16",
+        "languages": "commun, orc",
+        "cr": "2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Équipement spécial",
+            "desc": "Zarak possède une potion d'invisibilité.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Zarak effectue deux attaques de Dague.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps à corps ou à distance : +5 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants, plus 5 (2d4) dégâts perforants supplémentaires si la cible est une créature qui a moins de 18 points de vie.",
+            "attack_bonus": 5,
+            "damage_dice": "1d4",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Garrot",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, un humanoïde. Touché : 8 (2d4 + 3) dégâts tranchants et la cible est agrippée (évasion DD 11). Tant qu'elle est agrippée, la cible subit 8 (2d4 + 3) dégâts tranchants au début de chacun de ses tours et Zarak ne peut pas agripper une autre créature ni utiliser Mobilité de l'assassin.",
+            "attack_bonus": 5,
+            "damage_dice": "2d4",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Mobilité de l'assassin",
+            "desc": "Zarak entreprend l'action Foncer, Se cacher ou Se désengager."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Esquive instinctive",
+            "desc": "Zarak réduit de moitié les dégâts causés par une attaque réussie contre lui, à condition de voir l'attaquant."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Zargash",
+      {
+        "name": "Zargash",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "clerc, humain",
+        "alignment": "chaotique mauvais",
+        "ac": 13,
+        "hp": 45,
+        "hit_dice": "7d8 + 14",
+        "speed": "9 m",
+        "stats": [
+          14,
+          10,
+          14,
+          12,
+          16,
+          15
+        ],
+        "saves": [
+          {
+            "wisdom": 5
+          },
+          {
+            "charisma": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "intuition": 5
+          },
+          {
+            "tromperie": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Perception passive 13",
+        "languages": "commun",
+        "cr": "3",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Équipement spécial",
+            "desc": "Zargash porte une amulette en forme de chauve-souris aux mêmes propriétés qu'un anneau de feuille morte.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Persistance à survivre (recharge après un repos long)",
+            "desc": "La première fois que Zargash devrait tomber à 0 point de vie après avoir subi des dégâts, il se retrouve à la place à 1 point de vie.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Zargash effectue trois attaques de Marteau de guerre.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Marteau de guerre",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts contondants, ou 7 (1d10 + 2) dégâts contondants si utilisé à deux mains.",
+            "attack_bonus": 4,
+            "damage_dice": "1d8",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Rayon funeste",
+            "desc": "Attaque de sort à distance : +5 pour toucher, portée 18 m, une créature. Touché : 25 (4d10 + 3) dégâts nécrotiques.",
+            "attack_bonus": 5,
+            "damage_dice": "4d10",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Incantation",
+            "desc": "Zargash lance l'un des sorts suivants, la Sagesse étant sa caractéristique d'incantation (DD de sauvegarde des sorts 13).\n\nÀ volonté : lumière, thaumaturgie.\n\n1/jour chacun : communication avec les morts, forme gazeuse, immobilisation de personne, injonction, silence.",
+            "attack_bonus": 0
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Animation de cadavre (1/jour)",
+            "desc": "Zargash cible le corps sans vie d'un humanoïde qu'il voit dans un rayon de 9 m et lui ordonne de se lever, le transformant en zombie placé sous son contrôle. Le zombie joue son tour juste après Zargash. Animer le zombie nécessite la concentration de Zargash (comme pour un sort). Le zombie retrouve son état de corps sans vie au bout de 10 minutes, s'il tombe à 0 point de vie ou quand la concentration de Zargash prend fin."
+          }
+        ],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {
