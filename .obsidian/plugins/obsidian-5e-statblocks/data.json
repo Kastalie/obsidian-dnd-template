@@ -367,6 +367,482 @@
         ],
         "legendary_actions": []
       }
+    ],
+    [
+      "Cornélan",
+      {
+        "name": "Cornélan",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "dwarf",
+        "alignment": "lawful good",
+        "ac": 18,
+        "hp": 52,
+        "hit_dice": "7d8 + 21",
+        "speed": "25 ft.",
+        "stats": [
+          9,
+          13,
+          16,
+          9,
+          10,
+          11
+        ],
+        "saves": [
+          {
+            "strength": 1
+          },
+          {
+            "constitution": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 2
+          },
+          {
+            "survival": 2
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "poison",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 12",
+        "languages": "common, dwarvish",
+        "cr": "2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Équipement spécial",
+            "desc": "Cornélan manie une épée longue +1.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Cornélan effectue deux attaques de Dague ou d'Épée longue +1.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps à corps ou à distance : +3 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants. Si la cible est une créature de taille G ou supérieure, elle subit 5 (1d10) dégâts perforants supplémentaires.",
+            "attack_bonus": 3,
+            "damage_dice": "1d4",
+            "damage_bonus": 1
+          },
+          {
+            "name": "Épée longue +1",
+            "desc": "Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d8) dégâts tranchants, ou 5 (1d10) dégâts tranchants si utilisée à deux mains. Si la cible est une créature de taille G ou supérieure, elle subit 5 (1d10) dégâts tranchants supplémentaires.",
+            "attack_bonus": 2,
+            "damage_dice": "1d8",
+            "damage_bonus": 0
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Feinte (recharge 5-6)",
+            "desc": "Cornélan cible une créature qu'il voit dans un rayon de 1,50 m. Il bénéficie de l'avantage à sa prochaine attaque contre cette cible avant la fin de son tour. Si l'attaque touche, la cible subit 7 (2d6) dégâts supplémentaires du même type que l'arme."
+          },
+          {
+            "name": "Second souffle (1/repos court ou long)",
+            "desc": "Cornélan récupère 12 points de vie."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Mercion",
+      {
+        "name": "Mercion",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human, cleric",
+        "alignment": "lawful good",
+        "ac": 19,
+        "hp": 31,
+        "hit_dice": "9d8 - 9",
+        "speed": "9m.",
+        "stats": [
+          15,
+          10,
+          9,
+          12,
+          17,
+          17
+        ],
+        "saves": [
+          {
+            "wisdom": 5
+          },
+          {
+            "charisma": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "insight": 5
+          },
+          {
+            "medicine": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 13",
+        "languages": "common, dwarvish",
+        "cr": "3",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Équipement spécial",
+            "desc": "Mercion manie un bâton +1.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Mercion effectue une attaque de Radiance divine et une attaque de Bâton +1. Il peut remplacer l'une de ces attaques par une utilisation d'Incantation.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Bâton +1",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts contondants, ou 7 (1d8 + 3) dégâts contondants si utilisé à deux mains.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Radiance divine",
+            "desc": "Attaque de sort au corps à corps ou à distance : +5 pour toucher, allonge 1,50 m ou portée 18 m, une cible. Touché : 13 (3d8) dégâts radiants.",
+            "attack_bonus": 5,
+            "damage_dice": "3d8",
+            "damage_bonus": 0
+          },
+          {
+            "name": "Feu divin (Recharge 5-6)",
+            "desc": "Mercion crée une explosion magique de feu radiant centrée sur un point situé dans un rayon de 36 m. Chaque créature présente dans une sphère de 6 m de rayon centrée sur ce point effectue un jet de sauvegarde de Dextérité DD 13 et subit 28 (8d6) dégâts radiants en cas d'échec, ou la moitié en cas de réussite.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Incantation",
+            "desc": "La Sagesse est sa caractéristique d'incantation (DD 13).\n\nÀ volonté : lumière, stabilisation.\n\n2/jour chacun : création de nourriture et d'eau, immobilisation de personne, injonction, lueurs féeriques, retour à la vie, soins.\n\n1/jour : protection contre la mort.",
+            "attack_bonus": 0
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Molliver",
+      {
+        "name": "Molliver",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "humain",
+        "alignment": "chaotique bon",
+        "ac": 15,
+        "hp": 60,
+        "hit_dice": "8d8 + 24",
+        "speed": "9 m",
+        "stats": [
+          9,
+          17,
+          16,
+          10,
+          9,
+          16
+        ],
+        "saves": [
+          {
+            "dexterity": 5
+          },
+          {
+            "intelligence": 2
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobaties": 7
+          },
+          {
+            "discrétion": 7
+          },
+          {
+            "escamotage": 7
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Perception passive 9",
+        "languages": "commun",
+        "cr": "3",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Équipement spécial",
+            "desc": "Molliver porte une armure de cuir +1 et des bottes de lévitation.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Esquive totale",
+            "desc": "S'il est victime d'un effet qui lui permet d'effectuer un jet de sauvegarde de Dextérité pour réduire les dégâts de moitié, Molliver ne subit en fait aucun dégât en cas de réussite et seulement la moitié en cas d'échec, à condition qu'il ne souffre pas de l'état neutralisé.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Molliver effectue deux attaques de Dague ou d'Épée courte, ou une de chaque.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps à corps ou à distance : +5 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants. L'attaque inflige 7 (2d6) dégâts perforants supplémentaires si Molliver a l'avantage au jet d'attaque ou si la cible se trouve dans un rayon de 1,50 m de l'un des alliés de Molliver.",
+            "attack_bonus": 5,
+            "damage_dice": "1d4",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Épée courte",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une créature. Touché : 6 (1d6 + 3) dégâts perforants. L'attaque inflige 7 (2d6) dégâts perforants supplémentaires si Molliver a l'avantage au jet d'attaque ou si la cible se trouve dans un rayon de 1,50 m de l'un des alliés de Molliver.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Lévitation",
+            "desc": "Tant qu'il porte ses bottes de lévitation, Molliver peut lancer lévitation sur lui-même uniquement.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Esquive instinctive",
+            "desc": "Molliver réduit de moitié les dégâts causés par une attaque réussie contre lui, à condition de voir l'attaquant."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Ringlerun",
+      {
+        "name": "Ringlerun",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "humain, magicien",
+        "alignment": "loyal bon",
+        "ac": 12,
+        "hp": 42,
+        "hit_dice": "12d8 - 12",
+        "speed": "9 m",
+        "stats": [
+          9,
+          10,
+          9,
+          17,
+          13,
+          11
+        ],
+        "saves": [
+          {
+            "strength": 1
+          },
+          {
+            "dexterity": 2
+          },
+          {
+            "constitution": 1
+          },
+          {
+            "intelligence": 7
+          },
+          {
+            "wisdom": 5
+          },
+          {
+            "charisma": 2
+          }
+        ],
+        "skillsaves": [
+          {
+            "arcanes": 5
+          },
+          {
+            "histoire": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Perception passive 11",
+        "languages": "commun, draconique, elfique, nain",
+        "cr": "5",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Équipement spécial",
+            "desc": "Ringlerun manie un bâton de surpuissance. L'objet dispose de 20 charges et récupère quotidiennement 2d8 + 4 charges dépensées, à l'aube. Si sa dernière charge est dépensée, lancez un d20. Sur un 1, le bâton conserve son bonus de +2 aux jets d'attaque et de dégâts mais perd ses autres propriétés ; sur un 20, il récupère 1d8 + 2 charges.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Ringlerun effectue trois attaques de Bâton de surpuissance ou de Rayon gelant. Il peut remplacer l'une de ces attaques par une utilisation d'Incantation.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Bâton de surpuissance",
+            "desc": "Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts contondants, ou 5 (1d8 + 1) dégâts contondants si utilisé à deux mains. Ringlerun peut dépenser 1 charge du bâton pour infliger 3 (1d6) dégâts de force supplémentaires.",
+            "attack_bonus": 3,
+            "damage_dice": "1d6",
+            "damage_bonus": 1
+          },
+          {
+            "name": "Rayon gelant",
+            "desc": "Attaque de sort à distance : +7 pour toucher, portée 36 m, une créature. Touché : 27 (6d8) dégâts de froid.",
+            "attack_bonus": 7,
+            "damage_dice": "6d8",
+            "damage_bonus": 0
+          },
+          {
+            "name": "Incantation",
+            "desc": "Ringlerun lance l'un des sorts suivants, l'Intelligence étant sa caractéristique d'incantation (DD de sauvegarde des sorts 13).\n\nÀ volonté : lumière, main du mage, prestidigitation.\n\n3/jour chacun : charme-personne, détection de la magie, sommeil.\n\n1/jour chacun : bannissement, déblocage, dissipation de la magie, vol.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Sorts du bâton",
+            "desc": "Tant qu'il manie son bâton de surpuissance, Ringlerun peut dépenser une ou plusieurs charges pour lancer l'un des sorts suivants (DD 13, +7 pour toucher avec ses attaques de sort) : boule de feu (1 charge), cône de froid (5 charges), éclair (5 charges), globe d'invulnérabilité (6 charges), immobilisation de monstre (5 charges), lévitation (2 charges), mur de force (5 charges), projectile magique (1 charge) ou rayon affaiblissant (1 charge).",
+            "attack_bonus": 0
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Bavlorna Paillepourrie",
+      {
+        "name": "Bavlorna Paillepourrie",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "fée",
+        "subtype": "guenaude",
+        "alignment": "neutre mauvais",
+        "ac": 15,
+        "hp": 110,
+        "hit_dice": "13d8 + 52",
+        "speed": "9 m, nage 9 m",
+        "stats": [
+          22,
+          11,
+          18,
+          16,
+          12,
+          15
+        ],
+        "saves": [
+          {
+            "constitution": 7
+          },
+          {
+            "intelligence": 6
+          },
+          {
+            "wisdom": 4
+          },
+          {
+            "charisma": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 4
+          },
+          {
+            "discrétion": 3
+          },
+          {
+            "tromperie": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "vision lucide 18 m, Perception passive 14",
+        "languages": "commun, elfique, sylvestre",
+        "cr": "7",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Allergie aux tours dans le sens inverse des aiguilles d'une montre",
+            "desc": "Si une créature dans un rayon de 3 m de Bavlorna consacre au moins 3 m de son déplacement à courir sur place dans le sens inverse des aiguilles d'une montre, Bavlorna est victime d'une crise de ternuement et ne peut pas lancer de sort jusqu'à la fin de son tour suivant. En outre, toute créature engloutie par Bavlorna est immédiatement recrachée et se retrouve à terre dans un espace inoccupé situé à 1,50 m ou moins d'elle.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Amphibie",
+            "desc": "Bavlorna peut respirer sous l'eau comme à l'air libre.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Faveur d'immortalité",
+            "desc": "Bavlorna est immunisée contre tout effet censé la faire vieillir et ne peut mourir de vieillesse.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Bavlorna effectue deux attaques : une de Morsure et une de Rayon flétrissant.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une cible. Touché : 13 (2d6 + 6) dégâts perforants et, si la cible est une créature de taille M ou inférieure, elle est agrippée (DD 16). Tant qu'elle est agrippée, la cible est entravée et Bavlorna ne peut pas utiliser son attaque de Morsure sur une autre cible.",
+            "attack_bonus": 9,
+            "damage_dice": "2d6",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Rayon flétrissant",
+            "desc": "Attaque de sort à distance : +6 pour toucher, portée 18 m, une cible. Touché : 17 (4d6 + 3) dégâts nécrotiques.",
+            "attack_bonus": 6,
+            "damage_dice": "4d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Création de navrette (Recharge 5-6)",
+            "desc": "Bavlorna crée un ou deux doubles d'elle-même de 30 cm de haut appelés navrettes. Chaque navrette apparaît dans un espace inoccupé dans un rayon de 1,50 m de Bavlorna, obéit à ses ordres et joue son tour immédiatement après celui de la guenaude. Une navrette est détruite quand Bavlorna meurt ou quand elle la révoque au prix d'une action. Bavlorna ne peut pas disposer de plus de huit navrettes à la fois.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Incantation",
+            "desc": "Bavlorna lance l'un des sorts suivants sans composante matérielle, l'Intelligence étant sa caractéristique d'incantation (DD 14).\n\nÀ volonté : détection de la magie.\n\n2/jour chacun : création de nourriture et d'eau, délivrance des malédictions, métamorphose.\n\n1/jour : changement de plan (sur elle-même uniquement).",
+            "attack_bonus": 0
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Engloutissement",
+            "desc": "Bavlorna avale une créature de taille P ou inférieure qu'elle agrippe. La créature engloutie est aveuglée et entravée, bénéficie d'un abri total contre les attaques et effets provenant de l'extérieur de Bavlorna et subit 10 (3d6) dégâts d'acide au début de chacun de ses tours. Si la créature engloutie est une navrette de Bavlorna, celle-ci acquiert tous ses souvenirs lorsque les dégâts d'acide la réduisent à 0 point de vie. Bavlorna ne peut pas engloutir plus d'une créature à la fois. Si Bavlorna meurt, la créature engloutie cesse d'être entravée et peut s'extraire du cadavre en dépensant 1,50 m de déplacement pour se retrouver à terre."
+          }
+        ],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {
