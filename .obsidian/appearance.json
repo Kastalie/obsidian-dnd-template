@@ -2,6 +2,7 @@
   "enabledCssSnippets": [
     "styles"
   ],
-  "cssTheme": "Fancy-a-Story",
-  "accentColor": ""
+  "cssTheme": "ITS Theme",
+  "accentColor": "#9c82e3",
+  "theme": "moonstone"
 }
