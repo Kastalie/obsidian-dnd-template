@@ -101,7 +101,7 @@
     "creatures": [
       {
         "name": "Fomorien",
-        "initiative": 7,
+        "initiative": 3,
         "static": false,
         "modifier": 0,
         "hp": 149,
@@ -118,9 +118,29 @@
         "hidden": false,
         "friendly": false,
         "hit_dice": "13d12 + 65"
+      },
+      {
+        "name": "Chevalier brutacien",
+        "initiative": 2,
+        "static": false,
+        "modifier": 1,
+        "hp": 66,
+        "currentMaxHP": 66,
+        "cr": "3",
+        "ac": 18,
+        "currentAC": 18,
+        "id": "ID_180bdacaabc9",
+        "currentHP": 66,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": true,
+        "friendly": false,
+        "hit_dice": "12d8 + 12"
       }
     ],
-    "state": false,
+    "state": true,
     "name": null,
     "round": 1,
     "logFile": "",
