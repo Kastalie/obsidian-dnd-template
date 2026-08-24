@@ -282,6 +282,91 @@
         "status": "À compléter depuis le PDF",
         "source": "Carnaval"
       }
+    ],
+    [
+      "Cœur-vaillant",
+      {
+        "name": "Cœur-vaillant",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human, paladin",
+        "alignment": "lawful good",
+        "ac": 20,
+        "hp": 55,
+        "hit_dice": "10d8 + 10",
+        "speed": "30 ft.",
+        "stats": [
+          15,
+          12,
+          13,
+          12,
+          13,
+          17
+        ],
+        "saves": [
+          {
+            "wisdom": 3
+          },
+          {
+            "charisma": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "insight": 3
+          },
+          {
+            "persuasion": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "frightened",
+        "senses": "passive Perception 11",
+        "languages": "common, dwarvish",
+        "cr": "4",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Équipement spécial",
+            "desc": "Cœur-vaillant manie Acier, une épée longue magique intelligente loyale bonne.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Cœur-vaillant effectue trois attaques d'Acier.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Acier",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d8 + 4) dégâts tranchants, ou 9 (1d10 + 4) dégâts tranchants si utilisée à deux mains. Une fois à chacun de ses tours, Cœur-vaillant peut également faire émettre à la lame une lumière sacrée. Si elle le fait ainsi, la cible est aveuglée jusqu'au début du tour suivant de Cœur-vaillant.",
+            "attack_bonus": 6,
+            "damage_dice": "1d8",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Incantation",
+            "desc": "Le Charisme est sa caractéristique d'incantation (DD 13). 3/jour chacun : détection du mal et du bien, injonction, protection contre le mal et le bien. 1/jour chacun : délivrance des malédictions, restauration partielle, zone de vérité.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Retour à la vie (recharge à l'aube)",
+            "desc": "Tant qu'il brandit Acier, Cœur-vaillant peut lancer retour à la vie.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Protection d'autrui",
+            "desc": "Lorsqu'une créature qu'il voit attaque une autre créature située dans un rayon de 1,50 m de lui, Cœur-vaillant peut imposer le désavantage au jet d'attaque, à condition qu'il soit équipé d'un bouclier."
+          }
+        ],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {
