@@ -78,7 +78,7 @@
         "ac": 13,
         "hp": 22,
         "hit_dice": "5d8",
-        "speed": "30 ft.",
+        "speed": "9m.",
         "stats": [
           10,
           16,
@@ -159,7 +159,7 @@
     ]
   ],
   "defaultLayouts": {
-    "path-2e-block": {
+    "b8ab3ae89a0a": {
       "blocks": [
         {
           "type": "inline",
@@ -177,6 +177,43 @@
               "dice": false,
               "conditioned": true,
               "display": " "
+            },
+            {
+              "type": "ifelse",
+              "id": "badbdb298988",
+              "conditions": [
+                {
+                  "nested": [
+                    {
+                      "type": "group",
+                      "id": "990a4a988ae8",
+                      "properties": [],
+                      "nested": [
+                        {
+                          "type": "inline",
+                          "id": "499aea6a9aca",
+                          "properties": [],
+                          "nested": [
+                            {
+                              "type": "action",
+                              "id": "8a6a7a499b78",
+                              "icon": "sword",
+                              "callback": "(async() => {\n  if (!InitiativeTracker.plugin.view) {\n    await InitiativeTracker.plugin.addTrackerView();\n  }\n  InitiativeTracker.newEncounter({\n    roll: true,\n    creatures: [monster]\n  });\n  if (InitiativeTracker.plugin.view) {\n    InitiativeTracker.plugin\n      .app\n      .workspace\n      .revealLeaf(InitiativeTracker.plugin.view.leaf);\n  }\n})();"
+                            },
+                            {
+                              "type": "action",
+                              "id": "fbea380b09b9",
+                              "icon": "plus-with-circle",
+                              "callback": "(async() => {\n  if (!InitiativeTracker.plugin.view) {\n    await InitiativeTracker.plugin.addTrackerView();\n  }\n  InitiativeTracker.addCreatures([monster]);\n  if (InitiativeTracker.plugin.view) {\n    InitiativeTracker.plugin\n      .app\n      .workspace\n      .revealLeaf(InitiativeTracker.plugin.view.leaf);\n  }\n})();"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "condition": "return plugin.app.plugins.enabledPlugins.has(\"initiative-tracker\");\n"
+                }
+              ]
             },
             {
               "type": "property",
@@ -199,154 +236,17 @@
           "properties": [],
           "nested": [
             {
-              "type": "inline",
-              "id": "289a4b787968",
+              "type": "property",
+              "id": "0979a989583a",
               "properties": [],
-              "nested": [
-                {
-                  "type": "property",
-                  "id": "694a3888b859",
-                  "properties": [
-                    "rare_01"
-                  ],
-                  "fallback": "-",
-                  "conditioned": true,
-                  "markdown": true
-                },
-                {
-                  "type": "property",
-                  "id": "590a88988ae8",
-                  "properties": [
-                    "rare_02"
-                  ],
-                  "fallback": "-",
-                  "conditioned": true,
-                  "markdown": true
-                },
-                {
-                  "type": "property",
-                  "id": "9a9be808699a",
-                  "properties": [
-                    "rare_03"
-                  ],
-                  "fallback": "-",
-                  "conditioned": true,
-                  "markdown": true
-                },
-                {
-                  "type": "property",
-                  "id": "2988db1a685a",
-                  "properties": [
-                    "rare_04"
-                  ],
-                  "fallback": "-",
-                  "conditioned": true,
-                  "markdown": true
-                },
-                {
-                  "type": "property",
-                  "id": "ba891ba8cbeb",
-                  "properties": [
-                    "alignment"
-                  ],
-                  "fallback": " ",
-                  "display": " ",
-                  "conditioned": true,
-                  "markdown": true
-                },
-                {
-                  "type": "property",
-                  "id": "ebf9883938a8",
-                  "properties": [
-                    "size"
-                  ],
-                  "fallback": " ",
-                  "display": " ",
-                  "conditioned": true,
-                  "markdown": true
-                },
-                {
-                  "type": "property",
-                  "id": "dabaf9e9fb68",
-                  "properties": [
-                    "trait_01"
-                  ],
-                  "fallback": " ",
-                  "display": " ",
-                  "conditioned": true,
-                  "markdown": true
-                },
-                {
-                  "type": "property",
-                  "id": "e81a6aeadbf9",
-                  "properties": [
-                    "trait_02"
-                  ],
-                  "fallback": " ",
-                  "display": " ",
-                  "conditioned": true,
-                  "markdown": true
-                },
-                {
-                  "type": "property",
-                  "id": "fa7919caabbb",
-                  "properties": [
-                    "trait_03"
-                  ],
-                  "fallback": "-",
-                  "conditioned": true,
-                  "display": " ",
-                  "markdown": true
-                },
-                {
-                  "type": "property",
-                  "id": "58c9c8580b68",
-                  "properties": [
-                    "trait_04"
-                  ],
-                  "fallback": "-",
-                  "conditioned": true,
-                  "display": " ",
-                  "markdown": true
-                },
-                {
-                  "type": "property",
-                  "id": "da894a7b8849",
-                  "properties": [
-                    "trait_05"
-                  ],
-                  "fallback": "-",
-                  "display": " ",
-                  "conditioned": true,
-                  "markdown": true
-                },
-                {
-                  "type": "property",
-                  "id": "fb6b4b6bab49",
-                  "properties": [
-                    "trait_06"
-                  ],
-                  "fallback": "-",
-                  "display": " ",
-                  "conditioned": true,
-                  "markdown": true
-                },
-                {
-                  "type": "property",
-                  "id": "480a5bfafb88",
-                  "properties": [
-                    "trait_07"
-                  ],
-                  "fallback": "-",
-                  "display": " ",
-                  "conditioned": true,
-                  "markdown": true
-                }
-              ],
-              "hasRule": true,
-              "conditioned": true
+              "fallback": "-",
+              "callback": "const traits = []\nif (monster.rarity && monster.rarity.toLowerCase() !== \"common\") {\n  traits.push(`<span class=\"rarity ${monster.rarity.toLowerCase()}\">${monster.rarity}</span>`);\n}\n\nif (monster.alignment) {\n  traits.push(`<span class=alignment>${monster.alignment}</span>`);\n}\nif (monster.size) {\n  traits.push(`<span class=size>${monster.size}</span>`);\n}\n\nif (monster.traits) {\n  traits.push(...monster.traits);\n}\n\nreturn traits ? (\"- \" + traits.join(\"\\n- \")) : \"\";",
+              "conditioned": true,
+              "display": ""
             }
-          ]
+          ],
+          "hasRule": true,
+          "cls": "pf2e-traits"
         },
         {
           "type": "group",
@@ -354,17 +254,36 @@
           "properties": [],
           "nested": [
             {
-              "type": "traits",
-              "id": "9a9af9fbe959",
-              "properties": [
-                "perception"
+              "type": "inline",
+              "id": "881859197838",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "4ad9f92ab8f8",
+                  "properties": [
+                    "modifier"
+                  ],
+                  "fallback": "-",
+                  "display": "Perception",
+                  "conditioned": false,
+                  "dice": false,
+                  "diceCallback": "const num = (property < 0 ? \"-\" : \"+\") + Math.abs(property);\nreturn [num, \" (\", { text: \"1d20\"+num }, \")\"];",
+                  "callback": "return (monster.modifier < 0 ? \"-\" : \"+\") + Math.abs(monster.modifier);"
+                },
+                {
+                  "type": "property",
+                  "id": "8bd82998dadb",
+                  "properties": [
+                    "senses"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "display": ""
+                }
               ],
-              "fallback": "-",
-              "heading": " ",
-              "conditioned": true,
-              "dice": true,
-              "markdown": true,
-              "headingProp": true
+              "cls": "oneline",
+              "conditioned": true
             },
             {
               "type": "property",
@@ -378,35 +297,36 @@
               "markdown": true
             },
             {
-              "type": "traits",
-              "id": "a8f8187b89fb",
+              "type": "saves",
+              "id": "6a2b78099b0b",
               "properties": [
                 "skills"
               ],
               "fallback": "-",
-              "markdown": true,
-              "dice": true,
+              "display": "Skills",
               "conditioned": true,
-              "heading": " "
+              "dice": true,
+              "callback": "const keys = [...Object.keys(property)];\nconst name = keys.shift();\n\nif (name === \"note\") {\n  return {note: property.note};\n}\n\nvar note;\nvar stats = [];\nfor (const key of keys) {\n  if (key === \"note\") {\n    note = property[key];\n  } else {\n    const sign = property[key] < 0 ? \"-\" : \"+\";\n    const num = Math.abs(property[key]);\n    stats.push(`(${sign}${num} ${key})`);\n  }\n}\n\nif (stats.length == 0 && !note) {\n  return property;\n}\n\nstats.unshift(\n  (property[name] < 0 ? \"-\" : \"+\") +\n  Math.abs(property[name]));\nconst parts = [stats.join(\" \")];\nif (note) {\n  parts.push(note);\n}\nreturn {[name]: parts.join(\", \")};"
             },
             {
-              "type": "table",
+              "type": "saves",
               "id": "b82b0a1a9969",
               "properties": [
-                "abilityMods"
+                "attributes"
               ],
-              "headers": [
-                "Str",
-                "Dex",
-                "Con",
-                "Int",
-                "Wis",
-                "Cha"
-              ],
-              "calculate": false,
               "fallback": "-",
               "conditioned": true,
-              "dice": true
+              "display": ""
+            },
+            {
+              "type": "property",
+              "id": "1b6a98ba4888",
+              "properties": [
+                "items"
+              ],
+              "fallback": "-",
+              "display": "Items",
+              "conditioned": true
             },
             {
               "type": "traits",
@@ -430,28 +350,131 @@
           "properties": [],
           "nested": [
             {
-              "type": "traits",
-              "id": "68ca69891bea",
-              "properties": [
-                "armorclass"
+              "type": "inline",
+              "id": "3a5ab84a2b89",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "cb6a7809aa2b",
+                  "properties": [],
+                  "nested": [
+                    {
+                      "type": "property",
+                      "id": "6b0b0bda0a7a",
+                      "properties": [
+                        "ac"
+                      ],
+                      "fallback": "-",
+                      "display": "AC"
+                    },
+                    {
+                      "type": "property",
+                      "id": "0908aaab3b1b",
+                      "properties": [
+                        "acNote"
+                      ],
+                      "fallback": "-",
+                      "conditioned": true,
+                      "display": ""
+                    }
+                  ],
+                  "cls": "withnote",
+                  "conditioned": true
+                },
+                {
+                  "type": "saves",
+                  "id": "9999386a58ea",
+                  "properties": [
+                    "saves"
+                  ],
+                  "fallback": "-",
+                  "dice": true,
+                  "display": "",
+                  "conditioned": true,
+                  "callback": "const keys = [...Object.keys(property)];\nconst name = keys.shift();\n\nif (name === \"note\") {\n  return {note: property.note};\n}\n\nvar note;\nvar stats = [];\nfor (const key of keys) {\n  if (key === \"note\") {\n    note = property[key];\n  } else {\n    const sign = property[key] < 0 ? \"-\" : \"+\";\n    const num = Math.abs(property[key]);\n    stats.push(`(${sign}${num} ${key})`);\n  }\n}\n\nif (stats.length == 0 && !note) {\n  return property;\n}\n\nstats.unshift(\n  (property[name] < 0 ? \"-\" : \"+\") +\n  Math.abs(property[name]));\nconst parts = [stats.join(\" \")];\nif (note) {\n  parts.push(note);\n}\nreturn {[name]: parts.join(\", \")};"
+                }
               ],
-              "fallback": "-",
-              "heading": "",
-              "conditioned": true,
-              "dice": true,
-              "markdown": true
+              "cls": "oneline",
+              "conditioned": true
             },
             {
-              "type": "traits",
-              "id": "9b1998e9a8da",
-              "properties": [
-                "health"
+              "type": "inline",
+              "id": "ea29d9ea5aa8",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "39584be95ae9",
+                  "properties": [],
+                  "nested": [
+                    {
+                      "type": "property",
+                      "id": "bb6989092939",
+                      "properties": [
+                        "hp"
+                      ],
+                      "fallback": "-",
+                      "display": "HP"
+                    },
+                    {
+                      "type": "property",
+                      "id": "b9fa1a89c8d9",
+                      "properties": [
+                        "hpNote"
+                      ],
+                      "fallback": "-",
+                      "doNotAddClass": false,
+                      "conditioned": true,
+                      "display": ""
+                    }
+                  ],
+                  "cls": "withnote",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "4bbaa9380a9b",
+                  "properties": [
+                    "hardness"
+                  ],
+                  "fallback": "-",
+                  "display": "Hardness",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "0a8ac8d96bba",
+                  "properties": [
+                    "immunities"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "display": "Immunities"
+                },
+                {
+                  "type": "property",
+                  "id": "78689b6b6b79",
+                  "properties": [
+                    "weaknesses"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "display": "Weaknesses"
+                },
+                {
+                  "type": "property",
+                  "id": "8b7a3b89fa59",
+                  "properties": [
+                    "resistances"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "display": "Resistances"
+                }
               ],
-              "fallback": "-",
-              "heading": "",
-              "conditioned": true,
-              "dice": true,
-              "markdown": true
+              "cls": "oneline",
+              "conditioned": true
             },
             {
               "type": "traits",
@@ -497,19 +520,18 @@
               "dice": true,
               "markdown": true,
               "headingProp": false,
-              "heading": ""
+              "heading": "",
+              "callback": "var s = \"\";\nif (property.bonus) {\n  s += (property.bonus < 0 ? \"-\" : \"+\") + Math.abs(property.bonus);\n}\nif (property.desc) {\n  s += \" \" + property.desc\n}\nif (property.damage) {\n  s += \", __Damage__ \" + property.damage\n}\nreturn s"
             },
             {
               "type": "traits",
-              "id": "6919b8996939",
+              "id": "faeafb7b6b1b",
               "properties": [
                 "spellcasting"
               ],
               "fallback": "-",
-              "heading": " ",
-              "markdown": true,
-              "dice": true,
-              "conditioned": true
+              "conditioned": true,
+              "dice": true
             },
             {
               "type": "traits",
@@ -561,123 +583,23 @@
           "display": " Source:"
         }
       ],
-      "name": "Basic Pathfinder 2e Layout",
-      "id": "path-2e-block",
-      "version": 2,
+      "name": "Pathfinder 2e Creature Layout",
+      "id": "b8ab3ae89a0a",
       "diceParsing": [
         {
-          "regex": "\\((\\d+d\\d+(?:\\s*[+-]\\s*\\d+)?)\\)",
-          "parser": "const [, text] = matches;\nreturn [\"(\", { text }, \")\"];",
-          "id": "4beb2be86b3a",
-          "desc": "(1d8+3)"
+          "regex": "(\\s|^)(\\d+d\\d+(?:\\s*[+-]\\s*\\d+)?)(\\W|$)",
+          "parser": "const [, before, text, after] = matches;\nreturn [before + text, \" (\", { text }, \")\", after];",
+          "id": "4a79397b896a",
+          "desc": "1d6+10"
         },
         {
-          "regex": "(\\w+?) ([+-])(\\d+)",
-          "parser": "let [, initial, sign, number] = matches;\nlet mult = 1;\nif (sign === \"-\") {\n    mult = -1;\n}\nlet text;\nif (!isNaN(Number(number))) {\n    text = `1d20+${mult * Number(number)}`;\n}\nreturn [original, \" (\", { text }, \")\"];",
-          "id": "6878da48bb4b",
-          "desc": "longsword +15"
+          "regex": "(^|\\s)([+-]\\d+)(\\W|$)(?!status|bonus)",
+          "parser": "let [, before, bonus, after] = matches;\nreturn [\n  before + bonus,\n  \" (\", { text: \"1d20\" + bonus }, \")\",\n  after\n];",
+          "id": "8bb8fbbb0869",
+          "desc": "+15"
         }
       ],
-      "removed": true
-    },
-    "daggerheart-card": {
-      "blocks": [
-        {
-          "type": "group",
-          "id": "fae98b382b8b",
-          "properties": [],
-          "nested": [
-            {
-              "type": "inline",
-              "id": "488aea38d9a9",
-              "properties": [],
-              "nested": [
-                {
-                  "type": "javascript",
-                  "id": "685908eb3b9a",
-                  "conditioned": false,
-                  "code": "const ribbonBlock = document.createElement(\"div\");\nribbonBlock.classList.add(\"daggerheart-card-ribbon\");\n\nconst levelBlock = document.createElement(\"div\");\nlevelBlock.classList.add(\"card-level\");\n\nconst levelText = document.createElement(\"span\");\nlevelText.innerHTML = monster.level;\n\nlevelBlock.append(levelText);\n\nconst domainBlock = document.createElement(\"div\");\ndomainBlock.classList.add(\"card-domain\");\ndomainBlock.classList.add(monster.domain);\n\nconst domainText = document.createElement(\"span\");\ndomainText.innerText = monster.domain;\ndomainBlock.append(domainText)\n\nribbonBlock.append(levelBlock);\nribbonBlock.append(domainBlock);\n\nconsole.log(monster);\n\nreturn ribbonBlock;"
-                },
-                {
-                  "type": "group",
-                  "id": "7b59baf8aa08",
-                  "properties": [],
-                  "nested": [
-                    {
-                      "type": "property",
-                      "id": "094b19aabb38",
-                      "properties": [
-                        "recall"
-                      ],
-                      "fallback": "-",
-                      "conditioned": true
-                    }
-                  ]
-                }
-              ],
-              "conditioned": false
-            },
-            {
-              "type": "image",
-              "id": "9a0baa691af9",
-              "properties": [
-                "image"
-              ],
-              "fallback": "-"
-            },
-            {
-              "type": "group",
-              "id": "995ac80a7b5a",
-              "properties": [],
-              "nested": [
-                {
-                  "type": "javascript",
-                  "id": "cb3a08baabfb",
-                  "conditioned": false,
-                  "code": "const headingBlock = document.createElement(\"div\");\nheadingBlock.classList.add(\"daggerheart-heading\");\n\nconst typeBlock = document.createElement(\"div\");\ntypeBlock.classList.add(\"card-type\");\ntypeBlock.classList.add(monster.domain);\n\nconst typeText = document.createElement(\"span\");\ntypeText.innerText = monster.type;\ntypeBlock.append(typeText)\n\nheadingBlock.append(typeBlock);\n\nreturn headingBlock;"
-                }
-              ],
-              "hasRule": false
-            },
-            {
-              "type": "group",
-              "id": "098a5a785abb",
-              "properties": [],
-              "nested": [
-                {
-                  "type": "heading",
-                  "id": "3b8bb868c818",
-                  "properties": [
-                    "name"
-                  ],
-                  "size": 1,
-                  "fallback": "Card Name"
-                }
-              ],
-              "hasRule": false
-            },
-            {
-              "type": "group",
-              "id": "cbbaeab91a3b",
-              "properties": [],
-              "nested": [
-                {
-                  "type": "property",
-                  "id": "281afa3a39d9",
-                  "properties": [
-                    "text"
-                  ],
-                  "fallback": "-"
-                }
-              ]
-            }
-          ],
-          "cls": "daggerheart-card"
-        }
-      ],
-      "id": "daggerheart-card",
-      "name": "Daggerheart Card",
-      "edited": false,
+      "edited": true,
       "removed": true
     },
     "daggerheart-environment": {
@@ -1541,6 +1463,106 @@
       "edited": false,
       "removed": true
     },
+    "daggerheart-card": {
+      "blocks": [
+        {
+          "type": "group",
+          "id": "fae98b382b8b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "488aea38d9a9",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "javascript",
+                  "id": "685908eb3b9a",
+                  "conditioned": false,
+                  "code": "const ribbonBlock = document.createElement(\"div\");\nribbonBlock.classList.add(\"daggerheart-card-ribbon\");\n\nconst levelBlock = document.createElement(\"div\");\nlevelBlock.classList.add(\"card-level\");\n\nconst levelText = document.createElement(\"span\");\nlevelText.innerHTML = monster.level;\n\nlevelBlock.append(levelText);\n\nconst domainBlock = document.createElement(\"div\");\ndomainBlock.classList.add(\"card-domain\");\ndomainBlock.classList.add(monster.domain);\n\nconst domainText = document.createElement(\"span\");\ndomainText.innerText = monster.domain;\ndomainBlock.append(domainText)\n\nribbonBlock.append(levelBlock);\nribbonBlock.append(domainBlock);\n\nconsole.log(monster);\n\nreturn ribbonBlock;"
+                },
+                {
+                  "type": "group",
+                  "id": "7b59baf8aa08",
+                  "properties": [],
+                  "nested": [
+                    {
+                      "type": "property",
+                      "id": "094b19aabb38",
+                      "properties": [
+                        "recall"
+                      ],
+                      "fallback": "-",
+                      "conditioned": true
+                    }
+                  ]
+                }
+              ],
+              "conditioned": false
+            },
+            {
+              "type": "image",
+              "id": "9a0baa691af9",
+              "properties": [
+                "image"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "group",
+              "id": "995ac80a7b5a",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "javascript",
+                  "id": "cb3a08baabfb",
+                  "conditioned": false,
+                  "code": "const headingBlock = document.createElement(\"div\");\nheadingBlock.classList.add(\"daggerheart-heading\");\n\nconst typeBlock = document.createElement(\"div\");\ntypeBlock.classList.add(\"card-type\");\ntypeBlock.classList.add(monster.domain);\n\nconst typeText = document.createElement(\"span\");\ntypeText.innerText = monster.type;\ntypeBlock.append(typeText)\n\nheadingBlock.append(typeBlock);\n\nreturn headingBlock;"
+                }
+              ],
+              "hasRule": false
+            },
+            {
+              "type": "group",
+              "id": "098a5a785abb",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "heading",
+                  "id": "3b8bb868c818",
+                  "properties": [
+                    "name"
+                  ],
+                  "size": 1,
+                  "fallback": "Card Name"
+                }
+              ],
+              "hasRule": false
+            },
+            {
+              "type": "group",
+              "id": "cbbaeab91a3b",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "281afa3a39d9",
+                  "properties": [
+                    "text"
+                  ],
+                  "fallback": "-"
+                }
+              ]
+            }
+          ],
+          "cls": "daggerheart-card"
+        }
+      ],
+      "id": "daggerheart-card",
+      "name": "Daggerheart Card",
+      "edited": false,
+      "removed": true
+    },
     "basic-13th-age-monster-block": {
       "blocks": [
         {
@@ -1733,7 +1755,7 @@
       "id": "basic-13th-age-monster-block",
       "removed": true
     },
-    "b8ab3ae89a0a": {
+    "path-2e-block": {
       "blocks": [
         {
           "type": "inline",
@@ -1751,43 +1773,6 @@
               "dice": false,
               "conditioned": true,
               "display": " "
-            },
-            {
-              "type": "ifelse",
-              "id": "badbdb298988",
-              "conditions": [
-                {
-                  "nested": [
-                    {
-                      "type": "group",
-                      "id": "990a4a988ae8",
-                      "properties": [],
-                      "nested": [
-                        {
-                          "type": "inline",
-                          "id": "499aea6a9aca",
-                          "properties": [],
-                          "nested": [
-                            {
-                              "type": "action",
-                              "id": "8a6a7a499b78",
-                              "icon": "sword",
-                              "callback": "(async() => {\n  if (!InitiativeTracker.plugin.view) {\n    await InitiativeTracker.plugin.addTrackerView();\n  }\n  InitiativeTracker.newEncounter({\n    roll: true,\n    creatures: [monster]\n  });\n  if (InitiativeTracker.plugin.view) {\n    InitiativeTracker.plugin\n      .app\n      .workspace\n      .revealLeaf(InitiativeTracker.plugin.view.leaf);\n  }\n})();"
-                            },
-                            {
-                              "type": "action",
-                              "id": "fbea380b09b9",
-                              "icon": "plus-with-circle",
-                              "callback": "(async() => {\n  if (!InitiativeTracker.plugin.view) {\n    await InitiativeTracker.plugin.addTrackerView();\n  }\n  InitiativeTracker.addCreatures([monster]);\n  if (InitiativeTracker.plugin.view) {\n    InitiativeTracker.plugin\n      .app\n      .workspace\n      .revealLeaf(InitiativeTracker.plugin.view.leaf);\n  }\n})();"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "condition": "return plugin.app.plugins.enabledPlugins.has(\"initiative-tracker\");\n"
-                }
-              ]
             },
             {
               "type": "property",
@@ -1810,17 +1795,154 @@
           "properties": [],
           "nested": [
             {
-              "type": "property",
-              "id": "0979a989583a",
+              "type": "inline",
+              "id": "289a4b787968",
               "properties": [],
-              "fallback": "-",
-              "callback": "const traits = []\nif (monster.rarity && monster.rarity.toLowerCase() !== \"common\") {\n  traits.push(`<span class=\"rarity ${monster.rarity.toLowerCase()}\">${monster.rarity}</span>`);\n}\n\nif (monster.alignment) {\n  traits.push(`<span class=alignment>${monster.alignment}</span>`);\n}\nif (monster.size) {\n  traits.push(`<span class=size>${monster.size}</span>`);\n}\n\nif (monster.traits) {\n  traits.push(...monster.traits);\n}\n\nreturn traits ? (\"- \" + traits.join(\"\\n- \")) : \"\";",
-              "conditioned": true,
-              "display": ""
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "694a3888b859",
+                  "properties": [
+                    "rare_01"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "590a88988ae8",
+                  "properties": [
+                    "rare_02"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "9a9be808699a",
+                  "properties": [
+                    "rare_03"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "2988db1a685a",
+                  "properties": [
+                    "rare_04"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "ba891ba8cbeb",
+                  "properties": [
+                    "alignment"
+                  ],
+                  "fallback": " ",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "ebf9883938a8",
+                  "properties": [
+                    "size"
+                  ],
+                  "fallback": " ",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "dabaf9e9fb68",
+                  "properties": [
+                    "trait_01"
+                  ],
+                  "fallback": " ",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "e81a6aeadbf9",
+                  "properties": [
+                    "trait_02"
+                  ],
+                  "fallback": " ",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "fa7919caabbb",
+                  "properties": [
+                    "trait_03"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "display": " ",
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "58c9c8580b68",
+                  "properties": [
+                    "trait_04"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "display": " ",
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "da894a7b8849",
+                  "properties": [
+                    "trait_05"
+                  ],
+                  "fallback": "-",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "fb6b4b6bab49",
+                  "properties": [
+                    "trait_06"
+                  ],
+                  "fallback": "-",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "480a5bfafb88",
+                  "properties": [
+                    "trait_07"
+                  ],
+                  "fallback": "-",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                }
+              ],
+              "hasRule": true,
+              "conditioned": true
             }
-          ],
-          "hasRule": true,
-          "cls": "pf2e-traits"
+          ]
         },
         {
           "type": "group",
@@ -1828,36 +1950,17 @@
           "properties": [],
           "nested": [
             {
-              "type": "inline",
-              "id": "881859197838",
-              "properties": [],
-              "nested": [
-                {
-                  "type": "property",
-                  "id": "4ad9f92ab8f8",
-                  "properties": [
-                    "modifier"
-                  ],
-                  "fallback": "-",
-                  "display": "Perception",
-                  "conditioned": false,
-                  "dice": false,
-                  "diceCallback": "const num = (property < 0 ? \"-\" : \"+\") + Math.abs(property);\nreturn [num, \" (\", { text: \"1d20\"+num }, \")\"];",
-                  "callback": "return (monster.modifier < 0 ? \"-\" : \"+\") + Math.abs(monster.modifier);"
-                },
-                {
-                  "type": "property",
-                  "id": "8bd82998dadb",
-                  "properties": [
-                    "senses"
-                  ],
-                  "fallback": "-",
-                  "conditioned": true,
-                  "display": ""
-                }
+              "type": "traits",
+              "id": "9a9af9fbe959",
+              "properties": [
+                "perception"
               ],
-              "cls": "oneline",
-              "conditioned": true
+              "fallback": "-",
+              "heading": " ",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true,
+              "headingProp": true
             },
             {
               "type": "property",
@@ -1871,36 +1974,35 @@
               "markdown": true
             },
             {
-              "type": "saves",
-              "id": "6a2b78099b0b",
+              "type": "traits",
+              "id": "a8f8187b89fb",
               "properties": [
                 "skills"
               ],
               "fallback": "-",
-              "display": "Skills",
-              "conditioned": true,
+              "markdown": true,
               "dice": true,
-              "callback": "const keys = [...Object.keys(property)];\nconst name = keys.shift();\n\nif (name === \"note\") {\n  return {note: property.note};\n}\n\nvar note;\nvar stats = [];\nfor (const key of keys) {\n  if (key === \"note\") {\n    note = property[key];\n  } else {\n    const sign = property[key] < 0 ? \"-\" : \"+\";\n    const num = Math.abs(property[key]);\n    stats.push(`(${sign}${num} ${key})`);\n  }\n}\n\nif (stats.length == 0 && !note) {\n  return property;\n}\n\nstats.unshift(\n  (property[name] < 0 ? \"-\" : \"+\") +\n  Math.abs(property[name]));\nconst parts = [stats.join(\" \")];\nif (note) {\n  parts.push(note);\n}\nreturn {[name]: parts.join(\", \")};"
+              "conditioned": true,
+              "heading": " "
             },
             {
-              "type": "saves",
+              "type": "table",
               "id": "b82b0a1a9969",
               "properties": [
-                "attributes"
+                "abilityMods"
               ],
+              "headers": [
+                "Str",
+                "Dex",
+                "Con",
+                "Int",
+                "Wis",
+                "Cha"
+              ],
+              "calculate": false,
               "fallback": "-",
               "conditioned": true,
-              "display": ""
-            },
-            {
-              "type": "property",
-              "id": "1b6a98ba4888",
-              "properties": [
-                "items"
-              ],
-              "fallback": "-",
-              "display": "Items",
-              "conditioned": true
+              "dice": true
             },
             {
               "type": "traits",
@@ -1924,131 +2026,28 @@
           "properties": [],
           "nested": [
             {
-              "type": "inline",
-              "id": "3a5ab84a2b89",
-              "properties": [],
-              "nested": [
-                {
-                  "type": "inline",
-                  "id": "cb6a7809aa2b",
-                  "properties": [],
-                  "nested": [
-                    {
-                      "type": "property",
-                      "id": "6b0b0bda0a7a",
-                      "properties": [
-                        "ac"
-                      ],
-                      "fallback": "-",
-                      "display": "AC"
-                    },
-                    {
-                      "type": "property",
-                      "id": "0908aaab3b1b",
-                      "properties": [
-                        "acNote"
-                      ],
-                      "fallback": "-",
-                      "conditioned": true,
-                      "display": ""
-                    }
-                  ],
-                  "cls": "withnote",
-                  "conditioned": true
-                },
-                {
-                  "type": "saves",
-                  "id": "9999386a58ea",
-                  "properties": [
-                    "saves"
-                  ],
-                  "fallback": "-",
-                  "dice": true,
-                  "display": "",
-                  "conditioned": true,
-                  "callback": "const keys = [...Object.keys(property)];\nconst name = keys.shift();\n\nif (name === \"note\") {\n  return {note: property.note};\n}\n\nvar note;\nvar stats = [];\nfor (const key of keys) {\n  if (key === \"note\") {\n    note = property[key];\n  } else {\n    const sign = property[key] < 0 ? \"-\" : \"+\";\n    const num = Math.abs(property[key]);\n    stats.push(`(${sign}${num} ${key})`);\n  }\n}\n\nif (stats.length == 0 && !note) {\n  return property;\n}\n\nstats.unshift(\n  (property[name] < 0 ? \"-\" : \"+\") +\n  Math.abs(property[name]));\nconst parts = [stats.join(\" \")];\nif (note) {\n  parts.push(note);\n}\nreturn {[name]: parts.join(\", \")};"
-                }
+              "type": "traits",
+              "id": "68ca69891bea",
+              "properties": [
+                "armorclass"
               ],
-              "cls": "oneline",
-              "conditioned": true
+              "fallback": "-",
+              "heading": "",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true
             },
             {
-              "type": "inline",
-              "id": "ea29d9ea5aa8",
-              "properties": [],
-              "nested": [
-                {
-                  "type": "inline",
-                  "id": "39584be95ae9",
-                  "properties": [],
-                  "nested": [
-                    {
-                      "type": "property",
-                      "id": "bb6989092939",
-                      "properties": [
-                        "hp"
-                      ],
-                      "fallback": "-",
-                      "display": "HP"
-                    },
-                    {
-                      "type": "property",
-                      "id": "b9fa1a89c8d9",
-                      "properties": [
-                        "hpNote"
-                      ],
-                      "fallback": "-",
-                      "doNotAddClass": false,
-                      "conditioned": true,
-                      "display": ""
-                    }
-                  ],
-                  "cls": "withnote",
-                  "conditioned": true
-                },
-                {
-                  "type": "property",
-                  "id": "4bbaa9380a9b",
-                  "properties": [
-                    "hardness"
-                  ],
-                  "fallback": "-",
-                  "display": "Hardness",
-                  "conditioned": true
-                },
-                {
-                  "type": "property",
-                  "id": "0a8ac8d96bba",
-                  "properties": [
-                    "immunities"
-                  ],
-                  "fallback": "-",
-                  "conditioned": true,
-                  "display": "Immunities"
-                },
-                {
-                  "type": "property",
-                  "id": "78689b6b6b79",
-                  "properties": [
-                    "weaknesses"
-                  ],
-                  "fallback": "-",
-                  "conditioned": true,
-                  "display": "Weaknesses"
-                },
-                {
-                  "type": "property",
-                  "id": "8b7a3b89fa59",
-                  "properties": [
-                    "resistances"
-                  ],
-                  "fallback": "-",
-                  "conditioned": true,
-                  "display": "Resistances"
-                }
+              "type": "traits",
+              "id": "9b1998e9a8da",
+              "properties": [
+                "health"
               ],
-              "cls": "oneline",
-              "conditioned": true
+              "fallback": "-",
+              "heading": "",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true
             },
             {
               "type": "traits",
@@ -2094,18 +2093,19 @@
               "dice": true,
               "markdown": true,
               "headingProp": false,
-              "heading": "",
-              "callback": "var s = \"\";\nif (property.bonus) {\n  s += (property.bonus < 0 ? \"-\" : \"+\") + Math.abs(property.bonus);\n}\nif (property.desc) {\n  s += \" \" + property.desc\n}\nif (property.damage) {\n  s += \", __Damage__ \" + property.damage\n}\nreturn s"
+              "heading": ""
             },
             {
               "type": "traits",
-              "id": "faeafb7b6b1b",
+              "id": "6919b8996939",
               "properties": [
                 "spellcasting"
               ],
               "fallback": "-",
-              "conditioned": true,
-              "dice": true
+              "heading": " ",
+              "markdown": true,
+              "dice": true,
+              "conditioned": true
             },
             {
               "type": "traits",
@@ -2157,23 +2157,23 @@
           "display": " Source:"
         }
       ],
-      "name": "Pathfinder 2e Creature Layout",
-      "id": "b8ab3ae89a0a",
+      "name": "Basic Pathfinder 2e Layout",
+      "id": "path-2e-block",
+      "version": 2,
       "diceParsing": [
         {
-          "regex": "(\\s|^)(\\d+d\\d+(?:\\s*[+-]\\s*\\d+)?)(\\W|$)",
-          "parser": "const [, before, text, after] = matches;\nreturn [before + text, \" (\", { text }, \")\", after];",
-          "id": "4a79397b896a",
-          "desc": "1d6+10"
+          "regex": "\\((\\d+d\\d+(?:\\s*[+-]\\s*\\d+)?)\\)",
+          "parser": "const [, text] = matches;\nreturn [\"(\", { text }, \")\"];",
+          "id": "4beb2be86b3a",
+          "desc": "(1d8+3)"
         },
         {
-          "regex": "(^|\\s)([+-]\\d+)(\\W|$)(?!status|bonus)",
-          "parser": "let [, before, bonus, after] = matches;\nreturn [\n  before + bonus,\n  \" (\", { text: \"1d20\" + bonus }, \")\",\n  after\n];",
-          "id": "8bb8fbbb0869",
-          "desc": "+15"
+          "regex": "(\\w+?) ([+-])(\\d+)",
+          "parser": "let [, initial, sign, number] = matches;\nlet mult = 1;\nif (sign === \"-\") {\n    mult = -1;\n}\nlet text;\nif (!isNaN(Number(number))) {\n    text = `1d20+${mult * Number(number)}`;\n}\nreturn [original, \" (\", { text }, \")\"];",
+          "id": "6878da48bb4b",
+          "desc": "longsword +15"
         }
       ],
-      "edited": true,
       "removed": true
     },
     "basic-fate-core-layout": {
