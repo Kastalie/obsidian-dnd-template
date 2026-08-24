@@ -2077,6 +2077,469 @@
         ],
         "legendary_actions": []
       }
+    ],
+    [
+      "Jabberwock",
+      {
+        "name": "Jabberwock",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Grande",
+        "type": "dragon",
+        "subtype": "",
+        "alignment": "généralement chaotique mauvais",
+        "ac": 18,
+        "hp": 115,
+        "hit_dice": "10d12 + 50",
+        "speed": "9 m, escalade 9 m, nage 9 m, vol 18 m",
+        "stats": [
+          20,
+          12,
+          20,
+          4,
+          7,
+          11
+        ],
+        "saves": [
+          {
+            "strength": 10
+          },
+          {
+            "dexterity": 6
+          },
+          {
+            "constitution": 10
+          },
+          {
+            "wisdom": 2
+          },
+          {
+            "charisma": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 8
+          }
+        ],
+        "damage_vulnerabilities": "dégâts tranchants d'une épée vorpale",
+        "damage_resistances": "",
+        "damage_immunities": "poison",
+        "condition_immunities": "charmé, effrayé, empoisonné",
+        "senses": "vision lucide 36 m, Perception passive 18",
+        "languages": "",
+        "cr": "13",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Glouglou déroutant",
+            "desc": "À moins d'être neutralisé, le jabberwock glougloute en permanence. Toute créature qui commence son tour dans un rayon de 9 m du jabberwock et qui entend ce babillage effectue un jet de sauvegarde de Charisme DD 18. En cas d'échec, la créature ne peut pas jouer de réaction jusqu'au début de son tour suivant et lance un d4 pour déterminer ce qu'elle fait pour le tour : 1-2 la créature ne fait rien ; 3 la créature ne fait rien, si ce n'est consacrer tout son déplacement restant à aller dans une direction aléatoire ; 4 la créature effectue une attaque de corps à corps contre une créature aléatoire qu'elle voit, ou ne fait rien si aucune créature visible n'est à portée d'allonge."
+          },
+          {
+            "name": "Régénération",
+            "desc": "Le jabberwock récupère 10 points de vie au début de son tour. S'il subit des dégâts tranchants, ce trait ne fonctionne pas au début de son tour suivant. Le jabberwock ne meurt que s'il commence son tour à 0 point de vie et ne se régénère pas."
+          },
+          {
+            "name": "Résistance légendaire (3/jour)",
+            "desc": "Si le jabberwock rate un jet de sauvegarde, il peut choisir de le réussir à la place."
+          },
+          {
+            "name": "Traqueur infaillible",
+            "desc": "Le jabberwock peut traquer infailliblement toute créature qu'il a blessée depuis moins de 24 heures et connaît la direction de sa proie ainsi que la distance qui l'en sépare, à condition qu'elle se trouve sur le même plan d'existence que lui."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le jabberwock effectue deux attaques de Saignée-Queue.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Queue",
+            "desc": "Attaque d'arme au corps à corps : +10 pour toucher, allonge 4,50 m, une cible. Touché : 10 (1d10 + 5) dégâts contondants.",
+            "attack_bonus": 10,
+            "damage_dice": "1d10",
+            "damage_bonus": 5
+          },
+          {
+            "name": "Saignée",
+            "desc": "Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible. Touché : 21 (3d10 + 5) dégâts tranchants.",
+            "attack_bonus": 10,
+            "damage_dice": "3d10",
+            "damage_bonus": 5
+          },
+          {
+            "name": "Regard ardent (Recharge 5-6)",
+            "desc": "À moins d'être aveuglé, le jabberwock fait jaillir de ses yeux une ligne de flammes de 36 m de long pour 1,50 m de large. Chaque créature présente dans cette ligne effectue un jet de sauvegarde de Dextérité DD 18 et subit 31 (7d8) dégâts de feu en cas d'échec, ou la moitié en cas de réussite.",
+            "attack_bonus": 0
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Attaque de queue",
+            "desc": "Le jabberwock effectue une attaque de Queue."
+          },
+          {
+            "name": "Attaque de saignée (coûte 2 actions)",
+            "desc": "Le jabberwock effectue une attaque de Saignée."
+          },
+          {
+            "name": "Battement d'ailes (coûte 3 actions)",
+            "desc": "Le jabberwock bat violemment des ailes. Chaque créature dans un rayon de 3 m doit réussir un jet de sauvegarde de Dextérité DD 18 sous peine de subir 8 (1d6 + 5) dégâts contondants et d'être jetée à terre."
+          }
+        ]
+      }
+    ],
+    [
+      "Jumelle du sélénélion",
+      {
+        "name": "Jumelle du sélénélion",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "elfe",
+        "alignment": "chaotique bon",
+        "ac": 14,
+        "hp": 33,
+        "hit_dice": "6d8 + 6",
+        "speed": "9 m",
+        "stats": [
+          7,
+          18,
+          13,
+          12,
+          10,
+          17
+        ],
+        "saves": [
+          {
+            "dexterity": 6
+          },
+          {
+            "charisma": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobaties": 8
+          },
+          {
+            "discrétion": 6
+          },
+          {
+            "escamotage": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "languages": "commun, elfique",
+        "cr": "2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Ascendance féerique",
+            "desc": "Les jumelles du sélénélion, Miroite et Scintille, sont avantagées aux jets de sauvegarde contre l'état charmé et la magie ne peut pas les endormir."
+          },
+          {
+            "name": "Gémellité",
+            "desc": "Tant que les deux jumelles du sélénélion sont vivantes et sur le même plan d'existence, chacune a conscience des émotions de l'autre."
+          },
+          {
+            "name": "Régénération",
+            "desc": "Une jumelle du sélénélion récupère 5 points de vie au début de son tour, à condition que les deux jumelles soient en vie et dans un rayon de 18 m l'une de l'autre. Une jumelle ne meurt que si elle commence son tour à 0 point de vie et ne se régénère pas."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps à corps ou à distance : +6 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 6 (1d4 + 4) dégâts perforants.",
+            "attack_bonus": 6,
+            "damage_dice": "1d4",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Rayon de lune (Miroite uniquement, 3/jour)",
+            "desc": "Attaque de sort à distance : +5 pour toucher, portée 18 m, une créature. Touché : 12 (2d8 + 3) dégâts radiants et la cible doit réussir un jet de sauvegarde de Sagesse DD 13 sous peine d'être transformée en chauve-souris pendant 1 minute, comme selon l'effet du sort métamorphose. La cible peut réitérer le jet de sauvegarde à la fin de chacun de ses tours et mettre un terme à l'effet sur elle-même en cas de réussite.",
+            "attack_bonus": 5,
+            "damage_dice": "2d8",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Rayon de soleil (Scintille uniquement, 3/jour)",
+            "desc": "Attaque de sort à distance : +5 pour toucher, portée 18 m, une créature. Touché : 12 (2d8 + 3) dégâts radiants et la cible doit réussir un jet de sauvegarde de Sagesse DD 13 sous peine d'être aveuglée pendant 1 minute. La cible peut réitérer le jet de sauvegarde à la fin de chacun de ses tours et mettre un terme à l'effet sur elle-même en cas de réussite.",
+            "attack_bonus": 5,
+            "damage_dice": "2d8",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "actions_speciales": [
+          {
+            "name": "Vision jumelle (Recharge après un repos court ou long)",
+            "desc": "Une jumelle du sélénélion visualise ce que son double voit pendant un maximum de 1 minute, à condition qu'elles soient toutes deux sur le même plan d'existence. Maintenir cet effet demande de la concentration (comme pour un sort)."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Korred",
+      {
+        "name": "Korred",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Petite",
+        "type": "fée",
+        "subtype": "",
+        "alignment": "généralement chaotique neutre",
+        "ac": 17,
+        "hp": 93,
+        "hit_dice": "11d6 + 55",
+        "speed": "9 m, fouissement 9 m",
+        "stats": [
+          23,
+          14,
+          20,
+          10,
+          15,
+          9
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "athlétisme": 9
+          },
+          {
+            "discrétion": 5
+          },
+          {
+            "perception": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "contondants, perforants et tranchants des attaques non magiques",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "perception des vibrations 36 m, vision dans le noir 36 m, Perception passive 15",
+        "languages": "commun des profondeurs, gnome, nain, sylvestre, terreux",
+        "cr": "7",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Camouflage dans la rocaille",
+            "desc": "Le korred est avantagé aux tests de Dextérité (Discrétion) visant à se cacher en terrain rocheux."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le korred effectue deux attaques de Massue ou de Rocher."
+          },
+          {
+            "name": "Massue",
+            "desc": "Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une cible. Touché : 10 (1d8 + 6) dégâts contondants, ou 19 (3d8 + 6) dégâts contondants si le korred est au contact du sol.",
+            "attack_bonus": 9,
+            "damage_dice": "1d8",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Rocher",
+            "desc": "Attaque d'arme à distance : +9 pour toucher, portée 18/36 m, une cible. Touché : 10 (1d8 + 6) dégâts contondants, ou 19 (3d8 + 6) dégâts contondants si le korred est au contact du sol.",
+            "attack_bonus": 9,
+            "damage_dice": "1d8",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Incantation",
+            "desc": "Le korred lance l'un des sorts suivants sans composante matérielle, la Sagesse étant sa caractéristique d'incantation (DD 13).\n\nÀ volonté : communion avec la nature (au prix d'une action), façonnage de la pierre, fusion dans la pierre.\n\n1/jour : danse irrésistible d'Otto."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Cheveux enchantés",
+            "desc": "Le korred possède au minimum une corde de 15 m de long tissée de sa tignasse. Par une action bonus, il commande à une telle corde située dans un rayon de 9 m de lui de se déplacer d'un maximum de 6 m et d'enchevêtrer une créature de taille G ou inférieure qu'il voit. La cible doit réussir un jet de sauvegarde de Dextérité DD 13 sous peine d'être agrippée par la corde (évasion DD 13). Tant que la corde l'agrippe, la cible est entravée. Le korred peut par une action bonus libérer la cible, qui est également libérée si le korred meurt ou est neutralisé.\n\nUne corde issue des cheveux d'un korred présente une CA de 20 et 20 points de vie. Elle récupère 1 point de vie au début de chaque tour du korred à condition qu'il lui reste au minimum 1 point de vie et que le korred soit vivant. Une corde qui tombe à 0 point de vie est détruite."
+          }
+        ]
+      }
+    ],
+    [
+      "Libellule géante",
+      {
+        "name": "Libellule géante",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Grande",
+        "type": "bête",
+        "subtype": "",
+        "alignment": "non alignée",
+        "ac": 16,
+        "hp": 22,
+        "hit_dice": "4d10",
+        "speed": "3 m, vol 18 m",
+        "stats": [
+          15,
+          18,
+          11,
+          3,
+          10,
+          3
+        ],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Perception passive 10",
+        "languages": "",
+        "cr": "1/2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Bourdonnement",
+            "desc": "Lorsque la libellule bat des ailes, elle émet un bourdonnement sonore qui s'entend à 36 m à la ronde."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d4 + 4) dégâts perforants.",
+            "attack_bonus": 6,
+            "damage_dice": "1d4",
+            "damage_bonus": 4
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Esquive instinctive",
+            "desc": "La libellule réduit de moitié les dégâts causés par une attaque réussie contre elle, à condition de voir l'attaquant."
+          }
+        ]
+      }
+    ],
+    [
+      "Aîné obscur",
+      {
+        "name": "Aîné obscur",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "fée",
+        "subtype": "",
+        "alignment": "généralement chaotique neutre",
+        "ac": 15,
+        "hp": 27,
+        "hit_dice": "5d8 + 5",
+        "speed": "9 m",
+        "stats": [
+          13,
+          17,
+          12,
+          10,
+          14,
+          13
+        ],
+        "skillsaves": [
+          {
+            "acrobaties": 5
+          },
+          {
+            "discrétion": 7
+          },
+          {
+            "perception": 6
+          },
+          {
+            "tromperie": 3
+          }
+        ],
+        "senses": "vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16",
+        "languages": "elfique, sylvestre",
+        "cr": "2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Bûcher funèbre",
+            "desc": "Quand l'aîné obscur meurt, une lumière magique de 3 m de rayon en surgit, tandis que son corps et ses biens non métalliques et non magiques sont réduits en cendres. Chaque créature prise dans la zone doit effectuer un jet de sauvegarde de Constitution DD 11. En cas d'échec, la créature subit 7 (2d6) dégâts radiants et se retrouve aveuglée jusqu'à la fin de son tour suivant. En cas de réussite, la créature subit la moitié de ces dégâts et n'est pas aveuglée."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "L'aîné obscur effectue deux attaques de Cimeterre."
+          },
+          {
+            "name": "Cimeterre",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants plus 7 (2d6) dégâts nécrotiques.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Ténèbres (Recharge après un repos court ou long)",
+            "desc": "L'aîné obscur lance ténèbres sans composante matérielle, la Sagesse étant sa caractéristique d'incantation."
+          }
+        ]
+      }
+    ],
+    [
+      "Obscur",
+      {
+        "name": "Obscur",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Petite",
+        "type": "fée",
+        "subtype": "",
+        "alignment": "généralement chaotique neutre",
+        "ac": 14,
+        "hp": 13,
+        "hit_dice": "3d6 + 3",
+        "speed": "9 m",
+        "stats": [
+          9,
+          16,
+          12,
+          10,
+          12,
+          10
+        ],
+        "skillsaves": [
+          {
+            "acrobaties": 5
+          },
+          {
+            "discrétion": 7
+          },
+          {
+            "perception": 5
+          },
+          {
+            "tromperie": 2
+          }
+        ],
+        "senses": "vision aveugle 9 m, vision dans le noir 36 m, Perception passive 15",
+        "languages": "elfique, sylvestre",
+        "cr": "1/2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Éclat funèbre",
+            "desc": "Quand l'obscur meurt, une lumière magique de 3 m de rayon en surgit, tandis que son corps et ses biens non métalliques et non magiques sont réduits en cendres. Chaque créature prise dans la zone doit réussir un jet de sauvegarde de Constitution DD 10 sous peine d'être aveuglée jusqu'à la fin de son tour suivant."
+          },
+          {
+            "name": "Sensibilité à la lumière",
+            "desc": "Quand l'obscur est exposé à une lumière vive, il est désavantagé aux jets d'attaque ainsi qu'aux tests de Sagesse (Perception) basés sur la vue."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps à corps ou à distance : +5 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants plus 7 (2d6) dégâts nécrotiques.",
+            "attack_bonus": 5,
+            "damage_dice": "1d4",
+            "damage_bonus": 3
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {
