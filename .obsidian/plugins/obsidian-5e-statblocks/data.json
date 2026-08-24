@@ -191,8 +191,96 @@
       "Agdon Longchâle",
       {
         "name": "Agdon Longchâle",
-        "status": "À compléter depuis le PDF",
-        "source": "Carnaval"
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "fée",
+        "subtype": "conil",
+        "alignment": "chaotique mauvaise",
+        "ac": 19,
+        "hp": 36,
+        "hit_dice": "8d8",
+        "speed": "10,50 m, ou 21 m tant qu'il porte son châle",
+        "stats": [
+          11,
+          20,
+          11,
+          11,
+          14,
+          16
+        ],
+        "saves": [
+          {
+            "dexterity": 7
+          },
+          {
+            "wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobaties": 7
+          },
+          {
+            "discrétion": 7
+          },
+          {
+            "escamotage": 7
+          },
+          {
+            "perception": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Perception passive 16",
+        "languages": "commun, sylvestre",
+        "cr": "2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Esquive totale",
+            "desc": "Si Agdon est soumis à un effet qui lui permet d'effectuer un jet de sauvegarde de Dextérité pour réduire les dégâts de moitié, il ne subit en fait aucun dégât en cas de sauvegarde réussie, et seulement la moitié en cas d'échec, à condition de ne pas être neutralisé."
+          },
+          {
+            "name": "Saut sans élan",
+            "desc": "Les sauts en longueur d'Agdon peuvent atteindre 6 m et ses sauts en hauteur 3 m, avec ou sans élan."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Agdon effectue deux attaques de Fer rouge ou de Dague."
+          },
+          {
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps à corps ou à distance : +7 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 7 (1d4 + 5) dégâts perforants.",
+            "attack_bonus": 7,
+            "damage_dice": "1d4",
+            "damage_bonus": 5
+          },
+          {
+            "name": "Fer rouge",
+            "desc": "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 10 (3d6) dégâts de feu, et la cible est marquée magiquement. Agdon est invisible pour les créatures ainsi marquées. La marque disparaît d'elle-même au bout de 24 heures et peut être retirée d'une créature ou d'un objet au moyen de n'importe quel sort qui lève une malédiction.",
+            "attack_bonus": 7,
+            "damage_dice": "3d6",
+            "damage_bonus": 0
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Doigts agiles",
+            "desc": "Agdon cible une créature qu'il voit dans un rayon de 1,50 m et effectue un test de Dextérité (Escamotage), avec un DD égal à la valeur de Sagesse (Perception) passive de la cible. En cas de réussite, il vole un objet pesant 0,5 kg ou moins que la cible a en sa possession mais pas dans sa main, à l'insu de la cible."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Esquive instinctive",
+            "desc": "Agdon réduit de moitié les dégâts qu'il subit d'une attaque qui le touche. Il doit voir l'assaillant."
+          }
+        ],
+        "legendary_actions": []
       }
     ],
     [
@@ -3037,6 +3125,311 @@
             "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 3 dégâts perforants.",
             "attack_bonus": 5,
             "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Talavar",
+      {
+        "name": "Talavar",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Petite",
+        "type": "dragon",
+        "subtype": "dragon féerique bleu",
+        "alignment": "chaotique bon",
+        "ac": 15,
+        "hp": 14,
+        "hit_dice": "4d4 + 4",
+        "speed": "3 m, vol 18 m",
+        "stats": [
+          3,
+          20,
+          13,
+          14,
+          12,
+          16
+        ],
+        "skillsaves": [
+          {
+            "perception": 3
+          },
+          {
+            "discrétion": 8
+          }
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 13",
+        "languages": "commun, draconique, sylvestre",
+        "cr": "1",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Vue magique",
+            "desc": "Talavar voit les créatures invisibles et les objets magiques dans un rayon de 3 m."
+          },
+          {
+            "name": "Résistance à la magie",
+            "desc": "Talavar est avantagé aux jets de sauvegarde contre les sorts et autres effets magiques."
+          },
+          {
+            "name": "Incantation innée",
+            "desc": "Charisme comme caractéristique d'incantation (DD 13). À volonté : illusion mineure, lumière dansante, main du mage."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants."
+          },
+          {
+            "name": "Souffle euphorique",
+            "desc": "Cône de 3 m. Chaque créature dans la zone doit réussir un jet de sauvegarde de Sagesse DD 13 sous peine d'être charmée pendant 1 minute. Tant qu'elle est charmée, la créature est incapable d'effectuer une action hostile. Elle peut refaire le jet de sauvegarde à la fin de chacun de ses tours."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Invisibilité",
+            "desc": "Talavar devient magiquement invisible jusqu'à ce qu'il attaque, lance un sort ou mette fin à l'effet."
+          }
+        ]
+      }
+    ],
+    [
+      "Lion",
+      {
+        "name": "Lion",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Grande",
+        "type": "bête",
+        "subtype": "",
+        "alignment": "sans alignement",
+        "ac": 12,
+        "hp": 26,
+        "hit_dice": "4d10 + 4",
+        "speed": "15 m",
+        "stats": [
+          17,
+          15,
+          13,
+          3,
+          12,
+          8
+        ],
+        "skillsaves": [
+          {
+            "discrétion": 6
+          },
+          {
+            "perception": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Perception passive 13",
+        "languages": "",
+        "cr": "1",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Odorat aiguisé",
+            "desc": "Le lion est avantagé aux jets de Sagesse (Perception) basés sur l'odorat."
+          },
+          {
+            "name": "Tactique de groupe",
+            "desc": "Le lion est avantagé aux jets d'attaque contre une créature si au moins l'un de ses alliés est à 1,50 m ou moins de la créature et n'est pas incapable d'agir."
+          },
+          {
+            "name": "Bond agressif",
+            "desc": "Si le lion se déplace d'au moins 6 m en ligne droite vers une créature, puis la touche avec une attaque avec ses griffes dans le même tour, la cible doit réussir un jet de sauvegarde de Force DD 13 sous peine de tomber à terre. Si la cible est à terre, le lion peut effectuer une attaque de morsure contre elle en tant qu'action bonus."
+          },
+          {
+            "name": "Saut avec élan",
+            "desc": "S'il peut prendre une course d'élan de 3 m, le lion peut sauter jusqu'à 7,50 m."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Griffes",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants.",
+            "attack_bonus": 5,
+            "damage_dice": "1d8",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Singe de cirque",
+      {
+        "name": "Singe de cirque",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Petite",
+        "type": "bête",
+        "subtype": "",
+        "alignment": "sans alignement",
+        "ac": 12,
+        "hp": 3,
+        "hit_dice": "1d6",
+        "speed": "9 m, escalade 9 m",
+        "stats": [
+          8,
+          14,
+          11,
+          4,
+          12,
+          6
+        ],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Perception passive 11",
+        "languages": "",
+        "cr": "0",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Tactique de groupe",
+            "desc": "Le babouin est avantagé aux jets d'attaque contre une créature si au moins l'un de ses alliés est à 1,50 m ou moins de la créature et n'est pas incapable d'agir."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +1 pour toucher, allonge 1,50 m, une cible. Touché : 1 (1d4 − 1) dégâts perforants.",
+            "attack_bonus": 1,
+            "damage_dice": "1d4",
+            "damage_bonus": -1
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Éléphant",
+      {
+        "name": "Éléphant",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Grande",
+        "type": "bête",
+        "subtype": "",
+        "alignment": "sans alignement",
+        "ac": 12,
+        "hp": 76,
+        "hit_dice": "8d12 + 24",
+        "speed": "12 m",
+        "stats": [
+          22,
+          9,
+          17,
+          3,
+          11,
+          6
+        ],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Perception passive 10",
+        "languages": "",
+        "cr": "4",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Charge écrasante",
+            "desc": "Si l'éléphant se déplace d'au moins 6 m en ligne droite vers une créature, puis la touche lors d'une attaque avec ses défenses dans le même tour, la cible doit réussir un jet de sauvegarde de Force DD 12 pour ne pas être jetée à terre. Si la cible est à terre, l'éléphant peut réaliser une attaque de piétinement contre elle-ci par une action bonus."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Défenses",
+            "desc": "Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible. Touché : 19 (3d8 + 6) dégâts perforants.",
+            "attack_bonus": 8,
+            "damage_dice": "3d8",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Piétinement",
+            "desc": "Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une créature à terre. Touché : 22 (3d10 + 6) dégâts contondants.",
+            "attack_bonus": 8,
+            "damage_dice": "3d10",
+            "damage_bonus": 6
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Éléphanteau",
+      {
+        "name": "Éléphanteau",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Grande",
+        "type": "bête",
+        "subtype": "",
+        "alignment": "sans alignement",
+        "ac": 12,
+        "hp": 60,
+        "hit_dice": "8d10 + 16",
+        "speed": "12 m",
+        "stats": [
+          18,
+          9,
+          15,
+          3,
+          11,
+          6
+        ],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Perception passive 10",
+        "languages": "",
+        "cr": "3",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Charge écrasante",
+            "desc": "Si l'éléphanteau se déplace d'au moins 6 m en ligne droite vers une créature, puis la touche lors d'une attaque avec ses défenses dans le même tour, la cible doit réussir un jet de sauvegarde de Force DD 12 pour ne pas être jetée à terre. Si la cible est à terre, l'éléphanteau peut réaliser une attaque de piétinement contre celle-ci par une action bonus."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Défenses",
+            "desc": "Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible. Touché : 19 (3d8 + 6) dégâts perforants.",
+            "attack_bonus": 8,
+            "damage_dice": "3d8",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Piétinement",
+            "desc": "Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une créature à terre. Touché : 22 (3d10 + 6) dégâts contondants.",
+            "attack_bonus": 8,
+            "damage_dice": "3d10",
+            "damage_bonus": 6
           }
         ],
         "bonus_actions": [],
