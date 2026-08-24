@@ -120,34 +120,41 @@
         "damage_immunities": "",
         "condition_immunities": "",
         "senses": "passive Perception 12",
-        "languages": "understands Auran and Common, but speaks only through its Mimicry trait",
+        "languages": "comprend l'aérien et le commun, mais ne parle que par le biais de son trait Imitation",
         "cr": "1",
         "bestiary": true,
         "traits": [
           {
-            "name": "Mimicry",
-            "desc": "The kenku can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 13 Wisdom (Insight) check.",
+            "name": "Imitation",
+            "desc": "La Bouilloire peut imiter tous les sons qu’elle entend, y compris les voix. Une créature qui l’entend se rend compte qu’il s’agit d’une imitation si elle réussit un test de Sagesse (Intuition) DD 13.",
             "attack_bonus": 0
           }
         ],
         "actions": [
           {
-            "name": "Multiattack",
-            "desc": "La Bouilloire makes two dagger attacks.",
+            "name": "Attaques multiples",
+            "desc": "La Bouilloire effectue deux attaques de Dague.",
             "attack_bonus": 0
           },
           {
-            "name": "Dagger",
-            "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.",
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps à corps ou à distance : +5 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants.",
             "attack_bonus": 5,
             "damage_dice": "1d4",
             "damage_bonus": 3
           },
           {
-            "name": "Spellcasting",
-            "desc": "La Bouilloire casts one of the following spells. Charisma is its spellcasting ability (spell save DC 13).\n\nAt will:\n- Disguise "
+            "name": "Incantation",
+            "desc": "La Bouilloire lance l'un des sorts suivants, le Charisme étant sa caractéristique d'incantation (DD de sauvegarde des sorts 13).\n\nÀ volonté : déguisement, faux amis, illusion mineure, main du mage.\n\n1/jour chacun : communication avec les animaux, lueurs féeriques, malédiction.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Sommeil crépusculaire (2/jour)",
+            "desc": "La Bouilloire cible une créature qu'elle voit dans un rayon de 3 m. La cible se retrouve engloutie par un nuage de gaz magique somnifère et doit réussir un jet de sauvegarde de Constitution DD 13 sous peine de tomber inconsciente pendant 1 minute. Toute créature endormie de la sorte se réveille dès qu'elle subit des dégâts ou que quelqu'un consacre une action à la secouer ou la gifler.",
+            "attack_bonus": 0
           }
-        ]
+        ],
+        "legendary_actions": []
       }
     ]
   ],
