@@ -1,5 +1,72 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Fomorien",
+      {
+        "name": "Fomorien",
+        "source": "Manuel des Monstres",
+        "size": "Très Grande",
+        "type": "géant",
+        "subtype": "",
+        "alignment": "chaotique mauvais",
+        "ac": 14,
+        "hp": 149,
+        "hit_dice": "13d12 + 65",
+        "speed": "9 m",
+        "stats": [
+          23,
+          10,
+          20,
+          9,
+          14,
+          6
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "discrétion": 3
+          },
+          {
+            "perception": 8
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "vision dans le noir 36 m, Perception passive 18",
+        "languages": "géant, commun des profondeurs",
+        "cr": "8",
+        "bestiary": true,
+        "traits": [],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le fomorien attaque deux fois avec sa massue ou effectue une attaque avec sa massue et utilise une fois Mauvais œil.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Massue",
+            "desc": "Attaque au corps à corps avec une arme : +9 au toucher, allonge 4,50 m, une cible. Touché : 19 (3d8 + 6) dégâts contondants.",
+            "attack_bonus": 9,
+            "damage_dice": "3d8",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Mauvais œil",
+            "desc": "Le fomorien force par magie une créature qu'il peut voir dans un rayon de 18 m autour de lui à effectuer un jet de sauvegarde de Charisme DD 14. La créature subit 24 (6d8) dégâts psychiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Malédiction du mauvais œil (Recharge après un repos court ou long)",
+            "desc": "D'un regard, le fomorien utilise Mauvais œil, mais en cas d'échec au jet de sauvegarde, la créature est également maudite de difformités magiques.\n\nTant qu'elle est déformée, la créature a une vitesse divisée par deux et un désavantage aux tests de caractéristique, jets de sauvegarde et jets d'attaque basés sur la Force ou la Dextérité.\n\nLa créature transformée peut retenter son jet de sauvegarde chaque fois qu'elle termine un repos long, mettant fin à l'effet en cas de réussite.",
+            "attack_bonus": 0
+          }
+        ],
+        "legendary_actions": []
+      }
+    ]
+  ],
   "defaultLayouts": {
     "path-2e-block": {
       "blocks": [
