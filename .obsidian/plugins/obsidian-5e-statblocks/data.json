@@ -199,16 +199,157 @@
       "Amidor le pissenlit",
       {
         "name": "Amidor le pissenlit",
-        "status": "À compléter depuis le PDF",
-        "source": "Carnaval"
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Petite",
+        "type": "plante",
+        "subtype": "",
+        "alignment": "neutre bon",
+        "ac": 12,
+        "hp": 28,
+        "hit_dice": "8d6",
+        "speed": "9 m",
+        "stats": [
+          6,
+          15,
+          10,
+          13,
+          12,
+          17
+        ],
+        "saves": [
+          {
+            "strength": 0
+          },
+          {
+            "dexterity": 4
+          },
+          {
+            "constitution": 2
+          },
+          {
+            "wisdom": 3
+          }
+        ],
+        "skillsaves": [
+          {
+            "discrétion": 4
+          },
+          {
+            "perception": 3
+          },
+          {
+            "persuasion": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Perception passive 13",
+        "languages": "commun, sylvestre",
+        "cr": "1/2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Communication avec les bêtes et les plantes",
+            "desc": "Amidor peut communiquer avec les Bêtes et les Plantes comme s'ils parlaient la même langue."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Rapière",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants.",
+            "attack_bonus": 4,
+            "damage_dice": "1d8",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Fronde à graines",
+            "desc": "Attaque d'arme à distance : +4 pour toucher, portée 9/36 m, une cible. Touché : 4 (1d4 + 2) dégâts contondants.",
+            "attack_bonus": 4,
+            "damage_dice": "1d4",
+            "damage_bonus": 2
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Parade",
+            "desc": "Amidor ajoute 2 à sa CA contre une attaque de corps à corps censée le toucher. Pour ce faire, Amidor doit voir l'attaquant et manier une arme de corps à corps."
+          }
+        ],
+        "bonus_actions": [],
+        "legendary_actions": []
       }
     ],
     [
       "Arbroyeux",
       {
         "name": "Arbroyeux",
-        "status": "À compléter depuis le PDF",
-        "source": "Carnaval"
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Grande",
+        "type": "plante",
+        "subtype": "",
+        "alignment": "généralement neutre mauvaise",
+        "ac": 15,
+        "hp": 138,
+        "hit_dice": "12d12 + 60",
+        "speed": "9 m",
+        "stats": [
+          23,
+          10,
+          20,
+          6,
+          10,
+          3
+        ],
+        "saves": [],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "assourdi, aveuglé",
+        "senses": "vision aveugle 18 m (ne voit rien au-delà), Perception passive 10",
+        "languages": "comprend le commun et le druidique, mais ne parle pas",
+        "cr": "7",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Faux-semblant",
+            "desc": "Si l'arbroyeux est immobile au début du combat, il est avantagé à son jet d'initiative. De plus, une créature qui n'a pas vu l'arbroyeux bouger doit réussir un test d'Intelligence (Investigation) DD 18 pour se rendre compte qu'il est animé."
+          },
+          {
+            "name": "Monstre de siège",
+            "desc": "L'arbroyeux inflige des dégâts doublés aux objets et aux structures."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "L'arbroyeux effectue une attaque de Branche et une attaque d'Étreinte végétale."
+          },
+          {
+            "name": "Branche",
+            "desc": "Attaque d'arme au corps à corps : +9 pour toucher, allonge 4,50 m, une cible. Touché : 16 (3d6 + 6) dégâts contondants.",
+            "attack_bonus": 9,
+            "damage_dice": "3d6",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Étreinte végétale",
+            "desc": "Attaque d'arme au corps à corps : +9 pour toucher, allonge 4,50 m, une créature non agrippée par l'arbroyeux. Touché : la cible est agrippée (évasion DD 15). Tant qu'elle est agrippée, la cible subit 9 (1d6 + 6) dégâts contondants au début de chacun de ses tours. La racine possède une CA de 15 et est coupée si elle subit au minimum 6 dégâts tranchants en une seule attaque. Couper la racine ne blesse pas l'arbroyeux mais met fin à la lutte.",
+            "attack_bonus": 9
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une créature agrippée par l'arbroyeux. Touché : 19 (3d8 + 6) dégâts perforants.",
+            "attack_bonus": 9,
+            "damage_dice": "3d8",
+            "damage_bonus": 6
+          }
+        ],
+        "legendary_actions": []
       }
     ],
     [
@@ -418,8 +559,59 @@
       "Cheval à bascule volant",
       {
         "name": "Cheval à bascule volant",
-        "status": "À compléter depuis le PDF",
-        "source": "Carnaval"
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "artificiel",
+        "subtype": "",
+        "alignment": "non aligné",
+        "ac": 15,
+        "hp": 22,
+        "hit_dice": "4d8 + 4",
+        "speed": "0 m, vol 12 m (uniquement quand monté, vol stationnaire)",
+        "stats": [
+          10,
+          10,
+          13,
+          1,
+          3,
+          1
+        ],
+        "saves": [],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "poison, psychique",
+        "condition_immunities": "assourdi, aveuglé, charmé, effrayé, empoisonné, épuisement, paralysé, pétrifié",
+        "senses": "vision aveugle 18 m (ne voit rien au-delà de ce rayon), Perception passive 6",
+        "languages": "",
+        "cr": "1/8",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Être singulier",
+            "desc": "Le cheval à bascule se passe d'air, de nourriture, de boisson et de sommeil et ne récupère ni points de vie ni dés de vie à la fin d'un repos long."
+          },
+          {
+            "name": "Faux-semblant",
+            "desc": "Si le cheval à bascule est immobile au début du combat, il est avantagé à son jet d'initiative. De plus, une créature qui n'a pas vu le cheval à bascule bouger ni agir doit réussir un test d'Intelligence (Investigation) DD 18 pour se rendre compte qu'il est animé."
+          },
+          {
+            "name": "Monture volante",
+            "desc": "Le cheval à bascule peut servir de monture à une créature de taille M ou inférieure et ne peut voler qu'en étant monté."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Coup de tête",
+            "desc": "Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts contondants.",
+            "attack_bonus": 2,
+            "damage_dice": "1d6",
+            "damage_bonus": 0
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
       }
     ],
     [
@@ -2539,6 +2731,317 @@
             "damage_bonus": 3
           }
         ]
+      }
+    ],
+    [
+      "Poupée vivante",
+      {
+        "name": "Poupée vivante",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Petite",
+        "type": "artificiel",
+        "subtype": "",
+        "alignment": "généralement neutre mauvais",
+        "ac": 11,
+        "hp": 28,
+        "hit_dice": "8d4 + 8",
+        "speed": "9 m",
+        "stats": [
+          3,
+          11,
+          13,
+          10,
+          10,
+          7
+        ],
+        "saves": [
+          {
+            "intelligence": 2
+          },
+          {
+            "wisdom": 2
+          },
+          {
+            "charisma": 0
+          }
+        ],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "poison",
+        "condition_immunities": "empoisonné, paralysé, pétrifié",
+        "senses": "vision dans le noir 9 m, Perception passive 10",
+        "languages": "commun",
+        "cr": "2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Être singulier",
+            "desc": "La poupée se passe d'air, de nourriture, de boisson et de sommeil."
+          },
+          {
+            "name": "Faux-semblant",
+            "desc": "Si la poupée est immobile au début du combat, elle est avantagée à son jet d'initiative. De plus, une créature qui ne l'a pas vue bouger doit réussir un test d'Intelligence (Investigation) DD 18 pour se rendre compte qu'elle est animée."
+          },
+          {
+            "name": "Régénération",
+            "desc": "La poupée récupère 5 points de vie au début de son tour. Si elle subit des dégâts psychiques ou de feu, ce trait ne fonctionne pas au début de son tour suivant. La poupée n'est détruite que si elle commence son tour à 0 point de vie et ne se régénère pas."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mains crochues",
+            "desc": "Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une créature. Touché : La cible est agrippée (évasion DD 6) et subit 1 (1d10) dégâts psychiques au début de chacun de ses tours tant qu'elle reste agrippée. La poupée ne peut agripper qu'une seule créature à la fois.",
+            "attack_bonus": 2
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Ricanement (Recharge 4-6)",
+            "desc": "La poupée ricane en ciblant une ou deux créatures qu'elle voit dans un rayon de 9 m. Chaque cible qui entend le ricanement effectue un jet de sauvegarde de Sagesse DD 11. En cas d'échec, la créature subit immédiatement 4 (1d8) dégâts psychiques et se retrouve neutralisée pendant 1 minute, elle-même en proie à un fou rire. À la fin de chacun de ses tours, la créature peut réitérer le jet de sauvegarde et mettre un terme à l'effet sur elle-même en cas de réussite. Une créature qui réussit ce jet de sauvegarde est immunisée contre le Ricanement de cette poupée pendant 24 heures."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Prestelin",
+      {
+        "name": "Prestelin",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Petite",
+        "type": "fée",
+        "subtype": "",
+        "alignment": "chaotique mauvais",
+        "ac": 16,
+        "hp": 10,
+        "hit_dice": "3d4 + 3",
+        "speed": "36 m",
+        "stats": [
+          4,
+          23,
+          13,
+          10,
+          12,
+          7
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "acrobaties": 8
+          },
+          {
+            "discrétion": 8
+          },
+          {
+            "escamotage": 8
+          },
+          {
+            "perception": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "vision dans le noir 18 m, Perception passive 15",
+        "languages": "commun, sylvestre",
+        "cr": "1",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Esquive totale",
+            "desc": "Si le prestelin est soumis à un effet qui lui permet d'effectuer un jet de sauvegarde de Dextérité pour réduire les dégâts de moitié, il ne subit en fait aucun dégât en cas de sauvegarde réussie, et seulement la moitié en cas d'échec, à condition de ne pas être neutralisé."
+          },
+          {
+            "name": "Vivacité de l'éclair",
+            "desc": "Les jets d'attaque contre le prestelin sont désavantagés, sauf s'il est neutralisé ou que sa vitesse est de 0."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le prestelin effectue trois attaques de Dague."
+          },
+          {
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps à corps ou à distance : +8 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 8 (1d4 + 6) dégâts perforants.",
+            "attack_bonus": 8,
+            "damage_dice": "1d4",
+            "damage_bonus": 6
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Griffepince l'épouvantail",
+      {
+        "name": "Griffepince l'épouvantail",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Petite",
+        "type": "artificiel",
+        "subtype": "",
+        "alignment": "loyal neutre",
+        "ac": 12,
+        "hp": 14,
+        "hit_dice": "4d6",
+        "speed": "7,50 m",
+        "stats": [
+          14,
+          13,
+          11,
+          7,
+          10,
+          10
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "discrétion": 3
+          },
+          {
+            "survie": 2
+          }
+        ],
+        "damage_vulnerabilities": "feu",
+        "damage_resistances": "",
+        "damage_immunities": "poison",
+        "condition_immunities": "charmé, effrayé, empoisonné, épuisement, inconscient, paralysé",
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "languages": "commun, sylvestre",
+        "cr": "1/2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Être singulier",
+            "desc": "Griffepince se passe d'air, de nourriture, de boisson et de sommeil."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Pinces",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 7 (2d4 + 2) dégâts tranchants.",
+            "attack_bonus": 5,
+            "damage_dice": "2d4",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Rembourrage",
+            "desc": "Griffepince se rembourre de paille ou d'une autre matière végétale morte et regagne 2d4 + 4 points de vie. Lancez 1d6 ; sur un 2, Griffepince est à court de rembourrage et doit consacrer 8 heures à en récolter avant de pouvoir réitérer cette action."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Présence dérangeante (Recharge 6)",
+            "desc": "Griffepince cible une créature qu'il voit dans un rayon de 4,50 m. La cible doit réussir un jet de sauvegarde de Sagesse DD 11 sous peine d'être effrayée magiquement jusqu'à la fin du tour suivant de Griffepince."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Giclette la burette d'huile",
+      {
+        "name": "Giclette la burette d'huile",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Petite",
+        "type": "artificiel",
+        "subtype": "",
+        "alignment": "chaotique neutre",
+        "ac": 15,
+        "hp": 17,
+        "hit_dice": "7d4",
+        "speed": "0 m, vol 9 m (vol stationnaire)",
+        "stats": [
+          3,
+          15,
+          10,
+          11,
+          8,
+          15
+        ],
+        "saves": [],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "poison",
+        "condition_immunities": "empoisonné, épuisement, inconscient, paralysé",
+        "senses": "Perception passive 9",
+        "languages": "commun, nain, sylvestre",
+        "cr": "1/4",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Être singulier",
+            "desc": "Giclette se passe d'air, de nourriture, de boisson et de sommeil."
+          },
+          {
+            "name": "Faux-semblant",
+            "desc": "Si Giclette est immobile au début du combat, elle est avantagée à son jet d'initiative. De plus, une créature qui n'a pas vu Giclette bouger ni agir doit réussir un test d'Intelligence (Investigation) DD 18 pour se rendre compte qu'elle est animée."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Coup",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts contondants.",
+            "attack_bonus": 4,
+            "damage_dice": "1d4",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Huile de farfadet (3 applications)",
+            "desc": "Giclette dépense 1 application d'huile de farfadet et crée une flaque d'huile glissante et non inflammable de 3 m de côté au sol, dans un rayon de 1,50 m d'elle. Cette flaque constitue un terrain difficile et persiste pendant 1 heure. Chaque créature qui pénètre dans la zone ou qui y commence son tour doit réussir un jet de sauvegarde de Dextérité DD 11 sous peine de tomber à terre. Les farfadets ne sont pas affectés par cette huile. Après avoir dépensé ses 3 applications, Giclette ne peut plus utiliser cette action jusqu'à ce que sa réserve d'huile de farfadet soit reconstituée."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Pollenella l'abeille",
+      {
+        "name": "Pollenella l'abeille",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Petite",
+        "type": "bête",
+        "subtype": "",
+        "alignment": "non alignée",
+        "ac": 13,
+        "hp": 1,
+        "hit_dice": "1d4 - 1",
+        "speed": "1,50 m, vol 9 m",
+        "stats": [
+          1,
+          16,
+          8,
+          1,
+          10,
+          1
+        ],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Perception passive 10",
+        "languages": "",
+        "cr": "0",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Dard",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 3 dégâts perforants.",
+            "attack_bonus": 5,
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
       }
     ]
   ],
