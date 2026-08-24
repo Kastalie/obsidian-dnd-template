@@ -242,6 +242,297 @@
         ],
         "legendary_actions": []
       }
+    ],
+    [
+      "Monsieur Sorcière",
+      {
+        "name": "Monsieur Sorcière",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "elfe, shadar-kaï",
+        "alignment": "chaotic good",
+        "ac": 10,
+        "hp": 82,
+        "hit_dice": "11d8 + 33",
+        "speed": "30 ft.",
+        "stats": [
+          14,
+          11,
+          16,
+          16,
+          13,
+          14
+        ],
+        "saves": [
+          {
+            "intelligence": 5
+          },
+          {
+            "wisdom": 3
+          }
+        ],
+        "skillsaves": [
+          {
+            "arcana": 5
+          },
+          {
+            "perception": 3
+          },
+          {
+            "deception": 4
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "necrotic",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 13",
+        "languages": "common, elvish, sylvan",
+        "cr": "3",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Ascendance féerique",
+            "desc": "Monsieur Sorcière est avantagé aux jets de sauvegarde contre l'état charmé et la magie ne peut pas l'endormir.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Équipement spécial",
+            "desc": "Monsieur Sorcière porte la Tocante de Sorcelume avec laquelle il est harmonisé.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Monsieur Sorcière effectue deux attaques de Canne.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Canne",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts contondants plus 6 (1d12) dégâts nécrotiques.",
+            "attack_bonus": 4,
+            "damage_dice": "1d4",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Incantation",
+            "desc": "À condition de porter la Tocante de Sorcelume, Monsieur Sorcière lance l'un des sorts suivants sans composantes, l'Intelligence étant sa caractéristique d'incantation (DD 13, +5 pour toucher) : À volonté : invisibilité, message, trait de feu.",
+            "attack_bonus": 0
+          }
+        ],
+        "legendary_actions": [],
+        "bonus_actions": [
+          {
+            "name": "Faveur de la Reine Corbeau (1/jour)",
+            "desc": "Monsieur Sorcière se téléporte jusqu'à 9 m. Jusqu'au début de son prochain tour, il bénéficie d'une résistance à tous les dégâts."
+          }
+        ]
+      }
+    ],
+    [
+      "Monsieur Lumière",
+      {
+        "name": "Monsieur Lumière",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "elfe, shadar-kaï",
+        "alignment": "chaotic good",
+        "ac": 13,
+        "hp": 77,
+        "hit_dice": "14d8 + 14",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          16,
+          12,
+          12,
+          13,
+          17
+        ],
+        "saves": [
+          {
+            "dexterity": 5
+          },
+          {
+            "charisma": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "sleight of hand": 5
+          },
+          {
+            "perception": 3
+          },
+          {
+            "performance": 5
+          }
+        ],
+        "damage_vulnerabilities": "lightning",
+        "damage_resistances": "necrotic",
+        "damage_immunities": "",
+        "condition_immunities": "deafened, blinded, stunned, petrified",
+        "senses": "darkvision 60 ft., passive Perception 13",
+        "languages": "common, elvish, sylvan",
+        "cr": "3",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Ascendance féerique",
+            "desc": "Monsieur Lumière est avantagé aux jets de sauvegarde contre l'état charmé et la magie ne peut pas l'endormir.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Équipement spécial",
+            "desc": "Monsieur Lumière porte la Girouette de Sorcelume avec laquelle il est harmonisé.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Monsieur Lumière effectue deux attaques de Girouette de Sorcelume.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Girouette de Sorcelume",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts contondants plus 4 (1d8) dégâts radiants.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Incantation",
+            "desc": "À condition de porter la Girouette de Sorcelume, Monsieur Lumière lance l'un des sorts suivants sans composantes, le Charisme étant sa caractéristique d'incantation (DD 13, +5 pour toucher) : À volonté : lumières dansantes, métamorphose, rayon de givre.",
+            "attack_bonus": 0
+          }
+        ],
+        "legendary_actions": [],
+        "bonus_actions": [
+          {
+            "name": "Faveur de la Reine Corbeau (1/jour)",
+            "desc": "Monsieur Lumière se téléporte jusqu'à 9 m. Jusqu'au début de son prochain tour, il bénéficie d'une résistance à tous les dégâts."
+          }
+        ]
+      }
+    ],
+    [
+      "Bébé bête éclipsante",
+      {
+        "name": "Bébé bête éclipsante",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Tiny",
+        "type": "monstrosity",
+        "subtype": "",
+        "alignment": "unaligned",
+        "ac": 12,
+        "hp": 9,
+        "hit_dice": "2d6 + 2",
+        "speed": "30 ft.",
+        "stats": [
+          12,
+          13,
+          12,
+          4,
+          10,
+          6
+        ],
+        "saves": [],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "",
+        "cr": "1/8",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Décalage",
+            "desc": "Les jets d'attaque contre la bête éclipsante sont effectués avec désavantage car elle projette une illusion qui la fait apparaître près de sa position réelle. Cet effet cesse jusqu'à la fin de son prochain tour si elle est touchée, incapable d'agir ou si sa vitesse est réduite à 0.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Tentacules",
+            "desc": "Attaque au corps à corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 2 dégâts contondants plus 2 dégâts perforants.",
+            "attack_bonus": 3
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Jeune sylvanien",
+      {
+        "name": "Jeune sylvanien",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Large",
+        "type": "plant",
+        "subtype": "",
+        "alignment": "chaotic good",
+        "ac": 14,
+        "hp": 45,
+        "hit_dice": "6d10 + 12",
+        "speed": "30 ft.",
+        "stats": [
+          17,
+          8,
+          15,
+          12,
+          12,
+          10
+        ],
+        "saves": [],
+        "skillsaves": [],
+        "damage_vulnerabilities": "fire",
+        "damage_resistances": "bludgeoning, piercing",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 11",
+        "languages": "common, druidic, elvish, sylvan",
+        "cr": "2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Faux-semblant",
+            "desc": "Si le sylvanien est immobile au début du combat, il bénéficie de l'avantage à son jet d'initiative. Une créature qui ne l'a pas vu bouger doit réussir un test d'Intelligence (Investigation) DD 18 pour réaliser qu'il est animé.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le sylvanien effectue deux attaques de Coup.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Coup",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d10 + 3) dégâts contondants.",
+            "attack_bonus": 5,
+            "damage_dice": "1d10",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Rocher",
+            "desc": "Attaque d'arme à distance : +5 pour toucher, portée 6/18 m, une cible. Touché : 14 (2d10 + 3) dégâts contondants.",
+            "attack_bonus": 5,
+            "damage_dice": "2d10",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Animation des arbres (1/jour)",
+            "desc": "Le sylvanien anime magiquement un ou deux arbres qu'il voit dans un rayon de 18 m. Ces arbres utilisent le profil d'Arbre éveillé et restent animés pendant 1 jour.",
+            "attack_bonus": 0
+          }
+        ],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {
