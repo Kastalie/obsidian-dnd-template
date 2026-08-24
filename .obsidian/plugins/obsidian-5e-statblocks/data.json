@@ -156,6 +156,92 @@
         ],
         "legendary_actions": []
       }
+    ],
+    [
+      "Bête éclipsante",
+      {
+        "name": "Bête éclipsante",
+        "source": "Monster Manual 2024",
+        "size": "Large",
+        "type": "monstrosity",
+        "subtype": "",
+        "alignment": "lawful evil",
+        "ac": 13,
+        "hp": 76,
+        "hit_dice": "9d10 + 27",
+        "speed": "40 ft.",
+        "stats": [
+          18,
+          15,
+          16,
+          6,
+          12,
+          8
+        ],
+        "saves": [
+          {
+            "strength": 4
+          },
+          {
+            "dexterity": 2
+          },
+          {
+            "constitution": 3
+          },
+          {
+            "intelligence": -2
+          },
+          {
+            "wisdom": 1
+          },
+          {
+            "charisma": -1
+          }
+        ],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 11",
+        "languages": "comprend le sylvestre mais ne parle pas",
+        "cr": "3",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Évitement",
+            "desc": "Si la bête éclipsante est soumise à un effet lui permettant d'effectuer un jet de sauvegarde pour ne subir que la moitié des dégâts, elle ne subit aucun dégât en cas de réussite et seulement la moitié en cas d'échec. Elle ne peut pas utiliser cette capacité si elle subit l'état Incapable d'agir.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Décalage",
+            "desc": "Les jets d'attaque contre la bête éclipsante ont un désavantage, car elle projette une illusion la faisant apparaître proche de son emplacement réel. Cet effet est supprimé si la bête éclipsante subit l'état Incapable d'agir.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "La bête éclipsante effectue une attaque de Saignée et une attaque de Tentacule.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Saignée",
+            "desc": "Attaque au corps à corps : +6 pour toucher, allonge 1,50 m. Touché : 9 (1d10 + 4) dégâts tranchants. Si la cible est une créature de taille Grande ou inférieure, elle subit l'état À terre.",
+            "attack_bonus": 6,
+            "damage_dice": "1d10",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Tentacule",
+            "desc": "Attaque au corps à corps : +6 pour toucher, allonge 3 m. Touché : 11 (2d6 + 4) dégâts perforants.",
+            "attack_bonus": 6,
+            "damage_dice": "2d6",
+            "damage_bonus": 4
+          }
+        ],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {
