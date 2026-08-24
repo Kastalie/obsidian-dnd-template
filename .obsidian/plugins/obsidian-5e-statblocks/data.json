@@ -215,24 +215,203 @@
       "Brigand conil",
       {
         "name": "Brigand conil",
-        "status": "À compléter depuis le PDF",
-        "source": "Carnaval"
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "conil",
+        "alignment": "tout alignement",
+        "ac": 14,
+        "hp": 9,
+        "hit_dice": "2d8",
+        "speed": "9 m",
+        "stats": [
+          14,
+          17,
+          11,
+          10,
+          11,
+          10
+        ],
+        "saves": [
+          {
+            "dexterity": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobaties": 5
+          },
+          {
+            "perception": 4
+          }
+        ],
+        "senses": "Perception passive 14",
+        "languages": "commun, sylvestre",
+        "cr": "1/8",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Saut sans élan",
+            "desc": "Les sauts en longueur du conil peuvent atteindre 6 m et ses sauts en hauteur 3 m, avec ou sans élan."
+          },
+          {
+            "name": "Tactique de meute",
+            "desc": "Si la créature ciblée se situe dans un rayon de 1,50 m d'au moins un des alliés non neutralisés du conil, ce dernier est avantagé au jet d'attaque correspondant."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Gourdin",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts contondants.",
+            "attack_bonus": 4,
+            "damage_dice": "1d4",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Fronde",
+            "desc": "Attaque d'arme à distance : +5 pour toucher, portée 9/36 m, une cible. Touché : 5 (1d4 + 3) dégâts contondants.",
+            "attack_bonus": 5,
+            "damage_dice": "1d4",
+            "damage_bonus": 3
+          }
+        ]
       }
     ],
     [
       "Brutacien royal",
       {
         "name": "Brutacien royal",
-        "status": "À compléter depuis le PDF",
-        "source": "Carnaval"
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "",
+        "alignment": "tout alignement",
+        "ac": 15,
+        "hp": 65,
+        "hit_dice": "10d8 + 20",
+        "speed": "9 m, nage 9 m",
+        "stats": [
+          16,
+          12,
+          14,
+          10,
+          11,
+          14
+        ],
+        "saves": [
+          {
+            "strength": 5
+          },
+          {
+            "dexterity": 3
+          }
+        ],
+        "skillsaves": [
+          {
+            "athlétisme": 5
+          },
+          {
+            "discrétion": 3
+          },
+          {
+            "intimidation": 4
+          }
+        ],
+        "senses": "Perception passive 10",
+        "languages": "brutacien, commun",
+        "cr": "3",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Amphibie",
+            "desc": "Le royal peut respirer sous l'eau comme à l'air libre."
+          },
+          {
+            "name": "Cavalier-crapaud",
+            "desc": "Le royal est avantagé aux attaques de corps à corps effectuées à dos de crapaud."
+          },
+          {
+            "name": "Communication avec les grenouilles et les crapauds",
+            "desc": "Le royal peut communiquer des idées simples aux grenouilles et crapauds lorsqu'il parle le brutacien."
+          },
+          {
+            "name": "Saut sans élan",
+            "desc": "Les sauts en longueur du royal peuvent atteindre 6 m et ses sauts en hauteur 3 m, avec ou sans élan."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le royal effectue deux attaques de Lance."
+          },
+          {
+            "name": "Lance",
+            "desc": "Attaque d'arme au corps à corps ou à distance : +5 pour toucher (avec avantage si le royal chevauche un crapaud), allonge 3 m ou portée 6/18 m. Touché : 6 (1d6 + 3) dégâts perforants, ou 7 (1d8 + 3) dégâts perforants si utilisée à deux mains dans le cadre d'une attaque au corps à corps. Si la cible est une créature de taille M ou inférieure, elle doit réussir un jet de sauvegarde de Force DD 13 sous peine d'être jetée à terre.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Décret coassé (Recharge 5-6)",
+            "desc": "Le royal prononce une déclaration d'une voix puissante. Chaque allié du royal situé dans un rayon de 18 m qui entend sa déclaration est avantagé à son premier jet d'attaque à son tour suivant."
+          }
+        ]
       }
     ],
     [
       "Campestri",
       {
         "name": "Campestri",
-        "status": "À compléter depuis le PDF",
-        "source": "Carnaval"
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Petite",
+        "type": "plante",
+        "subtype": "",
+        "alignment": "non alignée",
+        "ac": 12,
+        "hp": 2,
+        "hit_dice": "1d4",
+        "speed": "1,50 m",
+        "stats": [
+          1,
+          7,
+          10,
+          4,
+          10,
+          8
+        ],
+        "skillsaves": [
+          {
+            "perception": 4
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "perception des vibrations 9 m, Perception passive 14",
+        "languages": "comprend le commun, mais ne parle que par le biais de son trait Imitation",
+        "cr": "0",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Imitation",
+            "desc": "Le campestri peut imiter toute voix et tout chant qu'il entend, qu'il reproduit toutefois d'une voix nasale de fausset."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Coup de tête",
+            "desc": "Attaque d'arme au corps à corps : +0 pour toucher, allonge 1,50 m, une cible. Touché : 1 dégât contondant.",
+            "attack_bonus": 0,
+            "damage_bonus": 1
+          },
+          {
+            "name": "Spores (1/jour)",
+            "desc": "Des spores se déploient depuis le campestri sur un rayon de 1,50 m. Ces spores contournent les angles et n'ont aucun effet sur les Artificiels, Élémentaires, Morts-vivants et Plantes. Chaque créature prise dans la zone d'effet effectue un jet de sauvegarde de Sagesse DD 10. En cas d'échec, la créature se retrouve neutralisée et sa vitesse est réduite de moitié pendant 1 minute. La créature peut réitérer ce jet à la fin de chacun de ses tours et mettre un terme à l'effet sur elle-même en cas de réussite."
+          }
+        ]
       }
     ],
     [
@@ -263,8 +442,59 @@
       "Nuée de campestris",
       {
         "name": "Nuée de campestris",
-        "status": "À compléter depuis le PDF",
-        "source": "Carnaval"
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "nuée de plantes",
+        "subtype": "",
+        "alignment": "non alignée",
+        "ac": 12,
+        "hp": 27,
+        "hit_dice": "6d8",
+        "speed": "1,50 m",
+        "stats": [
+          3,
+          7,
+          10,
+          4,
+          10,
+          8
+        ],
+        "skillsaves": [
+          {
+            "perception": 4
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "contondants, perforants, tranchants",
+        "damage_immunities": "",
+        "condition_immunities": "à terre, agrippé, charmé, entravé, étourdi, paralysé, pétrifié",
+        "senses": "perception des vibrations 9 m, Perception passive 14",
+        "languages": "comprend le commun, mais ne parle que par le biais de son trait Imitation",
+        "cr": "1",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Imitation",
+            "desc": "Chaque campestri de la nuée peut imiter toute voix et tout chant qu'il entend, qu'il reproduit toutefois d'une voix nasale de fausset."
+          },
+          {
+            "name": "Nuée",
+            "desc": "La nuée peut occuper l'espace d'une autre créature et réciproquement. Elle peut se déplacer par toute ouverture assez large pour un campestri seul. La nuée ne peut récupérer de points de vie ni gagner de points de vie temporaires."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Coups de tête",
+            "desc": "Attaque d'arme au corps à corps : +0 pour toucher, allonge 1,50 m, une cible. Touché : 10 (4d4) dégâts contondants, ou 5 (2d4) dégâts contondants si la nuée est à la moitié ou moins de son maximum de points de vie.",
+            "attack_bonus": 0,
+            "damage_dice": "4d4",
+            "damage_bonus": 0
+          },
+          {
+            "name": "Spores (1/jour)",
+            "desc": "Des spores se déploient depuis la nuée sur un rayon de 6 m. Ces spores contournent les angles et n'ont aucun effet sur les Artificiels, Élémentaires, Morts-vivants et Plantes. Chaque créature prise dans la zone d'effet effectue un jet de sauvegarde de Sagesse DD 10. En cas d'échec, la créature se retrouve neutralisée et sa vitesse est réduite de moitié pendant 1 minute. La créature peut réitérer ce jet à la fin de chacun de ses tours et mettre un terme à l'effet sur elle-même en cas de réussite."
+          }
+        ]
       }
     ],
     [
@@ -1487,6 +1717,362 @@
           {
             "name": "Animation de cadavre (1/jour)",
             "desc": "Zargash cible le corps sans vie d'un humanoïde qu'il voit dans un rayon de 9 m et lui ordonne de se lever, le transformant en zombie placé sous son contrôle. Le zombie joue son tour juste après Zargash. Animer le zombie nécessite la concentration de Zargash (comme pour un sort). Le zombie retrouve son état de corps sans vie au bout de 10 minutes, s'il tombe à 0 point de vie ou quand la concentration de Zargash prend fin."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Brigganock",
+      {
+        "name": "Brigganock",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Petite",
+        "type": "fée",
+        "subtype": "",
+        "alignment": "généralement neutre bon",
+        "ac": 12,
+        "hp": 9,
+        "hit_dice": "2d4 + 4",
+        "speed": "4,50 m",
+        "stats": [
+          4,
+          15,
+          14,
+          10,
+          11,
+          13
+        ],
+        "saves": [
+          {
+            "dexterity": 4
+          },
+          {
+            "constitution": 4
+          }
+        ],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "épuisement",
+        "senses": "Perception passive 10",
+        "languages": "commun, sylvestre",
+        "cr": "1/8",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Âme-phare",
+            "desc": "Le brigganock s'accompagne d'une boule lumineuse intangible et invulnérable qui renferme son âme. Le brigganock ne peut pas éteindre cette lumière ni en contrôler l'intensité. L'âme-phare produit une lumière vive sur un rayon de 3 m et une lumière faible sur 3 m de plus. Si le brigganock meurt, son âme-phare se dissipe.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Ascendance féerique",
+            "desc": "Le brigganock est avantagé aux jets de sauvegarde contre l'état charmé et la magie ne peut pas l'endormir.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Fouisseur",
+            "desc": "Équipé d'une pioche ou autre outil de même genre, un brigganock peut creuser dans la roche à une vitesse de 1,50 m, laissant un tunnel de 15 cm de diamètre dans son sillage.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Pioche",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants.",
+            "attack_bonus": 4,
+            "damage_dice": "1d4",
+            "damage_bonus": 2
+          },
+          {
+            "name": "En accéléré (Recharge après un repos court ou long)",
+            "desc": "Le brigganock accélère le passage du temps autour de lui pour lui permettre d'accomplir l'équivalent d'une heure de travail en quelques secondes. Ce travail ne peut concerner d'autre créature que le brigganock ni un objet porté par une autre créature, et l'activité doit entièrement se dérouler au sein d'un cube de 3 m d'arête. Ainsi, le brigganock peut consacrer cette action à rapidement vider et sculpter une citrouille, à cuisiner et engloutir un repas, à déplacer un tas de pierres ou à serrer une douzaine de nœuds le long d'une corde.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Incantation",
+            "desc": "Le brigganock lance l'un des sorts suivants, sans la moindre composante matérielle, le Charisme étant sa caractéristique d'incantation (DD 11).\n\nÀ volonté : illusion mineure, stabilisation.\n\n1/jour chacun : amitié avec les animaux, fusion dans la pierre, lueurs féeriques, silence.",
+            "attack_bonus": 0
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Déplacement d'âme-phare",
+            "desc": "Le brigganock déplace son âme-phare d'un maximum de 9 m dans n'importe quelle direction vers un espace inoccupé qu'il voit. À la fin du tour actuel, la lumière rejoint le brigganock."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Chevalier brutacien",
+      {
+        "name": "Chevalier brutacien",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "",
+        "alignment": "généralement loyal bon",
+        "ac": 18,
+        "hp": 66,
+        "hit_dice": "12d8 + 12",
+        "speed": "9 m, nage 9 m",
+        "stats": [
+          16,
+          12,
+          13,
+          9,
+          11,
+          14
+        ],
+        "saves": [
+          {
+            "constitution": 3
+          },
+          {
+            "wisdom": 2
+          }
+        ],
+        "skillsaves": [],
+        "senses": "Perception passive 10",
+        "languages": "brutacien, commun",
+        "cr": "3",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Amphibie",
+            "desc": "Le chevalier peut respirer sous l'eau comme à l'air libre."
+          },
+          {
+            "name": "Communication avec les grenouilles et les crapauds",
+            "desc": "Le chevalier peut communiquer des idées simples aux grenouilles et crapauds lorsqu'il parle le brutacien."
+          },
+          {
+            "name": "Saut sans élan",
+            "desc": "Les sauts en longueur du chevalier peuvent atteindre 6 m et ses sauts en hauteur 3 m, avec ou sans élan."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le chevalier effectue deux attaques de Coutil le.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Coutille",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 3 m, une cible. Touché : 8 (1d10 + 3) dégâts tranchants.",
+            "attack_bonus": 5,
+            "damage_dice": "1d10",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Coassement charmant (Recharge après un repos court ou long)",
+            "desc": "Le chevalier produit un coassement sonore en ciblant une créature qu'il voit dans un rayon de 9 m. La cible doit réussir un jet de sauvegarde de Sagesse DD 12 sous peine d'être charmée par le chevalier jusqu'à la fin de son tour suivant."
+          }
+        ]
+      }
+    ],
+    [
+      "Tireur d'élite conil",
+      {
+        "name": "Tireur d'élite conil",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "conil",
+        "alignment": "tout alignement",
+        "ac": 14,
+        "hp": 9,
+        "hit_dice": "2d8",
+        "speed": "9 m",
+        "stats": [
+          10,
+          17,
+          11,
+          10,
+          13,
+          10
+        ],
+        "saves": [
+          {
+            "dexterity": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "athlétisme": 2
+          },
+          {
+            "discrétion": 5
+          },
+          {
+            "perception": 5
+          }
+        ],
+        "senses": "Perception passive 15",
+        "languages": "commun, sylvestre",
+        "cr": "1/4",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Saut sans élan",
+            "desc": "Les sauts en longueur du conil peuvent atteindre 6 m et ses sauts en hauteur 3 m, avec ou sans élan."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Gourdin",
+            "desc": "Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts contondants.",
+            "attack_bonus": 2,
+            "damage_dice": "1d4",
+            "damage_bonus": 0
+          },
+          {
+            "name": "Arbalète légère",
+            "desc": "Attaque d'arme à distance : +5 pour toucher (la cible ne tire aucun bénéfice d'un abri qui n'est pas total), portée 30/120 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants. Raté ou touché, le conil peut immédiatement entreprendre l'action Se cacher.",
+            "attack_bonus": 5,
+            "damage_dice": "1d8",
+            "damage_bonus": 3
+          }
+        ]
+      }
+    ],
+    [
+      "Escargot géant",
+      {
+        "name": "Escargot géant",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Grande",
+        "type": "bête",
+        "subtype": "",
+        "alignment": "non alignée",
+        "ac": 11,
+        "hp": 22,
+        "hit_dice": "4d10",
+        "speed": "3 m, escalade 3 m",
+        "stats": [
+          15,
+          3,
+          11,
+          3,
+          10,
+          3
+        ],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "languages": "",
+        "cr": "1/4",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Exposition au sel",
+            "desc": "Chaque fois que l'escargot commence son tour au contact d'au moins 500 g de sel, il subit 1d4 dégâts nécrotiques. Si l'on consacre une action à saupoudrer l'escargot de 500 g de sel, on lui inflige aussitôt 1d4 dégâts nécrotiques, puis 1d4 dégâts nécrotiques supplémentaires au début de son tour suivant (après que le sel est absorbé), à condition que l'escargot ne se soit pas retranché dans sa coquille."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Coup",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts contondants.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Carapace défensive",
+            "desc": "L'escargot se retranche dans sa coquille, ce qui lui octroie un bonus de +4 à la CA jusqu'à ce qu'il en émerge. Il peut émerger de sa coquille à son tour par une action bonus."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Farfadet",
+      {
+        "name": "Farfadet",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Petite",
+        "type": "fée",
+        "subtype": "",
+        "alignment": "non précisé",
+        "ac": 14,
+        "hp": 18,
+        "hit_dice": "4d6 + 4",
+        "speed": "9 m, escalade 9 m",
+        "stats": [
+          8,
+          18,
+          13,
+          6,
+          12,
+          7
+        ],
+        "skillsaves": [
+          {
+            "discrétion": 6
+          },
+          {
+            "escamotage": 6
+          },
+          {
+            "perception": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "feu",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "vision dans le noir 18 m, Perception passive 15",
+        "languages": "sylvestre",
+        "cr": "1/8",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Petits poings",
+            "desc": "Attaque d'arme au corps à corps : +1 pour toucher, allonge 1,50 m, une cible. Touché : 2 (1d6 - 1) dégâts contondants.",
+            "attack_bonus": 1,
+            "damage_dice": "1d6",
+            "damage_bonus": -1
+          },
+          {
+            "name": "Flaque d'huile",
+            "desc": "Le farfadet crée une flaque d'huile non inflammable. La flaque, épaisse de 2,5 cm, recouvre le sol de l'espace du monstre. Elle constitue un terrain difficile pour toutes les créatures en dehors des farfadets pendant 1 heure. L'huile présente les effets supplémentaires suivants, à la convenance du farfadet :"
+          },
+          {
+            "name": "Huile collante",
+            "desc": "Toute créature (autre qu'un farfadet) qui pénètre dans la zone de la flaque ou y commence son tour doit réussir un jet de sauvegarde de Force DD 11 sous peine d'être entravée. À son tour, une créature entravée peut consacrer son action à tenter de s'en extraire, mettant un terme à l'effet sur elle-même en se déplaçant vers l'espace inoccupé le plus proche si elle réussit un test de Force DD 11."
+          },
+          {
+            "name": "Huile glissante",
+            "desc": "Toute créature (autre qu'un farfadet) qui pénètre dans la zone de la flaque ou y commence son tour doit réussir un jet de sauvegarde de Dextérité DD 11 sous peine de tomber à terre."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Faille dimensionnelle",
+            "desc": "Le farfadet crée une brèche invisible et immobile dans une ouverture ou un cadre d'au moins 1,50 m de large. La faille relie cet espace à un point que le farfadet voit dans un rayon de 9 m. Seul le farfadet peut utiliser cette faille, qui reste active jusqu'à la fin de son tour suivant."
+          },
+          {
+            "name": "Huile de farfadet",
+            "desc": "Le farfadet sécrète une huile non inflammable par ses pores et choisit si elle est glissante ou collante. Il peut changer cette consistance sur sa peau par une action bonus."
+          }
+        ],
+        "traits": [
+          {
+            "name": "Huile collante",
+            "desc": "Le farfadet est avantagé aux tests de Force (Athlétisme) visant à agripper et à maintenir une créature agrippée. Il peut également escalader des surfaces difficiles sans test."
+          },
+          {
+            "name": "Huile glissante",
+            "desc": "Le farfadet est avantagé aux tests de Dextérité (Acrobaties) visant à échapper à une entrave ou à un agrippement et peut se déplacer dans des espaces suffisants pour une créature de taille Très Petite sans se faufiler."
           }
         ],
         "legendary_actions": []
