@@ -4,5 +4,8 @@
   ],
   "cssTheme": "ITS Theme",
   "accentColor": "#9c82e3",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false
 }
