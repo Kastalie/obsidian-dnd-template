@@ -98,14 +98,32 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
-    "state": true,
+    "creatures": [
+      {
+        "name": "sdd",
+        "display": "sdq",
+        "initiative": 11,
+        "static": true,
+        "modifier": 0,
+        "hp": 20,
+        "currentMaxHP": 20,
+        "id": "ID_896a7b2acbb8",
+        "currentHP": 20,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "hidden": true,
+        "friendly": true,
+        "hit_dice": "20"
+      }
+    ],
+    "state": false,
     "name": null,
     "round": 1,
     "logFile": "",
     "rollHP": false
   },
-  "condense": false,
+  "condense": true,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,
