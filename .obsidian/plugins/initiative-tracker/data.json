@@ -101,7 +101,7 @@
     "creatures": [
       {
         "name": "Talavar",
-        "initiative": 13,
+        "initiative": 16,
         "static": false,
         "modifier": 5,
         "hp": 14,
@@ -109,7 +109,7 @@
         "cr": "1",
         "ac": 15,
         "currentAC": 15,
-        "id": "ID_0a8ae93aaaea",
+        "id": "ID_095999f888db",
         "currentHP": 14,
         "tempHP": 0,
         "status": [],
@@ -121,7 +121,7 @@
       },
       {
         "name": "Talavar",
-        "initiative": 19,
+        "initiative": 17,
         "static": false,
         "modifier": 5,
         "hp": 14,
@@ -129,7 +129,7 @@
         "cr": "1",
         "ac": 15,
         "currentAC": 15,
-        "id": "ID_88082a6b585a",
+        "id": "ID_7b6909caf98a",
         "currentHP": 14,
         "tempHP": 0,
         "status": [],
