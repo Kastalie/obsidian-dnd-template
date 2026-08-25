@@ -91,7 +91,7 @@
     21
   ],
   "canUseDiceRoll": false,
-  "preferStatblockLink": false,
+  "preferStatblockLink": true,
   "initiative": "1d20 + %mod%",
   "modifier": null,
   "sync": false,
