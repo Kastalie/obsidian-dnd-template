@@ -6,17 +6,12 @@
 🏃 Vitesse: 21 m
 ---
 ```statblock
-creature:tala
-```
-```statblock
 creature:Talavar
 ```
 ```statblock
 creature:Talavar
 ```
 # Gîte des brigands  
-
-  [[talavar.png]]
 
 ## Agdon  
 
