@@ -5,6 +5,15 @@
 🛡️ CA: 12
 🏃 Vitesse: 12 m
 ---
+```statblock
+creature:tala
+```
+```statblock
+creature:Talavar
+```
+```statblock
+creature:Talavar
+```
 
 
 | ![[Ombre Fiche.png]] | ![[Ombre.png]] |
