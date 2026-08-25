@@ -3133,71 +3133,6 @@
       }
     ],
     [
-      "Talavar",
-      {
-        "name": "Talavar",
-        "source": "Par-delà le Carnaval de Sorcelume",
-        "size": "Très Petite",
-        "type": "dragon",
-        "subtype": "dragon féerique bleu",
-        "alignment": "chaotique bon",
-        "ac": 15,
-        "hp": 14,
-        "hit_dice": "4d4 + 4",
-        "speed": "3 m, vol 18 m",
-        "stats": [
-          3,
-          20,
-          13,
-          14,
-          12,
-          16
-        ],
-        "skillsaves": [
-          {
-            "perception": 3
-          },
-          {
-            "discrétion": 8
-          }
-        ],
-        "senses": "vision dans le noir 18 m, Perception passive 13",
-        "languages": "commun, draconique, sylvestre",
-        "cr": "1",
-        "bestiary": true,
-        "traits": [
-          {
-            "name": "Vue magique",
-            "desc": "Talavar voit les créatures invisibles et les objets magiques dans un rayon de 3 m."
-          },
-          {
-            "name": "Résistance à la magie",
-            "desc": "Talavar est avantagé aux jets de sauvegarde contre les sorts et autres effets magiques."
-          },
-          {
-            "name": "Incantation innée",
-            "desc": "Charisme comme caractéristique d'incantation (DD 13). À volonté : illusion mineure, lumière dansante, main du mage."
-          }
-        ],
-        "actions": [
-          {
-            "name": "Morsure",
-            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants."
-          },
-          {
-            "name": "Souffle euphorique",
-            "desc": "Cône de 3 m. Chaque créature dans la zone doit réussir un jet de sauvegarde de Sagesse DD 13 sous peine d'être charmée pendant 1 minute. Tant qu'elle est charmée, la créature est incapable d'effectuer une action hostile. Elle peut refaire le jet de sauvegarde à la fin de chacun de ses tours."
-          }
-        ],
-        "bonus_actions": [
-          {
-            "name": "Invisibilité",
-            "desc": "Talavar devient magiquement invisible jusqu'à ce qu'il attaque, lance un sort ou mette fin à l'effet."
-          }
-        ]
-      }
-    ],
-    [
       "Lion",
       {
         "name": "Lion",
@@ -3644,6 +3579,76 @@
         ],
         "reactions": [],
         "legendary_actions": []
+      }
+    ],
+    [
+      "Talavar",
+      {
+        "name": "Talavar",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Petite",
+        "type": "dragon",
+        "subtype": "dragon féerique bleu",
+        "alignment": "chaotique bon",
+        "ac": 15,
+        "hp": 14,
+        "hit_dice": "4d4 + 4",
+        "speed": "3 m, vol 18 m",
+        "stats": [
+          3,
+          20,
+          13,
+          14,
+          12,
+          16
+        ],
+        "skillsaves": [
+          {
+            "perception": 3
+          },
+          {
+            "discrétion": 8
+          }
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 13",
+        "languages": "commun, draconique, sylvestre",
+        "cr": "1",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Vue magique",
+            "desc": "Talavar voit les créatures invisibles et les objets magiques dans un rayon de 3 m."
+          },
+          {
+            "name": "Résistance à la magie",
+            "desc": "Talavar est avantagé aux jets de sauvegarde contre les sorts et autres effets magiques."
+          },
+          {
+            "name": "Incantation innée",
+            "desc": "Charisme comme caractéristique d'incantation (DD 13). À volonté : illusion mineure, lumière dansante, main du mage."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants."
+          },
+          {
+            "name": "Souffle euphorique",
+            "desc": "Cône de 3 m. Chaque créature dans la zone doit réussir un jet de sauvegarde de Sagesse DD 13 sous peine d'être charmée pendant 1 minute. Tant qu'elle est charmée, la créature est incapable d'effectuer une action hostile. Elle peut refaire le jet de sauvegarde à la fin de chacun de ses tours."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Invisibilité",
+            "desc": "Talavar devient magiquement invisible jusqu'à ce qu'il attaque, lance un sort ou mette fin à l'effet."
+          }
+        ],
+        "token": [
+          [
+            "talavar.png"
+          ]
+        ]
       }
     ]
   ],

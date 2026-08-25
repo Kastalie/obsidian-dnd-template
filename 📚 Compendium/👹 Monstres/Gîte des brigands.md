@@ -16,7 +16,7 @@ creature:Talavar
 ```
 # Gîte des brigands  
 
-  
+  [[talavar.png]]
 
 ## Agdon  
 
