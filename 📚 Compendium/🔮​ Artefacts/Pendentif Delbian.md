@@ -2,11 +2,11 @@
 💰 Prix:
 📍Lieux: "[[talavar.png]]"
 💎 Rareté: rare
-🖼️ Portrait: "[[hache dravenkor.png]]"
+🖼️ Portrait: "[[delbian.png]]"
 ✨ Effet: En plaçant un objet appartenant à une créature dans le médaillon, celui-ci indique la direction générale de sa cible.
 Description: Les récits de la Cour d'Été racontent que Delbian était un chevalier féerique qui consacra sa vie à retrouver les êtres égarés dans les chemins mouvants de la Féerie. Incapable de supporter que certains disparaissent à jamais, il forgea ce pendentif avec l'aide d'un archifée du printemps.
 ---
-
+![[delbian.png|343]]
 
 
 ### Propriétés

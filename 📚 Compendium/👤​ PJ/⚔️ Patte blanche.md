@@ -15,7 +15,7 @@ Sous-classe: Magie sauvage
 | 10      | 10      | 10      | 10      | 10      | 10      |
 -Les 3 objets magiques qu'il aimerait posséder : 
 - cuiseur vapeur (pour faire des carottes)( c'est magique !)
-- un pendentif qui retrace qqn en mettant un élément lu appartenant  
+- un pendentif qui retrace qqn en mettant un élément lu appartenant  [[Pendentif Delbian]]
 - une écorce magique qui permet a mes dents de ronger n'importe quoi
 
 -Le souhait / vœux : revenir un lapin normal
@@ -74,3 +74,5 @@ Il me semble que le pendentif Delbian pourrait t'aider à retrouver quelqu'un, s
 
 **Madryck Roslof**  
 _Dernier serviteur de Zybilna_
+
+[[talavar.png]]
