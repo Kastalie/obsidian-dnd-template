@@ -14,11 +14,21 @@ Sous-classe: Magie sauvage
 | **For** | **Dex** | **Sag** | **Int** | **Con** | **Cha** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10      | 10      | 10      | 10      | 10      | 10      |
+-Les 3 objets magiques qu'il aimerait posséder : 
+- cuiseur vapeur (pour faire des carottes)( c'est magique !)
+- un pendentif qui retrace qqn en mettant un élément lu appartenant  
+- une écorce magique qui permet a mes dents de ronger n'importe quoi
+
+-Le souhait / vœux : revenir un lapin normal
+
+-la créature dont il a peur : loup
 
 ### Apparence
 ...
 ### Background
-...
+Il était un un lapin normal de magicien, en spectacle son magicien le transforme en conil : lapin humanoïde et s'enfuit.
+Depuis 6 mois il cherche a retrouver son maitre pour qu'il lui rende son apparence normale
+petit lapin mignon avant le drame, depuis il erre à la recherche du magicien. il apprend des us et coutumes du mondes humains etc, donc assez naif et peut se faire avoir car pas assez vif des perfidies du monde
 ### Traits
 ...
 ### Motivations
@@ -28,12 +38,11 @@ Sous-classe: Magie sauvage
 - 
 - 
 
-Il était un un lapin normal de magicien, en spectacle son magicien le transforme en conil : lapin humanoïde et s'enfuit.
-Depuis 6 mois il cherche a retrouver son maitre pour qu'il lui rende son apparence normale
+
 
 
 ## Lettre
-**À Vivian, celui qui fut lapin avant de devenir autre chose,**
+**À Patte Blanche, celui qui fut lapin avant de devenir autre chose,**
 
 Tu ne me connais pas.
 Pourtant, je connais ton histoire.
