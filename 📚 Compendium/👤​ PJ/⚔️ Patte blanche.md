@@ -63,13 +63,14 @@ Les conséquences de cette catastrophe se manifestent parfois dans le monde mort
 
 Je crois que le destin qui t'a conduit à cette existence n'est pas un accident. Je crois qu'il est lié à ce qui est arrivé à Zybilna. Et je crois également que l'homme que tu recherches possède des réponses. Les réponses que tu cherches se trouve déjà en Féerie.
 Car il existe une chose que tu ignores encore.
-Quelques semaines avant sa disparition, ton maître, **Edwidge Lamdepa**, fut aperçu en compagnie d'un voyageur venu de Féerie. Plusieurs témoins affirmèrent l'avoir entendu parler d'un royaume nommé Prismeer et d'une magie ancienne capable de transformer durablement la nature des êtres vivants.
+Quelques semaines avant sa disparition, j'ai aperçu ton maître, **Edwidge Lamdepa**, en compagnie d'un voyageur venu de Féerie. Je t'affirme l'avoir entendu parler d'un royaume nommé Prismeer et d'une magie ancienne capable de transformer durablement la nature des êtres vivants.
 
 Tu n'accompliras cependant pas ce voyage seul. D'autres recevront une lettre semblable à celle-ci. Des âmes poursuivies par leurs propres quêtes. Lorsque viendra le moment, retrouve-les au **Carnaval de Sorcelume**. Ensemble, vous emprunterez un chemin qui vous mènera jusqu'à Pismeer. 
 
 Peut-être découvriras-tu pourquoi tu as été transformé.
 Peut-être même retrouveras-tu la forme que tu as perdue.
 Le temps presse davantage que tu ne l'imagines.
+Il me semble que le pendentif Delbian pourrait t'aider à retrouver quelqu'un, selon mes informations il se trouve auprès d'un certain Messire Talavar, quelque part en féerie. 
 
 **Madryck Roslof**  
 _Dernier serviteur de Zybilna_
