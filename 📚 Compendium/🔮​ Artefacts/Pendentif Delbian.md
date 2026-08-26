@@ -1,17 +1,13 @@
 ---
 💰 Prix:
 📍Lieux: "[[talavar.png]]"
-💎 Rareté: légendaire
+💎 Rareté: rare
 🖼️ Portrait: "[[hache dravenkor.png]]"
-✨ Effet: |-
-  +1 pour toucher
-  dégâts : 1d8 tranchant ou 1d10 tranchant (polyvalent) +2 
-  si lors d'une attaque réussi la vie d'un ennemi passe en dessous de 25% de son total, le porteur de la hache récupère un nombre de pv égal a son modificateur de constitution + niveau (effet valable une fois par ennemi)
-  arme légendaire : nécessite une harmonisation avec son porteur
-Description: "Clan Dravenkor :  lié a la magie du sang; gardiens de la faune."
+✨ Effet: En plaçant un objet appartenant à une créature dans le médaillon, celui-ci indique la direction générale de sa cible.
+Description: Les récits de la Cour d'Été racontent que Delbian était un chevalier féerique qui consacra sa vie à retrouver les êtres égarés dans les chemins mouvants de la Féerie. Incapable de supporter que certains disparaissent à jamais, il forgea ce pendentif avec l'aide d'un archifée du printemps.
 ---
 
-![[hache dravenkor.png|171]]
+
 
 ### Propriétés
 
