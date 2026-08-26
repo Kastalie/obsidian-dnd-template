@@ -15,6 +15,17 @@ La Cour d’été et la Cour de printemps sont étroitement liées, et forment l
 Murmure vient de la plus haute des plus grande forêt de cette cour, il n'a que très peu été en contact avec les membres de la cour qui ne viennent pas de son village mais connait de vue un certain Messire Talavar. Talavar est un dragon féerique, chevalier errant de la Cour joviale et un fidèle vassal de la Reine d'Été.. Il parcourt le domaine pour veiller à la sécurité des habitants contre l'ennemi de toujours : les fomoriens.
 Murmure doute que Talavar se souvienne même de son existence. Mais lui se souvient parfaitement de chaque apparition du chevalier dragon.
 ![[talavar.png|384]]
+Murmure connaît l'existence d'un objet magique appelé le [[Pendentif Delbian]]. C'est un objet rare qui a été forgé au sein de la cour d'été, tu ne l'as jamais vu.
+Ce que tu sais, c'est ce que t'as raconté Brisaile lors de vos séances de contes le soir.
+Ce pendentif serait un moyen sûr de trouver quelqu'un même entre les plans, une sorte de boussole magique.
+le conte commence ainsi :
+Il y a bien longtemps, avant même que Titania ne règne sur les forêts de la Cour d'Été, vivait un conil dont le nom est encore connu dans toute la Cour.
+Il s'appelait Delbian.
+Delbian n'était qu'un petit conil, il était moqué et trop petit pour accomplir de grandes choses. Mais Delbian possédait un don rare : Il retrouvait toujours ce qui était perdu.
+Que ça soit une porte cachée, une personne disparue, un objet perdu.. Nul ne savait comment il faisait.
+Lorsqu'on lui posait la question, il souriait et répondait toujours :"Tout laisse une trace."
+Concernant le pendentif, tu ne sais pas où il est, tu ne sais pas s'il est légendaire ou réel !
+Mais il fait écho à ta mission d'aider ceux qui sont perdus, Grisaile semblait croire qu'il était réel et gardé au sein de palais d'été (comme tout objet rare aurait du l'être)
 
 | **For** | **Dex** | **Sag** | **Int** | **Con** | **Cha** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
