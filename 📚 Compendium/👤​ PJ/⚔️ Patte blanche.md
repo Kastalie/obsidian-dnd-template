@@ -62,6 +62,8 @@ Au-delà de ce monde existe un domaine féerique nommé **Prismeer**. Jadis, ses
 Les conséquences de cette catastrophe se manifestent parfois dans le monde mortel sous la forme d'événements inexplicables. Des malédictions. Des disparitions. Des métamorphoses impossibles. Comme la tienne.
 
 Je crois que le destin qui t'a conduit à cette existence n'est pas un accident. Je crois qu'il est lié à ce qui est arrivé à Zybilna. Et je crois également que l'homme que tu recherches possède des réponses. Les réponses que tu cherches se trouve déjà en Féerie.
+Car il existe une chose que tu ignores encore.
+Quelques semaines avant sa disparition, ton maître, **Edwidge Lamdepa**, fut aperçu en compagnie d'un voyageur venu de Féerie. Plusieurs témoins affirmèrent l'avoir entendu parler d'un royaume nommé Prismeer et d'une magie ancienne capable de transformer durablement la nature des êtres vivants.
 
 Tu n'accompliras cependant pas ce voyage seul. D'autres recevront une lettre semblable à celle-ci. Des âmes poursuivies par leurs propres quêtes. Lorsque viendra le moment, retrouve-les au **Carnaval de Sorcelume**. Ensemble, vous emprunterez un chemin qui vous mènera jusqu'à Pismeer. 
 
