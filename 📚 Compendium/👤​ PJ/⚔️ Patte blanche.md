@@ -10,7 +10,6 @@ Sous-classe: Magie sauvage
 🖼️ Portrait:
 ---
 
-
 | **For** | **Dex** | **Sag** | **Int** | **Con** | **Cha** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10      | 10      | 10      | 10      | 10      | 10      |
@@ -25,16 +24,20 @@ Sous-classe: Magie sauvage
 
 ### Apparence
 ...
+
 ### Background
 Il était un un lapin normal de magicien, en spectacle son magicien le transforme en conil : lapin humanoïde et s'enfuit.
 Depuis 6 mois il cherche a retrouver son maitre pour qu'il lui rende son apparence normale
 petit lapin mignon avant le drame, depuis il erre à la recherche du magicien. il apprend des us et coutumes du mondes humains etc, donc assez naif et peut se faire avoir car pas assez vif des perfidies du monde
-### Traits
-...
+
+### Ajouts :
+Dans son sac se trouvent presque toujours quelques carottes, un nécessaire de cuisine rudimentaire et un carnet où il note tout ce qu'il découvre sur le comportement des humains.
+
 ### Motivations
 ...
+
 ### Relations
-- ...
+- Edwidge Lamdepa : Le magicien. j'étais son lapin de magie. c'est lui qui m'a transformé en lapin humanoide suite à accident, à deserté depuis, retrouvé seul, mais j'ai pu récupérer un bout de son baton magique, (qui est donc mon arme) et me permet de faire de la magie poussée (nécessaire pour la magie sauvage)
 - 
 - 
 
