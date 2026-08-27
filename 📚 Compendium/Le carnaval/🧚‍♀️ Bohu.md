@@ -10,6 +10,14 @@
 > [!description]+ Résumé
 > *Un gobelours vêtu d'une salopette, d'ailes de fée et d'une citrouille illuminée en guise de casque s'approche de vous. « Suivez moi, grogne-t-il. Les patrons veulent vous voir. »*
 
+Gobelours responsable de la sécurité. Dans le supplément étendu il peut inviter les personnages après la catastrophe du chapiteau.
+
+- Loyal.
+- Apprécié des forains.
+- Frère de Tohu (disparu en Féerie).
+- Peut devenir le principal contact des PJ.
+
+
 
 Les personnages reçoivent une invitation à rencontrer [[🧚‍♀️ Sorcière et Lumière]] en privé quand l'ambiance du carnaval atteint l'une des extrémités de l'enfilade ou s'ils font grande impression à monsieur Lumière lors du clou du grand chapiteau. Sorcière et Lumière chargent Bohu le gobelours (neutre bon) d'aller chercher les personnages.
 D'un geste de la main, Bohu crée une ouverture dans la haie de ronces qui encercle les roulottes du personnel  et invite les aventuriers à s'y engager avec lui. Si on l' interroge sur la nature de cette entrevue, Bohu se contente d'affirmer qu'il n'y a rien à craindre. Si l'ambiance du carnaval

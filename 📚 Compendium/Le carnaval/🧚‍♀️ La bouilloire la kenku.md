@@ -24,7 +24,6 @@ PNJ extrêmement important. Elle est en réalité un allié potentiel des PJ.
 
 
 
-
 La Bouilloire la kenku fouine dans tout le carnaval sous le couvert du sort déguisement, avec la
 ferme intention de semer le trouble. Ce kenku femelle a dérobé la voix du mime humain [[🧚‍♀️ Piedcire]]. Tant que son larcin reste en sa possession, la Bouilloire peut s'exprimer clairement par la voix douce et suave de Piedecire.
 

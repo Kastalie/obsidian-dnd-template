@@ -1,4 +1,58 @@
+# Heure 1 : Arrivée
+
+ À faire vivre
+
+- Achat ou récupération des billets.
+- Découverte du carnaval.
+- Distribution des ailes.
+- Découverte des attractions.
+
+Événement
+[[🧚‍♀️ Septentriol]] distribue des cadeaux de bienvenue.
+
+# Heures 1 à 3 : Exploration libre
+
+Laisse les joueurs se promener.
+
+Priorité absolue
+
+- Galerie des illusions
+- Gondoles aux cygnes
+- Promenade en libellule
+- Manège
+- Objets trouvés
+- Mine des mystères
+Car ces attractions comportent des indices pour plus tard. 
+Bonus du supplément
+- Diseuse de bonne aventure
+- Dôme du tonnerre
+- Verse-tour
+- Théière à bulles version étendue
+
+# Heure 4 : Le Grand Chapiteau
+
+Moment central de l'introduction. 
+
+Version officielle :
+- Spectacle des artistes.
+- Les PJ peuvent participer.
+- Ils gagnent de l'ambiance selon leur prestation.
+Catastrophe au chapiteau
+Juste avant le numéro de Bohu :
+Animaux échappés :
+- Lion
+- Singe
+- Jeune éléphant
+Les PJ doivent intervenir.
+Effets
+Si les PJ sauvent la situation :
+- Bohu les remarque.
+- Ils gagnent du prestige.
+- Excellente justification pour leur future rencontre avec Sorcière et Lumière.
+
+
 ![[scornubel.png|433]]
+
 
 <font color="#c00000">- 1e heure : Cadeaux de bienvenue. De menus présents sont offerts à quelques chanceux.</font>
 <font color="#1f497d">Un arbre ambulant haut de plus de trois mètres cinquante, enrubanné d'or, s'avance dans l'avenue principale. Des nuages émeraude tournoient autour du grand végétal, faisant pleuvoir des graines dorées de sycomore. Les festivaliers se ruent pour attraper les graines avant qu'elles touchent le sol. Tandis que cette semence tombe en flottant, un écureuil bavard gambade dans les rameaux de</font>
