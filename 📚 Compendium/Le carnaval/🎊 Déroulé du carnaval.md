@@ -32,7 +32,6 @@ Bonus du supplément
 # Heure 4 : Le Grand Chapiteau
 
 Moment central de l'introduction. 
-
 Version officielle :
 - Spectacle des artistes.
 - Les PJ peuvent participer.
@@ -49,6 +48,42 @@ Si les PJ sauvent la situation :
 - Bohu les remarque.
 - Ils gagnent du prestige.
 - Excellente justification pour leur future rencontre avec Sorcière et Lumière.
+
+# Heures 5 à 7
+
+Suite de l'exploration.
+C'est le moment idéal pour :
+Utiliser la Bouilloire
+Les PJ peuvent :
+- l'observer
+- lui parler
+- la poursuivre
+- être sollicités par elle
+Elle doit progressivement orienter les joueurs vers le mystère du carnaval.
+
+# Heure 8 : Couronnement du Monarque de Sorcelume
+
+Événement final. Monsieur Lumière choisit :la personne ayant apporté le plus de joie au carnaval
+Le vainqueur :
+- reçoit la couronne
+- devient le centre de l'attention
+C'est également le moment qui facilite une rencontre officielle avec les propriétaires.
+
+# Déclencheurs de la rencontre avec Sorcière et Lumière
+
+Les PJ sont convoqués si :
+
+Cas 1
+Ils ont participé au Grand Chapiteau.
+
+Cas 2
+Ils ont aidé Bohu.
+
+Cas 3
+L'ambiance du carnaval atteint un extrême.
+
+Cas 4
+Ils avancent dans l'enquête sur la Bouilloire.
 
 
 ![[scornubel.png|433]]
