@@ -1,3 +1,25 @@
+
+Ils dirigent le Carnaval de Sorcelume.
+Ils veulent secrètement aider Zybilna mais sont contraints par leur accord avec les guenaudes.
+
+### Monsieur Sorcière
+
+- sérieux
+- prudent
+- pragmatique
+- possède la Tocante de Sorcelume
+
+### Monsieur Lumière
+
+- extravagant
+- chaleureux
+- intuitif
+- possède la Girouette de Sorcelume
+
+
+
+
+
 Les propriétaires du Carnaval de Sorcelume sont deux shadar-kaïs (elfes originaires de Gisombre) nommés monsieur Sorcière et monsieur Lumière. Sorcière est terre-à-terre et sans prétention, tandis que Lumière est flamboyant et évasif. Les circonstances dans lesquelles Sorcière et Lumière
 se sont retrouvés en possession du carnaval méritent d'être contées. Ils possédaient un autre festival ambulant qui rôdait en périphérie de la Gisombre. Les deux carnavals se croisèrent il y a bien des années et, après que des litres de vin eurent coulé, les propriétaires ne parvenant à désigner unanimement le meilleur des deux, ils décidèrent que s'échanger leurs festivals respectifs serait des plus grisants. Isolde, l'éladrine qui gérait alors le carnaval
 féerique, prit la place des deux shadar-kaïs aux rênes du carnaval ténébreux. Cet arrangement devait se prolonger jusqu'à ce que les deux carnavals se recroisent, ce qui n'est toujours pas arrivé.
