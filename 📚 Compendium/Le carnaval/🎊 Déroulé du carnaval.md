@@ -85,7 +85,20 @@ L'ambiance du carnaval atteint un extrême.
 Cas 4
 Ils avancent dans l'enquête sur la Bouilloire.
 
+# Rencontre avec Sorcière et Lumière
 
+Objectif narratif :
+
+Les PJ apprennent :
+
+- qu'un passage vers Prismeer existe.
+- qu'une menace existe.
+- que la Bouilloire n'est peut-être pas l'ennemie qu'elle semble être.
+
+À la fin :
+
+- ils obtiennent l'accès à la croisée féerique.
+- départ vers Céans.
 ![[scornubel.png|433]]
 
 
