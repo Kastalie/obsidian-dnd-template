@@ -3650,6 +3650,103 @@
           ]
         ]
       }
+    ],
+    [
+      "Bohu",
+      {
+        "name": "Bohu",
+        "source": "Par-delà le Carnaval de Sorcelume (adaptation MJ)",
+        "size": "Moyen",
+        "type": "humanoïde",
+        "subtype": "gobelours",
+        "alignment": "neutre bon",
+        "ac": 16,
+        "hp": 67,
+        "hit_dice": "9d8 + 27",
+        "speed": "9 m",
+        "stats": [
+          18,
+          14,
+          16,
+          11,
+          14,
+          13
+        ],
+        "saves": [
+          {
+            "force": 6
+          },
+          {
+            "constitution": 5
+          },
+          {
+            "sagesse": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "athlétisme": 6
+          },
+          {
+            "perception": 4
+          },
+          {
+            "dressage": 4
+          },
+          {
+            "intuition": 4
+          }
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 14",
+        "languages": "commun, gobelin",
+        "cr": "3",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Odorat aiguisé",
+            "desc": "Bohu bénéficie d'un avantage aux tests de Sagesse (Perception) reposant sur l'odorat."
+          },
+          {
+            "name": "Protecteur du Carnaval",
+            "desc": "Lorsqu'une créature alliée située à 1,50 m de Bohu est touchée par une attaque, Bohu peut utiliser sa réaction pour imposer un désavantage au jet d'attaque."
+          },
+          {
+            "name": "Surprise du gobelours",
+            "desc": "Si Bohu surprend une créature et la touche lors du premier round de combat, la cible subit 7 (2d6) dégâts supplémentaires."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Bohu effectue deux attaques de masse."
+          },
+          {
+            "name": "Masse",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d8 + 5) dégâts contondants."
+          },
+          {
+            "name": "Filet de capture",
+            "desc": "Attaque d'arme à distance : +4 pour toucher, portée 3/9 m, une cible. En cas de succès, la cible est entravée. DD 13 de Force pour se libérer."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Encouragement rassurant",
+            "desc": "Une créature alliée située à 9 m de Bohu gagne 1d6 points de vie temporaires."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Interposition",
+            "desc": "Lorsqu'une créature alliée située à 1,50 m de Bohu est prise pour cible par une attaque, Bohu peut échanger sa place avec elle."
+          }
+        ],
+        "token": [
+          [
+            "bohu.png"
+          ]
+        ]
+      }
     ]
   ],
   "defaultLayouts": {
