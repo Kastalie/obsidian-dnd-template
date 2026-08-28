@@ -2,11 +2,12 @@
 💰 Prix:
 📍Lieux: Volé par Will de féérie et conservé à Petit-Chêne
 💎 Rareté: rare
-🖼️ Portrait: "[[delbian.png]]"
+🖼️ Portrait: "[[corne.png]]"
 ✨ Effet:
 Description:
 ---
-# Ce que les PJ doivent apprendre
+![[corne.png|385]] 
+Ce que les PJ doivent apprendre
 
 ## Pendant le Carnaval
 
@@ -49,3 +50,9 @@ Lorsque les PJ réunissent :
 - Élidon ;
 - sa corne ;
 ils peuvent restaurer sa véritable forme de licorne.
+
+
+Intégrée à Petit-Chêne.
+La corne est fichée dans le bois vivant du grand arbre.
+Les enfants pensent qu'elle protège leur refuge.
+En réalité, elle diffuse encore un peu de la magie de Zybilna.
