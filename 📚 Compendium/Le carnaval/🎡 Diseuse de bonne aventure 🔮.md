@@ -5,7 +5,7 @@ d'autre que le nom des sorcières. Elle n'ose pas essayer de prédire quoi que c
 
 une fois par joueurs
 le dé de chance
-deux dé
+deux dés d'attributs (un positif un négatif)
 ## Table de chance
 
 |d4|Niveau de chance|Dé d'inspiration|
@@ -24,3 +24,9 @@ deux dé
 |4|Intelligence|
 |5|Sagesse|
 |6|Charisme|
+### Corne de Licorne
+
+Elle peut annoncer :
+- qu'un objet important existe ;
+- où le trouver approximativement ;
+- qu'il aura un rôle crucial dans le destin de Prismeer.
