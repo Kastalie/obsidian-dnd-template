@@ -91,11 +91,7 @@ Heureusement pour toi, les histoires extraordinaires ne commencent jamais avec d
 J'ai entendu parler de toi. Je crois que nous nous entendrions bien.
 
 Je vais être franc.
-
 Je ne peux pas te promettre que tu retrouveras Morgus Miroir-de-Fer.
-
-Je ne peux pas te promettre qu'il est encore en vie.
-
 Je ne peux même pas te promettre que la moitié des histoires qu'il t'a racontées étaient vraies.
 
 Mais je peux te dire ceci :
@@ -127,10 +123,6 @@ Les illusions sont rarement ce qu'elles semblent être.
 Et les vérités les plus importantes se cachent souvent derrière le plus absurde des mensonges.
 
 Peut-être découvriras-tu ce qui est arrivé à ton maître.
-
-Peut-être découvriras-tu pourquoi son nom refuse de disparaître complètement.
-
-Peut-être même trouveras-tu enfin quelqu'un capable de te dire lesquelles de ses histoires étaient réelles.
 
 Quant à moi, je dispose de quelques récompenses susceptibles d'intéresser un érudit de ta profession.
 
