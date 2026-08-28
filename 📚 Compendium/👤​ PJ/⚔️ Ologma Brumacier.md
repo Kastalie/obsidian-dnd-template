@@ -92,51 +92,15 @@ J'ai entendu parler de toi. Je crois que nous nous entendrions bien.
 
 Je vais être franc.
 Je ne peux pas te promettre que tu retrouveras Morgus Miroir-de-Fer.
-Je ne peux même pas te promettre que la moitié des histoires qu'il t'a racontées étaient vraies.
+Je ne peux même pas te promettre que la moitié des histoires qu'il t'a racontées étaient vraies. Au-delà de notre monde se trouve un domaine féerique nommé **Prismeer**. Les récits le décrivent comme un lieu de merveilles où les rêves prennent forme et où les lois de la réalité plient devant l'imagination. 
 
-Mais je peux te dire ceci :
+Mais quelque chose s'y est brisé. Sa souveraine, **Zybilna**, a disparu sans laisser de trace.
+Je cherche des êtres capables d'emprunter la route menant jusqu'à elle. Si tu découvres ce qu'il est advenu de Zybilna et rapportes la vérité sur son royaume, je partagerai avec toi tout ce que je possède. J'ai parmi mes collections un ouvrage que bien des illusionnistes convoitent.
 
-Certains noms résonnent jusque dans les royaumes de Féerie.
+Dans quelques jours ouvrira le **Carnaval de Sorcelume**.
+Derrière ses lumières, ses rires, ses musiques et ses illusions se cache un secret que peu de mortels connaissent. Quelque part au cœur du carnaval existe un passage vers Prismeer. Je te demande de l'emprunter. Découvre ce qui est arrivé à Zybilna. Découvre ce qui est arrivé à son royaume.
 
-J'ai vu des choses impossibles émerger de ces terres.
-
-Des souvenirs oubliés.
-
-Des amitiés perdues.
-
-Des promesses vieilles de plusieurs siècles.
-
-Et parfois...
-
-Des gens que tout le monde croyait disparus.
-
-Quelque chose remue actuellement au-delà du Carnaval de Sorcelume.
-
-Quelque chose qui attire les perdus, les rêveurs et les imbéciles héroïques.
-
-Tu me sembles malheureusement appartenir aux trois catégories.
-
-Si tu acceptes d'entreprendre ce voyage, garde les yeux ouverts.
-
-Les illusions sont rarement ce qu'elles semblent être.
-
-Et les vérités les plus importantes se cachent souvent derrière le plus absurde des mensonges.
-
-Peut-être découvriras-tu ce qui est arrivé à ton maître.
-
-Quant à moi, je dispose de quelques récompenses susceptibles d'intéresser un érudit de ta profession.
-
-J'ai vu parmi mes collections un ouvrage que bien des illusionnistes convoitent.
-
-J'ai également entendu parler d'objets étranges capables de contenir davantage qu'ils ne devraient.
-
-Mais les récompenses n'ont de valeur que pour ceux qui vivent assez longtemps pour les réclamer.
-
-Alors tâche de revenir vivant.
-
-Ce serait dommage d'accomplir tant d'efforts pour finir dévoré par quelque monstruosité souterraine plus grosse qu'une montagne.
-
-Les vieilles peurs ont parfois la fâcheuse habitude de devenir réelles en Féerie.
+Si Morgus Miroir-de-Fer marche encore quelque part, je ne peux m'empêcher de penser que les chemins de Prismeer pourraient connaître son nom. Peut-être découvriras-tu ce qui est arrivé à ton maître.
 
 
 **Madryck Roslof**  
