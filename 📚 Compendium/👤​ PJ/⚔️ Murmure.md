@@ -3,7 +3,7 @@
 Sous-classe: Vagabond féérique
 🧬 Race: Hiboulin
 ⭐ Niveau: 3
-🎂 Age:
+🎂 Age: 20
 🛡️ CA:
 ❤️‍🩹 PV:
 📏 Taille: P

@@ -3,12 +3,12 @@
 Sous-classe: Illusionniste
 🧬 Race: Nain
 ⭐ Niveau: 3
-🎂 Age: 20
+🎂 Age: 150
 🛡️ CA:
 ❤️‍🩹 PV:
 📏 Taille: M
-🖼️ Portrait: "[[ballar.png]]"
-📍Lieux: Bois d'hiver
+🖼️ Portrait:
+📍Lieux:
 Histoirque: Voyageur
 ---
 
@@ -98,9 +98,9 @@ Mais quelque chose s'y est brisé. Sa souveraine, **Zybilna**, a disparu sans la
 Je cherche des êtres capables d'emprunter la route menant jusqu'à elle. Si tu découvres ce qu'il est advenu de Zybilna et rapportes la vérité sur son royaume, je partagerai avec toi tout ce que je possède. J'ai parmi mes collections un ouvrage que bien des illusionnistes convoitent.
 
 Dans quelques jours ouvrira le **Carnaval de Sorcelume**.
-Derrière ses lumières, ses rires, ses musiques et ses illusions se cache un secret que peu de mortels connaissent. Quelque part au cœur du carnaval existe un passage vers Prismeer. Je te demande de l'emprunter. Découvre ce qui est arrivé à Zybilna. Découvre ce qui est arrivé à son royaume.
+Derrière ses lumières, ses rires, ses musiques et ses illusions se cache un secret que peu de mortels connaissent. Quelque part au cœur du carnaval existe un passage vers Prismeer. Je te demande de l'emprunter. Découvre ce qui est arrivé à Zybilna. Découvre ce qui est arrivé à son royaume. 
 
-Si Morgus Miroir-de-Fer marche encore quelque part, je ne peux m'empêcher de penser que les chemins de Prismeer pourraient connaître son nom. Peut-être découvriras-tu ce qui est arrivé à ton maître.
+Si Morgus Miroir-de-Fer marche encore quelque part, je ne peux m'empêcher de penser que les chemins de Prismeer pourraient connaître son nom. Peut-être découvriras-tu ce qui est arrivé à ton maître. Si tu acceptes, présente toi au Carnaval à la tombée du jour. Cherche les autres porteurs de cette lettre. Peut-être ensemble sauverez vous un royaume.
 
 
 **Madryck Roslof**  
