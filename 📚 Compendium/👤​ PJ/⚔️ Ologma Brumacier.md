@@ -57,69 +57,95 @@ Les années passèrent, durant lesquelles il se perdit dans l'alcool et devint p
 Un jour, alors qu'il cherchait une taverne ouverte pour se désaltérer, il tomba sur une diseuse de bonne aventure. Elle lui fit une divination sur son avenir. Elle parla d'une rencontre incroyable qui pourrait arriver dans un futur proche. Pour Ologma, c'était sans aucun doute Morgus dont il s'agissait. Il reprit ses recherches et se fit une promesse : devenir le nain illusionniste le plus puissant qui existe. Pour prouver au monde que les nains aussi peuvent devenir de puissants mages.
 
 
+La diseuse de bonne aventure que tu as croisé lors de ton voyage s'appelle Tante Edna Brunedemain, c'est une Guenaude marine. [[🎡 Diseuse de bonne aventure 🔮]] Elle parle peu de sa vie mais tu as réussi a savoir qu'elle a renoncé a manger les mortels pour se consacrer a une vie plus excitante, celle de diseuse de bonne aventure.
+Au moment ou tu l'as croisé, dans une petit village, elle se faisait discrète et cherchait a trouver un emploi plus fixe dans une foire ou un carnaval par exemple.
+
+Durant ton enfance tu as eu une fois la chance de pouvoir assister à un carnaval, malheureusement ce n'était pas un carnaval très joyeux puisqu'il s'agissait du carnaval de l'ombre. Un carnaval de malédictions, de damnations et de voyages entre les domaines de l'Effroi. Ce dont tu te souviens c'est des deux gérants du Carnaval, deux Shadar-Kaï qui n'avaient pas l'air particulièrement heureux voir même profondément tristes de gérer leur entreprise.
+
+Bien sur tu as entendu parlé des carnavals durant tes études, et tu sais qu'ils tirent leurs magies des émotions (bonnes ou mauvaise), que chaque carnaval est associé à une émotion et lié a un Domaine sur un autre plan.
+Le carnaval de Sorcelume est peut-être le plus populaire d'entre tous, il n'apparait qu'une fois tous les 8 ans sur le plan matériel et ne reste que le temps d'une soirée dans la ville ou il s'implante.
+Ceux qui ont eu la chance d'y participer parlent d'un événement sans précédant ! Festif, magique avec sans cesse de nouvelles attractions pour ravire les visiteurs.
+Quant au carnaval de l'ombre il ne semble pas particulièrement faire des émules. Sa dirigeante Isolde a même fait l'objet d'un cours spécial sur la magie des ombres lors de tes études à l'académie.
+
+Tu as déjà croisé la route d'autres magiciens durant des voyages, mais ton principal concurrent et il l'était déjà au temps de l'académie est : Edwidge Lamdepa. [[⚔️ Patte blanche]]
+Ce n'est pas un nain, alors il devait moins prouver pour faire valoir sa valeur auprès des professeur.
+Il est issu d'une longue lignée de magiciens illusionnistes émérites.
+Bref, tout lui souriait.
+Il a réussit après l'académie à monter son spectacle de magie ambulant, un vrai cliché : le lapin qui sort du chapeau, la main perforée par un sabre, la flamme qui devient fleur. Tu l'observais de loin, savait son talent pour la magie et ne comprenait pas pourquoi il le gâchait avec un tel spectacle.
+C'est un rival, mais vous vous connaissaient depuis si longtemps, peut-être êtes vous un peu ami malgré tout.
+
+La pipe en pierre est le seul souvenir qu’ologma garde de son père. Il la fume de temps en temps même s’il déteste ça. Elle n’est pas magique. Son catalyseur serait le bâton de Morgus.
+Les objets précieux qu’il gardent serait cette pipe, la bague familiale en or avec une pierre gravée de son emblème familial. Et une broche de sa mère sertie de pierre précieuses. 
+
+Non ologma n’est pas faussaire, il essaie de rester dans le droit chemin, mais il reste chaotique, si une idée lui vient en tête il tentera beaucoup de chose pour y parvenir, il est un peu têtu.
+
+
 ### lettre
-**À l'attention de Ballar, fils de la Maison Faolán**
 
-Ballar,
-On m'a parlé de ton peuple. D'un clan dont les membres font fleurir les forêts, parlent aux rivières et plient la magie à leur volonté comme d'autres respirent.
+**À l'attention d'Ologma Brumacier,**
 
-On m'a également parlé de toi. Du fils qui n'a jamais lancé les sorts que l'on attendait de lui. Du frère d'un prodige disparu. Du fils d'un chef dont l'état inquiète désormais jusqu'aux confins de la féerie.
+Les rumeurs prétendent que les nains sont des créatures raisonnables. Si cela est vrai, alors je crains que tu ne sois un bien mauvais représentant de ton peuple. Un homme raisonnable aurait accepté l'héritage de son père. Un homme raisonnable ne se serait pas fait rejeter par sa famille pour courir après les contes d'un vieux mage excentrique. Un homme raisonnable n'aurait certainement pas passé des décennies à chercher un mentor disparu.
 
-Je suis un vieil homme, Ballar.
-J'ai vécu suffisamment longtemps pour apprendre une chose :
-les anciens se trompent parfois.
-Ils regardent une graine et décident déjà quel arbre elle devrait devenir. Puis ils s'étonnent lorsqu'elle choisit une autre forme. Je t'écris aujourd'hui parce qu'un royaume est en péril.
+Heureusement pour toi, les histoires extraordinaires ne commencent jamais avec des gens raisonnables.
 
-Au-delà de notre monde se trouve un domaine féerique nommé **Prismeer**.
-Sa souveraine, Zybilna, a disparu sans laisser de trace. Son royaume est en péril.
-Et je cherche des êtres capables d'emprunter la route menant jusqu'à elle.
+J'ai entendu parler de toi. Je crois que nous nous entendrions bien.
 
-À première vue, tu pourrais croire que cette affaire ne te concerne pas.
-Pourtant, certaines informations que j'ai récemment découvertes m'ont convaincu du contraire.
-Au cours de mes recherches, j'ai découvert la mention d'un ancien héritage des Faolán.
-Bien avant que votre clan ne devienne célèbre pour ses grands druides et ses maîtres de la magie sylvestre, certains de ses protecteurs suivaient une voie différente.
-Ils ne commandaient pas aux forces de la nature. Ils les incarnaient.
+Je vais être franc.
 
-Leurs récits parlent de guerriers capables de déchaîner en eux les instincts du monde sauvage, de courir avec les prédateurs et de combattre avec la force des tempêtes.
+Je ne peux pas te promettre que tu retrouveras Morgus Miroir-de-Fer.
 
-Leur symbole était une vieille hache aujourd'hui disparue. Selon plusieurs textes féeriques, elle ne fut jamais détruite. Elle fut emportée en Prismeer il y a plusieurs siècles. Les rares chroniqueurs qui la mentionnent affirment qu'elle conserve les souvenirs et la sagesse de ceux qui l'ont portée..
-Je ne peux affirmer que ces récits sont véridiques. Mais je sais que ton clan la recherche depuis bien plus longtemps que toi ou moi sommes en vie.
+Je ne peux pas te promettre qu'il est encore en vie.
 
-Les chemins de Prismeer croisent parfois ceux des objets perdus, des malédictions anciennes, de remèdes... et des voyageurs qui ont disparu en poursuivant un espoir trop grand pour eux.
+Je ne peux même pas te promettre que la moitié des histoires qu'il t'a racontées étaient vraies.
 
-Je ne te demande pas de devenir quelqu'un d'autre. Je ne te demande pas de devenir un mage. Je ne te demande pas de ressembler à ton frère. Je te demande seulement d'aller là où moi-même je ne peux plus aller.
+Mais je peux te dire ceci :
 
-Si tu découvres ce qu'il est advenu de Zybilna et rapportes la vérité sur son royaume, je partagerai avec toi tout ce que je possède concernant ces légendes de ton peuple. Peut-être y trouveras-tu de quoi sauver ton père. Peut-être y trouveras-tu des réponses concernant ton frère. Peut-être y trouveras-tu quelque chose d'encore plus précieux.
+Certains noms résonnent jusque dans les royaumes de Féerie.
 
+J'ai vu des choses impossibles émerger de ces terres.
 
-Dans quelques jours ouvrira le **Carnaval de Sorcelume**. Derrière ses lumières et ses musiques se trouve un passage menant à Prismeer. Je te demande de l'emprunter. Découvre ce qui est arrivé à Zybilna et à son royaume.
+Des souvenirs oubliés.
 
-Les anciens de ton peuple voient peut-être un fils incapable d'égaler les dons de sa famille. Moi, je vois autre chose. Je vois un homme qui a reçu les mêmes racines, mais dont les branches ont choisi de pousser dans une autre direction. Les arbres les plus solides ne sont pas toujours ceux qui grandissent le plus droit.
+Des amitiés perdues.
+
+Des promesses vieilles de plusieurs siècles.
+
+Et parfois...
+
+Des gens que tout le monde croyait disparus.
+
+Quelque chose remue actuellement au-delà du Carnaval de Sorcelume.
+
+Quelque chose qui attire les perdus, les rêveurs et les imbéciles héroïques.
+
+Tu me sembles malheureusement appartenir aux trois catégories.
+
+Si tu acceptes d'entreprendre ce voyage, garde les yeux ouverts.
+
+Les illusions sont rarement ce qu'elles semblent être.
+
+Et les vérités les plus importantes se cachent souvent derrière le plus absurde des mensonges.
+
+Peut-être découvriras-tu ce qui est arrivé à ton maître.
+
+Peut-être découvriras-tu pourquoi son nom refuse de disparaître complètement.
+
+Peut-être même trouveras-tu enfin quelqu'un capable de te dire lesquelles de ses histoires étaient réelles.
+
+Quant à moi, je dispose de quelques récompenses susceptibles d'intéresser un érudit de ta profession.
+
+J'ai vu parmi mes collections un ouvrage que bien des illusionnistes convoitent.
+
+J'ai également entendu parler d'objets étranges capables de contenir davantage qu'ils ne devraient.
+
+Mais les récompenses n'ont de valeur que pour ceux qui vivent assez longtemps pour les réclamer.
+
+Alors tâche de revenir vivant.
+
+Ce serait dommage d'accomplir tant d'efforts pour finir dévoré par quelque monstruosité souterraine plus grosse qu'une montagne.
+
+Les vieilles peurs ont parfois la fâcheuse habitude de devenir réelles en Féerie.
 
 
 **Madryck Roslof**  
 _Dernier serviteur de Zybilna_
-### Motivations
-...
-### Relations
-- ...
-- 
-- 
-
-### Clans d'elfes druides
-Ballar est allé apprendre auprès du clan Ailbhean
-Les anciens du clan Ailbhean pourraient reconnaître immédiatement la hache de Ballar et comprendre qu'elle appartient aux anciennes **Neuf Haches Primordiales**, forgées avant la séparation des clans druidiques.
-Chaque hache serait liée à un élément naturel :
-
-- **Faolán : Plantes et Nuit** -Bois d'hiver -  Emeraude
-- **Ailbhean : Eau et Acier** - Forêt de Thetir - Saphir
-- Dravenkor : Faune et Sang - Rubis
-- Erwyn : Vent et Foudre - Topaze
-- **Caerlann : Feu et Son** - Ambre
-- Corvach : Lumière et Pierre - Citrine
-- Elderglace :  Glace et Mort - diamant
-- Draiocht : Esprit et Poison - améthyste
-
-### Fiche infos
-![[Pasted image 20260821103722.png]]
-![[Pasted image 20260821103737.png|601]]
