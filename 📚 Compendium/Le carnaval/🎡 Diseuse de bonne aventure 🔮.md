@@ -24,9 +24,11 @@ deux dés d'attributs (un positif un négatif)
 |4|Intelligence|
 |5|Sagesse|
 |6|Charisme|
-### Corne de Licorne
+### [[Corne de Licorne]]
 
 Elle peut annoncer :
 - qu'un objet important existe ;
 - où le trouver approximativement ;
 - qu'il aura un rôle crucial dans le destin de Prismeer.
+Et à la diseuse de bonne aventure je donnerais l'indice :
+> « Volé par le héros qui fut voleur gamin, Imitez l'être perdu pour apprendre son chagrin. »
