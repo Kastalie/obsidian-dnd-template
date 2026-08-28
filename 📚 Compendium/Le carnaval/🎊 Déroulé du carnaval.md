@@ -2,7 +2,7 @@
 
  À faire vivre
 
-- Achat ou récupération des billets.
+- Achat ou récupération des billets. (8pa le billet ou négociation)
 - Découverte du carnaval.
 - Distribution des ailes.
 - Découverte des attractions.
