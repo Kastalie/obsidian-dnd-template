@@ -16,8 +16,280 @@ Gobelours responsable de la sécurité. Dans le supplément étendu il peut invi
 - Apprécié des forains.
 - Frère de Tohu (disparu en Féerie).
 - Peut devenir le principal contact des PJ.
+```statblock  
 
+name: Bohu  
 
+size: Moyen  
+
+type: humanoïde  
+
+subtype: gobelours  
+
+alignment: neutre bon  
+
+ac: 15  
+
+hp: 65  
+
+hit_dice: 10d8+20  
+
+speed: 9 m  
+
+  
+
+stats:  
+
+- 18  
+
+- 14  
+
+- 14  
+
+- 10  
+
+- 13  
+
+- 12  
+
+  
+
+saves:  
+
+- Force +6  
+
+- Constitution +5  
+
+- Sagesse +3  
+
+  
+
+skillsaves:  
+
+- Athlétisme +6  
+
+- Perception +5  
+
+- Dressage +5  
+
+- Intimidation +3  
+
+  
+
+senses: vision dans le noir 18 m, Perception passive 15  
+
+languages: commun, gobelin  
+
+cr: 3  
+
+pb: 2  
+
+  
+
+traits:  
+
+- name: Odorat aiguisé  
+
+desc: Bohu bénéficie d'un avantage aux tests de Sagesse (Perception) reposant sur l'odorat.  
+
+  
+
+- name: Attaque surprise  
+
+desc: Si Bohu surprend une créature et la touche avec une attaque lors du premier round de combat, la cible subit 7 (2d6) dégâts supplémentaires.  
+
+  
+
+- name: Protecteur du carnaval  
+
+desc: Lorsqu'une créature alliée située à 1,50 m de Bohu est touchée par une attaque, Bohu peut utiliser sa réaction pour imposer un désavantage au jet d'attaque.  
+
+  
+
+actions:  
+
+- name: Attaques multiples  
+
+desc: Bohu effectue deux attaques de masse ferrée.  
+
+  
+
+- name: Masse ferrée  
+
+desc: Attaque au corps à corps avec une arme. +6 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d8+5) dégâts contondants.  
+
+  
+
+- name: Filet de capture  
+
+desc: Attaque à distance. +4 pour toucher, portée 3/9 m, une créature. En cas de succès, la cible est entravée. DD 13 de Force pour se libérer.  
+
+  
+
+bonus_actions:  
+
+- name: Encouragement rassurant  
+
+desc: Une créature alliée située à 9 mètres gagne 1d6 points de vie temporaires.  
+
+  
+
+reactions:  
+
+- name: Interposition  
+
+desc: Quand une créature attaquée est à 1,50 m de Bohu, il peut échanger sa place avec elle.  
+
+  
+
+equipment:  
+
+- Masse ferrée  
+
+- Filet  
+
+- Salopette du carnaval  
+
+- Casque citrouille lumineux  
+
+```
+```statblock  
+
+name: Bohu  
+
+size: Moyen  
+
+type: humanoïde  
+
+subtype: gobelours  
+
+alignment: neutre bon  
+
+ac: 15  
+
+hp: 65  
+
+hit_dice: 10d8+20  
+
+speed: 9 m  
+
+  
+
+stats:  
+
+- 18  
+
+- 14  
+
+- 14  
+
+- 10  
+
+- 13  
+
+- 12  
+
+  
+
+saves:  
+
+- Force +6  
+
+- Constitution +5  
+
+- Sagesse +3  
+
+  
+
+skillsaves:  
+
+- Athlétisme +6  
+
+- Perception +5  
+
+- Dressage +5  
+
+- Intimidation +3  
+
+  
+
+senses: vision dans le noir 18 m, Perception passive 15  
+
+languages: commun, gobelin  
+
+cr: 3  
+
+pb: 2  
+
+  
+
+traits:  
+
+- name: Odorat aiguisé  
+
+desc: Bohu bénéficie d'un avantage aux tests de Sagesse (Perception) reposant sur l'odorat.  
+
+  
+
+- name: Attaque surprise  
+
+desc: Si Bohu surprend une créature et la touche avec une attaque lors du premier round de combat, la cible subit 7 (2d6) dégâts supplémentaires.  
+
+  
+
+- name: Protecteur du carnaval  
+
+desc: Lorsqu'une créature alliée située à 1,50 m de Bohu est touchée par une attaque, Bohu peut utiliser sa réaction pour imposer un désavantage au jet d'attaque.  
+
+  
+
+actions:  
+
+- name: Attaques multiples  
+
+desc: Bohu effectue deux attaques de masse ferrée.  
+
+  
+
+- name: Masse ferrée  
+
+desc: Attaque au corps à corps avec une arme. +6 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d8+5) dégâts contondants.  
+
+  
+
+- name: Filet de capture  
+
+desc: Attaque à distance. +4 pour toucher, portée 3/9 m, une créature. En cas de succès, la cible est entravée. DD 13 de Force pour se libérer.  
+
+  
+
+bonus_actions:  
+
+- name: Encouragement rassurant  
+
+desc: Une créature alliée située à 9 mètres gagne 1d6 points de vie temporaires.  
+
+  
+
+reactions:  
+
+- name: Interposition  
+
+desc: Quand une créature attaquée est à 1,50 m de Bohu, il peut échanger sa place avec elle.  
+
+  
+
+equipment:  
+
+- Masse ferrée  
+
+- Filet  
+
+- Salopette du carnaval  
+
+- Casque citrouille lumineux  
+
+```
 
 Les personnages reçoivent une invitation à rencontrer [[🧚‍♀️ Sorcière et Lumière]] en privé quand l'ambiance du carnaval atteint l'une des extrémités de l'enfilade ou s'ils font grande impression à monsieur Lumière lors du clou du grand chapiteau. Sorcière et Lumière chargent Bohu le gobelours (neutre bon) d'aller chercher les personnages.
 D'un geste de la main, Bohu crée une ouverture dans la haie de ronces qui encercle les roulottes du personnel  et invite les aventuriers à s'y engager avec lui. Si on l' interroge sur la nature de cette entrevue, Bohu se contente d'affirmer qu'il n'y a rien à craindre. Si l'ambiance du carnaval
