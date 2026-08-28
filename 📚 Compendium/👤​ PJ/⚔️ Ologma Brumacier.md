@@ -16,7 +16,7 @@ Histoirque: Voyageur
 | **For** | **Dex** | **Sag** | **Int** | **Con** | **Cha** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10      | 10      | 10      | 10      | 10      | 10      |
-Les 3 objets magiques qu'il aimerait posséder : 
+<u>Les 3 objets magiques qu'il aimerait posséder : </u>
 - Un Sac sans fond 
 - un Sac à malices (son maitre en avait un et ça le faisait beaucoup rire à chaque fois qu'il l'utilisait)
 - Le Tome de la langue nouée (Des apprentis en parlait à l'académie des mages, cet objet le fait rêver)
@@ -37,30 +37,25 @@ Un vieux nain aux yeux verts, mal coiffé. Sa barbe grise est trop longue et ses
 Ologma est un peu crédule et croit souvent ce qu'on lui raconte. (Toutes les aventures que lui racontait Morgus étaient probablement fausses, mais il reste convaincu que ce ne sont pas des foutaises.) Il est courageux et n'hésite pas à sacrifier son argent, son temps ou sa dignité si ça vaut le coup.
 
 
-### Histoire
-Pour un peu de détails, je me disais que le pouvoir du personnage (barbare du cœur sauvage, donc lié à la faune) pourrait être la manière dont la magie de son peuple s'est manifesté chez lui. La hache de ses ancêtres serait un artéfact qui accompagné ceux de ses ancêtres qui était comme lui, avant d'être perdue longtemps avant sa naissance. 
-D'ailleurs son souhait ne se réalisera jamais, pas sous cette forme, il ne pourra jamais être un grand jeteur de sort. Son voyage pourrait lui permettre d'accepter que son pouvoir s'est manifester sous une autre forme mais qu'il n'est pas moins méritant que sa famille, contrairement à ce que peut penser les anciens de son clan.
+### Histoire 
+Ologma a grandi dans une famille aisée. Son père est le gérant d'une des mines non loin d'Eauprofonde. Il a vécu dans l'amour et dans l'abondance. Alors qu'un jour, il accompagnait son père signer un traité pour acquérir une nouvelle mine, il rencontra un vieux nain mage, seul à une table. Morgus Miroir-de-Fer, mage enseignant les arcanes de l'illusion à l'académie des mages. Ce jour-là, le vieux nain lui fit miroiter monts et merveilles et lui mit en tête de devenir, lui aussi, un mage.
 
+Lorsqu'il fit part de son souhait à son père et à sa mère, ce fut un refus catégorique. Hors de question qu'ils laissent Ologma salir la réputation de la famille Brumacier. Son destin était de reprendre les mines de son père et pas de faire des tours de passe-passe avec un rigolo. Et puis, la magie ne réussit pas aux nains.
 
-Cadet de la famille : 
-Grand frère parti a l'aventure, n'est toujours pas revenu. est partit dans un premier temps pour explorer le monde avant de commencer une quête de pouvoir. La quête de pouvoir pourrait avoir un lien avec la mal du père (une malédiction par exemple) et du coup elle a choisie de rester en exil estimant avoir causé trop de dégâts.
-Benjamin super talentueux
-et lui part a la recherche de son frère
-Les sœurs de Ballar: Qina (l'ainée), Dara (la benjamine)
+Il passa la première moitié de sa vie à reprendre le flambeau de son père. Mais la routine et les affaires n'étaient pas faites pour lui. Son envie d'aventure le tiraillait jusqu'au plus profond de son être.
 
+Un beau matin, il quitta sans rien dire la demeure familiale et prit toutes ses économies pour aller s'inscrire à l'académie des mages à Eauprofonde. Ce fut un parcours difficile : il était le seul nain, il n'avait pas beaucoup d'amis et était rejeté par sa famille, qui le voyait comme un renégat.
+Mais il s'est accroché. Il passa sa première et sa deuxième année avec succès. Lorsqu'il fallut choisir une spécialité, c'est avec logique qu'il alla dans les cours du grand Morgus !
+Étrangement, il était le seul inscrit à ses cours. Mais c'est certainement que les autres avaient peur de son génie et de sa dureté !
 
-Ça serait un elfe des bois, né au sein d'un clan de puissants manieurs de magie sylvestre / druidique, plus précisément dans une famille de prodige dont le paternel est l'actuel chef de clan. Pas très bon dans l'art magique, le personnage cherche plus à profiter de la vie en fuyant ses responsabilités et avec un étrange talent pour la bagarre.
-Alors qu'on découvre que son père souffre d'un mal étrange et incurable, le personnage surprend une conversation des anciens qui réfléchisse à l'avenir du clan, notamment qu'ils ne voient pas l'irresponsable qu'il est succéder à son père, surtout avec le/la benjamin/e qui est le nouveau prodige de leur génération.
+Il passa 5 ans de sa vie en compagnie de Morgus. Morgus lui raconta monts et merveilles sur tout ce qu'il avait accompli dans sa vie. Il aurait même rencontré à plusieurs reprises Mordenkainen. Il lui aurait aussi donné des idées pour de nouveaux sorts à confectionner. Un drôle de personnage, mais qui inspira Ologma pour de bon.
 
-Il s'appel Ballar, sa sous-classe c'est la Voie du Cœur Sauvage. Il est impulsif, respectueux de la tradition même s'il ne la suit pas toujours, il cherche pas vraiment la bagarre même ça lui fait clairement pas peur. La tradition fait qu'il se préoccupe de la nature et à pas mal de connaissance sur le sujet. Il est plutôt "Loyal Neutre" mais avec un peu de "True Neutral".
+Une fois son parcours de mage terminé, il essaya de trouver Morgus pour lui annoncer la bonne nouvelle, son diplôme sous le bras. Mais il ne trouva pas Morgus. Il avait disparu, personne ne savait où il était passé. Il passa une année complète à le chercher désespérément, mais sans y arriver.
 
+Les années passèrent, durant lesquelles il se perdit dans l'alcool et devint petit à petit un vagabond. Ses parents l'ayant déshérité et ses économies ayant servi majoritairement pendant ses études, il devint de plus en plus pauvre. Pour la première fois, il partit d'Eauprofonde pour trouver du travail. Cette ville l'oppressait. Il ne voulait plus la voir. Il proposa ses services et mit ses pouvoirs à disposition pour subvenir à ses besoins.
 
-Bon c'est décidé, quelques temps après avoir quitté son clan, mon perso (Ballar) traversé une zone désertique (un peu type toundra) quand il a été surpris par un averse, il s'est réfugié dans une grotte. Il est tombé sur un bébé Ouatl et a eu le réflexe malheureux de lever sa hache, résultat le parent l'a attaqué... Comment c'était la merde (bestiole résistante aux dégâts physiques tout ça), Ballar s'est tiré fissa et est resté traumatisé de cette expérience. Résultat il a une terreur des Ouatl et une aversion pour les serpents.
+Un jour, alors qu'il cherchait une taverne ouverte pour se désaltérer, il tomba sur une diseuse de bonne aventure. Elle lui fit une divination sur son avenir. Elle parla d'une rencontre incroyable qui pourrait arriver dans un futur proche. Pour Ologma, c'était sans aucun doute Morgus dont il s'agissait. Il reprit ses recherches et se fit une promesse : devenir le nain illusionniste le plus puissant qui existe. Pour prouver au monde que les nains aussi peuvent devenir de puissants mages.
 
-clan : Faolán
-magie : plante et nuit
-![[clan faolan.jpg]]
-![[Qina.png|558]]
 
 ### lettre
 **À l'attention de Ballar, fils de la Maison Faolán**
