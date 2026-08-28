@@ -21,3 +21,5 @@ views:
     sort:
       - property: 🖼️ Portrait
         direction: ASC
+    columnSize:
+      formula.Sans titre: 86
