@@ -9,13 +9,14 @@ Sous-classe: Illusionniste
 📏 Taille: M
 🖼️ Portrait: "[[ballar.png]]"
 📍Lieux: Bois d'hiver
+Histoirque: Voyageur
 ---
 
 
 | **For** | **Dex** | **Sag** | **Int** | **Con** | **Cha** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10      | 10      | 10      | 10      | 10      | 10      |
-Les 3 objets magiques qu'il aimerait possèder : 
+Les 3 objets magiques qu'il aimerait posséder : 
 - Un Sac sans fond 
 - un Sac à malices (son maitre en avait un et ça le faisait beaucoup rire à chaque fois qu'il l'utilisait)
 - Le Tome de la langue nouée (Des apprentis en parlait à l'académie des mages, cet objet le fait rêver)
@@ -24,12 +25,18 @@ Les 3 objets magiques qu'il aimerait possèder :
  - Revoir son ancien maitre Morgus Miroir-de-Fer et lui montrer à quel point il s'est améliorer.
 
 <u>Peur</u> :
-- Couatl
-- ![[coatl.png|310]]
-
+- Le ver pourpre, ses parents lui contaient des histoires sur ces vers qui détruisaient tout sur son passage. Dans les mines lorsqu'un tremblement avait lieu, son peuple avait peur qu'un tel fléau s'abatte sur eux.
+- 
+![[Pasted image 20260828173725.png|311]]
 
 ### Apparence
-...
+Un vieux nain aux yeux verts, mal coiffé. Sa barbe grise est trop longue et ses habits témoignent de la vétusté de sa vie. Mais sur lui, il conserve quelques bijoux de valeur de sa famille qu'il n'a jamais vendus, même lorsqu'il avait faim. Son grimoire est toute sa vie. Il possède aussi le bâton de Morgus, qu'il a « volé » à l'académie des mages. Il s'est promis de le lui rendre le jour où il le retrouverait. C'est un vieux bâton avec une boule de pierre entrelacée de racines de chêne.
+
+
+### Traits 
+Ologma est un peu crédule et croit souvent ce qu'on lui raconte. (Toutes les aventures que lui racontait Morgus étaient probablement fausses, mais il reste convaincu que ce ne sont pas des foutaises.) Il est courageux et n'hésite pas à sacrifier son argent, son temps ou sa dignité si ça vaut le coup.
+
+
 ### Histoire
 Pour un peu de détails, je me disais que le pouvoir du personnage (barbare du cœur sauvage, donc lié à la faune) pourrait être la manière dont la magie de son peuple s'est manifesté chez lui. La hache de ses ancêtres serait un artéfact qui accompagné ceux de ses ancêtres qui était comme lui, avant d'être perdue longtemps avant sa naissance. 
 D'ailleurs son souhait ne se réalisera jamais, pas sous cette forme, il ne pourra jamais être un grand jeteur de sort. Son voyage pourrait lui permettre d'accepter que son pouvoir s'est manifester sous une autre forme mais qu'il n'est pas moins méritant que sa famille, contrairement à ce que peut penser les anciens de son clan.
