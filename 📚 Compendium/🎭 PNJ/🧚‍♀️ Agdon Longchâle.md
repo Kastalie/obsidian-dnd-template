@@ -48,17 +48,12 @@ Il adore :
 # Histoire
 
 Autrefois simple conil.
-
 Un jour il rencontra **l'un des Brigands Brimbarbes**.
-
 Ce dernier lui remit un **châle magique bleu**.
-
 Grâce à cet objet, Agdon devint :
-
 - incroyablement rapide ;
 - presque intouchable ;
 - le chef d'une bande de brigands.
-
 Depuis, il règne sur le Péage des Brigands.
 
 ---
@@ -68,11 +63,8 @@ Depuis, il règne sur le Péage des Brigands.
 ## Sur Prismeer
 
 ✅ Zybilna a disparu.
-
 ✅ Les guenaudes dirigent désormais le royaume.
-
 ✅ Bavlorna règne sur Céans.
-
 ✅ Les habitants la craignent.
 
 ---
@@ -80,7 +72,6 @@ Depuis, il règne sur le Péage des Brigands.
 ## Sur Bavlorna
 
 Il paie une partie de son butin à Bavlorna.
-
 Il préfère éviter de l'affronter directement.
 
 ---
@@ -89,23 +80,14 @@ Il préfère éviter de l'affronter directement.
 
 Au début :
 
-Plain Text
+>Ils sont des victimes potentielles.
 
-1
 
-Ils sont des victimes potentielles.
-
-Afficher plus de lignes
 
 Après une rencontre :
 
-Plain Text
-
-1
-
 Ils deviennent des rivaux potentiellement dangereux.
 
-Afficher plus de lignes
 
 ---
 
