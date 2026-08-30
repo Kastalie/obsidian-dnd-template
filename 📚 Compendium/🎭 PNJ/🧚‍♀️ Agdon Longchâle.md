@@ -82,12 +82,9 @@ Au début :
 
 >Ils sont des victimes potentielles.
 
-
-
 Après une rencontre :
 
-Ils deviennent des rivaux potentiellement dangereux.
-
+>Ils deviennent des rivaux potentiellement dangereux.
 
 ---
 
@@ -96,7 +93,6 @@ Ils deviennent des rivaux potentiellement dangereux.
 ## Première motivation
 
 Devenir célèbre.
-
 Il veut que tout le monde connaisse son nom.
 
 ---
@@ -104,7 +100,6 @@ Il veut que tout le monde connaisse son nom.
 ## Deuxième motivation
 
 Conserver son châle magique.
-
 Il est persuadé que toute sa grandeur vient de lui.
 
 ---
@@ -176,23 +171,9 @@ L'objet le plus important du personnage.
 ## Première rencontre
 
 Objectif :
-
-Plain Text
-
-1
-
 Montrer que Céans est dangereux.
-
-2
-
-``
-
-Afficher plus de lignes
-
 Pas nécessairement mortel.
-
 Agdon doit donner l'impression :
-
 - d'être rapide ;
 - insaisissable ;
 - irritant.
@@ -202,21 +183,13 @@ Agdon doit donner l'impression :
 ## Deuxième rencontre
 
 Les PJ doivent commencer à comprendre :
-
-Plain Text
-
-1
-
 Agdon n'est qu'un symptôme du chaos créé par les guenaudes.
-
-Afficher plus de lignes
 
 ---
 
 ## Défaite
 
 Quand Agdon est vaincu :
-
 - son prestige disparaît ;
 - sa bande se disperse ;
 - les habitants de Céans respirent un peu mieux.
