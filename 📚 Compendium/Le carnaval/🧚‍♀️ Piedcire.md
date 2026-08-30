@@ -4,7 +4,7 @@
 📍Lieux: Carnaval
 🖼️ Portrait: "[[piedcire.png]]"
 ---
-![[Pasted image 20260709153303.png|326]]
+![[piedcire.png|446]]
 Toute couleur a abandonné sa peau, ses cheveux, ses yeux et son accoutrement, ce qui lui donne
 une étrange allure monochrome. Mais ses problèmes ne s'arrêtent pas là. Une kenku nommée la Bouilloire lui a volé sa voix, si bien qu' il communique en mimant. Si les personnages lui fournissent de quoi écrire, il peut également rédiger ses pensées.
 

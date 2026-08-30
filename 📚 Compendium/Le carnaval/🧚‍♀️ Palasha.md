@@ -6,7 +6,6 @@
 🎂 Age: 20
 ---
 
-
 Palasha, sirène élégante à la voix sublime, agite ses longues nageoires, même hors de l'eau.
 Elle sculpte l'onde de ses extraordinaires mélodies pour engendrer un spectacle étonnant de
 magie aquatique. Distante, mais exigeante, Palasha traîne une réputation d' individu hautain
@@ -18,4 +17,4 @@ entourage. »
 *Obligation.* « [[🧚‍♀️ Piedcire]]. Sans lui, je ne suis plus la même.»
 *Faille.* « J'ai du mal à montrer mes sentiments, ce qui me fait passer pour froide. »
 
-![[Pasted image 20260713145311.png|395]]
+![[palasha.png]]

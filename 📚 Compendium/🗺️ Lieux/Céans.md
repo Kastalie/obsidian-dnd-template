@@ -153,7 +153,6 @@ Palais du Roi Gullop XIX.
 Trois obscurs marchands particulièrement utiles.
 
 Ils vendent :
-
 - objets magiques ;
 - informations ;
 - moyens de transport.
@@ -191,7 +190,6 @@ Description :
 ### Approche
 
 Elle préfère :
-
 - négocier ;
 - manipuler ;
 - envoyer d'autres personnes faire le travail.
@@ -242,7 +240,7 @@ Peuvent échanger :
 
 ---
 
-# Si tu as placé la corne chez Will
+# La corne de licorne
 
 ## À préparer
 
