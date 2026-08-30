@@ -101,7 +101,7 @@
     "creatures": [
       {
         "name": "Agdon Longchâle",
-        "initiative": 15,
+        "initiative": 17,
         "static": false,
         "modifier": 5,
         "hp": 36,
@@ -114,7 +114,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "8d8"

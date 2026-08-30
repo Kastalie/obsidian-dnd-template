@@ -13,7 +13,6 @@
 À l'arrivée des aventuriers, il implore leur aide. Une fois libéré, il devient l'une des premières sources fiables d'informations sur Prismeer et sur les dangers qui menacent le royaume.
 Talavar est courtois, brave et extrêmement reconnaissant envers ceux qui lui portent secours. Il considère naturellement les héros comme de potentiels alliés dans la sauvegarde de Prismeer.  
 
-
 #### Secrets  
 
 - Il sait que Prismeer est tombé sous l'influence de forces hostiles.  

@@ -31,3 +31,4 @@ Description: Les récits de la Cour d'Été racontent que Delbian était un chev
 ### Limitation
 
 Le pendentif ne peut retrouver quelqu'un qui a été totalement effacé de l'existence ou dont le véritable nom a été oublié par tous.
+
