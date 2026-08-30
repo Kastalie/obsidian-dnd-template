@@ -1,18 +1,11 @@
-### 🐉 Sir Talavar  
-
-🛠️ Occupation : Chevalier de la Cour Seelie  
-
-🎂 Age : Très ancien  
-
-🤝 Faction : Cour Seelie  
-
-❤️ État : Prisonnier d'une cage magique  
-
-📍Lieux : Céans, Tour Bringuebalante  
-
-🖼️ Portrait: "[[talavar.png]]"  
-
-  
+---
+🛠️ Occupation: Chevalier de la Cour Seelie
+🎂 Age:
+🤝 Faction: Cour Seelie
+❤️ État: Prisonnier d'une cage magique
+📍Lieux: Céans
+🖼️ Portrait: "[[talavar.png]]"
+---
 
 >[!description]+ Résumé  
 >Sir Talavar est un dragon féerique violet au service de Titania, la Reine de l'Été. Chevalier respecté de la Cour Seelie, il est connu pour son sens de l'honneur inébranlable et son optimisme à toute épreuve.  
@@ -20,7 +13,6 @@
 À l'arrivée des aventuriers, il implore leur aide. Une fois libéré, il devient l'une des premières sources fiables d'informations sur Prismeer et sur les dangers qui menacent le royaume.
 Talavar est courtois, brave et extrêmement reconnaissant envers ceux qui lui portent secours. Il considère naturellement les héros comme de potentiels alliés dans la sauvegarde de Prismeer.  
 
-  
 
 #### Secrets  
 

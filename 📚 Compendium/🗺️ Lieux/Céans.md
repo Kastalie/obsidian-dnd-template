@@ -29,7 +29,7 @@ Trouver comment rejoindre **Çà-et-là.
 
 Pour cela ils doivent généralement :
 
-- rencontrer Messire Talavar ;
+- rencontrer Messire [[🧚‍♀️ Sir Talavar]] ;
 - comprendre la situation de Prismeer ;
 - finir par obtenir l'aide de Bavlorna ou un moyen alternatif de poursuivre leur route.
 

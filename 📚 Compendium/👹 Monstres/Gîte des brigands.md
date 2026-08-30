@@ -6,10 +6,7 @@
 🏃 Vitesse: 21 m
 ---
 ```statblock
-creature:Talavar
-```
-```statblock
-creature:Talavar
+creature:
 ```
 # Gîte des brigands  
 

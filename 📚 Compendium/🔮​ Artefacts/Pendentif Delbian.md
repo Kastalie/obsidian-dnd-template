@@ -1,6 +1,6 @@
 ---
 💰 Prix:
-📍Lieux: "[[talavar.png]]"
+📍Lieux: "[[Céans]]"
 💎 Rareté: rare
 🖼️ Portrait: "[[delbian.png]]"
 ✨ Effet: En plaçant un objet appartenant à une créature dans le médaillon, celui-ci indique la direction générale de sa cible.
