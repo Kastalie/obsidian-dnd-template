@@ -79,7 +79,7 @@ Les habitants les craignent.
 
 ### PNJ important
 
-**Bling-Bling**
+**[[🧚‍♀️ Bling-Bling]]**
 
 Gobeline collectionneuse de clés.
 
@@ -89,7 +89,7 @@ La clé permettant de libérer Talavar.
 
 ---
 
-## Messire Talavar
+## [[🧚‍♀️ Sir Talavar]]
 
 ### Qui est-il ?
 

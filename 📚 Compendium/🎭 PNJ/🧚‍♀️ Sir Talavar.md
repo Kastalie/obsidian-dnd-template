@@ -65,4 +65,4 @@ monster: Talavar
 - Affiliation : Cour Seelie  
 - Fonction : Messager et chevalier de Titania  
 - Objectif : Prévenir Titania de la chute de Prismeer  
-- Particularité : Prisonnier d'une cage magique dont la clé se trouve chez Bling-Bling
+- Particularité : Prisonnier d'une cage magique dont la clé se trouve chez [[🧚‍♀️ Bling-Bling]]
