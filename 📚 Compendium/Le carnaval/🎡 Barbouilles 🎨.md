@@ -1,3 +1,5 @@
+Les effets magiques de la peinture faciale durent 8 heures ou jusqu'à ce que la peinture
+soit intentionnellement enlevée. Un personnage ne peut bénéficier que d'une seule peinture faciale à la fois, et chaque dessin coûte 1 poinçon.
 Table des avantages des peintures faciales
 
 | Peinture      | Passif                                                                                                               | Actif                                                                                                                                                                                                                                                                           |
@@ -12,6 +14,7 @@ Table des avantages des peintures faciales
 | Cerf          | Votre vitesse de déplacement augmente de 2 m.                                                                        | **Aide.** Comme action bonus, vous pouvez utiliser l'action Aider une créature située à moins de 2 m de vous.                                                                                                                                                                   |
 
 Table des avantages des tatouages de Tinijean
+Les effets magiques du tatouage à l'aérographe durent 3 jours, après quoi le tatouage disparaît. Un personnage ne peut bénéficier que d’un seul tatouage temporaire à la fois.
 
 | Tatouage                        | Actif                                                                                                                                                                                                                                                                                                              |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
