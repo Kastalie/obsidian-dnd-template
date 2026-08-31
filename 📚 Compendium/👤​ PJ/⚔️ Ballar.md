@@ -88,7 +88,6 @@ Je ne te demande pas de devenir quelqu'un d'autre. Je ne te demande pas de deven
 
 Si tu découvres ce qu'il est advenu de Zybilna et rapportes la vérité sur son royaume, je partagerai avec toi tout ce que je possède concernant ces légendes de ton peuple. Peut-être y trouveras-tu de quoi sauver ton père. Peut-être y trouveras-tu des réponses concernant ton frère. Peut-être y trouveras-tu quelque chose d'encore plus précieux.
 
-
 Dans quelques jours ouvrira le **Carnaval de Sorcelume**. Derrière ses lumières et ses musiques se trouve un passage menant à Prismeer. Je te demande de l'emprunter. Découvre ce qui est arrivé à Zybilna et à son royaume.
 
 Les anciens de ton peuple voient peut-être un fils incapable d'égaler les dons de sa famille. Moi, je vois autre chose. Je vois un homme qui a reçu les mêmes racines, mais dont les branches ont choisi de pousser dans une autre direction. Les arbres les plus solides ne sont pas toujours ceux qui grandissent le plus droit.

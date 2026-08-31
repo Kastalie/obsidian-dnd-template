@@ -100,3 +100,21 @@
 | 98   | Petit attrape-rêves                                                                                 |
 | 99   | Clochette aux dimensions de pixie ou d’esprit follet                                                |
 | 100  | Boîte à musique jouant un air entraînant de votre enfance                                           |
+
+
+## 🎁 Récompenses du Carnaval
+
+| d12 | Récompense                                                                                                                                                                                                                                               |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Un stylo plume arc-en-ciel. Pour une action, vous pouvez lancer le sort *Texte Illusoire* une fois avant que le stylo ne perde sa magie.                                                                                                                 |
+| 2   | Un faux nez géant. Lorsque vous le portez, vous avez l'avantage aux tests de Sagesse (Perception) reposant sur l'odorat. Il perd sa magie au bout de 8 jours.                                                                                            |
+| 3   | Un livre d'histoires fantastiques. Une créature à 1,5 m qui peut vous entendre doit réussir un JS de Sagesse DD 13 ou être charmée, incapable et hébétée tant que vous continuez la lecture. Une fois une histoire complète lue, le livre perd sa magie. |
+| 4   | Un ensemble amélioré d'ailes de papillon. Lorsque vous les portez, vous pouvez lancer *Feuille morte* comme réaction. Après usage, les ailes perdent leur magie.                                                                                         |
+| 5   | Un sachet contenant huit bonbons magiques. Chaque bonbon produit les effets d'une *Baie nourricière*. Tous perdent leur magie après 3 jours.                                                                                                             |
+| 6   | Un livre de huit blagues salaces. Chaque blague permet de lancer *Moquerie cruelle* (DD 13). La blague disparaît après utilisation.                                                                                                                      |
+| 7   | Une bouteille d'eau réutilisable du carnaval. Une fois, elle permet de lancer *Création ou destruction d'eau*. Elle perd ensuite sa magie.                                                                                                               |
+| 8   | Une petite cloche scintillante. Une créature choisie à moins de 200 m entend son tintement. Aucune autre créature ne l'entend. Usage unique.                                                                                                             |
+| 9   | Une cape jaune magique. Lorsque vous la tenez, vous pouvez lancer *Serviteur invisible*. Une fois le sort terminé, la cape perd sa magie.                                                                                                                |
+| 10  | Un bon pour un tatouage temporaire gratuit de Tinijean.                                                                                                                                                                                                  |
+| 11  | Un lance-pierre magique. Une fois, il permet de lancer *Catapulte* (DD 13). Les dégâts sont non létaux. Le lance-pierre se brise ensuite.                                                                                                                |
+| 12  | Une bouteille de colle magique couvrant une zone de 1 m². Une créature entrant dans la zone doit réussir un JS de Force DD 13 ou voir sa vitesse réduite à 0. Elle peut utiliser une action pour refaire un test de Force DD 13 afin de se libérer.      |
