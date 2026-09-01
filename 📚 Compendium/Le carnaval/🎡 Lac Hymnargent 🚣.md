@@ -90,49 +90,11 @@ Elle ignore cependant les secrets profonds de Prismeer.
 
   
 
-[!fiche]- Informations rapides  
-
-  
-
-**Coût :**  
-
-- Gratuit  
-
-  
-
-**PNJ importants :**  
-
-- 🧜‍♀️ Palasha  
-
-- 🎭 Piedecire  
-
-- 🐦 La Bouilloire  
-
-  
-
-**Objectif caché :**  
-
-- Réunir Palasha et Piedecire  
-
-  
-
+>[!fiche]- Informations rapides  
 **Effets sur l'ambiance :**  
-
-- Convaincre Palasha de chanter : +2  
-
-- Rendre sa voix à Piedecire et réunir les amoureux : +2  
-
+>- Convaincre Palasha de chanter : +2  
+>- Rendre sa voix à Piedecire et réunir les amoureux : +2  
 - Laisser la Bouilloire gâcher le spectacle : -1  
-
-  
-
-**Récompense principale :**  
-
-- Augmentation importante de l'ambiance du carnaval  
-
-- Informations sur plusieurs PNJ  
-
-- Développement émotionnel du carnaval
 
 
 
