@@ -1,3 +1,199 @@
+
+
+>[!description]+ Résumé  
+Des wagonnets enchantés filent à travers la gueule béante d'un dragon avant de disparaître dans un étrange demi-plan rempli d'illusions.  
+À l'entrée se tient [[🧙 Zéphixo]], un nain extravagant vêtu comme un magicien. Il accueille les visiteurs avec son immense machine en forme d'œil :  
+
+
+> « Élucidez les énigmes de votre esprit dans la Mine des Mystères ! »  
+  
+La Mine des Mystères n'est pas un simple manège. Les visiteurs y sont confrontés à leurs peurs les plus profondes grâce à une puissante magie illusionniste.  
+
+**Coût : 1 poinçon**  
+
+
+#### Fonctionnement  
+
+Avant de monter dans le wagon :  
+- Chaque visiteur observe l'Œil Omniscient.  
+Ces informations servent pendant toute la traversée.  
+
+#### Le Demi-Plan des Illusions  
+
+La mine traverse un royaume irréel composé :  
+- de collines ondoyantes ;  
+- d'arbres en tire-bouchon ;  
+- de cieux prismatiques ;  
+- d'illusions mouvantes.  
+
+Pendant le trajet :  
+- Chaque personnage est confronté une fois à sa pire peur.  
+- Les peurs prennent forme et attaquent le wagon.  
+- Ces créatures sont des illusions sans danger physique réel.  
+
+  
+
+#### Mécaniques  
+
+Pour chaque peur rencontrée :  
+- Jet de sauvegarde de Sagesse DD 12.  
+Lorsqu'un personnage affronte sa propre peur :  
+- Il effectue ce jet avec désavantage.  
+**Échec :**  
+- Le personnage hurle ou panique.  
+**Réussite :**  
+- Le personnage réalise qu'il ne s'agit que d'une illusion.  
+Les joueurs doivent compter leurs échecs.  
+
+
+#### Récompenses  
+##### Aucun échec  
+Le personnage gagne :  
+- Avantage à tous les tests de Charisme effectués au carnaval.  
+Effet actif jusqu'au couronnement du Monarque de Sorcelume.  
+##### Trois échecs ou plus  
+Le personnage est victime de cauchemars durant :  
+- 1d8 jours.  
+Après chaque repos long :  
+- JS de Sagesse DD 12.  
+En cas d'échec :  
+
+  
+
+- Subit 1d3 niveaux d'épuisement.  
+
+  
+
+Un sort mettant fin à une malédiction met fin aux cauchemars.  
+
+  
+
+#### Relations  
+
+  
+
+- Créateur :  
+
+- [[🧙 Zéphixo]]  
+
+  
+
+- Visiteurs fréquents :  
+
+- Forains du carnaval  
+
+- Aventuriers  
+
+- Amateurs de sensations fortes  
+
+  
+
+[!mj] Notes  
+
+  
+
+##### Ambiance  
+
+  
+
+Cette attraction permet :  
+
+  
+
+- de révéler les peurs des PJ ;  
+
+- de développer leur personnalité ;  
+
+- de donner des indices sur leur passé.  
+
+  
+
+##### Exemples de manifestations  
+
+  
+
+**Peur : Ver pourpre**  
+
+- Le sol se fend sous le wagon.  
+
+- Une gueule gigantesque surgit du néant.  
+
+  
+
+**Peur : Araignée**  
+
+- Des toiles recouvrent les rails.  
+
+- D'immenses pattes apparaissent dans le brouillard.  
+
+  
+
+**Peur : Solitude**  
+
+- Tous les autres passagers disparaissent.  
+
+- Le personnage se retrouve seul dans l'obscurité.  
+
+  
+
+**Peur : Échec**  
+
+- Des proches apparaissent et ridiculisent le personnage.  
+
+  
+
+##### Utilisation idéale  
+
+  
+
+Cette attraction fonctionne particulièrement bien :  
+
+  
+
+- après avoir appris à connaître les personnages ;  
+
+- lorsqu'on souhaite mettre en avant leurs faiblesses ;  
+
+- comme moment de jeu de rôle plutôt que comme défi mécanique.  
+
+  
+
+##### Zéphixo  
+
+  
+
+Zéphixo considère la peur comme :  
+
+  
+
+> « Une énigme qu'il faut résoudre, pas un ennemi qu'il faut fuir. »  
+
+  
+
+Il adore observer les réactions des visiteurs afin d'améliorer son attraction.  
+
+  
+
+[!fiche]- Fiche  
+
+  
+
+- Type : Attraction  
+
+- Coût : 1 poinçon  
+
+- Difficulté : JS Sagesse DD 12  
+
+- Récompense : avantage aux tests de Charisme du carnaval  
+
+- Risque : cauchemars pendant 1d8 jours  
+
+- Créateur : Zéphixo  
+
+- Particularité : utilise les peurs réelles des visiteurs
+
+
+
 Animés par magie, des chariots de mine chargés de visiteurs s'engouffrent dans une ouverture taillée à l'image d'une gueule de dragon. Les chariots réapparaissent un peu plus tard à l'autre bout de l'attraction, l'expression des passagers mêlant stupéfaction, terreur et griserie. Près de l'entrée, un nain vêtu comme un magicien s'écrie:« Élucidez les énigmes de votre esprit dans la Mine des mystères!» Doté de sourcils broussailleux, il porte un chapeau pointu et tient un gros instrument mécanique en forme d'œil géant.
 
 Cette attraction coûte **1 poinçon**.
