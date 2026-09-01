@@ -100,195 +100,42 @@ Si personne ne l'arrête :
 Rubin disparaît dans le miroir.  
 Avant qu'il ne parte :  
 - sa bague de fiançailles tombe au sol.  
-- les PJ ne peuvent pas le suivre.  
+- les PJ ne peuvent pas le suivre.    
 
-  
-
----  
-
-  
+---   
 
 ### 🎭 Conséquences  
-
-  
-
 #### Les PJ réunissent Rubin et Songe  
-
-  
-
 ✅ Songe accepte sa demande.  
-
-  
-
 ✅ Ambiance du Carnaval +1.  
-
-  
-
 ✅ Les deux halfelins restent ensemble.  
 
-  
-
----  
-
-  
-
+--- 
 #### Rubin disparaît  
-
-  
-
 ❌ Ambiance du Carnaval -1.  
-
-  
-
 ❌ Une rumeur de disparition se répand.  
-
-  
-
 ⚠️ Noter sur le Suivi d'Aventure que Rubin est parti avec Cochontruie.  
-
-  
-
 Les PJ pourront le revoir au chapitre 3.  
 
-  
-
----  
-
-  
-
+---   
 #### Secrets  
-
-  
-
 - Le portail vers Prismeer est caché ici.  
-
 - Les larronnes de l'Assemblée utilisent régulièrement cette galerie.  
-
 - Les miroirs sont liés à la magie féerique de Prismeer.  
-
 - Cochontruie travaille pour Skabatha Belladone.  
-
 - Tasha et Iggwilv sont une seule et même personne.  
 
-  
+---   
 
----  
-
-  
-
-#### Relations  
-
-  
-
-##### Alliés  
-
-  
-
-- Songe Pommefête  
-
-- Rubin Sucreboise  
-
-- Piedecire  
-
-  
-
-##### Ennemis  
-
-  
-
-- Cochontruie  
-
-- Les larronnes de l'Assemblée  
-
-  
-
-##### Liens  
-
-  
-
-- [[🧚‍♀️ Piedecire]]  
-
-- [[👑 Zybilna]]  
-
-- [[🧙‍♀️ Iggwilv]]  
-
-- [[🧙‍♀️ Skabatha Belladone]]  
-
-- [[👑 Prismeer]]  
-
-  
-
-[!mj] Notes  
-
-  
-
-- L'une des attractions les plus importantes du Carnaval.  
-
-- Première apparition directe d'un agent de Skabatha.  
-
-- Foreshadowing majeur sur Tasha, Iggwilv et Zybilna.  
-
-- Excellent moment pour faire réfléchir les PJ à leur passé et à leur avenir.  
-
-- Toujours demander la description du personnage enfant et âgé.  
-
-- Penser à noter :  
-
-- qui connaît le lien Tasha/Iggwilv ;  
-
-- si Rubin disparaît.  
-
-  
-
-[!fiche]- Informations rapides  
-
-  
-
-**Coût :**  
-
-- 1 poinçon  
-
-  
-
-**PNJ importants :**  
-
-- Piedecire  
-
-- Rubin Sucreboise  
-
-- Songe Pommefête  
-
-- Cochontruie  
-
-  
-
-**Jets importants :**  
-
-- Histoire DD 15 (Tasha = Iggwilv)  
-
-- Sagesse DD 13 (Fou rire de Tasha)  
-
-- Perception DD 15 (retrouver Rubin)  
-
-  
-
-**Effets sur l'Ambiance :**  
-
-- Réunion de Rubin et Songe : +1  
-
-- Disparition de Rubin : -1  
-
-  
-
-**Importance scénaristique :**  
-
-- Très élevée  
-
-- Présentation de Cochontruie  
-
-- Présentation d'Iggwilv  
-
-- Présentation du portail vers Prismeer
+>[!mj] Notes  
+-> L'une des attractions les plus importantes du Carnaval.  
+-> Première apparition directe d'un agent de Skabatha.  
+-> Foreshadowing majeur sur Tasha, Iggwilv et Zybilna.  
+-> Excellent moment pour faire réfléchir les PJ à leur passé et à leur avenir.  
+-> Toujours demander la description du personnage enfant et âgé.  
+Penser à noter :  
+>- qui connaît le lien Tasha/Iggwilv ;  
+-> si Rubin disparaît.  
 
 
 *Un mannequin en bois représente une jeune femme aux cheveux de jais, au large sourire et aux vêtements de sorcière enveloppés d'une cape verte. Il flotte dans une armoire en verre. Au sommet de l'armoire, on peut lire « Tasha la magicienne, célèbre pour son effroyable rire.» Un couple de halfelins se joint les mains en s'approchant du meuble. Le visage de l'un d'eux est peint d'un grand papillon. Alors qu'il met un genou à terre et sort une petite boîte de sa poche, l'autre éclate de rire et se roule au sol en se tenant les côtes. Le halfelin au visage peint se met à sangloter, puis file dans la tente voisine sans faire poinçonner son billet.*

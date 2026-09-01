@@ -1,4 +1,514 @@
 
+
+
+  
+
+[!description]+ Résumé  
+D'immenses cygnes tirent de magnifiques gondoles recouvertes de fleurs le long de la rivière qui encercle le Carnaval de Sorcelume.  
+Le voyage traverse des bancs de brume argentée, des zones de calme surnaturel et des reflets impossibles. L'attraction est réputée pour ses conversations profondes autant que pour son romantisme.  
+Chaque gondole peut accueillir jusqu'à 8 créatures de taille M.  
+
+  
+Coût : **1 poinçon**  
+
+  
+
+---  
+
+  
+
+### 🦢 Plumevienne  
+
+  
+
+Le principal cygne du manège est **Plumevienne**.  
+
+  
+
+Immense, élégante et particulièrement intellectuelle, elle considère la plupart des visiteurs comme de charmants ignorants.  
+
+  
+
+Pendant le trajet, elle interroge les passagers sur diverses questions :  
+
+  
+
+- « Qu'est-ce que la joie ? »  
+
+- « Comment savez-vous que vous existez ? »  
+
+- « Le temps n'est-il qu'une illusion ? »  
+
+- « Quelle différence existe-t-il entre un souvenir et un rêve ? »  
+
+- « Une promesse vaut-elle encore quelque chose lorsque celui qui l'a faite l'oublie ? »  
+
+  
+
+---  
+
+  
+
+### Réussir à impressionner Plumevienne  
+
+  
+
+Les personnages qui :  
+
+  
+
+- réfléchissent sérieusement ;  
+
+- débattent ;  
+
+- proposent des réponses originales ;  
+
+  
+
+gagnent son estime.  
+
+  
+
+⚠️ Noter les noms sur le Suivi d'Aventure.  
+
+  
+
+Ces personnages développeront des talents rhétoriques utiles plus tard au Palais du Désir Ardent (Chapitre 5).  
+
+  
+
+---  
+
+  
+
+### Informations que peut révéler Plumevienne  
+
+  
+
+#### 🎭 Piedecire et Palasha  
+
+  
+
+Plumevienne a assisté à la tragique tentative de déclaration de :  
+
+  
+
+- [[🧚‍♀️ Piedecire]]  
+
+- envers [[🧜‍♀️ Palasha]]  
+
+  
+
+> « Il allait lui déclarer sa flamme devant tout le monde... puis il est resté muet comme une tombe. »  
+
+  
+
+---  
+
+  
+
+#### 🐻 Bohu  
+
+  
+
+Plumevienne admire énormément Bohu.  
+
+  
+
+> « Un esprit fin et sagace. Quel gâchis de lui faire garder des roulottes. »  
+
+  
+
+Elle évoque également la disparition de Tohu.  
+
+  
+
+---  
+
+  
+
+### Déplaire à Plumevienne  
+
+  
+
+Si les personnages :  
+
+  
+
+- se moquent d'elle ;  
+
+- répondent de façon stupide ;  
+
+- ignorent ses questions ;  
+
+  
+
+elle fait volontairement tanguer la gondole.  
+
+  
+
+**JS Dextérité DD 10**  
+
+  
+
+Échec :  
+
+- le personnage manque de tomber à l'eau.  
+
+  
+
+Conséquence :  
+
+  
+
+❌ Ambiance du Carnaval -1  
+
+  
+
+---  
+
+  
+
+### Lui plaire  
+
+  
+
+Si Plumevienne apprécie les voyageurs :  
+
+  
+
+✅ Ambiance du Carnaval +1  
+
+  
+
+✅ Les PJ gagnent son respect.  
+
+  
+
+---  
+
+  
+
+## ❤️ Route romantique (supplément étendu)  
+
+  
+
+Certains cygnes empruntent une route spéciale surnommée :  
+
+  
+
+### Le Tunnel de l'Amour  
+
+  
+
+Durant le trajet :  
+
+  
+
+> Un tunnel de pierres couvert de cristaux rouges émerge de la brume. Une douce mélodie résonne tandis que la lumière pulse lentement autour de la gondole.  
+
+  
+
+Chaque passager doit effectuer :  
+
+  
+
+**JS Sagesse DD 12**  
+
+  
+
+Échec :  
+
+  
+
+- Charmé par les autres occupants de la gondole pendant 8 heures.  
+
+  
+
+Cette magie peut être utilisée :  
+
+  
+
+- pour rapprocher des amoureux ;  
+
+- obtenir des confidences ;  
+
+- pousser certains PNJ à révéler leurs sentiments.  
+
+  
+
+---  
+
+  
+
+## 🌑 Ombres Tapies  
+
+  
+
+Une menace secrète rôde autour des gondoles.  
+
+  
+
+### L'Ombre de Miroite  
+
+  
+
+L'ombre de [[🌙 Miroite]] fréquente régulièrement l'attraction.  
+
+  
+
+Elle recherche :  
+
+  
+
+- des visiteurs isolés ;  
+
+- des amoureux ;  
+
+- des personnes naïves.  
+
+  
+
+Elle prétend :  
+
+  
+
+> « J'ai perdu mon amour... ainsi que toutes mes couleurs. Peut-être que le Tunnel de l'Amour brisera ma malédiction. »  
+
+  
+
+---  
+
+  
+
+### Détecter le mensonge  
+
+  
+
+**Perspicacité DD 13**  
+
+  
+
+Succès :  
+
+  
+
+- quelque chose semble faux.  
+
+- son histoire paraît inventée.  
+
+  
+
+---  
+
+  
+
+### Son véritable objectif  
+
+  
+
+L'ombre cherche à :  
+
+  
+
+- monter dans une gondole ;  
+
+- profiter du charme magique ;  
+
+- voler l'ombre de sa victime.  
+
+  
+
+Lorsque le personnage est charmé :  
+
+  
+
+- elle absorbe sa force ;  
+
+- le personnage s'effondre inconscient ;  
+
+- son ombre est enfermée dans un cristal.  
+
+  
+
+L'ombre livre ensuite ce cristal à :  
+
+  
+
+### 🕰️ Endelyne Tombelune  
+
+  
+
+---  
+
+  
+
+## ⚠️ La malédiction "Sans Ombre"  
+
+  
+
+Un personnage dont l'ombre a été volée :  
+
+  
+
+- retrouve sa Force après une heure ;  
+
+- reste cependant privé de son ombre.  
+
+  
+
+Conséquences futures :  
+
+  
+
+- les habitants de Prismeer se méfient immédiatement de lui ;  
+
+- plusieurs PNJ refusent de traiter avec lui ;  
+
+- les créatures féeriques considèrent cela comme un mauvais présage.  
+
+  
+
+La malédiction peut être levée par :  
+
+  
+
+- **Délivrance des malédictions**  
+
+- magie équivalente  
+
+  
+
+---  
+
+  
+
+#### Secrets  
+
+  
+
+- Les forains savent que l'Ombre de Miroite fréquente l'attraction.  
+
+- Ils ignorent totalement pourquoi.  
+
+- Les larronnes de l'Assemblée circulent parfois à proximité.  
+
+- Plumevienne connaît énormément de ragots sur les forains.  
+
+- Elle sait que quelque chose ne va pas au Carnaval mais n'en comprend pas l'origine.  
+
+  
+
+---  
+
+  
+
+#### Relations  
+
+  
+
+##### Alliés  
+
+- Plumevienne  
+
+- Bohu  
+
+- Palasha  
+
+  
+
+##### Ennemis  
+
+- L'Ombre de Miroite  
+
+- Endelyne Tombelune  
+
+  
+
+##### Liens  
+
+- [[🧚‍♀️ Bohu]]  
+
+- [[🧜‍♀️ Palasha]]  
+
+- [[🧚‍♀️ Piedecire]]  
+
+- [[🌙 Miroite]]  
+
+- [[🧙‍♀️ Endelyne Tombelune]]  
+
+  
+
+[!mj] Notes  
+
+  
+
+- Très bonne attraction pour le roleplay.  
+
+- Permet de faire découvrir Bohu et Piedecire.  
+
+- Excellent endroit pour introduire le thème de l'amour perdu.  
+
+- Première apparition possible d'un agent d'Endelyne.  
+
+- La perte d'une ombre est un foreshadowing majeur pour Par-delà.  
+
+- Toujours jouer Plumevienne comme une philosophe prétentieuse mais sincèrement brillante.  
+
+  
+
+[!fiche]- Informations rapides  
+
+  
+
+**Coût :**  
+
+- 1 poinçon  
+
+  
+
+**Durée :**  
+
+- 1 heure  
+
+  
+
+**Tests importants :**  
+
+- Persuasion / Philosophie libre avec Plumevienne  
+
+- Dextérité DD 10 (si Plumevienne est contrariée)  
+
+- Sagesse DD 12 (Tunnel de l'Amour)  
+
+- Perspicacité DD 13 (Ombre de Miroite)  
+
+  
+
+**Effets sur l'Ambiance :**  
+
+- Impressionner Plumevienne : +1  
+
+- L'agacer : -1  
+
+  
+
+**Récompenses :**  
+
+- Faveur de Plumevienne  
+
+- Talents rhétoriques pour le chapitre 5  
+
+- Informations sur Bohu, Tohu, Piedecire et Palasha  
+
+  
+
+**Danger caché :**  
+
+- Vol d'ombre par l'Ombre de Miroite
+
+
+
 D'énormes cygnes glissent sur l'eau en tirant des gondoles en bois ouvragé, recouvertes de fleurs. Ces grands oiseaux descendent la rivière jusqu'à être happés par les nappes de brume argentée. Une jetée pointe devant vous, au bout de laquelle un cygne fait sa toilette dans l'attente.
 
 Un tour de gondole coûte 1 poinçon. Le circuit demande une heure ; il débute et se termine à la jetée, la gondole suivant le cours de la rivière qui délimite le périmètre du carnaval.
