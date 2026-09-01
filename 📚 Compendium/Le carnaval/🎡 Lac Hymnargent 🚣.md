@@ -13,8 +13,6 @@ Habituellement :
 - elle contribue fortement à la bonne ambiance du carnaval.  
 Cependant, lorsque les aventuriers arrivent, Palasha refuse de chanter.  
 
----  
-
 ### Pourquoi Palasha refuse-t-elle de chanter ?  
 
 Palasha est persuadée que :  
@@ -45,15 +43,12 @@ Une fois la voix rendue :
 #### Les PJ convainquent Palasha de revenir chanter  
 ✅ Ambiance +2  
 
----  
 #### Les PJ réunissent Palasha et Piedecire  
 ✅ Ambiance +2  
-✅ L'un des plus gros gains d'ambiance du Carnaval.  
 
----  
 ### 🫖 La Bouilloire  
 Le Lac Hymnargent est également l'un des meilleurs endroits pour observer :  
-### 🐦 La Bouilloire  
+[[🧚‍♀️ La bouilloire la kenku]]
 Selon les événements :  
 - elle peut interrompre un concert ;  
 - provoquer un incident ;  
@@ -72,29 +67,13 @@ Palasha peut révéler plusieurs ragots sur les forains :
 - divers événements liés à Sorcière et Lumière.  
 Elle ignore cependant les secrets profonds de Prismeer.  
 
----  
-
-[!mj] Notes  
-
-  
-
-- Intrigue romantique principale du Carnaval.  
-
-- Très facile à relier à la Galerie des Illusions.  
-
-- Permet aux PJ de gagner beaucoup d'ambiance.  
-
-- Excellent moyen de pousser les joueurs à enquêter et discuter avec les PNJ plutôt qu'à simplement visiter les attractions.  
-
-- Si les PJ réunissent Palasha et Piedecire, faire du moment une scène mémorable.  
-
-  
+---   
 
 >[!fiche]- Informations rapides  
 **Effets sur l'ambiance :**  
 >- Convaincre Palasha de chanter : +2  
 >- Rendre sa voix à Piedecire et réunir les amoureux : +2  
-- Laisser la Bouilloire gâcher le spectacle : -1  
+-> Laisser la Bouilloire gâcher le spectacle : -1  
 
 
 
