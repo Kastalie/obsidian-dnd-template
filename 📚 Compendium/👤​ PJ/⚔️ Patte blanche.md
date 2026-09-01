@@ -76,3 +76,21 @@ Il me semble que le pendentif Delbian pourrait t'aider à retrouver quelqu'un, s
 _Dernier serviteur de Zybilna_
 
 [[talavar.png]]
+
+
+Baton d'Edwidge qui a un passif 
+il a un passif qui lance un effet son/lumière a chaque sort lancé
+et -2 en force
+
+
+| dé 20 | Effet                                                                       |
+| ----- | --------------------------------------------------------------------------- |
+| 1     | le baton s'illumine en violet                                               |
+| 2     | des étincelles jaillissent du baton (style truc sur les gateau)             |
+| 3     | 3 papillons fluorescent volètent autour du bâton pendant 1d4 h              |
+| 4     | une petite colonne de fumée, a l'odeur d'encens d'église s'échappe du baton |
+| 5     | le baton rigole                                                             |
+| 6     | le baton devient invisible pendant 1d4 minutes                              |
+| 7     | le baton attire les insectes pendant 1d6 jours                              |
+| 8     | le baton pleure                                                             |
+| 9     | le baton de                                                                 |
