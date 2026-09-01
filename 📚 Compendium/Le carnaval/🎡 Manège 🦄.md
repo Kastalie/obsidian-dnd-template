@@ -22,24 +22,10 @@ l'aventurier apprend l'identité de la guenaude qui détient ce qu'il cherche
 
 Zybilna de Prismeer est figée dans le temps. 
 • Trois guenaudes ont pris le contrôle du domaine de Zybilna pour se le répartir. Ensemble, elles forment l'assemblée du Sablier. Les noms des guenaudes sont Bavlorna Paillepourrie, Skabatha Belladone et Endelyne Tombelune, et leurs royaumes-éclats se nomment Céans, Çà-et-là et Pardelà.
-La méfiance règne au sein de l'assemblée, au point que chaque guenaude est convaincue que ses
-soeurs complotent contre elle.
+La méfiance règne au sein de l'assemblée, au point que chaque guenaude est convaincue que ses soeurs complotent contre elle.
 
 
-Après que le deuxième nom a été peint, la navrette efface
-le premier nom peint par le groupe. Chaque fois que le
-groupe peint un nouveau nom, il s'aperçoit que les anciens
-noms sont effacés. Sans intervention magique, un
-personnage peut attraper la navrette en réussissant un test
-de Sagesse (perception) DD 18. Si deux personnages ou
-plus montent la garde (Diane est prête à remplir ce rôle),
-la navrette se sent trop exposée pour retenter sa chance.
-L'utilisation d'un sort d'alarme ou d'une magie similaire
+Après que le deuxième nom a été peint, la navrette efface le premier nom peint par le groupe. Chaque fois que le groupe peint un nouveau nom, il s'aperçoit que les anciens
+noms sont effacés. Sans intervention magique, un personnage peut attraper la navrette en réussissant un test de Sagesse (perception) DD 18. Si deux personnages ou
+plus montent la garde (Diane est prête à remplir ce rôle), la navrette se sent trop exposée pour retenter sa chance. L'utilisation d'un sort d'alarme ou d'une magie similaire
 permet de réussir automatiquement le test.
- Une fois le dernier nom peint, Diana découvre que l'un
-des engrenages du manège a été endommagé. Il peut être
-réparé rapidement en réussissant un test de Dextérité (arcanes)
-DD 10. Un sort de réparation permet de réussir
-UN SUPPLEMENT POUR PAR-DELA LE CARNAVAL DE SORCELUME 6
-automatiquement le test. En cas d'échec, la réparation
-prend une heure.
