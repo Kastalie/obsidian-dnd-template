@@ -83,7 +83,7 @@ il a un passif qui lance un effet son/lumière a chaque sort lancé
 et -2 en force
 
 
-| dé 20 | Effet                                                                       |
+| dé 20 | Effet (1minute sauf mention contraire, une fois par jour)                   |
 | ----- | --------------------------------------------------------------------------- |
 | 1     | le baton s'illumine en violet                                               |
 | 2     | des étincelles jaillissent du baton (style truc sur les gateau)             |
@@ -93,4 +93,10 @@ et -2 en force
 | 6     | le baton devient invisible pendant 1d4 minutes                              |
 | 7     | le baton attire les insectes pendant 1d6 jours                              |
 | 8     | le baton pleure                                                             |
-| 9     | le baton de                                                                 |
+| 9     | le baton devient glissant                                                   |
+| 10    | des paillettes s'échappent du baton en une gerbe                            |
+| 11    | le baton se recouvre de mousse                                              |
+| 12    | le baton s'illumine en orange                                               |
+| 13    | le porteur du baton s'illumine en vert                                      |
+| 14    |                                                                             |
+| 15    |                                                                             |
