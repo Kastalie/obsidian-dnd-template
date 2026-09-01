@@ -70,47 +70,19 @@ Succès :
 
 ---  
 
-  
-
 ## 🤼 Lutte gobeline  
 
-  
-
 Coincer un gobelin dans un temps limité.  
-
-  
-
-### Version étendue  
-
-  
-
 La lutte se joue tour par tour.  
-
-  
-
-Objectif :  
-
-  
-
+J force opposé gobelin si taille P sinon 2 gobelin
+Objectif : 
 - Attraper le gobelin.  
-
 - Le mettre à terre.  
-
 - Le maintenir immobilisé.  
-
-  
-
-### Triche possible  
-
-  
-
+Triche possible  
 Mains collantes.  
-
-  
-
 ✅ Avantage aux tests d'agrippement.  
 
-  
 
 ---  
 
@@ -118,46 +90,18 @@ Mains collantes.
 
 ## 🪶 Combien de plumes ?  
 
-  
-
 Deviner le nombre de plumes sur une cockatrice.  
-
-  
-
-### Version étendue  
-
-  
-
+« Des plumes dans le croupion ? Voyons voyons ... Approchez, et devinez combien de plumes garnissent celui de cette infernale volaille ! »
+Un participant a droit à trois essais pour deviner le nombre de plumes de l'une des cockatrices en cage. Intelligence DD 18
 **Nature DD 14**  
-
-  
-
 Succès :  
-
-  
-
 ✅ DD réduit à 15.  
-
-  
-
 Échec :  
-
+❌ DD augmenté à 20. 
   
-
-❌ DD augmenté à 20.  
-
-  
-
-### Triche possible  
-
-  
-
+Triche possible  
 Espionner les autres concurrents.  
-
-  
-
 **Perception DD 12**  
-
 **Discrétion DD 10**  
 
   
@@ -171,188 +115,14 @@ Espionner les autres concurrents.
   
 
 Concours de résistance aux bonbons épicés.  
-
-  
-
-### Version étendue  
-
-  
-
 Le défi se déroule en plusieurs manches.  
-
-  
-
 Le DD augmente à chaque tour.  
-
-  
-
-### Triche possible  
-
-  
-
-Introduire des friandises.  
-
-  
-
+Triche possible  
+Introduire des friandises. 
 **Escamotage DD 12**  
-
-  
-
 Succès :  
-
-  
-
 ✅ Désavantage pour le cyclope.  
 
-  
-
----  
-
-  
-
-# 🎨 Maquillages Magiques  
-
-  
-
-### Responsable  
-
-  
-
-🧜 Ihlen Nonas  
-
-  
-
-Triton enthousiaste adorant les câlins.  
-
-  
-
-### Coût  
-
-  
-
-**1 poinçon**  
-
-  
-
-### Durée  
-
-  
-
-**8 heures**  
-
-  
-
-### Limite  
-
-  
-
-Un seul maquillage actif à la fois.  
-
-  
-
-#### Choix disponibles  
-
-  
-
-- Lion  
-
-- Singe  
-
-- Papillon  
-
-- Lapin  
-
-- Souris  
-
-- Chauve-Souris  
-
-- Caméléon  
-
-- Cerf  
-
-  
-
-✅ Bonus passif  
-
-✅ Pouvoir activable  
-
-  
-
-Voir : [[🎨 Maquillages Magiques]]  
-
-  
-
----  
-
-  
-
-# 🖋️ Tatouages Temporaires de Tinijean  
-
-  
-
-### Responsable  
-
-  
-
-👴 Bor "Tinijean" Starag  
-
-  
-
-Tatoueur itinérant.  
-
-  
-
-### Coût  
-
-  
-
-**1 poinçon**  
-
-  
-
-### Durée  
-
-  
-
-**3 jours**  
-
-  
-
-### Limite  
-
-  
-
-Un tatouage actif à la fois.  
-
-  
-
-#### Tatouages disponibles  
-
-  
-
-- Illusionniste  
-
-- Feu des lutins  
-
-- Crâne moqueur  
-
-- Protection évidente  
-
-- Mamounette  
-
-- Voyageur  
-
-- Bolets minimus  
-
-- Bananes furtives  
-
-  
-
-Voir : [[🖋️ Tatouages de Tinijean]]  
-
-  
-
----  
 
   
 
@@ -367,13 +137,8 @@ Les visiteurs peuvent acheter :
 - friandises féeriques ;  
 
 - boissons colorées ;  
-
 - gourmandises enchantées ;  
-
 - douceurs exotiques.  
-
-  
-
 La plupart disparaissent ou perdent leur magie après quelques jours.  
 
   
