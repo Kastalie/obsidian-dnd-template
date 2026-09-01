@@ -1,4 +1,549 @@
 
+
+>[!description]+ Résumé  
+Les Petits Étals regroupent les jeux traditionnels du Carnaval de Sorcelume, les stands de nourriture Chaque activité coûte généralement **1 poinçon**.  
+C'est l'endroit idéal pour :  
+>- gagner des récompenses ;  
+>- rencontrer des forains ;  
+>- améliorer l'ambiance du carnaval ;  
+>- glaner des informations.  
+
+  
+# 🎯 Jeux du Carnaval  
+
+## 🐇 Almiraj  
+
+Lancer un anneau autour de la corne d'un almiraj.  
+Après une première partie :  
+DD17 Dextérité
+✅ Le personnage ajoute son bonus de maîtrise au test.  
+Si un personnage gagne :  
+
+- Selu lui propose une revanche.  
+Victoire :  
+✅ Récompense normale  
+✅ Potion d'Héroïsme  
+Défaite :  
+❌ Aucun lot  
+
+ Triche possible  
+*Main du Mage* ou magie similaire.  
+**DD 15 Escamotage**  
+Échec :  
+❌ Pris en flagrant délit.  
+
+
+---  
+
+## 🧚 Attraper le Dragon  
+
+Jeu du dragon féerique invisible.  
+Perception DD 18
+Avant chaque tentative :  
+**Perspicacité DD 13**
+Succès :  
+✅ Avantage au test de Perception.  
+Échec :  
+❌ Désavantage.  
+
+Triche possible  
+- Familier  
+- Message  
+- Signaux secrets  
+  
+
+---  
+
+## 📝 Concours de poésie gnome  
+« Arrêtez les mimes, c'est l'heure des rimes ! Apportez le poème! On s'occupe du gno-ème ! »
+Pour ce faire, il doit réussir trois tests de Charisme (Représentation) DD 15 en cinq tentatives ou moins. 
+Compétition de vers et de rimes.  
+Si les joueurs improvisent réellement une rime :  
+✅ +1d6 inspiration sur leur test.  
+Triche possible  
+Corrompre un juge.  
+**Persuasion ou Intimidation DD 13**  
+Succès :  
+✅ Avantage sur les deux premiers tests.  
+Échec :  
+❌ Désavantage.  
+
+---  
+
+  
+
+## 🤼 Lutte gobeline  
+
+  
+
+Coincer un gobelin dans un temps limité.  
+
+  
+
+### Version étendue  
+
+  
+
+La lutte se joue tour par tour.  
+
+  
+
+Objectif :  
+
+  
+
+- Attraper le gobelin.  
+
+- Le mettre à terre.  
+
+- Le maintenir immobilisé.  
+
+  
+
+### Triche possible  
+
+  
+
+Mains collantes.  
+
+  
+
+✅ Avantage aux tests d'agrippement.  
+
+  
+
+---  
+
+  
+
+## 🪶 Combien de plumes ?  
+
+  
+
+Deviner le nombre de plumes sur une cockatrice.  
+
+  
+
+### Version étendue  
+
+  
+
+**Nature DD 14**  
+
+  
+
+Succès :  
+
+  
+
+✅ DD réduit à 15.  
+
+  
+
+Échec :  
+
+  
+
+❌ DD augmenté à 20.  
+
+  
+
+### Triche possible  
+
+  
+
+Espionner les autres concurrents.  
+
+  
+
+**Perception DD 12**  
+
+**Discrétion DD 10**  
+
+  
+
+---  
+
+  
+
+## 👁️ L'Œil du Cyclope  
+
+  
+
+Concours de résistance aux bonbons épicés.  
+
+  
+
+### Version étendue  
+
+  
+
+Le défi se déroule en plusieurs manches.  
+
+  
+
+Le DD augmente à chaque tour.  
+
+  
+
+### Triche possible  
+
+  
+
+Introduire des friandises.  
+
+  
+
+**Escamotage DD 12**  
+
+  
+
+Succès :  
+
+  
+
+✅ Désavantage pour le cyclope.  
+
+  
+
+---  
+
+  
+
+# 🎨 Maquillages Magiques  
+
+  
+
+### Responsable  
+
+  
+
+🧜 Ihlen Nonas  
+
+  
+
+Triton enthousiaste adorant les câlins.  
+
+  
+
+### Coût  
+
+  
+
+**1 poinçon**  
+
+  
+
+### Durée  
+
+  
+
+**8 heures**  
+
+  
+
+### Limite  
+
+  
+
+Un seul maquillage actif à la fois.  
+
+  
+
+#### Choix disponibles  
+
+  
+
+- Lion  
+
+- Singe  
+
+- Papillon  
+
+- Lapin  
+
+- Souris  
+
+- Chauve-Souris  
+
+- Caméléon  
+
+- Cerf  
+
+  
+
+✅ Bonus passif  
+
+✅ Pouvoir activable  
+
+  
+
+Voir : [[🎨 Maquillages Magiques]]  
+
+  
+
+---  
+
+  
+
+# 🖋️ Tatouages Temporaires de Tinijean  
+
+  
+
+### Responsable  
+
+  
+
+👴 Bor "Tinijean" Starag  
+
+  
+
+Tatoueur itinérant.  
+
+  
+
+### Coût  
+
+  
+
+**1 poinçon**  
+
+  
+
+### Durée  
+
+  
+
+**3 jours**  
+
+  
+
+### Limite  
+
+  
+
+Un tatouage actif à la fois.  
+
+  
+
+#### Tatouages disponibles  
+
+  
+
+- Illusionniste  
+
+- Feu des lutins  
+
+- Crâne moqueur  
+
+- Protection évidente  
+
+- Mamounette  
+
+- Voyageur  
+
+- Bolets minimus  
+
+- Bananes furtives  
+
+  
+
+Voir : [[🖋️ Tatouages de Tinijean]]  
+
+  
+
+---  
+
+  
+
+# 🍭 Nourriture et boissons  
+
+  
+
+Les visiteurs peuvent acheter :  
+
+  
+
+- friandises féeriques ;  
+
+- boissons colorées ;  
+
+- gourmandises enchantées ;  
+
+- douceurs exotiques.  
+
+  
+
+La plupart disparaissent ou perdent leur magie après quelques jours.  
+
+  
+
+---  
+
+  
+
+# 🎁 Récompenses  
+
+  
+
+Les vainqueurs peuvent recevoir :  
+
+  
+
+- objets amusants ;  
+
+- objets magiques à usage unique ;  
+
+- tatouages gratuits ;  
+
+- bonbons enchantés ;  
+
+- accessoires du carnaval.  
+
+  
+
+Voir :  
+
+[[🎁 Récompenses du Carnaval]]  
+
+  
+
+---  
+
+  
+
+# ⚠️ Tricher au Carnaval  
+
+  
+
+Les forains tolèrent certains écarts...  
+
+  
+
+... mais seulement jusqu'à un certain point.  
+
+  
+
+### Se faire prendre  
+
+  
+
+1ère fois :  
+
+  
+
+⚠️ Remontrance.  
+
+  
+
+2ème fois :  
+
+  
+
+❌ Ambiance du Carnaval -1  
+
+  
+
+❌ Les forains deviennent méfiants.  
+
+  
+
+---  
+
+  
+
+#### Secrets  
+
+  
+
+- Certains forains truquent parfois les parties.  
+
+- Plusieurs jeux permettent d'obtenir des informations utiles sur les PNJ.  
+
+- Quelques récompenses possèdent de véritables propriétés magiques.  
+
+- Le carnaval encourage l'astuce, mais déteste les tricheurs maladroits.  
+
+  
+
+---  
+
+  
+
+[!mj] Notes  
+
+  
+
+- Excellent endroit pour ralentir le rythme.  
+
+- Idéal pour distribuer des récompenses légères.  
+
+- Permet aux personnages peu orientés combat de briller.  
+
+- Les maquillages et tatouages sont souvent sous-utilisés alors qu'ils sont très utiles dans les premiers chapitres.  
+
+- Pense à proposer plusieurs défis adaptés aux compétences de chaque PJ.  
+
+  
+
+---  
+
+  
+
+[!fiche]- Informations rapides  
+
+  
+
+**Coût moyen :**  
+
+- 1 poinçon par activité  
+
+  
+
+**Effet Ambiance :**  
+
+- Tricherie découverte deux fois : -1  
+
+  
+
+**Activités :**  
+
+- Almiraj  
+
+- Attraper le dragon  
+
+- Poésie gnome  
+
+- Lutte gobeline  
+
+- Combien de plumes ?  
+
+- Œil du Cyclope  
+
+  
+
+**Services :**  
+
+- Maquillages magiques  
+
+- Tatouages temporaires  
+
+- Nourriture féerique  
+
+  
+
+**Récompenses :**  
+
+- Divers objets magiques mineurs  
+
+- Potions  
+
+- Bons pour tatouages  
+
+- Friandises enchantées
+
+
+
 Le festival présente plusieurs étals, gérés chacun par un forain du Sorcelume. Certains étals vendent des collations et boissons sucrées. **Pour 1 poinçon,** tout client peut acheter un casse-croûte servi sur un grand pétale de fleur ou une boisson dans une coquille d'escargot de la taille du poing. Parmi les produits proposés, on compte:
 - Biscuits Euphoreo (de la taille d'une soucoupe, saupoudrés de particules de gaz euphorisant de dragon féerique)
 - Champignons glacés au sucre
