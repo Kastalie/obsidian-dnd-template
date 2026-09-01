@@ -1,3 +1,4 @@
+
 | Lieu / Événement           | Cause                                                                       | Ambiance                     |
 | -------------------------- | --------------------------------------------------------------------------- | ---------------------------- |
 | Étiquette du carnaval      | Applaudir, rire, participer aux événements                                  | +1                           |

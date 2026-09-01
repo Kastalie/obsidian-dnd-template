@@ -1,8 +1,6 @@
 # Heure 1 : Arrivée
 
- À faire vivre
-
-- Achat ou récupération des billets. (8pa le billet ou négociation)
+ - Achat ou récupération des billets. (8pa le billet ou négociation)
 - ![[pacted'acces.png|413]]
 - Découverte du carnaval.
 - Distribution des ailes.
@@ -26,7 +24,6 @@ Priorité absolue
 Car ces attractions comportent des indices pour plus tard. 
 Bonus du supplément
 - Diseuse de bonne aventure
-- Dôme du tonnerre
 - Verse-tour
 - Théière à bulles version étendue
 
@@ -104,8 +101,7 @@ Les PJ apprennent :
 
 
 <font color="#c00000">- 1e heure : Cadeaux de bienvenue. De menus présents sont offerts à quelques chanceux.</font>
-<font color="#1f497d">Un arbre ambulant haut de plus de trois mètres cinquante, enrubanné d'or, s'avance dans l'avenue principale. Des nuages émeraude tournoient autour du grand végétal, faisant pleuvoir des graines dorées de sycomore. Les festivaliers se ruent pour attraper les graines avant qu'elles touchent le sol. Tandis que cette semence tombe en flottant, un écureuil bavard gambade dans les rameaux de</font>
-<font color="#1f497d">l'arbre en tendant des pissenlits à certains des passants. </font>
+<font color="#1f497d">Un arbre ambulant haut de plus de trois mètres cinquante, enrubanné d'or, s'avance dans l'avenue principale. Des nuages émeraude tournoient autour du grand végétal, faisant pleuvoir des graines dorées de sycomore. Les festivaliers se ruent pour attraper les graines avant qu'elles touchent le sol. Tandis que cette semence tombe en flottant, un écureuil bavard gambade dans les rameaux de</font> <font color="#1f497d">l'arbre en tendant des pissenlits à certains des passants. </font>
 
 **Graines de sycomore.** Une créature peut tenter de saisir une graine de sycomore avant qu'elle touche le sol, par un test de Dextérité DD 10. Toute créature qui y parvient reçoit un cadeau, déterminé aléatoirement selon la table Cadeaux de bienvenue. Une créature qui reçoit un tel présent ne peut en acquérir d'autre pendant 24 heures.
 *1-3 La créature acquiert le trait de personnalité suivant  jusqu'à l'aube:« Un rien m'amuse. » Tout autre trait de caractère entrant en conflit avec celui-ci est réprimé pendant l'intervalle.*
