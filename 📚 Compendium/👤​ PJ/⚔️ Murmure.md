@@ -179,4 +179,6 @@ _Dernier serviteur de Zybilna_
 - 
 - 
 
-
+Baton d'Edwidge qui a un passif 
+il a un passif qui lance un effet son/lumière a chaque sort lancé
+et -2 en force
