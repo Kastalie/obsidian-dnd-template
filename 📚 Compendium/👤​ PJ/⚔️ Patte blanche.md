@@ -103,4 +103,4 @@ et -2 en force
 | 17    | le bâton s'enfuit                                                           |
 | 18    | le baton fait apparaitre des tulipes au sol                                 |
 | 19    | le bâton lance un débat philosophique                                       |
-| 20    |                                                                             |
+| 20    | Vous gagnez instantanément 10 points de vie temporaires.                    |
