@@ -104,17 +104,19 @@ Espionner les autres concurrents.
 **Perception DD 12**  
 **Discrétion DD 10**  
 
-  
 
 ---  
 
-  
 
 ## 👁️ L'Œil du Cyclope  
 
   
 
-Concours de résistance aux bonbons épicés.  
+« Que doit-on faire quand un cyclope vous a à l'œil ? On le regarde droit dedans ... à condition d'en avoir dans le ventre ! »
+Pour gagner à ce jeu, le participant doit fixer l'œil d'un cyclope illusoire jusqu'à le faire ciller. Le premier qui flanche a perdu. Pour l'emporter, le participant doit réussir un test de Constitution DD 14. Une victoire entraîne une récompense aléatoire selon la table.
+Possibilité de tricher
+Il y a un panneau près de la cabine qui dit : "Attention : allergies, aucun bonbon n'est autorisé dans la cabine". Si un personnage introduit des bonbons en douce en réussissant un test de Dextérité (escamotage) DD 12, l'oeil du cyclope se met à larmoyer, ce qui l'oblige à faire les tests ou les jets de sauvegarde avec un désavantage. Si le cyclope est battu une fois de cette manière, il refuse de jouer à nouveau et l’OEil du Cyclope est fermé pendant quatre heures.
+
 Le défi se déroule en plusieurs manches.  
 Le DD augmente à chaque tour.  
 Triche possible  
@@ -127,186 +129,33 @@ Succès :
   
 
 # 🍭 Nourriture et boissons  
-
-  
-
 Les visiteurs peuvent acheter :  
-
-  
-
 - friandises féeriques ;  
-
 - boissons colorées ;  
 - gourmandises enchantées ;  
 - douceurs exotiques.  
 La plupart disparaissent ou perdent leur magie après quelques jours.  
 
-  
-
 ---  
-
-  
 
 # 🎁 Récompenses  
 
-  
-
 Les vainqueurs peuvent recevoir :  
-
-  
-
 - objets amusants ;  
-
 - objets magiques à usage unique ;  
-
 - tatouages gratuits ;  
-
 - bonbons enchantés ;  
-
 - accessoires du carnaval.  
 
-  
-
 Voir :  
-
-[[🎁 Récompenses du Carnaval]]  
-
-  
-
----  
-
-  
-
-# ⚠️ Tricher au Carnaval  
-
-  
-
-Les forains tolèrent certains écarts...  
-
-  
-
-... mais seulement jusqu'à un certain point.  
-
-  
-
-### Se faire prendre  
-
-  
-
-1ère fois :  
-
-  
-
-⚠️ Remontrance.  
-
-  
-
-2ème fois :  
-
-  
-
-❌ Ambiance du Carnaval -1  
-
-  
-
-❌ Les forains deviennent méfiants.  
+[[Objets magiques]]  
 
   
 
 ---  
 
   
-
-#### Secrets  
-
   
-
-- Certains forains truquent parfois les parties.  
-
-- Plusieurs jeux permettent d'obtenir des informations utiles sur les PNJ.  
-
-- Quelques récompenses possèdent de véritables propriétés magiques.  
-
-- Le carnaval encourage l'astuce, mais déteste les tricheurs maladroits.  
-
-  
-
----  
-
-  
-
-[!mj] Notes  
-
-  
-
-- Excellent endroit pour ralentir le rythme.  
-
-- Idéal pour distribuer des récompenses légères.  
-
-- Permet aux personnages peu orientés combat de briller.  
-
-- Les maquillages et tatouages sont souvent sous-utilisés alors qu'ils sont très utiles dans les premiers chapitres.  
-
-- Pense à proposer plusieurs défis adaptés aux compétences de chaque PJ.  
-
-  
-
----  
-
-  
-
-[!fiche]- Informations rapides  
-
-  
-
-**Coût moyen :**  
-
-- 1 poinçon par activité  
-
-  
-
-**Effet Ambiance :**  
-
-- Tricherie découverte deux fois : -1  
-
-  
-
-**Activités :**  
-
-- Almiraj  
-
-- Attraper le dragon  
-
-- Poésie gnome  
-
-- Lutte gobeline  
-
-- Combien de plumes ?  
-
-- Œil du Cyclope  
-
-  
-
-**Services :**  
-
-- Maquillages magiques  
-
-- Tatouages temporaires  
-
-- Nourriture féerique  
-
-  
-
-**Récompenses :**  
-
-- Divers objets magiques mineurs  
-
-- Potions  
-
-- Bons pour tatouages  
-
-- Friandises enchantées
-
 
 
 Le festival présente plusieurs étals, gérés chacun par un forain du Sorcelume. Certains étals vendent des collations et boissons sucrées. **Pour 1 poinçon,** tout client peut acheter un casse-croûte servi sur un grand pétale de fleur ou une boisson dans une coquille d'escargot de la taille du poing. Parmi les produits proposés, on compte:
@@ -331,15 +180,15 @@ Lutte gobeline - Force
 
 Si un personnage gagne une récompense à l'un de ces jeux, déterminez là en lançant un d8 selon la table récompenses du carnaval.
 
-RÉCOMPENSES DU CARNAVAL
-1. Babiole (à déterminer aléatoirement selon la table Babioles de Féerie de l'introduction).
-2. Baguette en bois dotée de 8 charges. Au prix d'une action, vous pouvez dépenser 1 des charges de la baguette pour lancer le sort mineur prestidigitation. Cette baguette ne se recharge pas.
-3. Sachet de poussière de pixie.
-4. Bouteille de vin de Sorcelume. Quand la bouteille est débouchée, elle joue une musique d'orgue à vapeur jusqu'à ce qu'on la vide de son vin.
-5. Fausse corne de licorne remplie de sucreries.
-6. Une application de maquillage magique. Au prix d'une action, vous pouvez appliquer ce maquillage facial sur vous-même ou une autre créature. Le sujet profite de l'équivalent du sort déguisement pendant l heure (il peut décider de mettre prématurément un terme à l'effet).
-7. Araignée en peluche. Au prix d'une action, vous pouvez caresser l'araignée pour bénéficier de l'équivalent du sort pattes d'araignée pendant l heure. Une fois ainsi utilisé, le jouet se transforme en véritable araignée qui détale aussitôt.
-8. Marionnette à gaine en forme de magicien. Au prix d'une action, vous pouvez animer les bras de la marionnette pour lancer le sort mineur illusion mineure. Après trois utilisations, la marionnette disparaît dans un nuage de fumée.
+<font color="#2DC26B">RÉCOMPENSES DU CARNAVAL</font>
+<font color="#2DC26B">1. Babiole (à déterminer aléatoirement selon la table Babioles de Féerie de l'introduction).</font>
+<font color="#2DC26B">2. Baguette en bois dotée de 8 charges. Au prix d'une action, vous pouvez dépenser 1 des charges de la baguette pour lancer le sort mineur prestidigitation. Cette baguette ne se recharge pas.</font>
+<font color="#2DC26B">3. Sachet de poussière de pixie.</font>
+<font color="#2DC26B">4. Bouteille de vin de Sorcelume. Quand la bouteille est débouchée, elle joue une musique d'orgue à vapeur jusqu'à ce qu'on la vide de son vin.</font>
+<font color="#2DC26B">5. Fausse corne de licorne remplie de sucreries.</font>
+<font color="#2DC26B">6. Une application de maquillage magique. Au prix d'une action, vous pouvez appliquer ce maquillage facial sur vous-même ou une autre créature. Le sujet profite de l'équivalent du sort déguisement pendant l heure (il peut décider de mettre prématurément un terme à l'effet).</font>
+<font color="#2DC26B">7. Araignée en peluche. Au prix d'une action, vous pouvez caresser l'araignée pour bénéficier de l'équivalent du sort pattes d'araignée pendant l heure. Une fois ainsi utilisé, le jouet se transforme en véritable araignée qui détale aussitôt.</font>
+<font color="#2DC26B">8. Marionnette à gaine en forme de magicien. Au prix d'une action, vous pouvez animer les bras de la marionnette pour lancer le sort mineur illusion mineure. Après trois utilisations, la marionnette disparaît dans un nuage de fumée.</font>
 
 <u>ANNEAUX D'ALMIRAJ</u>
 « Cet almiraj n'a rien d'un mirage. Ornez sa corne de deux ou trois anneaux pour remporter la mise! »
