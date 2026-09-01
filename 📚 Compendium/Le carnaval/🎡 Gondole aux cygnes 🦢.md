@@ -1,8 +1,4 @@
 
-
-
-  
-
 >[!description]+ Résumé  
 D'immenses cygnes tirent de magnifiques gondoles recouvertes de fleurs le long de la rivière qui encercle le Carnaval de Sorcelume.  
 Le voyage traverse des bancs de brume argentée, des zones de calme surnaturel et des reflets impossibles. L'attraction est réputée pour ses conversations profondes autant que pour son romantisme.  
@@ -107,8 +103,6 @@ Elle prétend :
 
 ---  
 
-  
-
 ### Détecter le mensonge  
 **Perspicacité DD 13**  
 Succès :  
@@ -137,148 +131,31 @@ Un personnage dont l'ombre a été volée :
 Conséquences futures :  
 - les habitants de Prismeer se méfient immédiatement de lui ;  
 - plusieurs PNJ refusent de traiter avec lui ;  
-
 - les créatures féeriques considèrent cela comme un mauvais présage.  
-
-  
-
 La malédiction peut être levée par :  
-
-  
-
 - **Délivrance des malédictions**  
-
 - magie équivalente  
-
-  
-
 ---  
-
-  
-
 #### Secrets  
 
-  
-
 - Les forains savent que l'Ombre de Miroite fréquente l'attraction.  
-
 - Ils ignorent totalement pourquoi.  
-
 - Les larronnes de l'Assemblée circulent parfois à proximité.  
-
 - Plumevienne connaît énormément de ragots sur les forains.  
-
 - Elle sait que quelque chose ne va pas au Carnaval mais n'en comprend pas l'origine.  
 
-  
-
----  
-
-  
-
-#### Relations  
-
-  
-
-##### Alliés  
-
-- Plumevienne  
-
-- Bohu  
-
-- Palasha  
-
-  
-
-##### Ennemis  
-
-- L'Ombre de Miroite  
-
-- Endelyne Tombelune  
-
-  
-
-##### Liens  
-
-- [[🧚‍♀️ Bohu]]  
-
-- [[🧜‍♀️ Palasha]]  
-
-- [[🧚‍♀️ Piedecire]]  
-
-- [[🌙 Miroite]]  
-
-- [[🧙‍♀️ Endelyne Tombelune]]  
-
-  
-
-[!mj] Notes  
-
-  
-
-- Très bonne attraction pour le roleplay.  
-
-- Permet de faire découvrir Bohu et Piedecire.  
-
-- Excellent endroit pour introduire le thème de l'amour perdu.  
-
-- Première apparition possible d'un agent d'Endelyne.  
-
-- La perte d'une ombre est un foreshadowing majeur pour Par-delà.  
-
-- Toujours jouer Plumevienne comme une philosophe prétentieuse mais sincèrement brillante.  
-
-  
-
-[!fiche]- Informations rapides  
-
-  
-
-**Coût :**  
-
-- 1 poinçon  
-
-  
-
-**Durée :**  
-
-- 1 heure  
-
-  
-
-**Tests importants :**  
-
-- Persuasion / Philosophie libre avec Plumevienne  
-
-- Dextérité DD 10 (si Plumevienne est contrariée)  
-
-- Sagesse DD 12 (Tunnel de l'Amour)  
-
-- Perspicacité DD 13 (Ombre de Miroite)  
-
-  
-
-**Effets sur l'Ambiance :**  
-
-- Impressionner Plumevienne : +1  
-
-- L'agacer : -1  
-
-  
-
-**Récompenses :**  
-
-- Faveur de Plumevienne  
-
-- Talents rhétoriques pour le chapitre 5  
-
-- Informations sur Bohu, Tohu, Piedecire et Palasha  
-
-  
-
-**Danger caché :**  
-
-- Vol d'ombre par l'Ombre de Miroite
+| Ragot                                                                              | Vérité                                                                             |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Piedecire est amoureux de Palasha.                                                 | Vrai. Le mime n'arrive plus à lui déclarer sa flamme depuis qu'il a perdu sa voix. |
+| Palasha est malheureuse depuis quelque temps.                                      | Vrai. Elle attend que Piedecire fasse enfin le premier pas.                        |
+| Dirlagraun souffre encore de la disparition de son petit Astro.                    | Vrai. Elle garde les objets trouvés mais n'a jamais retrouvé son enfant.           |
+| Bohu est l'un des esprits les plus brillants du carnaval.                          | Vrai. Plumevienne apprécie particulièrement ses discussions philosophiques.        |
+| Monsieur Sorcière paraît sévère mais il se soucie réellement des forains.          | Vrai.                                                                              |
+| Monsieur Lumière cache ses inquiétudes derrière son sourire.                       | Vrai.                                                                              |
+| La Bouilloire fouille partout et prépare quelque chose.                            | Vrai, mais Plumevienne ignore exactement quoi.                                     |
+| Certains visiteurs repartent du carnaval en ayant perdu quelque chose d'important. | Vrai, sans qu'il puisse expliquer pourquoi.                                        |
+| Plusieurs forains semblent porter de lourds secrets.                               | Vrai. Beaucoup ont un lien avec Prismeer ou une malédiction.                       |
+| Les propriétaires évitent certains sujets lorsqu'on parle de Féerie.               | Vrai. Ils cachent des informations sur Prismeer.                                   |
 
 
 
