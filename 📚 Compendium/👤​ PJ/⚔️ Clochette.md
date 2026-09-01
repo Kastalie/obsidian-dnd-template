@@ -3,14 +3,14 @@
 Sous-classe: Collège du Glamour
 🧬 Race: Fadette
 ⭐ Niveau: 3
-🎂 Age: 20
+🎂 Age: 40
 🛡️ CA:
 ❤️‍🩹 PV:
 📏 Taille: P (60cm)
-🖼️ Portrait:
+🖼️ Portrait: "[[clochette.png]]"
 📍Lieux:
 ---
-Langue => Sylvestre
+![[clochette.png|382]]Langue => Sylvestre
 Instruments => Harpe de poche en racine de chêne, une clochette en argent
 
 3 objets magiques que je souhaite posséder=> Cape de gonflement, bottes elfiques, épée dansante
