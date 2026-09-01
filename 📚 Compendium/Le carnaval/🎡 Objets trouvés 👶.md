@@ -86,7 +86,47 @@ Elle oriente ainsi les personnages vers le Coin des Forains derrière le Grand C
 > « Les enfants se perdent parfois... mais certaines choses se perdent d'une manière bien plus inquiétante. »
 
 
+## 📦 Objets Trouvés
 
+### Objets ordinaires
+
+- Un chapeau en forme de grenouille
+- Une chaussure de clown bien trop grande
+- Un journal intime fermé par un cadenas
+- Une ombrelle rose décorée de papillons
+- Une pipe en bois de ronce
+- Une poupée de chiffon borgne
+- Un hochet en argent
+- Une couronne de fleurs fanées
+- Une paire de lunettes sans verres
+- Un monocle en cristal
+
+### Objets étranges
+
+- Une clé dont personne ne connaît la serrure
+- Une montre arrêtée à minuit
+- Une boussole qui indique toujours le carnaval
+- Une bouteille contenant un minuscule nuage d'orage
+- Une plume qui écrit toute seule des mots incompréhensibles
+- Un grelot qui ne sonne que lorsqu'il est seul
+- Une boule de verre remplie de lucioles miniatures
+- Une bouteille de verre contenant des mots lumineux flottant comme des bulles dans l'eau.
+
+### Objets féeriques
+
+- Un bouton qui change de couleur selon l'humeur du porteur
+- Une écharde de bois doré provenant d'une licorne en bois
+- Une pièce d'argent frappée d'un visage inconnu
+- Une paire d'ailes de papillon oubliée
+- Un caillou qui murmure lorsqu'on le met contre son oreille
+- Un mouchoir brodé qui sèche instantanément les larmes
+
+### Objets liés à Astro
+
+- Une vieille couverture d'enfant déchirée
+- Une balle en cuir mordillée
+- Quelques poils sombres de bête éclipsante
+- La fameuse boule à facettes qu'affectionnait Astro
 
 
 Devant la roulotte des objets trouvés se tient un grand félin au pelage bleu nuit. Doté de tentacules qui émergent de ses épaules, il porte de fausses ailes de papillon. Un tonnelet en bois est accroché à son collier. La créature joue à la bagarre avec deux jeunes garçons. L'un d'eux

@@ -1,4 +1,418 @@
 
+
+
+  
+
+>[!description]+ Résumé  
+Une immense théière enchantée repose au centre de cette attraction. De gigantesques bulles savonneuses s'élèvent continuellement de son bec verseur et emportent les visiteurs dans les airs. 
+L'attraction est dirigée par le gobelin **Mélassagace**, qui se tient dans une soucoupe géante tout près de la théière.  
+La Théière à Bulles est l'une des rares attractions permettant d'observer le carnaval depuis les airs.  
+Coût : **1 poinçon**  
+
+ 
+### 🧪 Mélassagace  
+Gobelin excentrique.  
+- Énergique  
+- Bavard  
+- Fier de sa théière  
+Il assure aux visiteurs que :  
+> « Presque personne ne tombe ! »  
+
+
+## ✨ Version officielle  
+Les visiteurs montent dans une bulle magique.  
+Une fois dans les airs :  
+- ils peuvent admirer le Carnaval de Sorcelume ;  
+- observer certaines attractions ;  
+- profiter d'une vue panoramique.  
+
+
+### Contrôler sa bulle  
+
+**DD 10 Dextérité (Acrobaties)**  
+Succès :  
+- le personnage dirige sa bulle où il le souhaite.  
+Échec :  
+- la bulle suit simplement les courants magiques.  
+
+
+## 🎈 Version Étendue : Les Bouscubulles  
+
+Le supplément ajoute un mini-jeu très populaire.  
+
+### Concept  
+
+Une bataille aérienne de bulles.  
+Chaque participant est installé dans :  
+- une bulle magique ;  
+- possédant 2 points de vie.  
+Objectif :  
+✅ Être le dernier concurrent encore en vol.  
+
+### Déroulement  
+
+  
+
+Au début de chaque manche :  
+
+  
+
+Tous les concurrents choisissent secrètement leur cible.  
+
+  
+
+Ensuite :  
+
+  
+
+- chacun lance 5d6 ;  
+
+- peut relancer les dés de son choix une fois.  
+
+  
+
+---  
+
+  
+
+### Résultats  
+
+  
+
+#### Trois dés identiques  
+
+  
+
+Exemple :  
+
+  
+
+```text  
+
+4 - 4 - 4 - 2 - 1  
+
+```  
+
+  
+
+➡️ Inflige 1 dégât à une bulle.  
+
+  
+
+---  
+
+  
+
+#### Cinq dés identiques  
+
+  
+
+Exemple :  
+
+  
+
+```text  
+
+2 - 2 - 2 - 2 - 2  
+
+```  
+
+  
+
+➡️ Inflige 2 dégâts.  
+
+  
+
+➡️ La bulle éclate immédiatement.  
+
+  
+
+---  
+
+  
+
+### Pouvoir spécial  
+
+  
+
+Une fois par partie :  
+
+  
+
+Un joueur peut contraindre un adversaire à relancer l'un de ses dés.  
+
+  
+
+---  
+
+  
+
+### PNJ concurrents  
+
+  
+
+Au moins un concurrent est secrètement :  
+
+  
+
+### 🎪 Un Forain du Sorcelume  
+
+  
+
+Il cherche à gagner afin de limiter le nombre de récompenses distribuées.  
+
+  
+
+Les autres concurrents peuvent être :  
+
+  
+
+- visiteurs ;  
+
+- enfants ;  
+
+- forains ;  
+
+- aventuriers.  
+
+  
+
+---  
+
+  
+
+### Fin de partie  
+
+  
+
+La partie s'arrête lorsque :  
+
+  
+
+- une seule bulle reste en jeu ;  
+
+- ou plusieurs éclatent simultanément.  
+
+  
+
+---  
+
+  
+
+### Récompense  
+
+  
+
+#### Vainqueur  
+
+  
+
+Effectue un jet sur :  
+
+  
+
+🎁 Table des Récompenses du Carnaval  
+
+  
+
+---  
+
+  
+
+#### Match nul  
+
+  
+
+Lot de consolation :  
+
+  
+
+### Baguette à Bulles  
+
+  
+
+- Lance *Prestidigitation* une fois.  
+
+- Puis éclate comme une bulle.  
+
+  
+
+---  
+
+  
+
+## 👀 Ce que les PJ peuvent voir depuis les airs  
+
+  
+
+Tu peux utiliser cette attraction pour montrer :  
+
+  
+
+- le Grand Chapiteau ;  
+
+- les Gondoles aux Cygnes ;  
+
+- les roulottes des forains ;  
+
+- la Galerie des Illusions ;  
+
+- le Royaume des Pixies ;  
+
+- Dirlagraun patrouillant près des Objets Trouvés ;  
+
+- La Bouilloire se faufilant discrètement entre les attractions.  
+
+  
+
+---  
+
+  
+
+## 🎭 Ambiance  
+
+  
+
+La Théière à Bulles représente parfaitement :  
+
+  
+
+- la légèreté ;  
+
+- l'émerveillement ;  
+
+- la magie enfantine de Sorcelume.  
+
+  
+
+Même les personnages les plus sérieux ont souvent du mal à rester impassibles lorsqu'ils flottent au-dessus du carnaval dans une simple bulle savonneuse.  
+
+  
+
+---  
+
+  
+
+#### Secrets  
+
+  
+
+- Les bulles sont créées par une magie féerique ancienne.  
+
+- Elles ne peuvent pas éclater accidentellement.  
+
+- Les Bouscubulles sont truquées occasionnellement par certains forains.  
+
+- La vue aérienne permet parfois d'apercevoir des événements que les visiteurs au sol ratent complètement.  
+
+  
+
+---  
+
+  
+
+#### Relations  
+
+  
+
+##### PNJ principaux  
+
+  
+
+- 🧪 Mélassagace  
+
+  
+
+##### Lieux liés  
+
+  
+
+- 🎪 Grand Chapiteau  
+
+- 🦢 Gondoles aux Cygnes  
+
+- 🪞 Galerie des Illusions  
+
+- 🧚 Royaume des Pixies  
+
+  
+
+---  
+
+  
+
+[!mj] Notes  
+
+  
+
+- Très bon premier manège.  
+
+- Permet aux joueurs de découvrir la carte du carnaval.  
+
+- Excellent moment pour glisser des indices visuels.  
+
+- Les Bouscubulles fonctionnent particulièrement bien avec des groupes compétitifs.  
+
+- Facile à utiliser comme scène légère entre deux intrigues importantes.  
+
+  
+
+---  
+
+  
+
+[!fiche]- Informations rapides  
+
+  
+
+**Coût :**  
+
+- 1 poinçon  
+
+  
+
+**Jet principal :**  
+
+- Acrobaties DD 10  
+
+  
+
+**Version officielle :**  
+
+- Balade aérienne  
+
+  
+
+**Version étendue :**  
+
+- Combat de bulles (Bouscubulles)  
+
+  
+
+**Récompenses :**  
+
+- Prix du Carnaval  
+
+- Ou baguette de Prestidigitation en lot de consolation  
+
+  
+
+**PNJ :**  
+
+- Mélassagace  
+
+  
+
+**Thèmes :**  
+
+- Émerveillement  
+
+- Vol  
+
+- Fantaisie  
+
+- Compétition amicale
+
 Une théière haute de six mètres repose sur une estrade en bois. Sur sa surface peinte s'animent des dragons volants qui crachent des torrents de bulles. Une porte s'ouvre à la base de la théière, donnant accès à l'intérieur; quiconque y pénètre en ressort par le bec dans une bulle qui s'extrait
 du récipient géant pour flotter au-dessus du carnaval. Sept gobelins assis autour de l'estrade dégustent du thé dans des tasses dépareillées en porcelaine.
 
