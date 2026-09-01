@@ -30,4 +30,4 @@ bouclier : prioritaire sur tous les autres effets.
 Récompenses. Le jockey qui remporte la course reçoit une potion d'avantage. Le jockey dont l'escargot arrive en dernier reçoit un prix de consolation, à condition de ne pas être disqualifié. Ce prix est une baguette magique permettant à son porteur de lancer
 une fois le sort mineur lumières dansantes. Une fois utilisée pour lancer ce sort, la baguette se transforme en tulipe.
 
-![[Pasted image 20260709104727.png|697]]
+![[escargot.png]]
