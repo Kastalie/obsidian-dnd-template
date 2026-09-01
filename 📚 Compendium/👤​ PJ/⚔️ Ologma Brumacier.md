@@ -27,7 +27,7 @@ Histoirque: Voyageur
 <u>Peur</u> :
 - Le ver pourpre, ses parents lui contaient des histoires sur ces vers qui détruisaient tout sur son passage. Dans les mines lorsqu'un tremblement avait lieu, son peuple avait peur qu'un tel fléau s'abatte sur eux.
 - 
-![[Pasted image 20260828173725.png|311]]
+![[ver pourpre.png|311]]
 
 ### Apparence
 Un vieux nain aux yeux verts, mal coiffé. Sa barbe grise est trop longue et ses habits témoignent de la vétusté de sa vie. Mais sur lui, il conserve quelques bijoux de valeur de sa famille qu'il n'a jamais vendus, même lorsqu'il avait faim. Son grimoire est toute sa vie. Il possède aussi le bâton de Morgus, qu'il a « volé » à l'académie des mages. Il s'est promis de le lui rendre le jour où il le retrouverait. C'est un vieux bâton avec une boule de pierre entrelacée de racines de chêne.

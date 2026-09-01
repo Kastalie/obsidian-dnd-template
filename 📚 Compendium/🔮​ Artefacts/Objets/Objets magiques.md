@@ -122,20 +122,20 @@
     - Consommable
 
 
-## 🔴 Objets magique du carnaval
+## 🎊 Objets magique du carnaval
 
-| Objet                               | Rareté     | Harmonisation | Effet                                                                                                                                                              |
-| ----------------------------------- | ---------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Dé du Charlatan                     | Commun     | Oui           | Chaque fois que vous lancez ce dé à six faces, vous pouvez décider du nombre obtenu.                                                                               |
-| Cape de Protection                  | Peu commun | Oui           | +1 à la CA et aux jets de sauvegarde tant que vous portez la cape.                                                                                                 |
-| Regard Charmeur                     | Peu commun | Oui           | 3 charges. Action : lancer *Charme-personne* (DD 13) sur une créature à moins de 10 m. Récupère 1d3 charges à l'aube.                                              |
-| Yeux Grossissants                   | Peu commun | Non           | Avantage aux tests d'Intelligence (Investigation) basés sur la vue à moins de 30 cm.                                                                               |
-| Lunettes de la Nuit                 | Peu commun | Non           | Vision dans le noir 18 m. Augmente une vision dans le noir existante de 18 m supplémentaires.                                                                      |
-| Chapeau de Déguisement              | Peu commun | Oui           | Permet de lancer *Déguisement* à volonté tant que le chapeau est porté.                                                                                            |
-| Bandeau d'Intelligence              | Peu commun | Oui           | Votre Intelligence devient 19 si elle est inférieure à ce score.                                                                                                   |
-| Heaume de Compréhension des Langues | Peu commun | Non           | Permet de lancer *Compréhension des langues* à volonté.                                                                                                            |
-| Sceptre Inamovible                  | Peu commun | Non           | Peut être fixé dans l'espace par pression d'un bouton. Supporte jusqu'à 4 000 kg. Test de Force DD 30 pour le déplacer de 3 m.                                     |
-| Médaillon des Pensées               | Peu commun | Oui           | 3 charges. Action : lancer *Détection des pensées* (DD 13). Récupère 1d3 charges à l'aube.                                                                         |
-| Pierre Porte-Bonheur                | Peu commun | Oui           | +1 aux tests de caractéristique et aux jets de sauvegarde.                                                                                                         |
-| Combi-Tonnerre                      | Rare       | Non           | Action : gagne jusqu'à 20 PV temporaires. Lorsque ceux-ci tombent à 0, le porteur est téléporté en sécurité dans le Dôme du Tonnerre.                              |
-| Arme Vigilante                      | Peu commun | Oui           | Avantage aux jets d'initiative. Le porteur et ses alliés à 10 m ne peuvent pas être surpris. Réveille automatiquement les alliés endormis lorsqu'un combat débute. |
+|     | Objet                               | Rareté     | Harmonisation | Effet                                                                                                                                                              |
+| --- | ----------------------------------- | ---------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Dé du Charlatan                     | Commun     | Oui           | Chaque fois que vous lancez ce dé à six faces, vous pouvez décider du nombre obtenu.                                                                               |
+| 2   | Cape de Protection                  | Peu commun | Oui           | +1 à la CA et aux jets de sauvegarde tant que vous portez la cape.                                                                                                 |
+| 3   | Regard Charmeur                     | Peu commun | Oui           | 3 charges. Action : lancer *Charme-personne* (DD 13) sur une créature à moins de 10 m. Récupère 1d3 charges à l'aube.                                              |
+| 4   | Yeux Grossissants                   | Peu commun | Non           | Avantage aux tests d'Intelligence (Investigation) basés sur la vue à moins de 30 cm.                                                                               |
+| 5   | Lunettes de la Nuit                 | Peu commun | Non           | Vision dans le noir 18 m. Augmente une vision dans le noir existante de 18 m supplémentaires.                                                                      |
+| 6   | Chapeau de Déguisement              | Peu commun | Oui           | Permet de lancer *Déguisement* à volonté tant que le chapeau est porté.                                                                                            |
+| 7   | Bandeau d'Intelligence              | Peu commun | Oui           | Votre Intelligence devient 19 si elle est inférieure à ce score.                                                                                                   |
+| 8   | Heaume de Compréhension des Langues | Peu commun | Non           | Permet de lancer *Compréhension des langues* à volonté.                                                                                                            |
+| 9   | Sceptre Inamovible                  | Peu commun | Non           | Peut être fixé dans l'espace par pression d'un bouton. Supporte jusqu'à 4 000 kg. Test de Force DD 30 pour le déplacer de 3 m.                                     |
+| 10  | Médaillon des Pensées               | Peu commun | Oui           | 3 charges. Action : lancer *Détection des pensées* (DD 13). Récupère 1d3 charges à l'aube.                                                                         |
+| 11  | Pierre Porte-Bonheur                | Peu commun | Oui           | +1 aux tests de caractéristique et aux jets de sauvegarde.                                                                                                         |
+| 12  | Combi-Tonnerre                      | Rare       | Non           | Action : gagne jusqu'à 20 PV temporaires. Lorsque ceux-ci tombent à 0, le porteur est téléporté en sécurité dans le Dôme du Tonnerre.                              |
+| 13  | Arme Vigilante                      | Peu commun | Oui           | Avantage aux jets d'initiative. Le porteur et ses alliés à 10 m ne peuvent pas être surpris. Réveille automatiquement les alliés endormis lorsqu'un combat débute. |

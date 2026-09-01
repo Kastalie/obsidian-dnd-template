@@ -10,6 +10,7 @@ views:
       and:
         - file.inFolder("📚 Compendium/🔮​ Artefacts")
         - '!file.name.contains(".base")'
+        - '!file.inFolder("📚 Compendium/🔮​ Artefacts/Objets")'
     order:
       - formula.Sans titre
       - file.name
