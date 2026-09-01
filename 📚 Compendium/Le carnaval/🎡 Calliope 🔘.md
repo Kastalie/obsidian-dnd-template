@@ -1,27 +1,19 @@
 
 ### 🎵 L'Orgue à Vapeur (Calliope)  
 
-
 >[!description]+ Résumé  
 Une roulotte colorée transporte un immense orgue à vapeur dont la musique résonne dans l'ensemble du Carnaval de Sorcelume. Les sifflets dorés de l'instrument jouent sans interruption grâce à une magie féerique.  
-
-  
 
 Le Calliope est directement lié à l'ambiance du carnaval :  
 - Ambiance positive → mélodies joyeuses et entraînantes.  
 - Ambiance neutre → musique douce et légère.  
 - Ambiance négative → notes dissonantes et grinçantes.  
 
-  
-
 Les personnages peuvent y rencontrer deux forains particulièrement singuliers :  
 - **Ernest**, un singe parlant passionné de boutons.  
 - **Marigold**, une gobeline déguisée en coccinelle qui collecte les dons.  
 
-  
-
 #### Ernest  
-
 Ernest est victime d'une vieille farce féerique.  
 Autrefois, il existait :  
 - un joueur d'orgue ;  
@@ -40,7 +32,6 @@ Lorsqu'il demande un bouton, il récite :
 > Rien à offrir en échange,  
 > Si ce n'est toutes mes louanges.  
 
-  
 
 #### Marigold  
 Gobeline déguisée en coccinelle.  
@@ -75,22 +66,7 @@ Exemples :
 - Le cadeau d'un simple bouton crée un lien magique durable avec l'orgue.  
 - La plupart des visiteurs ignorent totalement la valeur de cette faveur.  
 
-#### Relations  
 
-- Alliés :  
-- Marigold  
-- Les visiteurs généreux  
-- Sorcière et Lumière  
-
-  
-
-- Objets importants :  
-
-- La collection de boutons d'Ernest  
-
-- L'orgue à vapeur  
-
-  
 
 >[!mj] Notes  
 >- Très bon moyen de récompenser les joueurs curieux et généreux.  
@@ -100,36 +76,6 @@ Exemples :
 >- Si personne ne donne de bouton, le bénéfice est perdu.  
 
   
-
-[!fiche]- Informations rapides  
-
-  
-
-- Type : Attraction sociale  
-
-- Coût : Gratuit  
-
-- PNJ principaux :  
-
-- Ernest le singe  
-
-- Marigold la gobeline  
-
-  
-
-- Récompense :  
-
-- Marquer les personnages ayant donné un bouton.  
-
-- Une future évasion miraculeuse dans Prismeer.  
-
-  
-
-- Citation d'Ernest :  
-
-> « Un bouton, s'il vous plaît.  
-
-> Pour compléter mon ourlet. »
 
 
 
