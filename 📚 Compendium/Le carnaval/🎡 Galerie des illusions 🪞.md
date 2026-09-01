@@ -1,303 +1,105 @@
 
-
-
-[!description]+ Résumé  
-
+>[!description]+ Résumé  
 La Galerie des Illusions est l'une des attractions les plus étranges du Carnaval de Sorcelume. 
 Le voile entre le Plan Matériel et la Féerie y est particulièrement mince. Derrière ses miroirs enchantés se cache l'un des plus grands secrets du carnaval : la porte menant à Prismeer.  
-
-  
-
 La plupart des forains considèrent cet endroit comme maudit ou hanté. Même [[🧚‍♀️ Piedecire]], qui y travaille, refuse presque toujours d'y entrer.  
-
-  
-
 L'accès coûte **1 poinçon**.  
-
-  
-
----  
-
-  
 
 ### 🧙‍♀️ Tasha la Magicienne  
 
-  
-
 À l'entrée se trouve une vitrine contenant le mannequin d'une jeune femme :  
-
-  
-
 - cheveux noirs  
-
 - large sourire  
-
 - vêtements de sorcière  
-
 - cape verte  
-
-  
-
 Une inscription indique :  
-
-  
-
 > « Tasha la magicienne, célèbre pour son effroyable rire. »  
 
   
-
 #### Connaissance importante  
-
-  
-
 **DD 15 Intelligence (Histoire)**  
-
-  
-
 Le personnage se souvient que :  
-
-  
-
-> Tasha était l'un des nombreux noms utilisés par **Iggwilv la Reine Sorcière**.  
-
-  
-
+>Tasha était l'un des nombreux noms utilisés par **Iggwilv la Reine Sorcière**.  
+>
 ⚠️ Noter immédiatement ce succès sur le Suivi d'Aventure.  
-
-  
-
 Cette information sera utile au Chapitre 5.  
 
-  
-
 #### Effet magique  
-
-  
-
 Toute créature s'approchant à moins de 3 m doit réussir :  
-
-  
-
 **JS de Sagesse DD 13**  
-
-  
-
 Échec :  
-
 - Effet de **Fou rire de Tasha**.  
-
-  
-
 Réussite ou échec :  
-
 - Impossible d'être affecté une seconde fois.  
 
-  
-
----  
-
-  
-
 ### 🧚‍♀️ Piedecire  
-
-  
-
 Mime officiel de la galerie.  
-
-  
-
 - Triste.  
-
 - Réservé.  
-
 - Très mal à l'aise à proximité des miroirs.  
-
 - Préfère rester près de l'entrée.  
-
-  
-
 Les forains évitent généralement cette attraction.  
 
-  
-
 ---  
-
-  
-
 ### 🪞 Les miroirs  
-
-  
 
 Les miroirs présentent différentes versions du visiteur.  
 
-  
-
 Près de l'entrée :  
-
-  
-
 - Reflets enfantins.  
-
-  
-
 Au centre :  
-
-  
-
 - Reflets actuels.  
-
-  
-
 Au fond :  
-
-  
-
-- Reflets âgés.  
-
+- Reflets âgés. 
 - Derniers jours de la vie du visiteur.  
-
-  
-
 Demander aux joueurs :  
-
-  
-
 - Comment leur personnage était enfant.  
-
 - Comment ils imaginent leur personnage vieux.  
-
-  
-
 C'est un excellent moment de roleplay.  
-
-  
 
 ---  
 
   
 
 ### 🚪 Le portail vers Prismeer  
-
-  
-
 Quelque part dans la galerie se trouve :  
-
-  
-
 - le véritable portail vers Prismeer.  
-
-  
-
 Si les bonnes paroles sont prononcées devant le miroir approprié :  
-
-  
-
 - celui-ci se transforme en portail féerique.  
 
-  
-
 ---  
-
-  
-
 ### 🍎 Songe Pommefête & 🍬 Rubin Sucreboise  
 
-  
-
 Couple de halfelins.  
-
-  
-
 #### Événement  
 
-  
-
 Rubin souhaite demander Songe en mariage.  
-
-  
-
 Malheureusement :  
-
-  
-
 - Songe subit le Fou rire de Tasha ;  
-
 - Rubin croit sa demande rejetée ;  
-
-- Rubin s'enfuit dans la Galerie des Illusions.  
-
-  
+- Rubin s'enfuit dans la Galerie des Illusions.    
 
 ---  
-
-  
 
 ### 🐷 Cochontruie  
 
-  
-
 À l'intérieur de la galerie :  
-
-  
-
 Les PJ peuvent retrouver Rubin.  
-
-  
-
 **Test Perception DD 15 après 1 minute de recherche.**  
-
-  
-
 Ils découvrent :  
-
-  
-
 - Rubin devant un miroir.  
-
 - Une fillette portant un masque de cochon.  
-
 - Son reflet enfant lui parle.  
-
-  
-
-Cette fillette est :  
-
-  
-
-## 🐷 Cochontruie  
-
-  
-
+Cette fillette est :  Cochontruie  
 Servante de Skabatha Belladone.  
-
-  
-
 Son but :  
-
-  
-
 - attirer Rubin à Çà-et-là ;  
-
 - lui faire rencontrer Skabatha ;  
-
 - lui proposer un marché féerique.  
-
-  
-
 Si personne ne l'arrête :  
-
-  
-
 Rubin disparaît dans le miroir.  
-
-  
-
 Avant qu'il ne parte :  
-
-  
-
 - sa bague de fiançailles tombe au sol.  
-
 - les PJ ne peuvent pas le suivre.  
 
   
