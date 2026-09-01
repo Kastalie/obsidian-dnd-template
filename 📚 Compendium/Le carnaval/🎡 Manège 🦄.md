@@ -1,4 +1,4 @@
-![[Pasted image 20260713102336.png|354]]
+![[diane.png|272]]
 Une procession immobile de licornes en bois se tient sur une plateforme circulaire. Des visiteurs grimpent à dos de licorne, puis une centauresse lance le manège. Les licornes s'ébrouent dans un crissement, puis tournent sur la plateforme au petit galop pour la plus grande joie des cavaliers.
 
 [[📚 Compendium/Le carnaval/🧚‍♀️ Diane Trottinard]]
@@ -7,13 +7,12 @@ L'ÉNIGME DU MANÈGE
 Les huit licornes du manège vont par paires, chacune portant un nom sur sa bride. Certains noms sont bien lisibles, d'autres plaques de bride sont trop usées pour être déchiffrées.
 Avant que la moindre licorne partage des secrets avec les cavaliers, tous doivent connaître les huit noms qui figurent ou ont figuré sur les brides. Dans chaque paire, l'une des licornes est dotée d'une bride sur laquelle manquent des lettres.
 
-| OR     | A_ _ _ _ _ _  | or/argent     |
-| ------ | ------------- | ------------- |
-| SAPHIR | - - - I -     | rubis/saphir  |
-| SOLEIL | - - - E       | soleil/lune   |
-| PERLE  | - - A - - - - | diamant/perle |
-Quand les personnages ont fini de peindre les noms des licornes, Diane leur offre un tour de manège. Toute licorne dont le nom est mal identifié hennit de mécontentement et les personnages n'apprennent rien pendant leur tour de manège. Si tous les noms de licorne ont été devinés, chaque licorne transmet par télépathie à son cavalier trois secrets concernant Prismeer ou
-l'assemblée du Sablier, avant la fin du tour de manège. Ces secrets peuvent répondre à des questions posées par les aventuriers ou être livrés sans préambule si le personnage ne trouve rien à demander.
+| _ _         | A_ _ _ _ _ _  | or/argent     |
+| ----------- | ------------- | ------------- |
+| S _ _ _ _ R | - - - I -     | rubis/saphir  |
+| _ _ _ _ _ L | - - - E       | soleil/lune   |
+| PERLE       | - - A - - - - | diamant/perle |
+Quand les personnages ont fini de peindre les noms des licornes, Diane leur offre un tour de manège. Toute licorne dont le nom est mal identifié hennit de mécontentement et les personnages n'apprennent rien pendant leur tour de manège. Si tous les noms de licorne ont été devinés, chaque licorne transmet par télépathie à son cavalier trois secrets concernant Prismeer ou l'assemblée du Sablier, avant la fin du tour de manège. Ces secrets peuvent répondre à des questions posées par les aventuriers ou être livrés sans préambule si le personnage ne trouve rien à demander.
 
 l'aventurier apprend l'identité de la guenaude qui détient ce qu'il cherche
 (Bavlorna Paillepourrie, Skabatha Belladone ou Endelyne Tombelune).

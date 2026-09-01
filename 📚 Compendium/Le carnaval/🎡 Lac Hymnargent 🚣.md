@@ -42,6 +42,7 @@ Une fois la voix rendue :
 ### Effet sur l'ambiance  
 #### Les PJ convainquent Palasha de revenir chanter  
 ✅ Ambiance +2  
+ Palasha offre une leçon de chant à tout personnage qui lui a porté assistance. **Sur le Suivi d'aventure, notez les noms des personnages qui reçoivent une leçon de chant de la sirène.** Ce talent  pourra s'avérer utile au chapitre 3 (cf. « Cercles des fées préservés » ).
 
 #### Les PJ réunissent Palasha et Piedecire  
 ✅ Ambiance +2  
