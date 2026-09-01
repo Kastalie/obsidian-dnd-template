@@ -82,7 +82,6 @@ Baton d'Edwidge qui a un passif
 il a un passif qui lance un effet son/lumière a chaque sort lancé
 et -2 en force
 
-
 | dé 20 | Effet (1minute sauf mention contraire, une fois par jour)                   |
 | ----- | --------------------------------------------------------------------------- |
 | 1     | le baton s'illumine en violet                                               |
@@ -98,5 +97,10 @@ et -2 en force
 | 11    | le baton se recouvre de mousse                                              |
 | 12    | le baton s'illumine en orange                                               |
 | 13    | le porteur du baton s'illumine en vert                                      |
-| 14    |                                                                             |
-| 15    |                                                                             |
+| 14    | le bâton crie une insulte                                                   |
+| 15    | le bâton devient givré                                                      |
+| 16    | le bâton est brulant                                                        |
+| 17    | le bâton s'enfuit                                                           |
+| 18    | le baton fait apparaitre des tulipes au sol                                 |
+| 19    | le bâton lance un débat philosophique                                       |
+| 20    |                                                                             |
