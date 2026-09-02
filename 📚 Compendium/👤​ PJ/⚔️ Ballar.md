@@ -49,6 +49,8 @@ Il s'appel Ballar, sa sous-classe c'est la Voie du Cœur Sauvage. Il est impulsi
 
 Bon c'est décidé, quelques temps après avoir quitté son clan, mon perso (Ballar) traversé une zone désertique (un peu type toundra) quand il a été surpris par un averse, il s'est réfugié dans une grotte. Il est tombé sur un bébé Ouatl et a eu le réflexe malheureux de lever sa hache, résultat le parent l'a attaqué... Comment c'était la merde (bestiole résistante aux dégâts physiques tout ça), Ballar s'est tiré fissa et est resté traumatisé de cette expérience. Résultat il a une terreur des Ouatl et une aversion pour les serpents.
 
+
+
 clan : Faolán
 magie : plante et nuit
 ![[clan faolan.jpg]]
