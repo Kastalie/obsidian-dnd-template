@@ -1,6 +1,65 @@
-Personne ne risque de mourir dans cette attraction.
+>[!description]+ Résumé
+Le Verger Ripailleur est l'endroit le plus festif du Carnaval de Sorcelume.
+Des arbres chargés de fruits entourent de longues tables débordant de nourriture. Des musiciens jouent sans interruption tandis que des danseurs, des conteurs et des acrobates animent les allées.
+L'air est rempli :
+>- d'odeurs de tartes aux baies ;
+>- de crème pâtissière ;
+>- d'hydromel ;
+>- de fleurs féeriques.
+Les visiteurs sont encouragés à :
+>- manger ;
+>- danser ;
+>- chanter ;
+>- raconter des histoires.
+Ici, tout le monde est invité à participer.
+
+## 🎶 Ambiance générale
+
+Le Verger Ripailleur accueille toute la soirée :
+- Troubadours
+- Bardes
+- Chanteurs féeriques
+- Acrobates
+- Jongleurs
+- Échassiers
+- des légendes féeriques ;
+- des histoires drôles ;
+- des récits impossibles.
 
 ---
+
+## 🍰 Concours de Mangeurs de Gâteaux Féeriques
+
+L'attraction principale du Verger. 1 poinçon
+### Trop de crème
+Chaque gâteau consommé au-delà de cette limite exige :
+```text
+
+JS Constitution DD 10
+
+```
+Échec :
+```text
+
+1d8 dégâts de crème
+
+```
+Ces dégâts sont temporaires.
+
+---
+### Défaite
+Lorsqu'un concurrent tombe à :
+```text
+
+0 PV
+
+```
+
+à cause de la surcharge de crème :
+- il abandonne ;
+- il est recouvert de crème pâtissière ;
+- il devient la risée générale pendant quelques minutes.
+
 ## 🏆 Récompense
 Le vainqueur reçoit :
 ### 🍰 Gâteau d'Invisibilité
@@ -31,19 +90,12 @@ Ils les lancent parfois au public.
 ---
 
 ### Danses improvisées
-
 Toutes les quelques minutes :
-
 - un musicien accélère le rythme ;
-
 - les visiteurs se regroupent ;
-
 - une nouvelle danse débute spontanément.
 
 ---
-
-
-
 #### Secrets
 
 - Plusieurs forains considèrent le Verger comme le cœur de la fête.
