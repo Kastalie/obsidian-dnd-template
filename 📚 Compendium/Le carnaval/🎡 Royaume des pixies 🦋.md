@@ -1,4 +1,606 @@
 
+  
+>[!description]+ Résumé  
+Dissimulé dans un bosquet de chênes se trouve un minuscule royaume féerique.  
+De petites roulottes, des maisons miniatures, des stands de friandises et même une grande roue animée par un hamster éveillé composent cette attraction unique.  
+À l'entrée, une pixie nommée **Jeremy Prune** accueille les visiteurs et tente de les convaincre que son royaume est la plus merveilleuse attraction du carnaval.  
+L'accès coûte **1 poinçon**.  
+
+### 🧚 Jeremy Prune  
+
+Pixie bavard et enthousiaste.  
+Son rôle consiste à :  
+- accueillir les visiteurs ;  
+- distribuer la poussière de pixie ;  
+- convaincre les invités d'adopter un nom de pixie.  
+
+---  
+
+  
+
+## 🧚 Choisir un nom de Pixie  
+
+  
+
+Avant d'entrer, Jeremy encourage les visiteurs à adopter un nouveau nom.  
+
+  
+
+### Noms suggérés  
+
+  
+
+| d8 | Nom |  
+
+|----|------|  
+
+| 1 | Barbe-à-papa |  
+
+| 2 | Bon-bec Astéride |  
+
+| 3 | Brille-mite |  
+
+| 4 | Flaque-de-boue |  
+
+| 5 | Fossette |  
+
+| 6 | Panache |  
+
+| 7 | Saut-de-crapaud |  
+
+| 8 | Toile-de-grenier |  
+
+  
+
+### Récompense  
+
+  
+
+Si tous les personnages utilisent leur nom de pixie pendant leur visite :  
+
+  
+
+✅ Ambiance du Carnaval +1  
+
+  
+
+---  
+
+  
+
+## 🧪 Poussière de Pixie  
+
+  
+
+Chaque visiteur reçoit gratuitement un sachet de poussière de pixie.  
+
+  
+
+### Effet  
+
+  
+
+Action :  
+
+  
+
+- Une créature à 1,50 m gagne :  
+
+- Vol 9 m  
+
+- Vol stationnaire  
+
+  
+
+Durée :  
+
+  
+
+- 1 minute  
+
+  
+
+À la fin :  
+
+  
+
+- le personnage redescend doucement au sol.  
+
+- aucun dégât de chute.  
+
+  
+
+---  
+
+  
+
+## 🧪 Potion de Miniaturisation  
+
+  
+
+Jeremy remet également une potion à chaque visiteur.  
+
+  
+
+### Effet  
+
+  
+
+Une fois bue dans le Royaume :  
+
+  
+
+- Taille Minuscule (TP)  
+
+- Durée : 1 heure  
+
+  
+
+### Pénalités  
+
+  
+
+- Désavantage aux tests de Force  
+
+- Désavantage aux JS de Force  
+
+- Les armes causent 2d4 dégâts de moins  
+
+- Minimum 1 dégât  
+
+  
+
+Le personnage peut mettre fin à l'effet volontairement.  
+
+  
+
+---  
+
+  
+
+# 🌸 Explorer le Royaume  
+
+  
+
+Le Royaume des Pixies est particulièrement paisible.  
+
+  
+
+Les visiteurs peuvent :  
+
+  
+
+### 🏰 Palais de cocons  
+
+  
+
+Magnifique palais composé de cocons et de soieries féeriques.  
+
+  
+
+---  
+
+  
+
+### 🥧 Banquets pixies  
+
+  
+
+Les visiteurs peuvent déguster :  
+
+  
+
+- sandwichs au melon de souris ;  
+
+- tartes aux framboises roncières ;  
+
+- vin de mûre.  
+
+  
+
+---  
+
+  
+
+### 🐶 Pigne-de-Pin  
+
+  
+
+Petit carlin énergique.  
+
+  
+
+Peut être monté par :  
+
+  
+
+- un seul personnage à la fois.  
+
+  
+
+Mais il n'obéit habituellement qu'aux pixies.  
+
+  
+
+---  
+
+  
+
+### 🎡 Grande Roue de Biscuit  
+
+  
+
+Une grande roue miniature propulsée par :  
+
+  
+
+## 🐹 Biscuit  
+
+  
+
+Hamster éveillé.  
+
+  
+
+- Intelligence 10  
+
+- Parle le commun  
+
+- Adore discuter  
+
+  
+
+---  
+
+  
+
+# 🗣️ Ragots du Royaume  
+
+  
+
+Les personnages qui discutent avec Biscuit ou les Pixies peuvent apprendre :  
+
+  
+
+### 🐦 La Bouilloire  
+
+  
+
+> « Tout le monde cherche une kenku agitée capable de changer d'apparence. »  
+
+  
+
+---  
+
+  
+
+### ❤️ Piedecire et Palasha  
+
+  
+
+> « Ils s'aiment mais Piedecire a perdu sa voix ! »  
+
+  
+
+---  
+
+  
+
+### 📚 Bohu  
+
+  
+
+> « Bohu débat souvent de philosophie avec un cygne. Il est plus intelligent qu'il n'en a l'air. »  
+
+  
+
+---  
+
+  
+
+# 🎯 Partie de Cache-Cache  
+
+  
+
+Au bout de quelque temps :  
+
+  
+
+### 🍯 Menthaumiel  
+
+  
+
+organise une partie de cache-cache.  
+
+  
+
+### ⭐ Coccinétoile  
+
+  
+
+fait office de chercheuse.  
+
+  
+
+---  
+
+  
+
+## Déroulement  
+
+  
+
+Chaque participant effectue :  
+
+  
+
+**Sagesse (Discrétion)**  
+
+  
+
+Le plus faible est découvert.  
+
+  
+
+Les autres changent ensuite de cachette.  
+
+  
+
+La partie continue jusqu'à ce qu'il ne reste qu'un seul joueur caché.  
+
+  
+
+⚠️ Noter tous les participants sur le Suivi d'Aventure.  
+
+  
+
+Cette expérience sera utile au chapitre 3.  
+
+  
+
+---  
+
+  
+
+## Récompense  
+
+  
+
+Le gagnant reçoit :  
+
+  
+
+### 🧚 Poussière de Pixie supplémentaire  
+
+  
+
+et  
+
+  
+
+### 🍃 Hélice de feuilles  
+
+  
+
+Un personnage ne peut gagner ce lot qu'une seule fois.  
+
+  
+
+---  
+
+  
+
+# 🪴 Cachettes notables  
+
+  
+
+## 🎡 Roue de Biscuit  
+
+  
+
+Le hamster parle sans arrêt.  
+
+  
+
+**Persuasion DD 12**  
+
+  
+
+Succès :  
+
+  
+
+✅ Avantage au test de cachette.  
+
+  
+
+---  
+
+  
+
+## 🌸 Lit de fleurs  
+
+  
+
+Fleurs parlantes extrêmement prétentieuses.  
+
+  
+
+**Persuasion DD 12**  
+
+  
+
+Succès :  
+
+  
+
+✅ Avantage au test de cachette.  
+
+  
+
+---  
+
+  
+
+## 🐦 Nid de Béatrice  
+
+  
+
+Héron éveillé passionné de météo.  
+
+  
+
+**Persuasion DD 12**  
+
+  
+
+Succès :  
+
+  
+
+✅ Avantage au test de cachette.  
+
+  
+
+---  
+
+  
+
+# Secrets  
+
+  
+
+- Les pixies observent tout le carnaval depuis les airs.  
+
+- Ils connaissent de très nombreux ragots.  
+
+- La partie de cache-cache prépare discrètement certains événements futurs du chapitre 3.  
+
+- Beaucoup de visiteurs repartent en ayant complètement oublié leur taille normale.  
+
+  
+
+---  
+
+  
+
+# Relations  
+
+  
+
+### Alliés  
+
+  
+
+- Jeremy Prune  
+
+- Menthaumiel  
+
+- Coccinétoile  
+
+- Biscuit  
+
+- Béatrice  
+
+  
+
+### PNJ liés  
+
+  
+
+- [[🐦 La Bouilloire]]  
+
+- [[🎭 Piedecire]]  
+
+- [[🧜‍♀️ Palasha]]  
+
+- [[📚 Bohu]]  
+
+  
+
+---  
+
+  
+
+[!mj] Notes  
+
+  
+
+- Très forte ambiance féerique.  
+
+- Excellente attraction pour mettre les PJ à l'échelle des pixies.  
+
+- Beaucoup de roleplay possible.  
+
+- Distribution gratuite de poussière de pixie.  
+
+- La partie de cache-cache est plus importante qu'elle n'en a l'air : noter les participants.  
+
+- Bonne occasion de diffuser plusieurs indices de campagne sans que cela paraisse forcé.  
+
+  
+
+---  
+
+  
+
+[!fiche]- Informations rapides  
+
+  
+
+**Coût :**  
+
+- 1 poinçon  
+
+  
+
+**Bonus Ambiance :**  
+
+- Tous les PJ utilisent un nom de pixie : +1  
+
+  
+
+**Objets obtenus :**  
+
+- Poussière de pixie  
+
+- Potion de miniaturisation  
+
+- Éventuelle poussière supplémentaire (cache-cache)  
+
+  
+
+**PNJ :**  
+
+- Jeremy Prune  
+
+- Biscuit  
+
+- Menthaumiel  
+
+- Coccinétoile  
+
+- Béatrice  
+
+  
+
+**Thèmes :**  
+
+- Féerie  
+
+- Miniaturisation  
+
+- Jeux  
+
+- Ragots  
+
+- Cache-cache  
+
+- Merveille
+
+
+
+
 *Un bosquet de chênes abrite une fête foraine miniature. En plein milieu, un hamster galope à l'intérieur d'une minuscule «grande roue», entourée d'étals à bonbons et de roulottes miniatures. A l'entrée de ce royaume, une pixie est assise en tailleur dans le creux d'un arbre.*
 
 Cette pixie se présente sous le nom de Jeremy Prune et fait de son mieux pour convaincre les personnages que le Royaume des pixies est la plus chouette attraction du carnaval. L'accès coûte **1 poinçon**. Jeremy encourage les aventuriers à prendre des noms de pixie avant d'entrer ; la table qui suit fournit quelques suggestions en la matière. L'ambiance du carnaval **s'améliore de 1 cran** si tous les personnages recourent à leur nom de pixie le temps de l'attraction.
