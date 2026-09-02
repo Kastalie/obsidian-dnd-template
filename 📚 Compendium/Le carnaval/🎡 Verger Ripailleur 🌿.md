@@ -1,3 +1,79 @@
+Personne ne risque de mourir dans cette attraction.
+
+---
+## 🏆 Récompense
+Le vainqueur reçoit :
+### 🍰 Gâteau d'Invisibilité
+Une délicieuse pâtisserie enchantée.
+#### Effet
+Lorsqu'elle est entièrement mangée :
+✅ Effets d'une **Potion d'Invisibilité**
+L'effet est exactement le même que celui d'une potion classique.
+
+---
+
+## 🌳 Particularités du Verger
+### Arbres généreux
+Les fruits semblent toujours mûrs.
+De nombreux visiteurs sont persuadés que :
+- les arbres racontent parfois des histoires ;
+- certains fruits changent de goût selon celui qui les mange.
+
+---
+### Échassiers cueilleurs
+
+Des artistes juchés sur de hautes échasses récoltent continuellement :
+- pommes ;
+- poires ;
+- fruits féeriques inconnus.
+Ils les lancent parfois au public.
+
+---
+
+### Danses improvisées
+
+Toutes les quelques minutes :
+
+- un musicien accélère le rythme ;
+
+- les visiteurs se regroupent ;
+
+- une nouvelle danse débute spontanément.
+
+---
+
+
+
+#### Secrets
+
+- Plusieurs forains considèrent le Verger comme le cœur de la fête.
+- Monsieur Lumière aime souvent observer discrètement les visiteurs ici.
+- Certains récits racontés au Verger contiennent parfois des indices sur la Féerie.
+- Les gâteaux du concours sont magiquement conçus pour être sans danger malgré leurs effets spectaculaires.
+
+
+---
+
+>[!mj] Notes
+>- Attraction idéale pour créer du roleplay léger.
+>- Permet aux PJ de participer à quelque chose de purement festif.
+>- Excellent endroit pour lancer des rencontres aléatoires ou des rumeurs.
+>- Le concours de gâteaux est souvent très amusant à jouer.
+>- Ne pas hésiter à décrire les participants couverts de crème après leurs échecs.
+
+---
+
+>[!fiche]- Informations rapides
+**Coût :**
+>- 1 poinçon (concours)
+**Activité principale :**
+>- Concours de Mangeurs de Gâteaux Féeriques
+**Jet important :**
+>- Constitution DD 10
+>**Récompense :**
+>- 🍰 Gâteau d'Invisibilité
+>- Effets d'une Potion d'Invisibilité
+
 
 Ce parc rayonne de gaieté et de musique. Les parfums enivrants de fleurs, d'hydromel et de tarte aux baies embaument l'atmosphère. Des échasseurs cueillent des fruits dans les rameaux, des musiciens tambourinent, grattent et soufflent, et l'endroit est régi par les chants, les danses et les quintaux de crème pâtissière.
 

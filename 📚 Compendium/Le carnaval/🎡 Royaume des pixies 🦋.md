@@ -118,7 +118,7 @@ Au bout de quelque temps :   🍯 Menthaumiel  organise une partie de cache-cach
 ## Déroulement  
 Chaque participant effectue :  **(Discrétion)**  Le plus faible est découvert.  Les autres changent ensuite de cachette.  La partie continue jusqu'à ce qu'il ne reste qu'un seul joueur caché.  ⚠️ Noter tous les participants sur le Suivi d'Aventure
 Cette expérience sera utile au chapitre 3.  
-Le gagnant reçoit :  Poussière de Pixie supplémentaire et Hélice de feuilles
+Le gagnant reçoit :  Poussière de Pixie supplémentaire et broche feuille morte
 Un personnage ne peut gagner ce lot qu'une seule fois.  
 
 # 🪴 Cachettes notables  
