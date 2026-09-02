@@ -16,140 +16,55 @@ Son rôle consiste à :
 
 ---  
 
-  
-
 ## 🧚 Choisir un nom de Pixie  
-
-  
 
 Avant d'entrer, Jeremy encourage les visiteurs à adopter un nouveau nom.  
 
-  
-
-### Noms suggérés  
-
-  
-
 | d8 | Nom |  
-
 |----|------|  
-
 | 1 | Barbe-à-papa |  
-
 | 2 | Bon-bec Astéride |  
-
 | 3 | Brille-mite |  
-
 | 4 | Flaque-de-boue |  
-
 | 5 | Fossette |  
-
 | 6 | Panache |  
-
 | 7 | Saut-de-crapaud |  
-
 | 8 | Toile-de-grenier |  
-
-  
-
-### Récompense  
-
-  
-
 Si tous les personnages utilisent leur nom de pixie pendant leur visite :  
-
-  
-
 ✅ Ambiance du Carnaval +1  
 
   
 
 ---  
-
   
 
 ## 🧪 Poussière de Pixie  
 
   
 
-Chaque visiteur reçoit gratuitement un sachet de poussière de pixie.  
-
-  
-
-### Effet  
-
-  
-
-Action :  
-
-  
-
+Chaque visiteur reçoit gratuitement un sachet de poussière de pixie. 
 - Une créature à 1,50 m gagne :  
-
 - Vol 9 m  
-
 - Vol stationnaire  
-
-  
-
 Durée :  
-
-  
-
 - 1 minute  
-
-  
-
 À la fin :  
-
-  
-
 - le personnage redescend doucement au sol.  
-
 - aucun dégât de chute.  
 
-  
 
 ---  
 
-  
-
 ## 🧪 Potion de Miniaturisation  
 
-  
-
 Jeremy remet également une potion à chaque visiteur.  
-
-  
-
-### Effet  
-
-  
-
 Une fois bue dans le Royaume :  
-
-  
-
 - Taille Minuscule (TP)  
-
 - Durée : 1 heure  
-
-  
-
-### Pénalités  
-
-  
-
 - Désavantage aux tests de Force  
-
 - Désavantage aux JS de Force  
-
 - Les armes causent 2d4 dégâts de moins  
-
 - Minimum 1 dégât  
-
-  
-
 Le personnage peut mettre fin à l'effet volontairement.  
 
   
@@ -163,89 +78,36 @@ Le personnage peut mettre fin à l'effet volontairement.
   
 
 Le Royaume des Pixies est particulièrement paisible.  
-
-  
-
 Les visiteurs peuvent :  
 
   
 
 ### 🏰 Palais de cocons  
-
-  
-
 Magnifique palais composé de cocons et de soieries féeriques.  
 
-  
-
----  
-
-  
 
 ### 🥧 Banquets pixies  
-
-  
-
 Les visiteurs peuvent déguster :  
-
-  
-
 - sandwichs au melon de souris ;  
-
 - tartes aux framboises roncières ;  
-
 - vin de mûre.  
 
-  
-
----  
-
-  
-
 ### 🐶 Pigne-de-Pin  
-
-  
-
 Petit carlin énergique.  
-
-  
-
 Peut être monté par :  
-
-  
-
 - un seul personnage à la fois.  
-
-  
-
 Mais il n'obéit habituellement qu'aux pixies.  
 
   
-
----  
-
-  
-
 ### 🎡 Grande Roue de Biscuit  
-
-  
-
 Une grande roue miniature propulsée par :  
 
   
 
 ## 🐹 Biscuit  
-
-  
-
 Hamster éveillé.  
-
-  
-
-- Intelligence 10  
-
+ Intelligence 10  
 - Parle le commun  
-
 - Adore discuter  
 
   
@@ -255,42 +117,12 @@ Hamster éveillé.
   
 
 # 🗣️ Ragots du Royaume  
-
-  
-
 Les personnages qui discutent avec Biscuit ou les Pixies peuvent apprendre :  
+ 🐦 La Bouilloire   « Tout le monde cherche une kenku agitée capable de changer d'apparence. »  
 
-  
+ ❤️ Piedecire et Palasha   « Ils s'aiment mais Piedecire a perdu sa voix ! »  
 
-### 🐦 La Bouilloire  
-
-  
-
-> « Tout le monde cherche une kenku agitée capable de changer d'apparence. »  
-
-  
-
----  
-
-  
-
-### ❤️ Piedecire et Palasha  
-
-  
-
-> « Ils s'aiment mais Piedecire a perdu sa voix ! »  
-
-  
-
----  
-
-  
-
-### 📚 Bohu  
-
-  
-
-> « Bohu débat souvent de philosophie avec un cygne. Il est plus intelligent qu'il n'en a l'air. »  
+📚 Bohu   « Bohu débat souvent de philosophie avec un cygne. Il est plus intelligent qu'il n'en a l'air. »  
 
   
 
