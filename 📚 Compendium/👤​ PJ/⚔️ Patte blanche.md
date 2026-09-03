@@ -138,39 +138,39 @@ et -2 en force
 30 Jusqu'à trois créatures de votre choix, dans un rayon de 9 mètres et que vous pouvez voir, subissent 4d10 dégâts de foudre.
 31 Vous et toutes les créatures situées dans un rayon de 9 mètres autour de vous avez la Vulnérabilité aux dégâts perforants pendant la prochaine minute. 
 32 vous récupérez 2d10 points de vie  
-33 Pluie de pétales pendant 1 minute.  
-34 Votre ombre agit avec un round de retard pendant 24 h.  
+33 un allié de votre choix dans un rayon de 90 mètres récupère 2d10 points de vie  
+34 vous récupérez votre emplacement de sort dépensé de plus faible niveau 
 35 Vous parlez Sylvestre pendant 24 h.  
-36 Une couronne de fleurs apparaît sur votre tête.  
-37 Vous lévitez à 30 cm du sol pendant 1 minute.  
+36 un allié de votre choix dans un rayon de 90 mètres récupère son emplacement de sort dépensé de plus faible niveau
+37 vous récupérez tous vos points de sorcellerie dépensés  
 38 De la mousse recouvre tout dans un rayon de 3 m.  
-39 Votre voix devient irrésistiblement mélodieuse.  
-40 Vos cheveux changent de couleur chaque minute.  
-41 Une luciole magique vous suit pendant 24 h.  
+39 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. boule de feu  
+40 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. nappe de brouillard 
+41 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. vol sur une créature aléatoire
 42 Vous gagnez 1d6 PV temporaires.  
 43 Une grenouille apparaît et vous adore.  
-44 Vos pas font éclore des fleurs.  
+44 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. graisse
 45 Vous rétrécissez d'une catégorie de taille pendant 1 minute.  
 46 Votre vitesse augmente de 3 m pendant 1 minute.  
-47 Des papillons lumineux orbitent autour de vous.  
+47 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. lévitation (sur vous même)
 48 Invisibilité jusqu'à votre prochain tour.  
-49 Une clochette tinte à chaque phrase.  
+49 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. projectile magique niv5 
 50 Récupération d'un emplacement de sort de niveau 1.  
 51 Lueurs Féeriques centrées sur vous.  
-52 Votre peau scintille comme un ciel étoilé.  
-53 Un champignon géant pousse à vos pieds.  
-54 Vous échangez votre voix avec celle d'un allié.  
+52 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. image miroir  
+53 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. métamorphose ( si jsauv raté chèvre)
+54 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. detection de l'invisibilité 
 55 Toutes les boissons proches deviennent du jus de pomme.  
-56 Votre reflet agit seul pendant 1 minute.  
+56 votre ombre agit avec un tour de retard sur vous  
 57 Résistance psychique pendant 1 minute.  
-58 Une petite porte féerique apparaît sur un mur proche.  
-59 Vous parlez uniquement en rimes pendant 10 minutes.  
+58  
+59  
 60 Un écureuil éveillé vous critique pendant 1 heure.  
-61 Vos yeux deviennent des lanternes vivantes.  
+61   
 62 Avantage à votre prochain jet de sauvegarde.  
-63 Image Miroir est lancé sur vous.  
-64 Une pluie de bulles recouvre la zone.  
-65 Tout le monde sent son dessert préféré.  
+63   
+64
+65 Tout le monde a son dessert préféré.  
 66 Vol 6 m jusqu'à la fin de votre prochain tour.  
 67 Une minuscule licorne apparaît sur votre épaule.  
 68 Tous les animaux deviennent amicaux.  
