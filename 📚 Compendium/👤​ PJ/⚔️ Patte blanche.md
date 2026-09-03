@@ -106,78 +106,39 @@ et -2 en force
 | 20    | Vous gagnez instantanément 10 points de vie temporaires.                    |
 
 
-01 Relancez sur cette table au début de chacun de vos tours pendant 1 minute.  
-
-02 Une créature amicale apparaît aléatoirement pendant 1 minute.  
-
-03 Vous récupérez 5 PV au début de chacun de vos tours pendant 1 minute.  
-
-04 Désavantage aux JS contre votre prochain sort.  
-
-05 Musique éthérée vous entoure pendant 1 minute.  
-
-06 Votre taille augmente d'une catégorie pendant 1 minute.  
-
+**01 Relancez sur cette table au début de chacun de vos tours pendant 1 minute.**  
+**02 Une créature amicale apparaît aléatoirement dans un espace inoccupé dans un rayon de 18 mètres. La créature est sous le contrôle du MD et disparaît 1 minute plus tard. Lancez 1d4 pour déterminer la créature : sur un 1, un modron duodrone apparaît ; sur un 2, un flumph apparaît ; sur un 3, un modron monodrone apparaît ; sur un 4, une licorne apparaît.**
+**03 Vous récupérez 5 PV au début de chacun de vos tours pendant 1 minute.**  
+**04 Les créatures ont un Désavantage aux jets de sauvegarde contre le prochain sort que vous lancerez dans la minute qui suit et qui nécessite un jet de sauvegarde.**
+**05 vous êtes entouré d'une musique faible et éthérée que seuls vous et les créatures dans un rayon de 1,50 mètre pouvez entendre**  
+**06 Votre taille augmente d'une catégorie pendant 1 minute.**  
 07 Une barbe de plumes vous pousse.  
-
 08 Vous criez lorsque vous parlez pendant 1 minute.  
-
 09 Des papillons illusoires volent autour de vous.  
-
 10 Un troisième œil apparaît ; avantage en Perception.  
-
 11 Des bulles roses sortent de votre bouche.  
-
 12 Votre peau devient bleue pendant 24 h.  
-
-  
-
-13 Tous vos sorts d'action deviennent des actions bonus pendant 1 minute.  
-
+13 **Pendant la minute qui suit, tous vos sorts dont le temps d'incantation est d'une Action ont un temps d'incantation d'une action Bonus**.
 14 Transport sur le Plan Astral jusqu'à votre prochain tour.  
-
 15 Votre prochain sort de dégâts inflige les dégâts maximums.  
-
 16 Résistance à tous les dégâts pendant 1 minute.  
-
 17 Vous devenez une plante en pot jusqu'à votre prochain tour.  
-
 18 Téléportation de 6 m comme action bonus pendant 1 minute.  
-
 19 Invisibilité sur vous et trois créatures pendant 1 minute.  
-
 20 Bouclier spectral (+2 CA, immunité Projectile magique).  
-
-  
-
 21 Vous gagnez une action supplémentaire ce tour.  
-
 22 Lancez un sort aléatoire de la table officielle.  
-
 23 Tout objet inflammable touché brûle.  
-
 24 Si vous mourez dans l'heure, Réincarnation immédiate.  
-
 25 État Effrayé jusqu'à la fin du prochain tour.  
-
 26 Téléportation de 18 m.  
-
 27 Une créature aléatoire est Empoisonnée.  
-
 28 Vous brillez comme un soleil pendant 1 minute.  
-
 29 Drain de vie nécrotique.  
-
 30 Foudre sur trois créatures.  
-
-  
-
 31 Vulnérabilité perforante dans un rayon de 9 m.  
-
 32 Effet bénéfique aléatoire officiel.  
-
 33 Pluie de pétales pendant 1 minute.  
-
 34 Votre ombre agit avec un round de retard pendant 24 h.  
 35 Vous parlez Sylvestre pendant 24 h.  
 36 Une couronne de fleurs apparaît sur votre tête.  
@@ -242,6 +203,6 @@ et -2 en force
 95 Tous les alliés gagnent 1d4 PV temporaires.  
 96 Toute nourriture devient délicieuse pendant 1 heure.  
 97 Un papillon géant vous transporte 18 m.  
-98 Votre prochain test de Charisme est automatique à 20 naturel.  
+98 Votre prochain test de Charisme bénéficie de l'avantage et ajoute +1d6.
 99 Toutes les fleurs à 30 m éclosent instantanément.  
-100 Une vision de Zybilna vous bénit : avantage sur tous les jets pendant 1 minute.
+100 Vous gagnez Inspiration héroïque.
