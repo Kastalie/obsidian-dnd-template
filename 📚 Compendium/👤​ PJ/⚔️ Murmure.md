@@ -40,6 +40,10 @@ Mais il fait écho à ta mission d'aider ceux qui sont perdus, Grisaile semblait
  - Retrouver celle qu'il n'a pas entendue à temps, avant qu'elle n'oublie son propre nom
  Créature dont il a peur : Une ombre mystérieuse qui se joue de tous ceux qui s'aventureraient trop loin dans sa grande forêt, les égarant à tout jamais de leur propre réalité
 
+<u>Peur :</u>
+Ombre de la forêt
+
+
 Aquaraile pour la mère (elle était une grande artiste) et Soufflemer pour le père (et lui un grand guerrier)
 Tous deux étaient Druides Cercle des Mers
 ### Apparence
