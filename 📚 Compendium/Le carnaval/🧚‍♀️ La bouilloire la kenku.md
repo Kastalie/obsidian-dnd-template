@@ -24,8 +24,7 @@ PNJ extrêmement important. Elle est en réalité un allié potentiel des PJ.
 
 
 
-La Bouilloire la kenku fouine dans tout le carnaval sous le couvert du sort déguisement, avec la
-ferme intention de semer le trouble. Ce kenku femelle a dérobé la voix du mime humain [[🧚‍♀️ Piedcire]]. Tant que son larcin reste en sa possession, la Bouilloire peut s'exprimer clairement par la voix douce et suave de Piedecire.
+La Bouilloire la kenku fouine dans tout le carnaval sous le couvert du sort déguisement, avec la ferme intention de semer le trouble. Ce kenku femelle a dérobé la voix du mime humain [[🧚‍♀️ Piedcire]]. Tant que son larcin reste en sa possession, la Bouilloire peut s'exprimer clairement par la voix douce et suave de Piedecire.
 
 Si la Bouilloire ne s'est toujours pas laissée coincer, un personnage qui consacre 1 heure à chercher la kenku déguisée peut percer son déguisement en parcourant la foule à l'affût d' individus louches, à condition de réussir un test d'Intelligence (Investigation) DD 13. Si elle est
 démasquée, la Bouilloire tente de prendre la fuite par l'avenue principale, en profitant des tentes et autres éléments du décor pour sortir du champ de vision. Elle est prête à parlementer prudemment avec les personnages s'ils disent enquêter sur le carnaval à leurs propres fins.
