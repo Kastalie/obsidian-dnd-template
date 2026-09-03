@@ -104,3 +104,144 @@ et -2 en force
 | 18    | le baton fait apparaitre des tulipes au sol                                 |
 | 19    | le bâton lance un débat philosophique                                       |
 | 20    | Vous gagnez instantanément 10 points de vie temporaires.                    |
+
+
+01 Relancez sur cette table au début de chacun de vos tours pendant 1 minute.  
+
+02 Une créature amicale apparaît aléatoirement pendant 1 minute.  
+
+03 Vous récupérez 5 PV au début de chacun de vos tours pendant 1 minute.  
+
+04 Désavantage aux JS contre votre prochain sort.  
+
+05 Musique éthérée vous entoure pendant 1 minute.  
+
+06 Votre taille augmente d'une catégorie pendant 1 minute.  
+
+07 Une barbe de plumes vous pousse.  
+
+08 Vous criez lorsque vous parlez pendant 1 minute.  
+
+09 Des papillons illusoires volent autour de vous.  
+
+10 Un troisième œil apparaît ; avantage en Perception.  
+
+11 Des bulles roses sortent de votre bouche.  
+
+12 Votre peau devient bleue pendant 24 h.  
+
+  
+
+13 Tous vos sorts d'action deviennent des actions bonus pendant 1 minute.  
+
+14 Transport sur le Plan Astral jusqu'à votre prochain tour.  
+
+15 Votre prochain sort de dégâts inflige les dégâts maximums.  
+
+16 Résistance à tous les dégâts pendant 1 minute.  
+
+17 Vous devenez une plante en pot jusqu'à votre prochain tour.  
+
+18 Téléportation de 6 m comme action bonus pendant 1 minute.  
+
+19 Invisibilité sur vous et trois créatures pendant 1 minute.  
+
+20 Bouclier spectral (+2 CA, immunité Projectile magique).  
+
+  
+
+21 Vous gagnez une action supplémentaire ce tour.  
+
+22 Lancez un sort aléatoire de la table officielle.  
+
+23 Tout objet inflammable touché brûle.  
+
+24 Si vous mourez dans l'heure, Réincarnation immédiate.  
+
+25 État Effrayé jusqu'à la fin du prochain tour.  
+
+26 Téléportation de 18 m.  
+
+27 Une créature aléatoire est Empoisonnée.  
+
+28 Vous brillez comme un soleil pendant 1 minute.  
+
+29 Drain de vie nécrotique.  
+
+30 Foudre sur trois créatures.  
+
+  
+
+31 Vulnérabilité perforante dans un rayon de 9 m.  
+
+32 Effet bénéfique aléatoire officiel.  
+
+33 Pluie de pétales pendant 1 minute.  
+
+34 Votre ombre agit avec un round de retard pendant 24 h.  
+35 Vous parlez Sylvestre pendant 24 h.  
+36 Une couronne de fleurs apparaît sur votre tête.  
+37 Vous lévitez à 30 cm du sol pendant 1 minute.  
+38 De la mousse recouvre tout dans un rayon de 3 m.  
+39 Votre voix devient irrésistiblement mélodieuse.  
+40 Vos cheveux changent de couleur chaque minute.  
+41 Une luciole magique vous suit pendant 24 h.  
+42 Vous gagnez 1d6 PV temporaires.  
+43 Une grenouille apparaît et vous adore.  
+44 Vos pas font éclore des fleurs.  
+45 Vous rétrécissez d'une catégorie de taille pendant 1 minute.  
+46 Votre vitesse augmente de 3 m pendant 1 minute.  
+47 Des papillons lumineux orbitent autour de vous.  
+48 Invisibilité jusqu'à votre prochain tour.  
+49 Une clochette tinte à chaque phrase.  
+50 Récupération d'un emplacement de sort de niveau 1.  
+51 Lueurs Féeriques centrées sur vous.  
+52 Votre peau scintille comme un ciel étoilé.  
+53 Un champignon géant pousse à vos pieds.  
+54 Vous échangez votre voix avec celle d'un allié.  
+55 Toutes les boissons proches deviennent du jus de pomme.  
+56 Votre reflet agit seul pendant 1 minute.  
+57 Résistance psychique pendant 1 minute.  
+58 Une petite porte féerique apparaît sur un mur proche.  
+59 Vous parlez uniquement en rimes pendant 10 minutes.  
+60 Un écureuil éveillé vous critique pendant 1 heure.  
+61 Vos yeux deviennent des lanternes vivantes.  
+62 Avantage à votre prochain jet de sauvegarde.  
+63 Image Miroir est lancé sur vous.  
+64 Une pluie de bulles recouvre la zone.  
+65 Tout le monde sent son dessert préféré.  
+66 Vol 6 m jusqu'à la fin de votre prochain tour.  
+67 Une minuscule licorne apparaît sur votre épaule.  
+68 Tous les animaux deviennent amicaux.  
+69 Votre équipement se couvre de fleurs.  
+70 Vous récupérez 2d6 PV.  
+71 Un arc-en-ciel vous suit pendant 1 minute.  
+72 Une fée invisible vous applaudit.  
+73 Vous êtes sous Confusion jusqu'à votre prochain tour.  
+74 Toutes les créatures à 6 m éclatent de rire.  
+75 Des racines envahissent le sol.  
+76 Vous échangez vos vêtements avec un allié.  
+77 Votre prochain sort est lancé un niveau plus haut.  
+78 Vous perdez votre ombre pendant 1 heure.  
+79 Un portail féerique apparaît pendant un round.  
+80 Explosion de pollen (2d6 poison à 3 m).  
+81 Fou rire de Tasha sur la créature la plus proche.  
+82 Vision de Zybilna, vous gagnez Inspiration.  
+83 Vos cheveux deviennent des lianes vivantes.  
+84 Une pluie de bonbons tombe dans un rayon de 6 m.  
+85 Vous gagnez une vitesse d'escalade égale à votre vitesse.  
+86 Vos yeux voient les créatures invisibles pendant 1 round.  
+87 Des lucioles forment votre nom dans les airs.  
+88 Vous flottez comme sous Lévitation pendant 1 minute.  
+89 Une tasse de thé apparaît dans votre main.  
+90 Des champignons colorés poussent sur vos bottes.  
+91 Une voix féerique révèle un secret mineur du lieu.  
+92 Tous les miroirs proches montrent votre futur.  
+93 Votre taille devient aléatoire chaque round pendant 1 minute.  
+94 Une licorne spectrale traverse brièvement la scène.  
+95 Tous les alliés gagnent 1d4 PV temporaires.  
+96 Toute nourriture devient délicieuse pendant 1 heure.  
+97 Un papillon géant vous transporte 18 m.  
+98 Votre prochain test de Charisme est automatique à 20 naturel.  
+99 Toutes les fleurs à 30 m éclosent instantanément.  
+100 Une vision de Zybilna vous bénit : avantage sur tous les jets pendant 1 minute.
