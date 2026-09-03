@@ -112,32 +112,32 @@ et -2 en force
 **04 Les créatures ont un Désavantage aux jets de sauvegarde contre le prochain sort que vous lancerez dans la minute qui suit et qui nécessite un jet de sauvegarde.**
 **05 vous êtes entouré d'une musique faible et éthérée que seuls vous et les créatures dans un rayon de 1,50 mètre pouvez entendre**  
 **06 Votre taille augmente d'une catégorie pendant 1 minute.**  
-07 Une barbe de plumes vous pousse.  
-08 Vous criez lorsque vous parlez pendant 1 minute.  
-09 Des papillons illusoires volent autour de vous.  
-10 Un troisième œil apparaît ; avantage en Perception.  
-11 Des bulles roses sortent de votre bouche.  
-12 Votre peau devient bleue pendant 24 h.  
-13 **Pendant la minute qui suit, tous vos sorts dont le temps d'incantation est d'une Action ont un temps d'incantation d'une action Bonus**.
-14 Transport sur le Plan Astral jusqu'à votre prochain tour.  
-15 Votre prochain sort de dégâts inflige les dégâts maximums.  
+**07 il vous pousse une longue barbe de plumes qui reste en place jusqu'à ce que vous éternuiez et que les plumes explosent et disparaissent**
+**08 Vous criez lorsque vous parlez pendant 1 minute.**  
+**09 Des papillons illusoires volent autour de vous.**  
+**10 Un troisième œil apparaît ; avantage en Perception.**  
+**11 Des bulles roses sortent de votre bouche chaque fois que vous parlez.**  
+**12 Votre peau devient bleue pendant 24 h ou jusqu'à ce que l'effet disparaisse par un sort de délivrance des malédictions.**  
+**13** **Pendant la minute qui suit, tous vos sorts dont le temps d'incantation est d'une Action ont un temps d'incantation d'une action Bonus**.
+14 Vous êtes transporté sur le plan Astral jusqu'à la fin de votre prochain tour. Vous retournez ensuite dans l'espace que vous occupiez précédemment ou dans l'espace libre le plus proche si celui-ci est occupé.
+15 La prochaine fois que vous lancerez un sort infligeant des dégâts dans la minute qui suit, ne lancez pas les dés de dégâts du sort. Utilisez le résultat le plus élevé possible pour chaque dé de dégâts.
 16 Résistance à tous les dégâts pendant 1 minute.  
-17 Vous devenez une plante en pot jusqu'à votre prochain tour.  
-18 Téléportation de 6 m comme action bonus pendant 1 minute.  
-19 Invisibilité sur vous et trois créatures pendant 1 minute.  
-20 Bouclier spectral (+2 CA, immunité Projectile magique).  
+17 Vous vous transformez en une plante en pot jusqu'au début de votre prochain tour. Sous cette forme, vous subissez l'état Incapable d'agir et avec la Vulnérabilité à tous les dégâts. Si vos points de vie tombent à 0, votre pot se brise et vous reprenez votre forme initiale.
+18 Pendant la minute suivante, vous pouvez vous téléporter jusqu'à 6 mètres par une action Bonus à chacun de vos tours.
+19 Vous et jusqu'à trois créatures de votre choix dans un rayon de 9 mètres obtenez l'état Invisible pendant 1 minute. Cette invisibilité prend fin immédiatement après qu'une créature effectue un jet d'attaque, inflige des dégâts ou lance un sort.
+20 Bouclier spectral pendant 1 minute (+2 CA, immunité Projectile magique).  
 21 Vous gagnez une action supplémentaire ce tour.  
-22 Lancez un sort aléatoire de la table officielle.  
-23 Tout objet inflammable touché brûle.  
+22 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. confusion
+23 Pendant la minute qui suit, tout objet inflammable et non magique que vous touchez et qui n'est pas porté par une autre créature prend feu, subit 1d4 dégâts de feu et brûle.  
 24 Si vous mourez dans l'heure, Réincarnation immédiate.  
 25 État Effrayé jusqu'à la fin du prochain tour.  
-26 Téléportation de 18 m.  
-27 Une créature aléatoire est Empoisonnée.  
-28 Vous brillez comme un soleil pendant 1 minute.  
-29 Drain de vie nécrotique.  
-30 Foudre sur trois créatures.  
-31 Vulnérabilité perforante dans un rayon de 9 m.  
-32 Effet bénéfique aléatoire officiel.  
+26 Vous vous téléportez jusqu'à 18 mètres dans un espace inoccupé que vous pouvez voir.
+27 Une créature aléatoire dans un rayon de 18 mètres subit l'état Empoisonné pendant 1d4 heures.
+28 Vous émettez une Lumière vive sur un rayon de 9 mètres pendant la minute suivante. Toute créature qui termine son tour dans un rayon de 1,50 mètre autour de vous subit l'état Aveuglé jusqu'à la fin de son prochain tour.
+29 Jusqu'à trois créatures de votre choix, dans un rayon de 9 mètres et que vous pouvez voir, subissent 1d10 dégâts nécrotiques. Vous récupérez un nombre de points de vie égal à la somme des dégâts nécrotiques infligés.
+30 Jusqu'à trois créatures de votre choix, dans un rayon de 9 mètres et que vous pouvez voir, subissent 4d10 dégâts de foudre.
+31 Vous et toutes les créatures situées dans un rayon de 9 mètres autour de vous avez la Vulnérabilité aux dégâts perforants pendant la prochaine minute. 
+32 vous récupérez 2d10 points de vie  
 33 Pluie de pétales pendant 1 minute.  
 34 Votre ombre agit avec un round de retard pendant 24 h.  
 35 Vous parlez Sylvestre pendant 24 h.  
