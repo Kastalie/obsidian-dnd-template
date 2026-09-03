@@ -106,19 +106,19 @@ et -2 en force
 | 20    | Vous gagnez instantanément 10 points de vie temporaires.                    |
 
 
-**01 Relancez sur cette table au début de chacun de vos tours pendant 1 minute.**  
-**02 Une créature amicale apparaît aléatoirement dans un espace inoccupé dans un rayon de 18 mètres. La créature est sous le contrôle du MD et disparaît 1 minute plus tard. Lancez 1d4 pour déterminer la créature : sur un 1, un modron duodrone apparaît ; sur un 2, un flumph apparaît ; sur un 3, un modron monodrone apparaît ; sur un 4, une licorne apparaît.**
-**03 Vous récupérez 5 PV au début de chacun de vos tours pendant 1 minute.**  
-**04 Les créatures ont un Désavantage aux jets de sauvegarde contre le prochain sort que vous lancerez dans la minute qui suit et qui nécessite un jet de sauvegarde.**
-**05 vous êtes entouré d'une musique faible et éthérée que seuls vous et les créatures dans un rayon de 1,50 mètre pouvez entendre**  
-**06 Votre taille augmente d'une catégorie pendant 1 minute.**  
-**07 il vous pousse une longue barbe de plumes qui reste en place jusqu'à ce que vous éternuiez et que les plumes explosent et disparaissent**
-**08 Vous criez lorsque vous parlez pendant 1 minute.**  
-**09 Des papillons illusoires volent autour de vous.**  
-**10 Un troisième œil apparaît ; avantage en Perception.**  
-**11 Des bulles roses sortent de votre bouche chaque fois que vous parlez.**  
-**12 Votre peau devient bleue pendant 24 h ou jusqu'à ce que l'effet disparaisse par un sort de délivrance des malédictions.**  
-**13** **Pendant la minute qui suit, tous vos sorts dont le temps d'incantation est d'une Action ont un temps d'incantation d'une action Bonus**.
+01 Relancez sur cette table au début de chacun de vos tours pendant 1 minute.  
+02 Une créature amicale apparaît aléatoirement dans un espace inoccupé dans un rayon de 18 mètres. La créature est sous le contrôle du MD et disparaît 1 minute plus tard. Lancez 1d4 pour déterminer la créature : sur un 1, un modron duodrone apparaît ; sur un 2, un flumph apparaît ; sur un 3, un modron monodrone apparaît ; sur un 4, une licorne apparaît.
+03 Vous récupérez 5 PV au début de chacun de vos tours pendant 1 minute.  
+04 Les créatures ont un Désavantage aux jets de sauvegarde contre le prochain sort que vous lancerez dans la minute qui suit et qui nécessite un jet de sauvegarde.
+05 vous êtes entouré d'une musique faible et éthérée que seuls vous et les créatures dans un rayon de 1,50 mètre pouvez entendre  
+06 Votre taille augmente d'une catégorie pendant 1 minute.  
+07 il vous pousse une longue barbe de plumes qui reste en place jusqu'à ce que vous éternuiez et que les plumes explosent et disparaissent
+08 Vous criez lorsque vous parlez pendant 1 minute.  
+09 Des papillons illusoires volent autour de vous.  
+10 Un troisième œil apparaît ; avantage en Perception.  
+11 Des bulles roses sortent de votre bouche chaque fois que vous parlez.  
+12 Votre peau devient bleue pendant 24 h ou jusqu'à ce que l'effet disparaisse par un sort de délivrance des malédictions.  
+13 Pendant la minute qui suit, tous vos sorts dont le temps d'incantation est d'une Action ont un temps d'incantation d'une action Bonus.
 14 Vous êtes transporté sur le plan Astral jusqu'à la fin de votre prochain tour. Vous retournez ensuite dans l'espace que vous occupiez précédemment ou dans l'espace libre le plus proche si celui-ci est occupé.
 15 La prochaine fois que vous lancerez un sort infligeant des dégâts dans la minute qui suit, ne lancez pas les dés de dégâts du sort. Utilisez le résultat le plus élevé possible pour chaque dé de dégâts.
 16 Résistance à tous les dégâts pendant 1 minute.  
@@ -204,5 +204,114 @@ et -2 en force
 96 Toute nourriture devient délicieuse pendant 1 heure.  
 97 Un papillon géant vous transporte 18 m.  
 98 Votre prochain test de Charisme bénéficie de l'avantage et ajoute +1d6.
-99 Toutes les fleurs à 30 m éclosent instantanément.  
+99 
 100 Vous gagnez Inspiration héroïque.
+
+
+
+# 🎲 Table de Sorcellerie Sauvage Féerique (d100)  
+
+  
+
+| d100 | Effet |  
+|-------|--------|  
+| 01 | Relancez sur cette table au début de chacun de vos tours pendant 1 minute. |  
+| 02 | Une créature amicale apparaît aléatoirement dans un espace inoccupé dans un rayon de 18 m. Lancez 1d4 : 1 = Modron duodrone, 2 = Flumph, 3 = Modron monodrone, 4 = Licorne. Elle disparaît après 1 minute. |  
+| 03 | Vous récupérez 5 PV au début de chacun de vos tours pendant 1 minute. |  
+| 04 | Les créatures ont un désavantage au prochain jet de sauvegarde contre un sort que vous lancez dans la minute. |  
+| 05 | Une musique faible et éthérée vous entoure pendant 1 minute. |  
+| 06 | Votre taille augmente d'une catégorie pendant 1 minute. |  
+| 07 | Une longue barbe de plumes vous pousse jusqu'à ce que vous éternuiez. |  
+| 08 | Vous criez lorsque vous parlez pendant 1 minute. |  
+| 09 | Des papillons illusoires volent autour de vous. |  
+| 10 | Un troisième œil apparaît. Avantage aux tests de Perception. |  
+| 11 | Des bulles roses sortent de votre bouche dès que vous parlez. |  
+| 12 | Votre peau devient bleue pendant 24 h. |  
+| 13 | Tous vos sorts nécessitant une Action deviennent des Actions Bonus pendant 1 minute.|  
+| 14 | Vous êtes transporté sur le Plan Astral jusqu'à la fin de votre prochain tour. |  
+| 15 | Votre prochain sort infligeant des dégâts inflige les dégâts maximaux. |  
+| 16 | Résistance à tous les dégâts pendant 1 minute. |  
+| 17 | Vous devenez une plante en pot jusqu'au début de votre prochain tour. |  
+| 18 | Vous pouvez vous téléporter de 6 m comme Action Bonus pendant 1 minute. |  
+| 19 | Vous et jusqu'à trois créatures devenez invisibles pendant 1 minute. |  
+| 20 | Bouclier spectral : +2 CA et immunité à *Projectile magique* pendant 1 minute. |  
+| 21 | Vous gagnez immédiatement une action supplémentaire ce tour. |  
+| 22 | Vous lancez aléatoirement *Confusion*. |  
+| 23 | Tout objet inflammable touché prend feu pendant 1 minute. |  
+| 24 | Si vous mourez dans l'heure, vous êtes immédiatement affecté par *Réincarnation*. |  
+| 25 | État Effrayé jusqu'à la fin de votre prochain tour. |  
+| 26 | Téléportation instantanée de 18 m vers un espace visible. |  
+| 27 | Une créature aléatoire à moins de 18 m est empoisonnée pendant 1d4 heures. |  
+| 28 | Vous émettez une lumière vive sur 9 m pendant 1 minute. |  
+| 29 | Jusqu'à 3 créatures subissent 1d10 dégâts nécrotiques et vous récupérez autant de PV. |  
+| 30 | Jusqu'à 3 créatures subissent 4d10 dégâts de foudre. |  
+| 31 | Vulnérabilité aux dégâts perforants dans un rayon de 9 m pendant 1 minute. |  
+| 32 | Vous récupérez 2d10 PV. |  
+| 33 | Un allié à 90 m récupère 2d10 PV. |  
+| 34 | Vous récupérez votre emplacement de sort dépensé le plus faible. |  
+| 35 | Vous parlez Sylvestre pendant 24 h. |  
+| 36 | Un allié récupère son emplacement de sort dépensé le plus faible. |  
+| 37 | Vous récupérez tous vos points de sorcellerie dépensés. |  
+| 38 | De la mousse recouvre tout dans un rayon de 3 m. |  
+| 39 | Vous lancez *Boule de feu*. |  
+| 40 | Vous lancez *Nappe de brouillard*. |  
+| 41 | Vous lancez *Vol* sur une créature aléatoire. |  
+| 42 | Vous gagnez 1d6 PV temporaires. |  
+| 43 | Une grenouille apparaît et vous adore. |  
+| 44 | Vous lancez *Graisse*. |  
+| 45 | Vous rétrécissez d'une catégorie de taille pendant 1 minute. |  
+| 46 | Votre vitesse augmente de 3 m pendant 1 minute. |  
+| 47 | Vous lancez *Lévitation* sur vous-même. |  
+| 48 | Vous devenez invisible jusqu'à votre prochain tour. |  
+| 49 | Vous lancez *Projectile magique* de niveau 5. |  
+| 50 | Vous récupérez un emplacement de sort de niveau 1. |  
+| 51 | *Lueurs féeriques* est lancé centré sur vous. |  
+| 52 | Vous lancez *Image miroir*. |  
+| 53 | Vous lancez *Métamorphose* sur vous-même (échec : chèvre). |  
+| 54 | Vous lancez *Détection de l'invisibilité*. |  
+| 55 | Toutes les boissons proches deviennent du jus de pomme. |  
+| 56 | Votre ombre agit avec un tour de retard pendant 1 heure. |  
+| 57 | Résistance aux dégâts psychiques pendant 1 minute. |  
+| 58 | Une petite porte féerique apparaît sur un mur proche pendant 1 minute. |  
+| 59 | Vous ne pouvez parler qu'en rimes pendant 10 minutes. |  
+| 60 | Un écureuil éveillé vous critique pendant 1 heure. |  
+| 61 | Vos yeux deviennent des lanternes lumineuses pendant 1 heure. |  
+| 62 | Avantage à votre prochain jet de sauvegarde. |  
+| 63 | *Image miroir* est lancé sans composantes. |  
+| 64 | Une pluie de bulles envahit la zone pendant 1 minute. |  
+| 65 | Tous ressentent l'odeur de leur dessert préféré. |  
+| 66 | Vous gagnez une vitesse de vol de 6 m jusqu'à votre prochain tour. |  
+| 67 | Une minuscule licorne apparaît sur votre épaule pendant 1 heure. |  
+| 68 | Tous les animaux à 18 m deviennent amicaux. |  
+| 69 | Votre équipement se couvre de fleurs. |  
+| 70 | Vous récupérez 2d6 PV. |  
+| 71 | Un arc-en-ciel vous suit pendant 1 minute. |  
+| 72 | Une fée invisible vous applaudit pendant 1 minute. |  
+| 73 | Vous êtes sous *Confusion* jusqu'à votre prochain tour. |  
+| 74 | Toutes les créatures à 6 m éclatent de rire. |  
+| 75 | Des racines envahissent le sol autour de vous. |  
+| 76 | Vous échangez vos vêtements avec un allié. |  
+| 77 | Votre prochain sort est lancé au niveau supérieur. |  
+| 78 | Vous perdez votre ombre pendant 1 heure. |  
+| 79 | Un portail féerique apparaît pendant un round. |  
+| 80 | Explosion de pollen : 2d6 dégâts de poison dans un rayon de 3 m. |  
+| 81 | *Fou rire de Tasha* sur la créature la plus proche. |  
+| 82 | Vision de Zybilna. Vous gagnez l'Inspiration. |  
+| 83 | Vos cheveux deviennent des lianes vivantes. |  
+| 84 | Une pluie de bonbons tombe dans un rayon de 6 m. |  
+| 85 | Vous obtenez une vitesse d'escalade égale à votre vitesse. |  
+| 86 | Vous voyez les créatures invisibles pendant 1 round. |  
+| 87 | Des lucioles forment votre nom dans les airs. |  
+| 88 | Vous flottez comme sous *Lévitation* pendant 1 minute. |  
+| 89 | Une tasse de thé chaude apparaît dans votre main. |  
+| 90 | Des champignons colorés poussent sur vos bottes. |  
+| 91 | Une voix féerique révèle un secret mineur du lieu. |  
+| 92 | Tous les miroirs proches montrent votre futur possible. |  
+| 93 | Votre taille change aléatoirement chaque round pendant 1 minute. |  
+| 94 | Une licorne spectrale traverse brièvement la scène. |  
+| 95 | Tous les alliés gagnent 1d4 PV temporaires. |  
+| 96 | Toute nourriture devient délicieuse pendant 1 heure. |  
+| 97 | Un papillon géant vous transporte de 18 m. |  
+| 98 | Votre prochain test de Charisme bénéficie de l'avantage et ajoute +1d6. |  
+| 99 | Toutes les fleurs à 30 m éclosent instantanément. |  
+| 100 | Une vision de Zybilna vous bénit. Vous gagnez l'Inspiration héroïque. |
