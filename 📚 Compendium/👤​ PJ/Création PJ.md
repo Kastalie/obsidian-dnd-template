@@ -1,7 +1,7 @@
+Statistiques de base : 16 - 14 - 12 - 12 - 10 - 9
 - Demander la créature crainte par le personnage : [[🎡 Mine des mystères ⛏️]]
 - Un souhait
 - 2-3 objets magiques qu'il aimerait acquérir  [[🧚‍♀️ Madryck Roslof]]
-
 
 # Fiche Joueur - Préparation de Campagne
 _Merci de prendre quelques minutes pour remplir cette fiche. Elle m'aidera à préparer une campagne qui corresponde aux envies de chacun tout en garantissant une expérience agréable pour tous._
