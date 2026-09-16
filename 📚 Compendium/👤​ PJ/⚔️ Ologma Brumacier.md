@@ -7,11 +7,11 @@ Sous-classe: Illusionniste
 🛡️ CA:
 ❤️‍🩹 PV:
 📏 Taille: M
-🖼️ Portrait:
+🖼️ Portrait: "[[ologma.jpeg]]"
 📍Lieux:
 Histoirque: Voyageur
 ---
-
+![[ologma.jpeg|464]]
 
 | **For** | **Dex** | **Sag** | **Int** | **Con** | **Cha** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
