@@ -39,3 +39,13 @@ est agrippé et mis à terre (ou hors d'état de nuire), un forain l'immobilise 
 ```statblock
 creature: Lion
 ```
+Le singe de la fête foraine sert principalement de nuisible. Lorsque les personnages s'engagent dans un combat, le singe cible généralement les lanceurs de sorts et tente de leur voler un focus de lanceur de sorts, une pochette de composants ou quelque chose d'autre d'intéressant. Le singe utilise une action pour faire un test de Dextérité (Escamotage) contre le score Perception du personnage cible. Si le singe réussit, il vole l'objet et s'enfuit. Si le singe est agrippé ou retenu, il abandonne et devient docile.
+```statblock
+creature: Singe de cirque
+```
+
+L'éléphanteau est effrayé et s'élance pour ce qu'il croit être de l'auto-défense. À chaque tour L'éléphanteau court jusqu'à 12 mètres dans une direction aléatoire et effectue une attaque de défenses avec désavantage contre ce qu'il rencontre en premier. Lancez un d8 pour la direction, où 1 correspond au nord, 2 au nord-est, et ainsi de suite dans le sens des aiguilles d'une montre. Si l'éléphant atteint les gradins qui entourent la scène, il détruit une zone de 3×3 mètres et se retourne. Toutes les créatures situées dans cette zone doivent réussir un jet de sauvegarde de Dextérité DD 12 ou subir 7 (2d6) dégâts de matraquage et être mises à terre. L'éléphant peut être calmé en réussissant un test de Sagesse (dressage) DD 15. Ce test est effectué avec un désavantage par les créatures de grande taille ou plus grandes et avec un avantage par les créatures de petite taille ou plus petites.
+
+```statblock
+creature: Elephant
+```
