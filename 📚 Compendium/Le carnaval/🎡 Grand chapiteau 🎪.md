@@ -30,3 +30,12 @@ Si un personnage fouille la loge des artistes en quête de quelque curiosité, d
 6. Paire d'échasses et long pantalon violet vif
 7. Maquillage animé (5 doses) ; chaque application s'anime sur la peau du visage en créant des motifs tourbillonnant pendant 1 heure
 8. Costume de clown avec de fausses ailes de papillon
+
+
+
+Le lion tente d'attraper et de chasser les humanoïdes les plus proches. Si un personnage blesse le lion ou s'engage avec lui au corps à corps, le lion tourne son attention vers ce personnage. Un personnage essayant de calmer le lion avec de la viande peut utiliser une action pour faire un DD 15 de Sagesse (dressage). Si l'un des personnages appelle  quelqu'un pour apporter de la viande au lion, la viande arrive en deux rounds. Sinon, si le lion
+est agrippé et mis à terre (ou hors d'état de nuire), un forain l'immobilise au tour suivant à l'aide d'une laisse.
+
+```statblock
+creature: Lion
+```
