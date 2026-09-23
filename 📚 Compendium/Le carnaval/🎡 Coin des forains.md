@@ -1,12 +1,11 @@
 
 Les roulottes du carnaval sont situées derrière le grand chapiteau, protégées par une haie de  ronces de 6 m de haut pour 1,50 m d'épaisseur. 
-- impossible d'y entrer sans invitation sinon dégats
+- impossible d'y entrer sans invitation sinon dégâts
 - il y a 8 roulottes (1 pour [[🧚‍♀️ Palasha]], une grand pour [[🧚‍♀️ Sorcière et Lumière]] et le reste pour les forains)
-- [[📚 Compendium/Le carnaval/🧚‍♀️ Bohu]] et Thaco font le guet
+- [[🧚‍♀️ Bohu]] et Thaco font le guet
 Les personnages surpris en train de fureter autour des roulottes sans être escortés sont aussitôt expulsés du carnaval.
 
-- [[🧚‍♀️ Sorcière et Lumière]] restent dans leur roulotte toute la soirée sauf durant le clou du grand
-chapiteau (auquel Lumière participe, mais pas Sorcière) et le couronnement du monarque du Sorcelume (auxquels ils participent tous deux).
+- [[🧚‍♀️ Sorcière et Lumière]] restent dans leur roulotte toute la soirée sauf durant le clou du grand chapiteau (auquel Lumière participe, mais pas Sorcière) et le couronnement du monarque du Sorcelume (auxquels ils participent tous deux).
 
 Deux voix bien différentes émanent de la roulotte.
 Monsieur Sorcière, d'une voix grave et rocailleuse : « Il va falloir que tu te calmes. »
