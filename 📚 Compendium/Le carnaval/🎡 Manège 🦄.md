@@ -1,7 +1,7 @@
 ![[diane.png|272]]
 Une procession immobile de licornes en bois se tient sur une plateforme circulaire. Des visiteurs grimpent à dos de licorne, puis une centauresse lance le manège. Les licornes s'ébrouent dans un crissement, puis tournent sur la plateforme au petit galop pour la plus grande joie des cavaliers.
 
-[[📚 Compendium/Le carnaval/🧚‍♀️ Diane Trottinard]]
+[[🧚‍♀️ Diane Trottinard]]
 
 L'ÉNIGME DU MANÈGE
 Les huit licornes du manège vont par paires, chacune portant un nom sur sa bride. Certains noms sont bien lisibles, d'autres plaques de bride sont trop usées pour être déchiffrées.
