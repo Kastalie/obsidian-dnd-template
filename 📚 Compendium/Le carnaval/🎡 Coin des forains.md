@@ -14,7 +14,7 @@ Sorcière:« Elle ne sait rien. Elle va se lasser d'ici peu et repartira tranqui
 Lumière:« j'aimerais te croire.»
 Sorcière:« Eh bien, crois moi. »
 
-À partir de là, la conversation colle davantage à l'ambiance actuelle du carnaval. Puis elle aborde la disparition mystérieuse du turbulent frère de Bohu, Tohu
+À partir de là, la conversation colle davantage à l'ambiance actuelle du carnaval. Puis elle aborde la disparition mystérieuse du turbulent frère de Bohu, Tohu.
 
 Tout personnage qui fouille la roulotte en quête de compartiments cachés en trouve un s'il réussit un test d'Intelligence (Investigation) DD 15. Situé dans une banquette, il renferme un minuscule coffre incrusté de pierres d'une valeur de 50 po. Il s'agit de la, réplique d'un coffre bien plus grand caché dans le Plan Ethéré (à l'aide du sort coffre secret de Léomund). Tant qu'il tient cette réplique, monsieur Sorcière peut consacrer une action à convoquer le grand coffre. Il peut aussi renvoyer le grand coffre dans le Plan Éthéré en consacrant une action à toucher simultanément le coffre et sa réplique. 
 Trésor. Le coffre caché dans le Plan Éthéré (d'une valeur de 5 000 po) renferme les récents bénéfices (210 pa et 70 po ), une potion d'agrandissement, une potion d'avantage et une potion de diminution. Les potions ne sont pas étiquetées, mais monsieur Sorcière sait les identifier.

@@ -42,7 +42,6 @@ Gobeline déguisée en coccinelle.
   
 
 #### Récompense secrète  
-
 Si un personnage donne au moins un bouton à Ernest :  
 ➡️ Noter son nom sur le Suivi d'Aventure.  
 Plus tard dans Prismeer, si le groupe est :  
