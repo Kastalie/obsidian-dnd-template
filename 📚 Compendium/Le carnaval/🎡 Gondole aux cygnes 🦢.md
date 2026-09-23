@@ -6,10 +6,7 @@ Chaque gondole peut accueillir jusqu'à 8 créatures de taille M.
 Coût : **1 poinçon**  
 
 ---  
-
 ### 🦢 Plumevienne  
-
-  
 
 Le principal cygne du manège est **Plumevienne**.  
 Immense, élégante et particulièrement intellectuelle, elle considère la plupart des visiteurs comme de charmants ignorants.    
