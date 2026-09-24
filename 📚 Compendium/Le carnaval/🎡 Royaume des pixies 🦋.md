@@ -105,7 +105,7 @@ Hamster éveillé.
 # 🗣️ Ragots du Royaume  
 Les personnages qui discutent avec Biscuit ou les Pixies peuvent apprendre :  
  🐦 La Bouilloire   « Tout le monde cherche une kenku agitée capable de changer d'apparence. »  
- ❤️ Piedecire et Palasha   « Ils s'aiment mais Piedecire a perdu sa voix ! »  
+ ❤️ Piedecire et Palasha   « Ils sont amoureux, Par-dessus le marché, Piedecire a perdu la voix. Vous croyez que ça fait partie de son numéro ? »  
 📚 Bohu   « Bohu débat souvent de philosophie avec un cygne. Il est plus intelligent qu'il n'en a l'air. »  
 
 --- 
