@@ -35,8 +35,7 @@ Il y a bien des années, elle a pactisé avec Zybilna, l'archifée qui règne su
 
 • La Bouilloire voudrait interroger les propriétaires du carnaval sur Prismeer, mais ils persistent à l'ignorer. Elle est convaincue qu'ils en savent plus qu'il ne le laissent croire.
 
-• Au cours de sa dernière visite, la Bouilloire a surpris une conversation entre [[🧚‍♀️ Sorcière et Lumière]] dans leur roulotte. Elle en fait le rapport en profitant de son trait Imitation pour reproduire la voix agitée de Lumière (« Quelqu'un va finir par le découvrir! Nous serons contraints de fermer boutique!») suivie de la réponse posée, mais ferme de Sorcière(« Nous avons accepté ce pacte. On nous a forcé la main, mais nous n'étions pas aveugles. On laisse l'assemblée du Sablier prendre
-ce qu'elle désire et, en contrepartie, on reste en activité. C'est bien ce que tu voulais, non ? » ).
+• Au cours de sa dernière visite, la Bouilloire a surpris une conversation entre [[🧚‍♀️ Sorcière et Lumière]] dans leur roulotte. Elle en fait le rapport en profitant de son trait Imitation pour reproduire la voix agitée de Lumière (« Quelqu'un va finir par le découvrir! Nous serons contraints de fermer boutique!») suivie de la réponse posée, mais ferme de Sorcière(« Nous avons accepté ce pacte. On nous a forcé la main, mais nous n'étions pas aveugles. On laisse l'assemblée du Sablier prendre ce qu'elle désire et, en contrepartie, on reste en activité. C'est bien ce que tu voulais, non ? » ).
 
 • La Bouilloire multiplie les incidents au carnaval et ne compte pas s'arrêter tant que Sorcière et Lumière n'auront pas divulgué ce qu'ils savent de Zybilna et de Prismeer.
 
