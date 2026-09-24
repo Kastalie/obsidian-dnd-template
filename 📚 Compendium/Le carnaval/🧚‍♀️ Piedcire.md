@@ -5,8 +5,7 @@
 🖼️ Portrait: "[[piedcire.png]]"
 ---
 ![[piedcire.png|446]]
-Toute couleur a abandonné sa peau, ses cheveux, ses yeux et son accoutrement, ce qui lui donne
-une étrange allure monochrome. Mais ses problèmes ne s'arrêtent pas là. Une kenku nommée la Bouilloire lui a volé sa voix, si bien qu' il communique en mimant. Si les personnages lui fournissent de quoi écrire, il peut également rédiger ses pensées.
+Toute couleur a abandonné sa peau, ses cheveux, ses yeux et son accoutrement, ce qui lui donne une étrange allure monochrome. Mais ses problèmes ne s'arrêtent pas là. Une kenku nommée la Bouilloire lui a volé sa voix, si bien qu' il communique en mimant. Si les personnages lui fournissent de quoi écrire, il peut également rédiger ses pensées.
 
 Quand la sirène [[🧚‍♀️ Palasha]] rejoignit le Carnaval de Sorcelume, Piedecire comprit que ses chants avaient le pouvoir de lui rendre ses couleurs. (Changement qui persiste seulement tant qu'il l'entend chanter.) Cela les surprit l'un et l'autre, mais les rapprocha, et ils tombèrent amoureux. Il y a peu, Piedecire était sur le point de faire sa demande en mariage à Palasha, quand sa voix fut dérobée par la Bouilloire. Si on l'interroge, Piedecire s'efforce d'expliquer son misérable sort
 en mimant et demande aux personnages de l'aider à récupérer la voix que la Bouilloire lui a volée pour qu'il puisse reprendre sa demande en mariage.
