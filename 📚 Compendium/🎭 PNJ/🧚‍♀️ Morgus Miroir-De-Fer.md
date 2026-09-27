@@ -8,7 +8,9 @@
 ---
 
 >[!description]+ Résumé  
->Morgus Miroir-De-Fer est le professeur d'[[⚔️ Ologma Brumacier]] il a disparu il y a quelque temps en Féerie. Il surveillait Edwidge le magicien d'[[⚔️ Patte blanche]] qui s'apprêtait a lancer un sort qu'il ne pourrait pas maitriser. 
+>Morgus Miroir-De-Fer est le professeur d'[[⚔️ Ologma Brumacier]] il a disparu il y a quelque temps en Féerie. Il surveillait Edwidge le magicien d'[[⚔️ Patte blanche]] qui s'apprêtait a lancer un sort qu'il ne pourrait pas maitriser. Ne trouvant plus le magicien il se mit en quête de le retrouver et partit à sa recherche.
+>Trouvant dans traces de magie féerique, il partit à Prismeer. Il ne le trouvât pas.
+>Les genaudes de l'assem
 
 #### Secrets  
 
