@@ -16,15 +16,10 @@ Fibule Dorégand - est un conil qui se retrouve dans le corps du magicien Edwidg
 Patte-Blanche - est un lapin qui se retrouve dans le corps du conil Fibule Dorégand
 Edwidge Lamdepa - est un magicien qui se retrouve dans le corps du lapin Patte-Blanche
 
-Edwidge se trouve maintenant dans le corps d'un lapin
+Edwidge se trouve maintenant dans le corps d'un lapin et ne peux renverser le sortilège. Les 3 ont besoin d'être réunis pour que l'inversion puisse fonctionner.
 
   
-> [!mj] Notes
-> - Première source d'exposition importante concernant Prismeer. 
-> - Peut guider les PJ vers Déchéance.  
-> - Insister sur son côté chevaleresque, honorable et parfois légèrement grandiloquent.  
-> - N'hésite pas à complimenter les héros.  
-> - Malgré sa petite taille, il se considère comme un véritable champion de la Cour Seelie.  
+Il se trouve à [[Par-delà]] 
 
   
 

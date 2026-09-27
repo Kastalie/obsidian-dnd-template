@@ -104,16 +104,16 @@ Ballar est allé apprendre auprès du clan Ailbhean
 Les anciens du clan Ailbhean pourraient reconnaître immédiatement la hache de Ballar et comprendre qu'elle appartient aux anciennes **Neuf Haches Primordiales**, forgées avant la séparation des clans druidiques.
 Chaque hache serait liée à un élément naturel :
 
-| Clan         | Magie            | Lieu                  | Gemme     |
-| ------------ | ---------------- | --------------------- | --------- |
-| **Ailbhean** | Eau et Acier     | Forêt de Thetir       | Saphir    |
-| Braiocht     | Esprit et Poison |                       | Améthyste |
-| **Caerlann** | Feu et Son       |                       | Ambre     |
-| Dravenkor    | Faune et Sang    |                       | Rubis     |
-| Erwyn        | Vent et Foudre   |                       | Ambre     |
-| **Faolán**   | Plantes et Nuit  | Bois d'hiver -  Falon | Emeraude  |
-| Gelderlace   | Glace et Terre   |                       | Diamant   |
-| Horvach      | Lumière et roche |                       | Citrine   |
+| Clan         | Magie            | Lieu                  | Gemme         |
+| ------------ | ---------------- | --------------------- | ------------- |
+| **Ailbhean** | Eau et Acier     | Forêt de Thetir       | Saphir        |
+| Braiocht     | Esprit et Poison |                       | Améthyste     |
+| **Caerlann** | Feu et Son       |                       | Ambre         |
+| Dravenkor    | Faune et Sang    | [[Çà-et-là]]          | Rubis         |
+| Erwyn        | Vent et Foudre   |                       | Oeil du tigre |
+| **Faolán**   | Plantes et Nuit  | Bois d'hiver -  Falon | Emeraude      |
+| Gelderlace   | Glace et Terre   |                       | Diamant       |
+| Horvach      | Lumière et roche |                       | Citrine       |
 
 
 ### Fiche infos
