@@ -34,10 +34,10 @@ petit lapin mignon avant le drame, depuis il erre à la recherche du magicien. i
 Dans son sac se trouvent presque toujours quelques carottes, un nécessaire de cuisine rudimentaire et un carnet où il note tout ce qu'il découvre sur le comportement des humains.
 
 ### Motivations
-...
+Retrouver Edwidge et annuler sa transformation
 
 ### Relations
-- Edwidge Lamdepa : Le magicien. j'étais son lapin de magie. c'est lui qui m'a transformé en lapin humanoide suite à accident, à deserté depuis, retrouvé seul, mais j'ai pu récupérer un bout de son baton magique, (qui est donc mon arme) et me permet de faire de la magie poussée (nécessaire pour la magie sauvage)
+- [[🧚‍♀️ Edwidge Lamdepa]] : Le magicien. j'étais son lapin de magie. c'est lui qui m'a transformé en lapin humanoide suite à accident, à deserté depuis, retrouvé seul, mais j'ai pu récupérer un bout de son baton magique, (qui est donc mon arme) et me permet de faire de la magie poussée (nécessaire pour la magie sauvage)
 - 
 - 
 
