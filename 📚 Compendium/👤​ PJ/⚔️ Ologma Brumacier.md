@@ -22,7 +22,7 @@ Histoirque: Voyageur
 - Le Tome de la langue nouée (Des apprentis en parlait à l'académie des mages, cet objet le fait rêver)
 
 <u>Le souhait / voeux</u>
- - Revoir son ancien maitre Morgus Miroir-de-Fer et lui montrer à quel point il s'est améliorer.
+ - Revoir son ancien maitre [[🧚‍♀️ Morgus Miroir-De-Fer]] et lui montrer à quel point il s'est améliorer.
 
 <u>Peur</u> :
 - Le ver pourpre, ses parents lui contaient des histoires sur ces vers qui détruisaient tout sur son passage. Dans les mines lorsqu'un tremblement avait lieu, son peuple avait peur qu'un tel fléau s'abatte sur eux.
