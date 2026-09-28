@@ -15,7 +15,7 @@ Histoirque: Voyageur
 
 | **For** | **Dex** | **Sag** | **Int** | **Con** | **Cha** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
-| 10      | 10      | 10      | 10      | 10      | 10      |
+| 9       | 12      | 12      | 18      | 16      | 10      |
 <u>Les 3 objets magiques qu'il aimerait posséder : </u>
 - Un Sac sans fond 
 - un Sac à malices (son maitre en avait un et ça le faisait beaucoup rire à chaque fois qu'il l'utilisait)
