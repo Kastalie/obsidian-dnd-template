@@ -100,7 +100,7 @@ Si vous maîtrisez déjà l'un de ces ensembles d'outils, vous gagnez la maîtri
 
 ### Fabrication de parchemins
 
-Lorsque vous créez un **Parchemin de Sort (Spell Scroll)** via les règles de fabrication du Manuel du Joueur, le temps nécessaire est réduit de moitié.
+Lorsque vous créez un **Parchemin de Sort** via les règles de fabrication du Manuel du Joueur, le temps nécessaire est réduit de moitié.
 
 ---
 
