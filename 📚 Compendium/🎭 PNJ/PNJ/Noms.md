@@ -108,13 +108,13 @@ Lorsque vous créez un **Parchemin de Sort (Spell Scroll)** via les règles de f
 
 Ces sorts sont toujours préparés et ne comptent pas dans votre limite de sorts préparés. 
 
-|Niveau d'artificier|Sorts|
-|---|---|
-|3|Lumières féeriques (Faerie Fire), Trait Guidé (Guiding Bolt), Mot de guérison (Healing Word)|
-|5|Localisation d'objet (Locate Object), Pointe mentale (Mind Spike)|
-|9|Appel de la foudre (Call Lightning), Clairvoyance|
-|13|Bannissement (Banishment), Localisation de créature (Locate Creature)|
-|17|Scrutation (Scrying), Cercle de téléportation (Teleportation Circle)|
+| Niveau d'artificier | Sorts                                            |
+| ------------------- | ------------------------------------------------ |
+| 3                   | Lueurs féeriques, Rayon traçant, Mot de guérison |
+| 5                   | Localisation d'objet, épine mentale              |
+| 9                   | Appel de la foudre, Clairvoyance                 |
+| 13                  | Bannissement, Localisation de créature           |
+| 17                  | Scrutation, Cercle de téléportation              |
 
 
 ---
@@ -156,7 +156,7 @@ Vous obtenez les capacités suivantes.
 
 ## Cartographie Lumineuse
 
-Vous pouvez lancer **Lumières féeriques (Faerie Fire)** sans utiliser d'emplacement de sort.
+Vous pouvez lancer **lueurs féeriques** sans utiliser d'emplacement de sort.
 
 Les créatures affectées apparaissent comme dessinées à l'encre magique. 
 
@@ -180,11 +180,11 @@ Vous ne pouvez pas utiliser cette capacité si votre vitesse est de 0.
 Une fois par tour, lorsque :
 
 - vous lancez un sort de votre liste de sorts de Cartographe ;
-- ou vous touchez une créature affectée par **Lumières féeriques** ;
+- ou vous touchez une créature affectée par **Lueurs féeriques** ;
 
 vous pouvez ajouter votre modificateur d'Intelligence à un jet de dégâts de ce sort ou de cette attaque.
 
-En outre, subir des dégâts ne peut pas vous faire perdre la concentration sur **Lumières féeriques**. 
+En outre, subir des dégâts ne peut pas vous faire perdre la concentration sur **Lueurs féeriques**. 
 
 ---
 
