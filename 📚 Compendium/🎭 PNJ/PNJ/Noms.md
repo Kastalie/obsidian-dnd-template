@@ -83,3 +83,140 @@ Personnes importantes :
 
 Accomplissement :
 À seulement quinze ans, elle a conçu seule un nouveau mécanisme pour le spectacle familial en vadrouille dans un village Goliath. Grâce à un système de poulies cachées, de contrepoids et de lumières colorées, les marionnettes semblaient réellement voler parmi les étoiles. Le public en a parlé pendant des mois.
+
+
+# Niveau 3 : Outils du métier
+
+Vous obtenez les bénéfices suivants.
+
+### Maîtrise d'outils
+
+Vous gagnez la maîtrise :
+
+- des fournitures de calligraphe ;
+- des outils de cartographe.
+
+Si vous maîtrisez déjà l'un de ces ensembles d'outils, vous gagnez la maîtrise d'un autre outil d'artisan de votre choix. Si vous maîtrisez déjà les deux, choisissez deux autres maîtrises d'outils d'artisan. 
+
+### Fabrication de parchemins
+
+Lorsque vous créez un **Parchemin de Sort (Spell Scroll)** via les règles de fabrication du Manuel du Joueur, le temps nécessaire est réduit de moitié.
+
+---
+
+# Niveau 3 : Sorts du Cartographe
+
+Ces sorts sont toujours préparés et ne comptent pas dans votre limite de sorts préparés. 
+
+|Niveau d'artificier|Sorts|
+|---|---|
+|3|Lumières féeriques (Faerie Fire), Trait Guidé (Guiding Bolt), Mot de guérison (Healing Word)|
+|5|Localisation d'objet (Locate Object), Pointe mentale (Mind Spike)|
+|9|Appel de la foudre (Call Lightning), Clairvoyance|
+|13|Bannissement (Banishment), Localisation de créature (Locate Creature)|
+|17|Scrutation (Scrying), Cercle de téléportation (Teleportation Circle)|
+
+
+---
+
+# Niveau 3 : Atlas de l'Aventurier
+
+À chaque repos long, lorsque vous tenez vos outils de cartographe, vous pouvez créer un ensemble de cartes magiques. Vous devez toucher au moins deux créatures (vous pouvez en faire partie), jusqu'à un maximum de :
+
+**1 + votre modificateur d'Intelligence** (minimum 2 créatures). 
+
+Chaque cible reçoit une carte magique qui se met continuellement à jour et indique la position relative des autres porteurs de carte.
+
+Toute autre personne ne peut pas la lire. 
+
+Les cartes persistent jusqu'à :
+
+- votre mort ;
+- ou une nouvelle utilisation de cette capacité.
+
+Lorsqu'une nouvelle série de cartes est créée, les anciennes disparaissent immédiatement. 
+
+## Avantages accordés
+
+### Vigilance
+
+Le porteur ajoute **1d4 à ses jets d'Initiative**. 
+
+### Positionnement
+
+Le porteur connaît à tout moment la position des autres porteurs se trouvant sur le même plan d'existence.
+
+De plus, lorsqu'un porteur lance un sort ou produit un effet nécessitant normalement de voir la cible, il peut cibler un autre porteur de carte même sans ligne de vue ou à travers un couvert, tant que celui-ci reste à portée de l'effet. 
+
+---
+
+# Niveau 3 : Magie Cartographique
+
+Vous obtenez les capacités suivantes.
+
+## Cartographie Lumineuse
+
+Vous pouvez lancer **Lumières féeriques (Faerie Fire)** sans utiliser d'emplacement de sort.
+
+Les créatures affectées apparaissent comme dessinées à l'encre magique. 
+
+Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur d'Intelligence (minimum 1).
+
+Toutes les utilisations sont récupérées après un repos long. 
+
+## Saut de portail
+
+Pendant votre tour, vous pouvez dépenser une quantité de déplacement égale à la moitié de votre vitesse (arrondie à l'inférieur) pour vous téléporter :
+
+- dans un espace libre à moins de 3 m que vous voyez ;
+- ou à moins de 1,50 m d'un porteur de carte situé à moins de 9 m de vous. 
+
+Vous ne pouvez pas utiliser cette capacité si votre vitesse est de 0. 
+
+---
+
+# Niveau 5 : Précision Guidée
+
+Une fois par tour, lorsque :
+
+- vous lancez un sort de votre liste de sorts de Cartographe ;
+- ou vous touchez une créature affectée par **Lumières féeriques** ;
+
+vous pouvez ajouter votre modificateur d'Intelligence à un jet de dégâts de ce sort ou de cette attaque.
+
+En outre, subir des dégâts ne peut pas vous faire perdre la concentration sur **Lumières féeriques**. 
+
+---
+
+# Niveau 9 : Déplacement Ingénieux
+
+Lorsque vous utilisez **Éclair de génie (Flash of Genius)**, vous ou une créature consentante que vous voyez à moins de 9 m pouvez également vous téléporter jusqu'à 9 m vers un espace libre visible dans le cadre de la même réaction.
+
+---
+
+# Niveau 15 : Atlas Supérieur
+
+Votre Atlas de l'Aventurier gagne les améliorations suivantes. 
+
+## Refuge Sûr
+
+Lorsqu'un porteur de carte devrait tomber à 0 PV sans être tué instantanément, il peut détruire sa carte.
+
+À la place :
+
+- ses PV deviennent égaux à deux fois votre niveau d'artificier ;
+- il est téléporté dans un espace libre à moins de 1,50 m de vous ou d'un autre porteur de carte de son choix. 
+
+Par exemple, au niveau 15 d'artificier, cela représente **30 PV**. [[
+
+## Chemin Infaillible
+
+Si vous êtes l'un des porteurs de carte de votre Atlas :
+
+vous pouvez lancer **Trouver le chemin (Find the Path)** :
+
+- sans emplacement de sort ;
+- sans le préparer ;
+- sans composantes matérielles.
+
+Après utilisation, vous devez terminer un repos long avant de réutiliser cette capacité.
