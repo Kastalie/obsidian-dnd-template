@@ -102,6 +102,14 @@ Si vous maîtrisez déjà l'un de ces ensembles d'outils, vous gagnez la maîtri
 
 Lorsque vous créez un **Parchemin de Sort** via les règles de fabrication du Manuel du Joueur, le temps nécessaire est réduit de moitié.
 
+| Niveau du sort       | Temps de base 2024 | Temps Cartographe Niv. 3+   | Coût en Or (2024) |
+| -------------------- | ------------------ | --------------------------- | ----------------- |
+| **Cantrip (Niv. 0)** | 1 jour             | **1 jour** _(2 parchemins)_ | 15 po             |
+| **Niveau 1**         | 1 jour             | **1 jour** _(2 parchemins)_ | 25 po             |
+| **Niveau 2**         | 3 jours            | **2 jours**                 | 100 po            |
+| **Niveau 3**         | 5 jours            | **3 jours**                 | 150 po            |
+
+
 ---
 
 # Niveau 3 : Sorts du Cartographe
