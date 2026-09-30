@@ -101,6 +101,7 @@ Si vous maîtrisez déjà l'un de ces ensembles d'outils, vous gagnez la maîtri
 ### Fabrication de parchemins
 
 Lorsque vous créez un **Parchemin de Sort** via les règles de fabrication du Manuel du Joueur, le temps nécessaire est réduit de moitié.
+-> le sort doit être préparé, posséder ses composantes matérielles
 
 | Niveau du sort       | Temps de base 2024 | Temps Cartographe Niv. 3+   | Coût en Or (2024) |
 | -------------------- | ------------------ | --------------------------- | ----------------- |
@@ -153,7 +154,6 @@ Le porteur ajoute **1d4 à ses jets d'Initiative**.
 ### Positionnement
 
 Le porteur connaît à tout moment la position des autres porteurs se trouvant sur le même plan d'existence.
-
 De plus, lorsqu'un porteur lance un sort ou produit un effet nécessitant normalement de voir la cible, il peut cibler un autre porteur de carte même sans ligne de vue ou à travers un couvert, tant que celui-ci reste à portée de l'effet. 
 
 ---
