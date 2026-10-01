@@ -188,102 +188,6 @@
       }
     ],
     [
-      "Agdon Longchâle",
-      {
-        "name": "Agdon Longchâle",
-        "source": "Par-delà le Carnaval de Sorcelume",
-        "size": "Moyenne",
-        "type": "fée",
-        "subtype": "conil",
-        "alignment": "chaotique mauvaise",
-        "ac": 19,
-        "hp": 36,
-        "hit_dice": "8d8",
-        "speed": "10,50 m, ou 21 m tant qu'il porte son châle",
-        "stats": [
-          11,
-          20,
-          11,
-          11,
-          14,
-          16
-        ],
-        "saves": [
-          {
-            "dexterity": 7
-          },
-          {
-            "wisdom": 4
-          }
-        ],
-        "skillsaves": [
-          {
-            "acrobaties": 7
-          },
-          {
-            "discrétion": 7
-          },
-          {
-            "escamotage": 7
-          },
-          {
-            "perception": 6
-          }
-        ],
-        "damage_vulnerabilities": "",
-        "damage_resistances": "",
-        "damage_immunities": "",
-        "condition_immunities": "",
-        "senses": "Perception passive 16",
-        "languages": "commun, sylvestre",
-        "cr": "2",
-        "bestiary": true,
-        "traits": [
-          {
-            "name": "Esquive totale",
-            "desc": "Si Agdon est soumis à un effet qui lui permet d'effectuer un jet de sauvegarde de Dextérité pour réduire les dégâts de moitié, il ne subit en fait aucun dégât en cas de sauvegarde réussie, et seulement la moitié en cas d'échec, à condition de ne pas être neutralisé."
-          },
-          {
-            "name": "Saut sans élan",
-            "desc": "Les sauts en longueur d'Agdon peuvent atteindre 6 m et ses sauts en hauteur 3 m, avec ou sans élan."
-          }
-        ],
-        "actions": [
-          {
-            "name": "Attaques multiples",
-            "desc": "Agdon effectue deux attaques de Fer rouge ou de Dague."
-          },
-          {
-            "name": "Dague",
-            "desc": "Attaque d'arme au corps à corps ou à distance : +7 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 7 (1d4 + 5) dégâts perforants.",
-            "attack_bonus": 7,
-            "damage_dice": "1d4",
-            "damage_bonus": 5
-          },
-          {
-            "name": "Fer rouge",
-            "desc": "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 10 (3d6) dégâts de feu, et la cible est marquée magiquement. Agdon est invisible pour les créatures ainsi marquées. La marque disparaît d'elle-même au bout de 24 heures et peut être retirée d'une créature ou d'un objet au moyen de n'importe quel sort qui lève une malédiction.",
-            "attack_bonus": 7,
-            "damage_dice": "3d6",
-            "damage_bonus": 0
-          }
-        ],
-        "bonus_actions": [
-          {
-            "name": "Doigts agiles",
-            "desc": "Agdon cible une créature qu'il voit dans un rayon de 1,50 m et effectue un test de Dextérité (Escamotage), avec un DD égal à la valeur de Sagesse (Perception) passive de la cible. En cas de réussite, il vole un objet pesant 0,5 kg ou moins que la cible a en sa possession mais pas dans sa main, à l'insu de la cible."
-          }
-        ],
-        "reactions": [
-          {
-            "name": "Esquive instinctive",
-            "desc": "Agdon réduit de moitié les dégâts qu'il subit d'une attaque qui le touche. Il doit voir l'assaillant."
-          }
-        ],
-        "legendary_actions": []
-      }
-    ],
-    [
       "Amidor le pissenlit",
       {
         "name": "Amidor le pissenlit",
@@ -781,14 +685,6 @@
       "Pollenella l abeille",
       {
         "name": "Pollenella l abeille",
-        "status": "À compléter depuis le PDF",
-        "source": "Carnaval"
-      }
-    ],
-    [
-      "Tireur d élite conil",
-      {
-        "name": "Tireur d élite conil",
         "status": "À compléter depuis le PDF",
         "source": "Carnaval"
       }
@@ -2156,71 +2052,6 @@
       }
     ],
     [
-      "Tireur d'élite conil",
-      {
-        "name": "Tireur d'élite conil",
-        "source": "Par-delà le Carnaval de Sorcelume",
-        "size": "Moyenne",
-        "type": "humanoïde",
-        "subtype": "conil",
-        "alignment": "tout alignement",
-        "ac": 14,
-        "hp": 9,
-        "hit_dice": "2d8",
-        "speed": "9 m",
-        "stats": [
-          10,
-          17,
-          11,
-          10,
-          13,
-          10
-        ],
-        "saves": [
-          {
-            "dexterity": 5
-          }
-        ],
-        "skillsaves": [
-          {
-            "athlétisme": 2
-          },
-          {
-            "discrétion": 5
-          },
-          {
-            "perception": 5
-          }
-        ],
-        "senses": "Perception passive 15",
-        "languages": "commun, sylvestre",
-        "cr": "1/4",
-        "bestiary": true,
-        "traits": [
-          {
-            "name": "Saut sans élan",
-            "desc": "Les sauts en longueur du conil peuvent atteindre 6 m et ses sauts en hauteur 3 m, avec ou sans élan."
-          }
-        ],
-        "actions": [
-          {
-            "name": "Gourdin",
-            "desc": "Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts contondants.",
-            "attack_bonus": 2,
-            "damage_dice": "1d4",
-            "damage_bonus": 0
-          },
-          {
-            "name": "Arbalète légère",
-            "desc": "Attaque d'arme à distance : +5 pour toucher (la cible ne tire aucun bénéfice d'un abri qui n'est pas total), portée 30/120 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants. Raté ou touché, le conil peut immédiatement entreprendre l'action Se cacher.",
-            "attack_bonus": 5,
-            "damage_dice": "1d8",
-            "damage_bonus": 3
-          }
-        ]
-      }
-    ],
-    [
       "Escargot géant",
       {
         "name": "Escargot géant",
@@ -3582,76 +3413,6 @@
       }
     ],
     [
-      "Talavar",
-      {
-        "name": "Talavar",
-        "source": "Par-delà le Carnaval de Sorcelume",
-        "size": "Très Petite",
-        "type": "dragon",
-        "subtype": "dragon féerique bleu",
-        "alignment": "chaotique bon",
-        "ac": 15,
-        "hp": 14,
-        "hit_dice": "4d4 + 4",
-        "speed": "3 m, vol 18 m",
-        "stats": [
-          3,
-          20,
-          13,
-          14,
-          12,
-          16
-        ],
-        "skillsaves": [
-          {
-            "perception": 3
-          },
-          {
-            "discrétion": 8
-          }
-        ],
-        "senses": "vision dans le noir 18 m, Perception passive 13",
-        "languages": "commun, draconique, sylvestre",
-        "cr": "1",
-        "bestiary": true,
-        "traits": [
-          {
-            "name": "Vue magique",
-            "desc": "Talavar voit les créatures invisibles et les objets magiques dans un rayon de 3 m."
-          },
-          {
-            "name": "Résistance à la magie",
-            "desc": "Talavar est avantagé aux jets de sauvegarde contre les sorts et autres effets magiques."
-          },
-          {
-            "name": "Incantation innée",
-            "desc": "Charisme comme caractéristique d'incantation (DD 13). À volonté : illusion mineure, lumière dansante, main du mage."
-          }
-        ],
-        "actions": [
-          {
-            "name": "Morsure",
-            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants."
-          },
-          {
-            "name": "Souffle euphorique",
-            "desc": "Cône de 3 m. Chaque créature dans la zone doit réussir un jet de sauvegarde de Sagesse DD 13 sous peine d'être charmée pendant 1 minute. Tant qu'elle est charmée, la créature est incapable d'effectuer une action hostile. Elle peut refaire le jet de sauvegarde à la fin de chacun de ses tours."
-          }
-        ],
-        "bonus_actions": [
-          {
-            "name": "Invisibilité",
-            "desc": "Talavar devient magiquement invisible jusqu'à ce qu'il attaque, lance un sort ou mette fin à l'effet."
-          }
-        ],
-        "token": [
-          [
-            "talavar.png"
-          ]
-        ]
-      }
-    ],
-    [
       "Bohu",
       {
         "name": "Bohu",
@@ -3746,6 +3507,702 @@
             "bohu.png"
           ]
         ]
+      }
+    ],
+    [
+      "Méphite boueux",
+      {
+        "name": "Méphite boueux",
+        "size": "Petite",
+        "type": "élémentaire",
+        "alignment": "neutre mauvais",
+        "ac": 11,
+        "hp": 13,
+        "hit_dice": "3d6 + 3",
+        "speed": "6 m, vol 6 m, nage 6 m",
+        "initiative": 1,
+        "stats": [
+          8,
+          12,
+          12,
+          9,
+          11,
+          7
+        ],
+        "saves": [
+          {
+            "strength": -1
+          },
+          {
+            "dexterity": 1
+          },
+          {
+            "constitution": 1
+          },
+          {
+            "intelligence": -1
+          },
+          {
+            "wisdom": 0
+          },
+          {
+            "charisma": -2
+          }
+        ],
+        "skillsaves": [
+          {
+            "discrétion": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "poison",
+        "condition_immunities": "épuisement, empoisonné",
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "languages": "primordial (aquatique, terreux)",
+        "cr": "1/4",
+        "traits": [
+          {
+            "name": "Explosion finale",
+            "desc": "Lorsque le méphite meurt, il explose. Chaque créature dans une émanation de 1,50 m centrée sur lui doit réussir un jet de sauvegarde de Dextérité DD 11. En cas d'échec, la cible subit l'état Entravé jusqu'à la fin de son prochain tour."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Coup",
+            "desc": "Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts contondants.",
+            "attack_bonus": 3,
+            "damage_dice": "1d6",
+            "damage_bonus": 1
+          },
+          {
+            "name": "Souffle de boue (Recharge 6)",
+            "desc": "Une créature que le méphite voit dans un rayon de 4,50 m doit réussir un jet de sauvegarde de Dextérité DD 11. En cas d'échec, la cible subit l'état Entravé jusqu'à la fin du prochain tour du méphite."
+          }
+        ]
+      }
+    ],
+    [
+      "Hobgobelin combattant",
+      {
+        "name": "Hobgobelin combattant",
+        "size": "Moyenne",
+        "type": "fée",
+        "subtype": "gobelinoïde",
+        "alignment": "loyal mauvais",
+        "ac": 18,
+        "hp": 11,
+        "hit_dice": "2d8 + 2",
+        "speed": "9 m",
+        "initiative": "+3 (13)",
+        "stats": [
+          13,
+          12,
+          12,
+          10,
+          10,
+          9
+        ],
+        "saves": [
+          {
+            "strength": 1
+          },
+          {
+            "dexterity": 1
+          },
+          {
+            "constitution": 1
+          },
+          {
+            "intelligence": 0
+          },
+          {
+            "wisdom": 0
+          },
+          {
+            "charisma": -1
+          }
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "languages": "commun, gobelin",
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Équipement",
+            "desc": "Armure demi-plate, arc long, épée longue, bouclier."
+          },
+          {
+            "name": "Tactique de meute",
+            "desc": "Quand au moins un des alliés non Incapable d'agir du hobgobelin se situe dans un rayon de 1,50 m de la créature qu'il cible, le hobgobelin est avantagé au jet d'attaque correspondant contre cette créature."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Épée longue",
+            "desc": "Corps à corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 12 (2d10 + 1) dégâts tranchants.",
+            "attack_bonus": 3,
+            "damage_dice": "2d10",
+            "damage_bonus": 1
+          },
+          {
+            "name": "Arc long",
+            "desc": "À distance : +3 pour toucher, portée 45/180 m, une cible. Touché : 5 (1d8 + 1) dégâts perforants plus 7 (3d4) dégâts de poison.",
+            "attack_bonus": 3,
+            "damage_dice": "1d8",
+            "damage_bonus": 1
+          }
+        ]
+      }
+    ],
+    [
+      "Feu follet",
+      {
+        "name": "Feu follet",
+        "size": "Très Petite",
+        "type": "mort-vivant",
+        "alignment": "chaotique mauvais",
+        "ac": 19,
+        "hp": 27,
+        "hit_dice": "11d4",
+        "speed": "1,50 m, vol 15 m (stationnaire)",
+        "initiative": "+9 (19)",
+        "stats": [
+          1,
+          28,
+          10,
+          13,
+          14,
+          11
+        ],
+        "saves": [
+          {
+            "strength": -5
+          },
+          {
+            "dexterity": 9
+          },
+          {
+            "constitution": 0
+          },
+          {
+            "intelligence": 1
+          },
+          {
+            "wisdom": 2
+          },
+          {
+            "charisma": 0
+          }
+        ],
+        "damage_resistances": "acide, contondant, froid, feu, nécrotique, perforant, tranchant",
+        "damage_immunities": "foudre, poison",
+        "condition_immunities": "épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient",
+        "senses": "vision dans le noir 36 m, Perception passive 12",
+        "languages": "commun plus une autre langue",
+        "cr": "2",
+        "traits": [
+          {
+            "name": "Déplacement intangible",
+            "desc": "Le feu follet peut traverser d'autres créatures et objets comme s'il s'agissait d'un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet."
+          },
+          {
+            "name": "Fugace",
+            "desc": "Le feu follet ne peut rien porter."
+          },
+          {
+            "name": "Illumination",
+            "desc": "Le feu follet émet une lumière vive sur un rayon de 6 m et une lumière faible sur 6 m de plus."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Décharge",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 11 (2d8 + 2) dégâts de foudre.",
+            "attack_bonus": 4,
+            "damage_dice": "2d8",
+            "damage_bonus": 2
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Disparition",
+            "desc": "Le feu follet et sa lumière obtiennent l'état Invisible jusqu'à ce qu'il rompe sa concentration sur cet effet. L'effet prend fin prématurément juste après que le feu follet effectue une attaque ou utilise Festin d'essence vitale."
+          },
+          {
+            "name": "Festin d'essence vitale",
+            "desc": "JdS Constitution DD 10. Une créature vivante à 0 point de vie que le feu follet voit dans un rayon de 1,50 m effectue ce jet. En cas d'échec, la créature meurt et le feu follet récupère 10 (3d6) points de vie."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Armure animée",
+      {
+        "name": "Armure animée",
+        "size": "Moyenne",
+        "type": "artificiel",
+        "alignment": "non-aligné",
+        "ac": 18,
+        "hp": 33,
+        "hit_dice": "6d8 + 6",
+        "speed": "7,50 m",
+        "initiative": "+2 (12)",
+        "stats": [
+          14,
+          11,
+          13,
+          1,
+          3,
+          1
+        ],
+        "saves": [
+          {
+            "strength": 2
+          },
+          {
+            "dexterity": 0
+          },
+          {
+            "constitution": 1
+          },
+          {
+            "intelligence": -5
+          },
+          {
+            "wisdom": -4
+          },
+          {
+            "charisma": -5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "poison, psychique",
+        "condition_immunities": "charmé, assourdi, épuisement, effrayé, paralysé, pétrifié, empoisonné",
+        "senses": "vision aveugle 18 m, Perception passive 6",
+        "languages": "",
+        "cr": "1",
+        "traits": [
+          {
+            "name": "Être singulier",
+            "desc": "L'armure animée se passe d'air, de nourriture, de boisson et de sommeil."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "L'armure effectue deux attaques de Coup."
+          },
+          {
+            "name": "Coup",
+            "desc": "Corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts contondants.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Brigand conil vétéran",
+      {
+        "name": "Brigand conil vétéran",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "conil",
+        "alignment": "tout alignement",
+        "ac": 15,
+        "hp": 27,
+        "hit_dice": "6d8",
+        "speed": "9 m",
+        "initiative": "+5 (15)",
+        "stats": [
+          14,
+          17,
+          12,
+          10,
+          11,
+          12
+        ],
+        "saves": [
+          {
+            "dexterity": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobaties": 5
+          },
+          {
+            "perception": 4
+          },
+          {
+            "discrétion": 5
+          }
+        ],
+        "senses": "Perception passive 14",
+        "languages": "commun, sylvestre",
+        "cr": "1",
+        "traits": [
+          {
+            "name": "Saut sans élan",
+            "desc": "Les sauts en longueur du conil peuvent atteindre 6 m et ses sauts en hauteur 3 m, avec ou sans élan."
+          },
+          {
+            "name": "Tactique de meute",
+            "desc": "Si la créature ciblée se situe dans un rayon de 1,50 m d'au moins un allié non neutralisé du brigand, celui-ci est avantagé au jet d'attaque correspondant."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le brigand effectue deux attaques de Gourdin ou deux attaques de Fronde."
+          },
+          {
+            "name": "Gourdin",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts contondants.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Fronde",
+            "desc": "Attaque d'arme à distance : +5 pour toucher, portée 9/36 m, une cible. Touché : 5 (1d4 + 3) dégâts contondants.",
+            "attack_bonus": 5,
+            "damage_dice": "1d4",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Bond du brigand",
+            "desc": "Le brigand saute jusqu'à 3 m dans un espace inoccupé qu'il voit sans provoquer d'attaque d'opportunité."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Esquive du conil",
+            "desc": "Lorsqu'une créature qu'il voit le touche avec une attaque, le brigand réduit les dégâts subis de 3."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Agdon Longchâle",
+      {
+        "name": "Agdon Longchâle",
+        "size": "Moyenne",
+        "type": "fée",
+        "subtype": "conil",
+        "alignment": "chaotique mauvaise",
+        "ac": 19,
+        "hp": 52,
+        "hit_dice": "8d8 + 16",
+        "speed": "10,50 m, ou 21 m tant qu'il porte son châle",
+        "initiative": "+7 (17)",
+        "stats": [
+          11,
+          20,
+          14,
+          11,
+          14,
+          16
+        ],
+        "saves": [
+          {
+            "dexterity": 7
+          },
+          {
+            "wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobaties": 7
+          },
+          {
+            "discrétion": 7
+          },
+          {
+            "escamotage": 7
+          },
+          {
+            "perception": 6
+          }
+        ],
+        "senses": "Perception passive 16",
+        "languages": "commun, sylvestre",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Esquive totale",
+            "desc": "Si Agdon réussit un jet de sauvegarde de Dextérité pour demi-dégâts, il ne subit aucun dégât. En cas d'échec, il ne subit que la moitié des dégâts."
+          },
+          {
+            "name": "Saut sans élan",
+            "desc": "Les sauts en longueur d'Agdon peuvent atteindre 6 m et ses sauts en hauteur 3 m, avec ou sans élan."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Agdon effectue trois attaques de Fer rouge ou de Dague dans n'importe quelle combinaison."
+          },
+          {
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps à corps ou à distance : +7 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 7 (1d4 + 5) dégâts perforants.",
+            "attack_bonus": 7,
+            "damage_dice": "1d4",
+            "damage_bonus": 5
+          },
+          {
+            "name": "Fer rouge",
+            "desc": "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts de feu. La cible est marquée magiquement. Agdon est invisible pour les créatures ainsi marquées.",
+            "attack_bonus": 7,
+            "damage_dice": "2d6",
+            "damage_bonus": 5
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Doigts agiles",
+            "desc": "Agdon cible une créature qu'il voit dans un rayon de 1,50 m et tente de lui dérober un objet de 0,5 kg ou moins."
+          },
+          {
+            "name": "Bond de brigand",
+            "desc": "Agdon saute jusqu'à 6 m vers un espace inoccupé qu'il voit sans provoquer d'attaque d'opportunité."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Esquive instinctive",
+            "desc": "Agdon réduit de moitié les dégâts d'une attaque qui le touche, à condition de voir l'assaillant."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Tireur d'élite conil vétéran",
+      {
+        "name": "Tireur d'élite conil vétéran",
+        "size": "Moyenne",
+        "type": "humanoïde",
+        "subtype": "conil",
+        "alignment": "tout alignement",
+        "ac": 15,
+        "hp": 36,
+        "hit_dice": "8d8",
+        "speed": "9 m",
+        "initiative": "+5 (15)",
+        "stats": [
+          10,
+          17,
+          12,
+          10,
+          13,
+          10
+        ],
+        "saves": [
+          {
+            "dexterity": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "athlétisme": 2
+          },
+          {
+            "discrétion": 7
+          },
+          {
+            "perception": 5
+          }
+        ],
+        "senses": "Perception passive 15",
+        "languages": "commun, sylvestre",
+        "cr": "2",
+        "traits": [
+          {
+            "name": "Saut sans élan",
+            "desc": "Les sauts en longueur du conil peuvent atteindre 6 m et ses sauts en hauteur 3 m, avec ou sans élan."
+          },
+          {
+            "name": "Tireur d'élite",
+            "desc": "Les attaques à l'arbalète légère ignorent les demi-abris et les trois-quarts d'abri."
+          },
+          {
+            "name": "Attaque sournoise",
+            "desc": "Une fois par tour, le tireur inflige 7 (2d6) dégâts perforants supplémentaires lorsqu'il touche une cible avec une attaque à l'arbalète et qu'il bénéficie de l'avantage ou qu'un allié non neutralisé est à 1,50 m de la cible."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le tireur effectue deux attaques d'Arbalète légère ou deux attaques de Gourdin."
+          },
+          {
+            "name": "Gourdin",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts contondants.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 1
+          },
+          {
+            "name": "Arbalète légère",
+            "desc": "Attaque d'arme à distance : +5 pour toucher, portée 30/120 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants. Le tireur peut appliquer Attaque sournoise à cette attaque.",
+            "attack_bonus": 5,
+            "damage_dice": "1d8",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Repli du conil",
+            "desc": "Le tireur entreprend l'action Se cacher ou Se désengager."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Talavar",
+      {
+        "name": "Talavar",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Très Petite",
+        "type": "dragon",
+        "subtype": "dragon féerique bleu",
+        "alignment": "chaotique bon",
+        "ac": 15,
+        "hp": 14,
+        "hit_dice": "4d4 + 4",
+        "speed": "3 m, vol 18 m",
+        "stats": [
+          3,
+          20,
+          13,
+          14,
+          12,
+          16
+        ],
+        "skillsaves": [
+          {
+            "perception": 3
+          },
+          {
+            "discrétion": 8
+          }
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 13",
+        "languages": "commun, draconique, sylvestre",
+        "cr": "1",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Vue magique",
+            "desc": "Talavar voit les créatures invisibles et les objets magiques dans un rayon de 3 m."
+          },
+          {
+            "name": "Résistance à la magie",
+            "desc": "Talavar est avantagé aux jets de sauvegarde contre les sorts et autres effets magiques."
+          },
+          {
+            "name": "Incantation innée",
+            "desc": "Charisme comme caractéristique d'incantation (DD 13). À volonté : illusion mineure, lumière dansante, main du mage."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants."
+          },
+          {
+            "name": "Epée",
+            "desc": "Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d4 + 6) dégâts perforants."
+          },
+          {
+            "name": "Souffle euphorique",
+            "desc": "Cône de 3 m. Chaque créature dans la zone doit réussir un jet de sauvegarde de Sagesse DD 13 sous peine d'être charmée pendant 1 minute. Tant qu'elle est charmée, la créature est incapable d'effectuer une action hostile. Elle peut refaire le jet de sauvegarde à la fin de chacun de ses tours."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Invisibilité",
+            "desc": "Talavar devient magiquement invisible jusqu'à ce qu'il attaque, lance un sort ou mette fin à l'effet."
+          }
+        ],
+        "token": [
+          [
+            "talavar.png"
+          ]
+        ]
+      }
+    ],
+    [
+      "Arbre éveillé",
+      {
+        "name": "Arbre éveillé",
+        "size": "Très Grande",
+        "type": "plante",
+        "alignment": "neutre",
+        "ac": 13,
+        "hp": 59,
+        "hit_dice": "7d12 + 14",
+        "speed": "6 m",
+        "initiative": "-2 (8)",
+        "stats": [
+          19,
+          6,
+          15,
+          10,
+          10,
+          7
+        ],
+        "saves": [
+          {
+            "strength": 4
+          },
+          {
+            "dexterity": -2
+          },
+          {
+            "constitution": 2
+          },
+          {
+            "intelligence": 0
+          },
+          {
+            "wisdom": 0
+          },
+          {
+            "charisma": -2
+          }
+        ],
+        "damage_vulnerabilities": "feu",
+        "damage_resistances": "contondant, perforant",
+        "senses": "Perception passive 10",
+        "languages": "commun plus une autre langue",
+        "cr": "2",
+        "actions": [
+          {
+            "name": "Coup",
+            "desc": "Corps à corps : +6 pour toucher, allonge 3 m, une cible. Touché : 14 (3d6 + 4) dégâts contondants.",
+            "attack_bonus": 6,
+            "damage_dice": "3d6",
+            "damage_bonus": 4
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
       }
     ]
   ],
@@ -5913,6 +6370,442 @@
       "name": "Basic Fate Core Layout",
       "edited": false,
       "removed": true
+    },
+    "basic-5e-layout": {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "0b1ac92ada89",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "e899993a088a",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "9b0b7b78fa4a",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "4a7b8a1b4bcb",
+                      "properties": [
+                        "name"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    },
+                    {
+                      "type": "inline",
+                      "id": "280a09999a3b",
+                      "properties": [],
+                      "hasRule": false,
+                      "nested": [
+                        {
+                          "type": "action",
+                          "id": "684a49b839aa",
+                          "icon": "sword",
+                          "callback": "try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"
+                        },
+                        {
+                          "type": "action",
+                          "id": "39e8ca6aca9b",
+                          "icon": "plus-with-circle",
+                          "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "88a95988c9f9",
+                  "properties": [
+                    "size",
+                    "type",
+                    "subtype",
+                    "alignment"
+                  ],
+                  "conditioned": true,
+                  "separator": ", "
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "181b5ae9681b",
+              "properties": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "5b483b2a2898",
+          "properties": [
+            "ac",
+            "hp",
+            "speed"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "1bfb09b9c999",
+              "properties": [
+                "ac"
+              ],
+              "display": "CA",
+              "conditioned": true,
+              "callback": "const ac = [monster.ac];if (\"ac_class\" in monster) {ac.push(`(${monster.ac_class})`);}return ac.join(\" \");"
+            },
+            {
+              "type": "property",
+              "id": "7aaaaa09a819",
+              "properties": [
+                "hp"
+              ],
+              "display": "PV",
+              "dice": true,
+              "diceProperty": "hit_dice",
+              "diceCallback": "if (\"hit_dice\" in monster) {\n  return [{ text: monster[\"hit_dice\"] }];\n} else {\n  return property;\n}",
+              "callback": "let str = [monster.hp];\nif (monster.hit_dice?.length) {\n  str.push(`(${monster.hit_dice})`);\n}\nreturn str.join(\" \");",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "d9ea49f9e98b",
+              "display": "Vitesse",
+              "properties": [
+                "speed"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "ba5b4ba81a49",
+              "properties": [
+                "initiative"
+              ],
+              "fallback": "-",
+              "display": "Initiative",
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "18888a1bcb18",
+          "properties": [
+            "stats"
+          ],
+          "headers": [
+            "Str",
+            "Dex",
+            "Con",
+            "Int",
+            "Wis",
+            "Cha"
+          ],
+          "calculate": true,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "aaab3ab89938",
+          "properties": [
+            "fage_stats"
+          ],
+          "headers": [
+            "Accuracy",
+            "Communication",
+            "Constitution",
+            "Dexterity",
+            "Fighting",
+            "Intelligence",
+            "Perception",
+            "Strength",
+            "Willpower"
+          ],
+          "calculate": false,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "d81a6b1b7a89",
+          "properties": [
+            "saves",
+            "skillsaves",
+            "damage_immunities",
+            "damage_resistances",
+            "damage_vulnerabilities",
+            "condition_immunities",
+            "cr",
+            "languages",
+            "senses"
+          ],
+          "nested": [
+            {
+              "type": "saves",
+              "id": "19380aebeaba",
+              "display": "JdS",
+              "properties": [
+                "saves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "saves",
+              "id": "d8ca189bf98a",
+              "display": "Compétences",
+              "properties": [
+                "skillsaves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "19daaa4aaaeb",
+              "display": "Résistances",
+              "properties": [
+                "damage_resistances"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "09d978890a08",
+              "display": "Immunités",
+              "properties": [
+                "damage_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "3b390b198b8b",
+              "display": "Condition Immunities",
+              "properties": [
+                "condition_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "ebab087bc9f9",
+              "display": "Damage Vulnerabilities",
+              "properties": [
+                "damage_vulnerabilities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "18f918aaa928",
+              "display": "Sens",
+              "properties": [
+                "senses"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "984a3a793be9",
+              "display": "Langues",
+              "properties": [
+                "languages"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "inline",
+              "id": "cacab9daf83b",
+              "properties": [],
+              "conditioned": true,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "b929db1b5978",
+                  "display": "FP",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 10\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};                        \nif (\"cr\" in monster && monster.cr in CR) {\n    return `${CR[\n        monster.cr\n    ].cr} (${CR[\n        monster.cr\n    ].xp.toLocaleString()} XP)`;\n}\nreturn \"\";",
+                  "fallback": "-"
+                },
+                {
+                  "type": "property",
+                  "id": "a85a4828b98b",
+                  "display": "BM",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 0\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};           \nif (\"cr\" in monster && monster.cr in CR) {\n    return `+${Math.max(\n            Math.floor(2 + ((CR[monster.cr]?.value ?? 0) - 1) / 4),\n            2\n        )}`;\n}\nreturn \"\";",
+                  "fallback": "-"
+                }
+              ]
+            }
+          ],
+          "conditioned": true,
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "a9681afbebc8",
+          "properties": [
+            "traits"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "spells",
+          "id": "3a8b8b78191b",
+          "properties": [
+            "spells"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "text",
+          "id": "ca7a6aba69a8",
+          "properties": [
+            "spellsNotes"
+          ],
+          "conditioned": true,
+          "text": null
+        },
+        {
+          "type": "traits",
+          "id": "2b19faf878c9",
+          "properties": [
+            "actions"
+          ],
+          "heading": "Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "c94afb78395a",
+          "properties": [
+            "bonus_actions"
+          ],
+          "heading": "Bonus Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "group",
+          "id": "c978eadb09fb",
+          "properties": [
+            "legendary_description",
+            "legendary_actions"
+          ],
+          "heading": "Legendary Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "5838981a4839",
+              "properties": [
+                "legendary_description"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "6adb38aa8bd8",
+              "properties": [
+                "legendary_actions"
+              ],
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "9a4b9baa7a08",
+          "properties": [
+            "mythic_description",
+            "mythic_actions"
+          ],
+          "heading": "Mythic Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "9939aaea3899",
+              "properties": [
+                "mythic_description"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "29494a38d8f8",
+              "properties": [
+                "mythic_actions"
+              ],
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "8b4bd819ea6b",
+          "properties": [
+            "reactions"
+          ],
+          "heading": "Reactions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "7a3a69a8dba9",
+          "properties": [
+            "lair_actions"
+          ],
+          "heading": "Lair Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "48796ac8aa6b",
+          "properties": [
+            "regional_effects"
+          ],
+          "heading": "Regional Effects",
+          "conditioned": true,
+          "dice": true
+        }
+      ],
+      "id": "basic-5e-layout",
+      "name": "Basic 5e Layout",
+      "edited": true,
+      "version": 9
     }
   },
   "layouts": [],
@@ -5920,7 +6813,7 @@
   "useDice": true,
   "renderDice": true,
   "export": true,
-  "showAdvanced": true,
+  "showAdvanced": false,
   "version": {
     "major": 4,
     "minor": 10,
