@@ -10,6 +10,14 @@ creature:
 ```
 # Gîte des brigands  
 
+1 Agdon FP 3
+barque 1 : 
+- 1 brigand conil vétéran FP 1
+- 1 brigand conil
+barque 2 :
+- 1 brigand conil vétéran FP 1
+- 1 brigand conil
+
 ## Agdon  
 
   
@@ -28,7 +36,7 @@ monster: Agdon Longchâle
 
 ```statblock  
 
-monster: Brigand conil  
+monster: Brigand conil vétéran  
 
 ```  
 
@@ -48,7 +56,7 @@ monster: Brigand conil
 
 ```statblock  
 
-monster:   
+monster: Tireur d'élite conil vétéran  
 
 ```
 
