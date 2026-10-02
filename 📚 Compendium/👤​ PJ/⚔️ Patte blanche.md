@@ -177,21 +177,21 @@ et -2 en force
 69 Votre équipement se couvre de fleurs.  
 70 Vous récupérez 2d6 PV.  
 71 Un arc-en-ciel vous suit pendant 1 minute.  
-72 Une fée invisible vous applaudit.  
+72 Pendant les 8 prochaines heures, tu peux ajouter ton bonus de compétence à tes jets d'initiative.  
 73 Vous êtes sous Confusion jusqu'à votre prochain tour.  
 74 Toutes les créatures à 6 m éclatent de rire.  
 75 Des racines envahissent le sol.  
 76 Vous échangez vos vêtements avec un allié.  
 77 Votre prochain sort est lancé un niveau plus haut.  
 78 Vous perdez votre ombre pendant 1 heure.  
-79 Un portail féerique apparaît pendant un round.  
+79 Tu peux poser une question. La prochaine fois que tu dormiras, tu recevras un rêve qui pourrait t'aider à répondre à cette question, bien qu'il puisse être cryptique. 
 80 Explosion de pollen (2d6 poison à 3 m).  
-81 Fou rire de Tasha sur la créature la plus proche.  
+81 Tu tombes immédiatement à 0 points de vie et fais un jet de sauvegarde contre la mort. 
 82 Vision de Zybilna, vous gagnez Inspiration.  
 83 Vos cheveux deviennent des lianes vivantes.  
 84 Une pluie de bonbons tombe dans un rayon de 6 m.  
 85 Vous gagnez une vitesse d'escalade égale à votre vitesse.  
-86 Vos yeux voient les créatures invisibles pendant 1 round.  
+86  Un objet ou une pièce d'équipement en ta possession (choisi par le DM) disparaît. _L'objet reste à proximité mais dissimulé pendant un court instant._ 
 87 Des lucioles forment votre nom dans les airs.  
 88 Vous flottez comme sous Lévitation pendant 1 minute.  
 89 Une tasse de thé apparaît dans votre main.  
