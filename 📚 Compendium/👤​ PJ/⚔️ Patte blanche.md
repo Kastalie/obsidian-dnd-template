@@ -163,16 +163,16 @@ et -2 en force
 55 Toutes les boissons proches deviennent du jus de pomme.  
 56 votre ombre agit avec un tour de retard sur vous  
 57 Résistance psychique pendant 1 minute.  
-58  
-59  
+58 Ton maximum de points de vie et tes points de vie actuels augmentent de 2d10. Ton maximum de points de vie reste augmenté de cette manière pendant les prochaines 8 heures. 
+59  Tu subis 2d10 de dégâts nécrotiques, et ton maximum de points de vie est réduit d'un montant égal aux dégâts subis. Cet effet ne peut pas réduire ton maximum de points de vie en dessous de 10 points de vie. Cette réduction dure jusqu'à ce que tu termines un long repos, mais peut être annulée plus tôt par un sort retirer les malédictions ou une magie similaire.
 60 Un écureuil éveillé vous critique pendant 1 heure.  
-61   
+61  Tu gagnes un bonus de +1 aux attaques et aux jets de dégâts avec des armes. Ce bonus dure 8 heures. 
 62 Avantage à votre prochain jet de sauvegarde.  
-63   
-64
-65 Tout le monde a son dessert préféré.  
+63 Chaque jet de dégât contre toi ajoute 1d4 du type de dégâts principal. Cela dure jusqu'au prochain long repos.  
+64 Tu obtiens une résistance à l'un des types de dégâts suivants (choisi par le DM) : acide, froid, feu, foudre, ou tonnerre.
+65 Tu obtiens une résistance à l'un des types de dégâts suivants (choisi par le DM) : force, nécrotique, poison, psychique, ou radiant. 
 66 Vol 6 m jusqu'à la fin de votre prochain tour.  
-67 Une minuscule licorne apparaît sur votre épaule.  
+67 Cinq bibelots féeriques (ou autres objets magiques) apparaissent à tes pieds. 
 68 Tous les animaux deviennent amicaux.  
 69 Votre équipement se couvre de fleurs.  
 70 Vous récupérez 2d6 PV.  
