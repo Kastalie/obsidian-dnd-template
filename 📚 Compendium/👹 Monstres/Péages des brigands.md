@@ -19,6 +19,8 @@ barque 2 :
 - 2 brigand conil FP 1/8
 1 Tireur d'élite conil vétéran FP 2
 
+![[Pasted image 20261002110441.png|446]]
+
 ## Agdon  
 
   
