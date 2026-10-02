@@ -2,9 +2,9 @@
 🛠️ Occupation: Antagoniste principal de Céans
 🎂 Age:
 🤝 Faction: " Brigands du Marais"
-❤️ État: Prisonnier d'une cage magique
+❤️ État: vivant
 📍Lieux: Péage des Brigands
-🖼️ Portrait: "[[talavar.png]]"
+🖼️ Portrait:
 🧬 Race: Conil
 ---
 # Apparence

@@ -48,7 +48,7 @@ monster: Brigand conil
 
 ```statblock  
 
-monster: Tireur d'élite conil  
+monster:   
 
 ```
 

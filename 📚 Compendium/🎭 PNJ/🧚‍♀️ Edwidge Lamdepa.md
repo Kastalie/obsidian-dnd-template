@@ -4,7 +4,7 @@
 🤝 Faction:
 ❤️ État:
 📍Lieux: "[[Par-delà]]"
-🖼️ Portrait: "[[talavar.png]]"
+🖼️ Portrait:
 ---
 
 >[!description]+ Résumé  

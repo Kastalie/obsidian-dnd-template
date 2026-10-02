@@ -4,7 +4,7 @@
 🤝 Faction:
 ❤️ État:
 📍Lieux: Céans
-🖼️ Portrait: "[[talavar.png]]"
+🖼️ Portrait:
 ---
 
 >[!description]+ Résumé  

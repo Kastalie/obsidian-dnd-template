@@ -100,30 +100,30 @@
   "state": {
     "creatures": [
       {
-        "name": "Lion",
-        "initiative": 8,
+        "name": "Agdon Longchâle",
+        "initiative": 7,
         "static": false,
-        "modifier": 2,
-        "hp": 26,
-        "currentMaxHP": 26,
-        "cr": "1",
-        "ac": 12,
-        "currentAC": 12,
-        "id": "ID_789b3ac8db3b",
-        "currentHP": 26,
+        "modifier": 5,
+        "hp": 52,
+        "currentMaxHP": 52,
+        "cr": "3",
+        "ac": 19,
+        "currentAC": 19,
+        "id": "ID_4b981a1a1bdb",
+        "currentHP": 52,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
         "friendly": false,
-        "hit_dice": "4d10 + 4"
+        "hit_dice": "8d8 + 16"
       }
     ],
     "state": false,
     "name": null,
     "round": 1,
-    "logFile": null,
+    "logFile": "",
     "rollHP": false
   },
   "condense": true,
