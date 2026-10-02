@@ -12,6 +12,9 @@ Description: Une auberge mobile
 - méprise Bavlorna
 - auberge populaire avant
 - Possède le **Compas de Tsu** et peut le donner aux joueurs
+- Tout est gratuit -> étiquette donc donne équivalent (babiole ou serment)
+- Peut contenir des petits stands/boutiques
+- Ne peut pas quitter Céans a moins d'avoir le bon guide à l'intérieur
 
 *Compas de Tsu
 Objet magique, rare (harmonisation requise)
@@ -19,3 +22,5 @@ Objet magique, rare (harmonisation requise)
 **Qu'est-ce qu'on mange ?**
 Le porteur de la boussole ressent en permanence une forte sensation de faim et éprouve un désir irrésistible de manger toute nourriture qu'il aperçoit.
 Il peut résister à cette compulsion en réussissant un jet de sauvegarde de Sagesse DD 10.*
+
+
