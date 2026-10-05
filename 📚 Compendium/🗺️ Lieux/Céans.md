@@ -58,6 +58,8 @@ Les habitants les craignent.
 
 # Résumé des lieux importants
 
+Rencontre avec Jebbek Fluffybottom (brigand conil vétéran) + 6 brigand conils + 1 escargot géant
+
 ## Colline Télémie
 
 ### À retenir
