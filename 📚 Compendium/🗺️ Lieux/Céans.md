@@ -93,6 +93,7 @@ La clé permettant de libérer Talavar.
 - Prisonnier dans une cage magique.
 - Sait que la cage est verrouillée par une clé magique
 - Sait qu'il y a une gobeline collectionneuse de clé dans le coin
+- Leur offre une dette si libération -> réciprocité
 
  
 
