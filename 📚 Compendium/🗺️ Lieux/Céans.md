@@ -90,9 +90,17 @@ La clé permettant de libérer Talavar.
 - Dragon féerique bleu.
 - Agent de la cour Seelie.
 - Allié de Zybilna.
-
- Situation
 - Prisonnier dans une cage magique.
+- Sait que la cage est verrouillée par une clé magique
+- Sait qu'il y a une gobeline collectionneuse de clé dans le coin
+
+ 
+
+Au pied 2 serpents Giant constrictor snake éveillés :
+- veulent livré si talavar a Bavlorna
+- feront une fête
+- sont féneants
+
 
 ---
 
