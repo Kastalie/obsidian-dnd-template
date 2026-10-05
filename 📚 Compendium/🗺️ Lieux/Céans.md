@@ -21,21 +21,17 @@ Céans est le premier royaume de Prismeer que découvrent les PJ après avoir fr
 
 ---
 
-# Ce que les PJ doivent découvrir
 
 ## Objectif officiel
 
 Trouver comment rejoindre **Çà-et-là.
 
 Pour cela ils doivent généralement :
-
 - rencontrer Messire [[🧚‍♀️ Sir Talavar]] ;
 - comprendre la situation de Prismeer ;
 - finir par obtenir l'aide de Bavlorna ou un moyen alternatif de poursuivre leur route.
 
 ---
-
-# Informations que les PJ doivent apprendre
 
 ## Zybilna a disparu
 
@@ -50,19 +46,12 @@ Ils savent seulement que :
 ## L'Assemblée du Sablier
 
 Les trois sœurs :
-
-#### Bavlorna Paillepourrie
-
+ Bavlorna Paillepourrie
 - règne sur Céans
-
-#### Skabatha Belladone
-
+Skabatha Belladone
 - règne sur Çà-et-là
-
-#### Endelyne Tombelune
-
+Endelyne Tombelune
 - règne sur Par-delà
-
 Les habitants les craignent.
 
 ---
@@ -91,44 +80,23 @@ La clé permettant de libérer Talavar.
 
 ## [[🧚‍♀️ Sir Talavar]]
 
-### Qui est-il ?
-
 - Dragon féerique bleu.
 - Agent de la cour Seelie.
 - Allié de Zybilna.
 
-### Situation
-
+ Situation
 - Prisonnier dans une cage magique.
-
-### Importance
-
-Il constitue souvent le premier véritable allié des PJ.
-
-### Ce qu'il sait
-
-- Zybilna a disparu.
-- Prismeer est en danger.
-- Les guenaudes sont responsables.
 
 ---
 
 ## Péage des Brigands
-
-### Chef
-
 **Agdon Longchâle**
-
 Conil criminel.
-
-### À retenir
-
+À retenir
 - Premier grand antagoniste.
 - Vole plutôt qu'il ne tue.
 - Possède le Châle Bleu.
-
-### Importance
-
+ Importance
 Permet de montrer que l'autorité de Bavlorna est faible.
 
 ---
@@ -137,21 +105,17 @@ Permet de montrer que l'autorité de Bavlorna est faible.
 
 Le principal village de Céans.
 
-### Habitants
+ Habitants
 
 - Brutaciens (grenouilles humanoïdes)
 - Habitants du marais
 
-### Endroits importants
-
-#### Cour aux Miasmes
-
+Endroits importants
+Cour aux Miasmes
 Palais du Roi Gullop XIX.
 
-#### Babiole, Colifichet et Charme
-
+Babiole, Colifichet et Charme
 Trois obscurs marchands particulièrement utiles.
-
 Ils vendent :
 - objets magiques ;
 - informations ;
@@ -161,10 +125,7 @@ Ils vendent :
 
 ## Chez Bavlorna
 
-### Lieu le plus important du chapitre
-
 Description :
-
 - immense masure sur pilotis ;
 - remplie de taxidermie ;
 - odeur de marécage ;
@@ -183,12 +144,8 @@ Description :
 - Égoïste
 - Très difficile à lire
 
-### Ce qu'elle veut
-
-Éviter les ennuis.
-
-### Approche
-
+elle veut éviter les ennuis.
+Approche
 Elle préfère :
 - négocier ;
 - manipuler ;
@@ -228,64 +185,10 @@ Excellent exemple des victimes de Bavlorna.
 ## Les Obscurs
 
 Babiole, Colifichet et Charme.
-
 Très mémorables.
-
 Peuvent échanger :
-
 - objets ;
 - souvenirs ;
 - caractéristiques ;
 - émotions.
 
----
-
-# La corne de licorne
-
-## À préparer
-
-La corne n'est PAS encore à Céans.
-
-Cependant plusieurs indices peuvent être donnés :
-
-### Talavar
-
-Peut évoquer :
-
-> « Une licorne a été mutilée lorsque les guenaudes ont pris le pouvoir. »
-
-### Bavlorna
-
-Peut connaître l'existence de la corne.
-
-### Edna
-
-Peut déjà avoir donné :
-
-> « Volé par le héros qui fut voleur gamin... »
-
----
-
-# Ambiance à transmettre
-
-## Début du chapitre
-
-Les PJ doivent ressentir :
-
-- émerveillement ;
-- étrangeté.
-
-## Milieu
-
-Les PJ doivent comprendre :
-
-- que Prismeer souffre ;
-- que tout le monde a perdu quelque chose.
-
-## Fin
-
-Les PJ doivent avoir envie :
-
-- d'aider Prismeer ;
-- de poursuivre les guenaudes ;
-- de rejoindre Çà-et-là.
