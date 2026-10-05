@@ -58,7 +58,12 @@ Les habitants les craignent.
 
 # Résumé des lieux importants
 
-Rencontre avec Jebbek Fluffybottom (brigand conil vétéran) + 6 brigand conils + 1 escargot géant
+Rencontre avec Jebbek Fluffybottom (brigand conil vétéran) + 6 brigand conils + 1 escargot géant.
+_« Ici à Prismeer, ce qui vous appartient, vous appartient, et personne ne peut vous l'enlever : c'est la Règle de Propriété. Maintenant que vous êtes ici dans le domaine de Bavlorna, cela signifie que vous et tout ce que vous possédez lui appartiennent. Alors remettez tout ce que vous avez, ou nous vous battrons pour avoir enfreint la loi. »_
+
+Chacun doit donner un souvenir heureux dans une gourde
+« Agdon Longchâle est votre obligé » en guise d'adieu.
+ils prennent la fuite si issue défavorable
 
 ## Colline Télémie
 
