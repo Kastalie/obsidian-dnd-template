@@ -78,6 +78,9 @@ ils prennent la fuite si issue défavorable
 **[[🧚‍♀️ Bling-Bling]]**
 
 Gobeline collectionneuse de clés.
+a été victime d'une attaque de conils alors qu'elle partait chercher à manger depuis elle est terrifiée et victime de vissepince.
+elle demande aux aventuriers de passer une nuit avec elle en échange de la clé.
+Si ils ne repèrent pas les visssepince Bling Bling en devient une.
 
 ### Récompense
 
