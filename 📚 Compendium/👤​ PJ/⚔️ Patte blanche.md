@@ -106,107 +106,6 @@ et -2 en force
 | 20    | Vous gagnez instantanément 10 points de vie temporaires.                    |
 
 
-01 Relancez sur cette table au début de chacun de vos tours pendant 1 minute.  
-02 Une créature amicale apparaît aléatoirement dans un espace inoccupé dans un rayon de 18 mètres. La créature est sous le contrôle du MD et disparaît 1 minute plus tard. Lancez 1d4 pour déterminer la créature : sur un 1, un modron duodrone apparaît ; sur un 2, un flumph apparaît ; sur un 3, un modron monodrone apparaît ; sur un 4, une licorne apparaît.
-03 Vous récupérez 5 PV au début de chacun de vos tours pendant 1 minute.  
-04 Les créatures ont un Désavantage aux jets de sauvegarde contre le prochain sort que vous lancerez dans la minute qui suit et qui nécessite un jet de sauvegarde.
-05 vous êtes entouré d'une musique faible et éthérée que seuls vous et les créatures dans un rayon de 1,50 mètre pouvez entendre  
-06 Votre taille augmente d'une catégorie pendant 1 minute.  
-07 il vous pousse une longue barbe de plumes qui reste en place jusqu'à ce que vous éternuiez et que les plumes explosent et disparaissent
-08 Vous criez lorsque vous parlez pendant 1 minute.  
-09 Des papillons illusoires volent autour de vous.  
-10 Un troisième œil apparaît ; avantage en Perception.  
-11 Des bulles roses sortent de votre bouche chaque fois que vous parlez.  
-12 Votre peau devient bleue pendant 24 h ou jusqu'à ce que l'effet disparaisse par un sort de délivrance des malédictions.  
-13 Pendant la minute qui suit, tous vos sorts dont le temps d'incantation est d'une Action ont un temps d'incantation d'une action Bonus.
-14 Vous êtes transporté sur le plan Astral jusqu'à la fin de votre prochain tour. Vous retournez ensuite dans l'espace que vous occupiez précédemment ou dans l'espace libre le plus proche si celui-ci est occupé.
-15 La prochaine fois que vous lancerez un sort infligeant des dégâts dans la minute qui suit, ne lancez pas les dés de dégâts du sort. Utilisez le résultat le plus élevé possible pour chaque dé de dégâts.
-16 Résistance à tous les dégâts pendant 1 minute.  
-17 Vous vous transformez en une plante en pot jusqu'au début de votre prochain tour. Sous cette forme, vous subissez l'état Incapable d'agir et avec la Vulnérabilité à tous les dégâts. Si vos points de vie tombent à 0, votre pot se brise et vous reprenez votre forme initiale.
-18 Pendant la minute suivante, vous pouvez vous téléporter jusqu'à 6 mètres par une action Bonus à chacun de vos tours.
-19 Vous et jusqu'à trois créatures de votre choix dans un rayon de 9 mètres obtenez l'état Invisible pendant 1 minute. Cette invisibilité prend fin immédiatement après qu'une créature effectue un jet d'attaque, inflige des dégâts ou lance un sort.
-20 Bouclier spectral pendant 1 minute (+2 CA, immunité Projectile magique).  
-21 Vous gagnez une action supplémentaire ce tour.  
-22 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. confusion
-23 Pendant la minute qui suit, tout objet inflammable et non magique que vous touchez et qui n'est pas porté par une autre créature prend feu, subit 1d4 dégâts de feu et brûle.  
-24 Si vous mourez dans l'heure, Réincarnation immédiate.  
-25 État Effrayé jusqu'à la fin du prochain tour.  
-26 Vous vous téléportez jusqu'à 18 mètres dans un espace inoccupé que vous pouvez voir.
-27 Une créature aléatoire dans un rayon de 18 mètres subit l'état Empoisonné pendant 1d4 heures.
-28 Vous émettez une Lumière vive sur un rayon de 9 mètres pendant la minute suivante. Toute créature qui termine son tour dans un rayon de 1,50 mètre autour de vous subit l'état Aveuglé jusqu'à la fin de son prochain tour.
-29 Jusqu'à trois créatures de votre choix, dans un rayon de 9 mètres et que vous pouvez voir, subissent 1d10 dégâts nécrotiques. Vous récupérez un nombre de points de vie égal à la somme des dégâts nécrotiques infligés.
-30 Jusqu'à trois créatures de votre choix, dans un rayon de 9 mètres et que vous pouvez voir, subissent 4d10 dégâts de foudre.
-31 Vous et toutes les créatures situées dans un rayon de 9 mètres autour de vous avez la Vulnérabilité aux dégâts perforants pendant la prochaine minute. 
-32 vous récupérez 2d10 points de vie  
-33 un allié de votre choix dans un rayon de 90 mètres récupère 2d10 points de vie  
-34 vous récupérez votre emplacement de sort dépensé de plus faible niveau 
-35 Vous parlez Sylvestre pendant 24 h.  
-36 un allié de votre choix dans un rayon de 90 mètres récupère son emplacement de sort dépensé de plus faible niveau
-37 vous récupérez tous vos points de sorcellerie dépensés  
-38 De la mousse recouvre tout dans un rayon de 3 m.  
-39 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. boule de feu  
-40 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. nappe de brouillard 
-41 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. vol sur une créature aléatoire
-42 Vous gagnez 1d6 PV temporaires.  
-43 Une grenouille apparaît et vous adore.  
-44 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. graisse
-45 Vous rétrécissez d'une catégorie de taille pendant 1 minute.  
-46 Votre vitesse augmente de 3 m pendant 1 minute.  
-47 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. lévitation (sur vous même)
-48 Invisibilité jusqu'à votre prochain tour.  
-49 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. projectile magique niv5 
-50 Récupération d'un emplacement de sort de niveau 1.  
-51 Lueurs Féeriques centrées sur vous.  
-52 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. image miroir  
-53 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. métamorphose ( si jsauv raté chèvre)
-54 Vous lancez un sort aléatoire. Si le sort requiert normalement de la concentration, il n'en requiert pas dans ce cas ; le sort dure toute sa durée. detection de l'invisibilité 
-55 Toutes les boissons proches deviennent du jus de pomme.  
-56 votre ombre agit avec un tour de retard sur vous  
-57 Résistance psychique pendant 1 minute.  
-58 Ton maximum de points de vie et tes points de vie actuels augmentent de 2d10. Ton maximum de points de vie reste augmenté de cette manière pendant les prochaines 8 heures. 
-59  Tu subis 2d10 de dégâts nécrotiques, et ton maximum de points de vie est réduit d'un montant égal aux dégâts subis. Cet effet ne peut pas réduire ton maximum de points de vie en dessous de 10 points de vie. Cette réduction dure jusqu'à ce que tu termines un long repos, mais peut être annulée plus tôt par un sort retirer les malédictions ou une magie similaire.
-60 Un écureuil éveillé vous critique pendant 1 heure.  
-61  Tu gagnes un bonus de +1 aux attaques et aux jets de dégâts avec des armes. Ce bonus dure 8 heures. 
-62 Avantage à votre prochain jet de sauvegarde.  
-63 Chaque jet de dégât contre toi ajoute 1d4 du type de dégâts principal. Cela dure jusqu'au prochain long repos.  
-64 Tu obtiens une résistance à l'un des types de dégâts suivants (choisi par le DM) : acide, froid, feu, foudre, ou tonnerre.
-65 Tu obtiens une résistance à l'un des types de dégâts suivants (choisi par le DM) : force, nécrotique, poison, psychique, ou radiant. 
-66 Vol 6 m jusqu'à la fin de votre prochain tour.  
-67 Cinq bibelots féeriques (ou autres objets magiques) apparaissent à tes pieds. 
-68 Tous les animaux deviennent amicaux.  
-69 Votre équipement se couvre de fleurs.  
-70 Vous récupérez 2d6 PV.  
-71 Un arc-en-ciel vous suit pendant 1 minute.  
-72 Pendant les 8 prochaines heures, tu peux ajouter ton bonus de compétence à tes jets d'initiative.  
-73 Vous êtes sous Confusion jusqu'à votre prochain tour.  
-74 Toutes les créatures à 6 m éclatent de rire.  
-75 Des racines envahissent le sol.  
-76 Vous échangez vos vêtements avec un allié.  
-77 Votre prochain sort est lancé un niveau plus haut.  
-78 Vous perdez votre ombre pendant 1 heure.  
-79 Tu peux poser une question. La prochaine fois que tu dormiras, tu recevras un rêve qui pourrait t'aider à répondre à cette question, bien qu'il puisse être cryptique. 
-80 Explosion de pollen (2d6 poison à 3 m).  
-81 Tu tombes immédiatement à 0 points de vie et fais un jet de sauvegarde contre la mort. 
-82 Vision de Zybilna, vous gagnez Inspiration.  
-83 Vos cheveux deviennent des lianes vivantes.  
-84 Une pluie de bonbons tombe dans un rayon de 6 m.  
-85 Vous gagnez une vitesse d'escalade égale à votre vitesse.  
-86  Un objet ou une pièce d'équipement en ta possession (choisi par le DM) disparaît. _L'objet reste à proximité mais dissimulé pendant un court instant._ 
-87 Des lucioles forment votre nom dans les airs.  
-88 Vous flottez comme sous Lévitation pendant 1 minute.  
-89 Une tasse de thé apparaît dans votre main.  
-90 Des champignons colorés poussent sur vos bottes.  
-91 Une voix féerique révèle un secret mineur du lieu.  
-92 Tous les miroirs proches montrent votre futur.  
-93 Votre taille devient aléatoire chaque round pendant 1 minute.  
-94 Une licorne spectrale traverse brièvement la scène.  
-95 Tous les alliés gagnent 1d4 PV temporaires.  
-96 Toute nourriture devient délicieuse pendant 1 heure.  
-97 Un papillon géant vous transporte 18 m.  
-98 Votre prochain test de Charisme bénéficie de l'avantage et ajoute +1d6.
-99 
-100 Vous gagnez Inspiration héroïque.
-
 
 
 # 🎲 Table de Sorcellerie Sauvage Féerique (d100)  
@@ -303,7 +202,7 @@ et -2 en force
 | 88   | Vous flottez comme sous *Lévitation* pendant 1 minute.                                                                                                                                                                                                                                                                                                                     |
 | 89   | Une tasse de thé chaude apparaît dans votre main.                                                                                                                                                                                                                                                                                                                          |
 | 90   | Des champignons colorés poussent sur vos bottes.                                                                                                                                                                                                                                                                                                                           |
-| 91   | Une voix féerique révèle un secret mineur du lieu.                                                                                                                                                                                                                                                                                                                         |
+| 91   | Tu obtiens une résistance à l'un des types de dégâts suivants (choisi par le DM) : acide, froid, feu, foudre, ou tonnerre.                                                                                                                                                                                                                                                 |
 | 92   | Une créature amicale apparaît aléatoirement dans un espace inoccupé dans un rayon de 18 m. Licorne. Elle disparaît après 1 minute.                                                                                                                                                                                                                                         |
 | 93   | Votre taille change aléatoirement chaque round pendant 1 minute.                                                                                                                                                                                                                                                                                                           |
 | 94   | Une créature amicale apparaît aléatoirement dans un espace inoccupé dans un rayon de 18 m. Modron monodrone Elle disparaît après 1 minute.                                                                                                                                                                                                                                 |
