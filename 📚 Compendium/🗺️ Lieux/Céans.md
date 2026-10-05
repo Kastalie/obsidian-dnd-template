@@ -73,8 +73,7 @@ ils prennent la fuite si issue défavorable
 - Peuplée d'arbres éveillés.
 - Les arbres adorent les conversations.
 
-### PNJ important
-
+PNJ important
 **[[🧚‍♀️ Bling-Bling]]**
 
 Gobeline collectionneuse de clés.
@@ -82,8 +81,7 @@ a été victime d'une attaque de conils alors qu'elle partait chercher à manger
 elle demande aux aventuriers de passer une nuit avec elle en échange de la clé.
 Si ils ne repèrent pas les visssepince Bling Bling en devient une.
 
-### Récompense
-
+ Récompense
 La clé permettant de libérer Talavar.
 
 ---
@@ -111,6 +109,17 @@ Au pied 2 serpents Giant constrictor snake éveillés :
 ## Péage des Brigands
 **Agdon Longchâle**
 Conil criminel.
+
+Provocations quand attaques échouées
+- As-tu besoin que je reste immobile pour pouvoir frapper ? Je ne suis pas sûr que cela aiderait.
+- Est-ce votre premier jour à utiliser une épée ?
+- Peut-être que si je me bandais les yeux avec mon foulard, ce serait un combat loyal.
+- Oh, tu connais la magie, n'est-ce pas ? Vous devriez invoquer une... compétence.
+- J'ai combattu des Boggles plus dangereux que toi.
+- Trop têtu pour remettre votre butin, mais trop incompétent pour gagner.
+- Vous avez fait une première impression décevante et cela ne s’améliore pas.
+- Je t'insulterais bien, mais... dans ton cas, je me sentirais mal de m'abaisser si bas.
+
 À retenir
 - Premier grand antagoniste.
 - Vole plutôt qu'il ne tue.
@@ -130,7 +139,13 @@ Le principal village de Céans.
 - Habitants du marais
 
 Endroits importants
-Cour aux Miasmes
+Cour aux Miasmes :
+- **Lord Blackcroak de Mold Mountain.** Il porte un poignard enduit de poison d'araignée géante, attendant son opportunité. Il sera rattrapé très rapidement et expulsé : profitez-en pour montrer à vos joueurs que tout n'est pas comme il semble l'être sur le terrain.
+- **Lady Moistwart de Bogwater.** Elle élabore un plan pour larguer des pierres sur le roi Gullop d'en haut à l'aide d'un ballon : elle a juste besoin d'apprendre à en piloter un.
+- **Duchesse Bloatspew de Rotwood.** Elle essaie d'entraîner le crocodile de sécurité du roi Gullop à aimer le goût de la chair de Bullywug afin qu'en grandissant, il le mange.
+- **Duc Squelchtoe de Slime Gulley.** Il a convaincu le roi Gullop de voler le livre de Bavlorna et espère qu'elle se débarrassera de lui.
+- **Baron Slimetongue de Festerblight.** Il est arrivé à la cour avec les vêtements de la semaine dernière et est constamment ridiculisé. En réalité, il n’a pas de complot d’assassinat et est un optimiste implacable.
+
 Palais du Roi Gullop XIX.
 
 Babiole, Colifichet et Charme
