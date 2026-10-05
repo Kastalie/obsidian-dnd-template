@@ -4204,6 +4204,93 @@
         "reactions": [],
         "legendary_actions": []
       }
+    ],
+    [
+      "Meenlock",
+      {
+        "name": "Meenlock",
+        "size": "Petite",
+        "type": "fée",
+        "alignment": "généralement neutre mauvaise",
+        "ac": 15,
+        "hp": 31,
+        "hit_dice": "7d6 + 7",
+        "speed": "9 m",
+        "initiative": "+2 (12)",
+        "stats": [
+          7,
+          15,
+          12,
+          11,
+          10,
+          8
+        ],
+        "saves": [
+          {
+            "strength": -2
+          },
+          {
+            "dexterity": 2
+          },
+          {
+            "constitution": 1
+          },
+          {
+            "intelligence": 0
+          },
+          {
+            "wisdom": 0
+          },
+          {
+            "charisma": -1
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 4
+          },
+          {
+            "discrétion": 6
+          },
+          {
+            "survie": 2
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "effrayé",
+        "senses": "vision dans le noir 36 m, Perception passive 14",
+        "languages": "télépathie 36 m",
+        "cr": "2",
+        "traits": [
+          {
+            "name": "Aura de peur",
+            "desc": "Toute Bête ou créature humanoïde qui commence son tour dans un rayon de 3 m du meenlock doit réussir un jet de sauvegarde de Sagesse DD 11 ou être effrayée jusqu'au début de son prochain tour."
+          },
+          {
+            "name": "Sensibilité à la lumière",
+            "desc": "En lumière vive, le meenlock est désavantagé aux jets d'attaque ainsi qu'aux tests de Sagesse (Perception) basés sur la vue."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Griffe",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 7 (2d4 + 2) dégâts tranchants et la cible doit réussir un jet de sauvegarde de Constitution DD 11 ou être paralysée pendant 1 minute. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet en cas de réussite.",
+            "attack_bonus": 4,
+            "damage_dice": "2d4",
+            "damage_bonus": 2
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Téléportation des ombres (Recharge 5-6)",
+            "desc": "Le meenlock se téléporte dans un espace inoccupé situé dans un rayon de 9 m, à condition que son point de départ et sa destination soient tous deux dans une lumière faible ou dans l'obscurité. La destination n'a pas besoin d'être visible."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {
