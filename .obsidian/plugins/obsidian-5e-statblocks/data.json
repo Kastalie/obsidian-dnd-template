@@ -5876,6 +5876,356 @@
         "reactions": [],
         "legendary_actions": []
       }
+    ],
+    [
+      "Tove",
+      {
+        "name": "Tove",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Petite",
+        "type": "bête",
+        "alignment": "non aligné",
+        "ac": 12,
+        "hp": 7,
+        "hit_dice": "2d6",
+        "speed": "7,50 m, fouissement 3 m",
+        "initiative": "+2 (12)",
+        "stats": [
+          7,
+          14,
+          11,
+          4,
+          12,
+          8
+        ],
+        "skillsaves": [
+          {
+            "perception": 3
+          }
+        ],
+        "senses": "perception des vibrations 3 m, Perception passive 13",
+        "languages": "",
+        "cr": "1/4",
+        "traits": [
+          {
+            "name": "Charge perforante",
+            "desc": "Si le tove se déplace d'au moins 3 m en ligne droite avant de toucher une cible avec son attaque Tire-bouchon, l'attaque inflige 1d4 dégâts perforants supplémentaires."
+          },
+          {
+            "name": "Odorat développé",
+            "desc": "Le tove est avantagé aux tests de Sagesse (Perception) basés sur l'odorat."
+          },
+          {
+            "name": "Visseux",
+            "desc": "Les tests de Force visant à agripper le tove sont effectués avec désavantage. Le tove est avantagé aux tests de Dextérité visant à échapper à un agrippement ou à l'état entravé."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Tire-bouchon",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants.",
+            "attack_bonus": 4,
+            "damage_dice": "1d4",
+            "damage_bonus": 2
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Toasted-cheese",
+      {
+        "name": "Toasted-cheese",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Petite",
+        "type": "humanoïde",
+        "subtype": "gobelin",
+        "alignment": "chaotique mauvais",
+        "ac": 14,
+        "hp": 33,
+        "hit_dice": "6d6 + 12",
+        "speed": "9 m",
+        "initiative": "+3 (13)",
+        "stats": [
+          10,
+          16,
+          14,
+          10,
+          14,
+          8
+        ],
+        "skillsaves": [
+          {
+            "dressage": 4
+          },
+          {
+            "nature": 2
+          },
+          {
+            "perception": 2
+          },
+          {
+            "survie": 6
+          },
+          {
+            "discrétion": 7
+          }
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 12",
+        "languages": "gobelin, sylvestre, commun",
+        "cr": "2",
+        "traits": [
+          {
+            "name": "Chasseur et Snark",
+            "desc": "Toasted-cheese et Snark partagent le même tour d'initiative. Lorsque Toasted-cheese se déplace alors qu'il chevauche Snark, il peut utiliser la vitesse de déplacement de Snark comme s'il s'agissait de la sienne."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Toasted-cheese effectue deux attaques de Lance-pierres. La seconde attaque est effectuée avec désavantage."
+          },
+          {
+            "name": "Lance-pierres +1",
+            "desc": "Attaque d'arme à distance : +6 pour toucher, portée 9/36 m, une cible. Touché : 6 (1d4 + 4) dégâts contondants. Si la cible est une bête, elle subit 3 (1d6) dégâts contondants supplémentaires.",
+            "attack_bonus": 6,
+            "damage_dice": "1d4",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Couteau",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Ennemi favori",
+            "desc": "Toasted-cheese désigne une créature qu'il voit dans un rayon de 9 m comme sa proie. Tant qu'il ne désigne pas une autre créature, il inflige 1d4 dégâts contondants supplémentaires avec ses attaques de lance-pierres contre cette cible."
+          },
+          {
+            "name": "Évasion agile",
+            "desc": "Le gobelin entreprend l'action Se désengager ou Se cacher."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Repli tactique",
+            "desc": "Tant qu'il chevauche Snark, Toasted-cheese peut se déplacer jusqu'à la moitié de leur vitesse en réaction à une créature hostile terminant son tour dans un rayon de 1,50 m. Ce déplacement ne provoque pas d'attaques d'opportunité."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Snark",
+      {
+        "name": "Snark",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "mort-vivant",
+        "alignment": "non aligné",
+        "ac": 14,
+        "hp": 15,
+        "hit_dice": "2d8 + 6",
+        "speed": "12 m",
+        "initiative": "+2 (12)",
+        "stats": [
+          13,
+          14,
+          16,
+          3,
+          12,
+          7
+        ],
+        "skillsaves": [
+          {
+            "perception": 5
+          },
+          {
+            "discrétion": 4
+          }
+        ],
+        "damage_immunities": "poison",
+        "condition_immunities": "empoisonné",
+        "senses": "vision dans le noir 18 m, Perception passive 15",
+        "languages": "",
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Chasseur et Snark",
+            "desc": "Toasted-cheese et Snark partagent le même tour d'initiative. Lorsque Toasted-cheese se déplace alors qu'il chevauche Snark, il peut utiliser la vitesse de déplacement de Snark comme s'il s'agissait de la sienne."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 13 ou être empoisonnée. Une créature empoisonnée peut répéter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet prend fin. En cas d'échec, elle reste empoisonnée pendant 10 minutes et est paralysée tant qu'elle est empoisonnée de cette manière.",
+            "attack_bonus": 3,
+            "damage_dice": "1d6",
+            "damage_bonus": 1
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Whiffle",
+      {
+        "name": "Whiffle",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Grande",
+        "type": "élémentaire",
+        "alignment": "chaotique neutre",
+        "ac": 15,
+        "hp": 75,
+        "hit_dice": "10d10 + 20",
+        "speed": "0 m, vol 18 m (stationnaire)",
+        "initiative": "+5 (15)",
+        "stats": [
+          14,
+          20,
+          14,
+          8,
+          10,
+          11
+        ],
+        "skillsaves": [
+          {
+            "perception": 3
+          },
+          {
+            "nature": 2
+          }
+        ],
+        "damage_resistances": "foudre, tonnerre, contondants, perforants et tranchants des attaques non magiques",
+        "damage_immunities": "poison",
+        "condition_immunities": "épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé",
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "languages": "auran, sylvestre",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Forme aérienne",
+            "desc": "L'élémentaire peut entrer dans l'espace d'une créature hostile et s'y arrêter. Il peut traverser une ouverture d'à peine 2,5 cm de large sans devoir se faufiler."
+          },
+          {
+            "name": "Essence fétide",
+            "desc": "Au début de son tour, Whiffle peut choisir que sa substance soit nauséabonde ou non (aucune action requise).\nLorsqu'il est nauséabond, toute créature qui commence son tour dans le même espace que Whiffle doit réussir un jet de sauvegarde de Constitution DD 13 contre le poison. En cas d'échec, la créature passe son action à vomir et vaciller.\nLes créatures qui n'ont pas besoin de respirer ou qui sont immunisées contre le poison réussissent automatiquement ce jet de sauvegarde.\nTant qu'il est nauséabond, Whiffle est vulnérable aux dégâts de feu. Lorsqu'il subit des dégâts de feu dans cet état, toute créature présente dans son espace subit la moitié de ces dégâts de feu."
+          },
+          {
+            "name": "Odorat développé",
+            "desc": "Whiffle est avantagé aux tests de Sagesse (Perception) basés sur l'odorat."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Coup",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 11 (2d8 + 2) dégâts contondants plus 4 (1d8) dégâts de poison si Whiffle est nauséabond.",
+            "attack_bonus": 5,
+            "damage_dice": "2d8",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Tourbillon (Recharge 4-6)",
+            "desc": "Chaque créature dans l'espace de Whiffle doit effectuer un jet de sauvegarde de Force DD 13. En cas d'échec, elle subit 11 (2d8 + 2) dégâts contondants, est projetée jusqu'à 6 m dans une direction aléatoire et tombe à terre.\nSi une créature projetée percute un objet solide, elle subit 3 (1d6) dégâts contondants supplémentaires pour chaque tranche de 3 m parcourue.\nSi elle est projetée contre une autre créature, cette dernière doit réussir un jet de sauvegarde de Dextérité DD 13 ou subir les mêmes dégâts et tomber à terre.\nEn cas de réussite au jet de sauvegarde initial, la cible subit seulement la moitié des dégâts contondants et n'est ni projetée ni renversée."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Sobella de Danzeluce",
+      {
+        "name": "Sobella de Danzeluce",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "fée",
+        "subtype": "elfe",
+        "alignment": "neutre",
+        "ac": 12,
+        "hp": 44,
+        "hit_dice": "8d8 + 8",
+        "speed": "9 m",
+        "initiative": "+2 (12)",
+        "stats": [
+          10,
+          15,
+          13,
+          16,
+          8,
+          13
+        ],
+        "skillsaves": [
+          {
+            "acrobaties": 5
+          },
+          {
+            "histoire": 6
+          },
+          {
+            "représentation": 4
+          }
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 12",
+        "languages": "elfique, sylvestre, commun, shakespearien",
+        "cr": "2",
+        "traits": [
+          {
+            "name": "Coup de foudre",
+            "desc": "Sobella est charmée par la première créature qu'elle voit après avoir terminé un repos long et considère cette créature comme son grand amour. Si elle devient ainsi charmée par une nouvelle créature, l'effet précédent prend fin. Si Sobella voit une autre créature alors qu'elle ne voit plus l'objet de son affection, elle devient charmée par cette nouvelle créature. Lorsqu'elle voit plusieurs créatures simultanément, celle dont le score de Charisme est le plus élevé est prioritaire."
+          },
+          {
+            "name": "Pot de colle",
+            "desc": "Sobella est avantagée aux tests de Force (Athlétisme) visant à agripper ou maintenir agrippée une créature qui l'a charmée."
+          },
+          {
+            "name": "Mal d'amour",
+            "desc": "Tant qu'elle n'agrippe pas une créature qui l'a charmée, Sobella émet une présence mélancolique. Toute créature qui commence son tour dans un rayon de 18 m doit réussir un jet de sauvegarde d'Intelligence DD 12, à moins d'être immunisée contre l'état charmé. En cas d'échec, elle subit un désavantage aux tests de caractéristique et aux jets de sauvegarde. Elle peut répéter ce jet à la fin de chacun de ses tours."
+          },
+          {
+            "name": "Résistance à la magie",
+            "desc": "Sobella est avantagée aux jets de sauvegarde contre les sorts et autres effets magiques."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Griffes",
+            "desc": "Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts tranchants plus 5 (2d4) dégâts psychiques.",
+            "attack_bonus": 3,
+            "damage_dice": "1d4"
+          },
+          {
+            "name": "Soupir mélancolique",
+            "desc": "Une créature que Sobella voit dans un rayon de 18 m doit réussir un jet de sauvegarde de Constitution DD 12 ou subir 10 (3d6) dégâts de froid. Une créature qui échoue subit un désavantage à la prochaine attaque qu'elle effectue avant la fin du prochain tour de Sobella."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Étreinte",
+            "desc": "Sobella tente d'agripper une créature qui l'a charmée."
+          },
+          {
+            "name": "Pas féerique (Recharge 4-6)",
+            "desc": "Sobella se téléporte jusqu'à 9 m vers un espace inoccupé qu'elle voit. Si elle agrippe une créature qui l'a charmée, elle peut la téléporter avec elle. La créature apparaît dans un espace inoccupé situé dans un rayon de 1,50 m de la destination et reste agrippée."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Représailles glaciales (3/jour)",
+            "desc": "Lorsqu'une créature que Sobella voit dans un rayon de 9 m lui inflige des dégâts, cette créature doit réussir un jet de sauvegarde de Constitution DD 12 ou subir 11 (2d10) dégâts de froid."
+          }
+        ],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {
