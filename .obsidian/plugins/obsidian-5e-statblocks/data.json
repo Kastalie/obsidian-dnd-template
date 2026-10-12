@@ -4291,6 +4291,136 @@
         "reactions": [],
         "legendary_actions": []
       }
+    ],
+    [
+      "Fée",
+      {
+        "name": "Fée",
+        "size": "Petite",
+        "type": "fée",
+        "alignment": "au choix",
+        "ac": 10,
+        "hp": 3,
+        "hit_dice": "1d6",
+        "speed": "9 m, vol 9 m",
+        "initiative": "+0 (10)",
+        "stats": [
+          10,
+          11,
+          10,
+          10,
+          10,
+          12
+        ],
+        "saves": [
+          {
+            "strength": 0
+          },
+          {
+            "dexterity": 0
+          },
+          {
+            "constitution": 0
+          },
+          {
+            "intelligence": 0
+          },
+          {
+            "wisdom": 0
+          },
+          {
+            "charisma": 1
+          }
+        ],
+        "senses": "Perception passive 10",
+        "languages": "sylvestre, 1 ou 2 autres langues",
+        "cr": "0",
+        "traits": [
+          {
+            "name": "Ailes de fée",
+            "desc": "La fée ne peut pas utiliser sa vitesse de vol lorsqu'elle porte une armure intermédiaire ou lourde."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Gourdin",
+            "desc": "Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts contondants.",
+            "attack_bonus": 2,
+            "damage_dice": "1d4",
+            "damage_bonus": 0
+          },
+          {
+            "name": "Incantation druidique",
+            "desc": "La fée lance le sort druidisme. Le Charisme est sa caractéristique d'incantation."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Courtisan féerique",
+      {
+        "name": "Courtisan féerique",
+        "size": "Petite",
+        "type": "fée",
+        "alignment": "au choix",
+        "ac": 12,
+        "hp": 7,
+        "hit_dice": "2d6",
+        "speed": "9 m, vol 9 m",
+        "initiative": "+2 (12)",
+        "stats": [
+          9,
+          15,
+          10,
+          13,
+          12,
+          17
+        ],
+        "skillsaves": [
+          {
+            "tromperie": 5
+          },
+          {
+            "intuition": 3
+          },
+          {
+            "persuasion": 5
+          }
+        ],
+        "senses": "Perception passive 11",
+        "languages": "sylvestre, elfique, gobelin, commun",
+        "cr": "1/8",
+        "traits": [
+          {
+            "name": "Ailes de fée",
+            "desc": "Le courtisan féerique ne peut pas utiliser sa vitesse de vol lorsqu'il porte une armure intermédiaire ou lourde."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Éclat féerique",
+            "desc": "Attaque de sort au corps à corps : +5 pour toucher, allonge 3 m, une créature. Touché : 5 (2d4) dégâts psychiques et la cible doit réussir un jet de sauvegarde de Sagesse DD 13 ou être charmée par le courtisan jusqu'au début du prochain tour de celui-ci.",
+            "attack_bonus": 5,
+            "damage_dice": "2d4",
+            "damage_bonus": 0
+          },
+          {
+            "name": "Incantation druidique",
+            "desc": "Le courtisan féerique lance le sort druidisme. Le Charisme est sa caractéristique d'incantation."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Immunité diplomatique (1/jour)",
+            "desc": "Le courtisan féerique lance sanctuaire sur lui-même. Le Charisme est sa caractéristique d'incantation (DD 13)."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {
