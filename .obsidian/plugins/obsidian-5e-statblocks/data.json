@@ -5614,6 +5614,194 @@
         "reactions": [],
         "legendary_actions": []
       }
+    ],
+    [
+      "Jeune froghémoth",
+      {
+        "name": "Jeune froghémoth",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Grande",
+        "type": "monstruosité",
+        "alignment": "non aligné",
+        "ac": 15,
+        "hp": 95,
+        "hit_dice": "10d10 + 40",
+        "speed": "9 m, nage 9 m",
+        "initiative": "+2 (12)",
+        "stats": [
+          19,
+          14,
+          18,
+          2,
+          11,
+          5
+        ],
+        "saves": [
+          {
+            "constitution": 7
+          },
+          {
+            "wisdom": 3
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 6
+          },
+          {
+            "discrétion": 5
+          }
+        ],
+        "damage_resistances": "feu, foudre",
+        "senses": "vision dans le noir 18 m, Perception passive 16",
+        "languages": "",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Amphibie",
+            "desc": "Le froghémoth peut respirer aussi bien dans l'air que sous l'eau."
+          },
+          {
+            "name": "Sensibilité à la foudre",
+            "desc": "Si le froghémoth subit des dégâts de foudre, il subit les effets suivants jusqu'à la fin de son prochain tour  sa vitesse est réduite de moitié, il subit un malus de 2 à sa CA et à ses jets de sauvegarde de Dextérité, il ne peut pas utiliser de réactions ni d'Attaques multiples, et à son tour il ne peut utiliser qu'une action ou une action bonus, mais pas les deux."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le froghémoth effectue deux attaques de Tentacule et une attaque de Morsure. Il peut remplacer l'attaque de Morsure par Langue."
+          },
+          {
+            "name": "Tentacule",
+            "desc": "Attaque d'arme au corps à corps : +8 pour toucher, allonge 3 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants, et la cible est agrippée (DD d'évasion 14) si elle est de taille Grande ou inférieure. Tant que l'agrippement persiste, le froghémoth ne peut pas utiliser ce tentacule contre une autre cible. Le froghémoth possède quatre tentacules.",
+            "attack_bonus": 8,
+            "damage_dice": "2d6",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts perforants.",
+            "attack_bonus": 8,
+            "damage_dice": "2d8",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Langue",
+            "desc": "Une créature de taille M ou inférieure que le froghémoth voit dans un rayon de 4,50 m doit réussir un jet de sauvegarde de Force DD 15. En cas d'échec, la cible est attirée dans un espace inoccupé situé dans un rayon de 1,50 m du froghémoth, puis celui-ci peut effectuer une attaque de Morsure contre elle en tant qu'action bonus."
+          },
+          {
+            "name": "Avaler",
+            "desc": "Le froghémoth effectue une attaque de Morsure contre une cible de taille M ou inférieure qu'il agrippe. Si l'attaque touche, la cible est avalée et l'agrippement prend fin.\nUne créature avalée est aveuglée et entravée, bénéficie d'un abri total contre les effets extérieurs au froghémoth et subit 10 (3d6) dégâts d'acide au début de chacun des tours du froghémoth.\nLe froghémoth ne peut avoir qu'une seule créature avalée à la fois.\nSi une créature à l'intérieur inflige au moins 15 dégâts au froghémoth lors d'un même tour, celui-ci doit réussir un jet de sauvegarde de Constitution DD 20 à la fin de ce tour ou régurgiter la créature avalée, qui tombe à terre dans un espace situé dans un rayon de 1,50 m.\nSi le froghémoth meurt, la créature avalée n'est plus entravée et peut quitter le cadavre en dépensant 3 m de déplacement. Elle ressort à terre."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Gabbigal la Guenaude des langues",
+      {
+        "name": "Gabbigal la Guenaude des langues",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "fée",
+        "subtype": "guenaude",
+        "alignment": "neutre",
+        "ac": 16,
+        "hp": 75,
+        "hit_dice": "10d8 + 30",
+        "speed": "9 m (6 m lorsqu'elle est encombrée)",
+        "initiative": "+1 (11)",
+        "stats": [
+          18,
+          12,
+          16,
+          17,
+          15,
+          14
+        ],
+        "saves": [
+          {
+            "intelligence": 5
+          },
+          {
+            "wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "arcanes": 5
+          },
+          {
+            "intuition": 4
+          },
+          {
+            "tromperie": 4
+          },
+          {
+            "perception": 4
+          },
+          {
+            "persuasion": 4
+          },
+          {
+            "histoire": 5
+          }
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 14",
+        "languages": "commun, elfique, sylvestre, gobelin, aquatique, terreux, abyssal, géant, gnome, brutacien",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Résistance au charme",
+            "desc": "La guenaude est avantagée aux jets de sauvegarde contre l'état charmé et contre les effets qui la forceraient à dire la vérité."
+          },
+          {
+            "name": "Imitation",
+            "desc": "La guenaude peut imiter des sons d'animaux et des voix humanoïdes. Une créature qui entend ces sons peut reconnaître l'imitation en réussissant un test de Sagesse (Intuition) DD 14."
+          },
+          {
+            "name": "Équipement spécial",
+            "desc": "Gabbigal porte un couteau à steak magique possédant les mêmes propriétés qu'un périapte de fermeture des blessures. Elle porte généralement un immense sac à dos possédant les propriétés d'un havresac pratique de Heward, pesant 45 kg et contenant jusqu'à dix fois la capacité normale de l'objet. Il renferme sa collection de bocaux à langues ainsi que du matériel et des ingrédients de cuisine. Lorsqu'elle le porte, Gabbigal est encombrée."
+          },
+          {
+            "name": "Magie de guenaude",
+            "desc": "Gabbigal peut lancer les sorts suivants, l'Intelligence étant sa caractéristique d'incantation (DD 13).\nÀ volonté - message - illusion mineure - moquerie cruelle\n2/jour chacun - malédiction (niveau 5) - bouche magique - silence - rire hideux de Tasha - langues - zone de vérité"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Gabbigal effectue une attaque de Griffes et une attaque de Coup de sac à dos, chacune contre une créature différente. Avant ou après ces attaques, elle peut lancer un sort dont le temps d'incantation est d'une action."
+          },
+          {
+            "name": "Coup de sac à dos",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature. Touché : 5 (1d10) dégâts contondants. Si la cible est de taille M ou inférieure, elle doit réussir un jet de sauvegarde de Force DD 14 ou tomber à terre.",
+            "attack_bonus": 6,
+            "damage_dice": "1d10"
+          },
+          {
+            "name": "Griffes",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+            "attack_bonus": 6,
+            "damage_dice": "2d6",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Passage invisible",
+            "desc": "Gabbigal devient magiquement invisible jusqu'à ce qu'elle attaque, lance un sort ou cesse de se concentrer sur cet effet (comme si elle se concentrait sur un sort). Tant qu'elle est invisible, elle ne laisse aucune trace physique de son passage et ne peut être pistée que par des moyens magiques. L'équipement qu'elle porte ou transporte devient également invisible."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [
+          {
+            "name": "Langue liée",
+            "desc": "Lorsqu'une créature que Gabbigal voit dans un rayon de 9 m tente de lancer un sort comportant une composante verbale, Gabbigal peut l'obliger à effectuer un jet de sauvegarde de Constitution DD 13. En cas d'échec, le sort échoue mais l'emplacement de sort n'est pas dépensé."
+          }
+        ],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {
