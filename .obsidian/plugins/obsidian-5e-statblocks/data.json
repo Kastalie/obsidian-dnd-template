@@ -4421,6 +4421,85 @@
         "reactions": [],
         "legendary_actions": []
       }
+    ],
+    [
+      "Arcaniste féerique",
+      {
+        "name": "Arcaniste féerique",
+        "size": "Petite",
+        "type": "fée",
+        "subtype": "magicien",
+        "alignment": "au choix",
+        "ac": 12,
+        "hp": 27,
+        "hit_dice": "6d6 + 6",
+        "speed": "9 m, vol 9 m",
+        "initiative": "+2 (12)",
+        "stats": [
+          10,
+          14,
+          12,
+          17,
+          13,
+          14
+        ],
+        "saves": [
+          {
+            "intelligence": 6
+          },
+          {
+            "wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "arcanes": 6
+          },
+          {
+            "investigation": 6
+          }
+        ],
+        "senses": "Perception passive 11",
+        "languages": "sylvestre, elfique, commun, 1 autre langue",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Ailes de fée",
+            "desc": "L'arcaniste féerique ne peut pas utiliser sa vitesse de vol lorsqu'il porte une armure intermédiaire ou lourde."
+          },
+          {
+            "name": "Résistance à la magie",
+            "desc": "L'arcaniste féerique est avantagé aux jets de sauvegarde contre les sorts."
+          },
+          {
+            "name": "Magie profane",
+            "desc": "L'arcaniste peut lancer les sorts suivants, l'Intelligence étant sa caractéristique d'incantation (DD 14, +6 au toucher avec les attaques de sort)."
+          },
+          {
+            "name": "Lanceur de rituels",
+            "desc": "L'arcaniste peut lancer détection de la magie, identification et serviteur invisible à volonté, mais le temps d'incantation normal de ces sorts est augmenté de 10 minutes."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Trait élémentaire",
+            "desc": "Attaque de sort à distance : +6 pour toucher, portée 27 m, une cible. Touché : 7 (1d8 + 3) dégâts de force, plus 9 (2d8) dégâts de froid, de feu ou de foudre (au choix de l'arcaniste). Jusqu'à la fin du prochain tour de l'arcaniste, la cible est imprégnée de cette énergie. La première fois qu'elle subit des dégâts de ce type avant l'expiration de l'effet, ces dégâts augmentent de 4 (1d8).",
+            "attack_bonus": 6,
+            "damage_dice": "1d8",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Rayon élémentaire (Recharge après un repos court ou long)",
+            "desc": "Chaque créature dans une ligne de 1,50 m de large sur 30 m de long issue de l'arcaniste doit effectuer un jet de sauvegarde de Dextérité DD 14. Une cible subit 28 (8d6) dégâts de froid, de feu ou de foudre (au choix de l'arcaniste, identique pour toutes les cibles) en cas d'échec, ou la moitié en cas de réussite."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Pas féerique (2/jour)",
+            "desc": "L'arcaniste se téléporte jusqu'à 9 m vers un espace inoccupé qu'il voit."
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {
