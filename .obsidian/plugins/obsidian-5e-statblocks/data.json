@@ -4838,6 +4838,549 @@
         ],
         "legendary_actions": []
       }
+    ],
+    [
+      "Druide féerique des venins",
+      {
+        "name": "Druide féerique des venins",
+        "size": "Petite",
+        "type": "fée",
+        "subtype": "druide",
+        "alignment": "au choix",
+        "ac": 17,
+        "hp": 71,
+        "hit_dice": "11d6 + 33",
+        "speed": "9 m, vol 9 m",
+        "initiative": "+3 (13)",
+        "stats": [
+          15,
+          17,
+          16,
+          12,
+          16,
+          15
+        ],
+        "saves": [
+          {
+            "dexterity": 6
+          },
+          {
+            "wisdom": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "dressage": 6
+          },
+          {
+            "nature": 4
+          },
+          {
+            "perception": 6
+          },
+          {
+            "survie": 6
+          }
+        ],
+        "damage_resistances": "poison",
+        "senses": "vision aveugle 3 m, Perception passive 16",
+        "languages": "sylvestre, 1 autre langue",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Communication avec les bêtes",
+            "desc": "Le druide féerique peut communiquer avec les bêtes comme s'ils partageaient une langue commune."
+          },
+          {
+            "name": "Ailes de fée",
+            "desc": "Le druide féerique ne peut pas utiliser sa vitesse de vol lorsqu'il porte une armure intermédiaire ou lourde."
+          },
+          {
+            "name": "Magie druidique",
+            "desc": "Le druide peut lancer les sorts suivants, la Sagesse étant sa caractéristique d'incantation (DD 14). À volonté druidisme, jet de poison (2d12 dégâts de poison). 2/jour chacun domination d'animal, insecte géant, protection contre le poison.1/jour chacun éveil, nuée d'insectes,  métamorphose"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le druide effectue une attaque de Griffe, une attaque de Morsure et une attaque de Dard."
+          },
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants plus 7 (2d6) dégâts de poison.",
+            "attack_bonus": 6,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Griffe",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 8 (2d4 + 3) dégâts tranchants plus 3 (1d6) dégâts d'acide.",
+            "attack_bonus": 6,
+            "damage_dice": "2d4",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Dard",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature. Touché : 5 (1d4 + 3) dégâts perforants. La cible doit réussir un jet de sauvegarde de Constitution DD 14. En cas d'échec, elle subit 14 (4d6) dégâts de poison, ou la moitié en cas de réussite. Une cible qui échoue est empoisonnée pendant 1 minute. Si elle échoue de 5 ou plus, elle est paralysée tant qu'elle est empoisonnée de cette manière. Elle peut répéter le jet de sauvegarde à la fin de chacun de ses tours.",
+            "attack_bonus": 6,
+            "damage_dice": "1d4",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Bond d'insecte",
+            "desc": "Le druide se métamorphose magiquement en un insecte volant de taille Très Petite, vole jusqu'à 6 m sans provoquer d'attaques d'opportunité, puis reprend immédiatement sa forme normale."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Druide féerique des verdures",
+      {
+        "name": "Druide féerique des verdures",
+        "size": "Petite",
+        "type": "fée",
+        "subtype": "druide",
+        "alignment": "au choix",
+        "ac": 16,
+        "hp": 58,
+        "hit_dice": "9d6 + 27",
+        "speed": "9 m, vol 9 m",
+        "initiative": "+2 (12)",
+        "stats": [
+          10,
+          14,
+          16,
+          16,
+          18,
+          16
+        ],
+        "saves": [
+          {
+            "intelligence": 6
+          },
+          {
+            "wisdom": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "médecine": 7
+          },
+          {
+            "nature": 9
+          }
+        ],
+        "senses": "perception des vibrations 6 m, Perception passive 14",
+        "languages": "sylvestre, elfique, 2 autres langues",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Lien avec la terre",
+            "desc": "Lorsque le druide termine son tour au contact du sol, il récupère 10 points de vie. De plus, les plantes ont un désavantage aux jets d'attaque contre lui."
+          },
+          {
+            "name": "Ailes de fée",
+            "desc": "Le druide féerique ne peut pas utiliser sa vitesse de vol lorsqu'il porte une armure intermédiaire ou lourde."
+          },
+          {
+            "name": "Pieds verts",
+            "desc": "Le druide ne peut pas être blessé ni ralenti par un terrain difficile constitué de végétation naturelle ou magique. Cela inclut notamment les effets des sorts enchevêtrement, croissance végétale et pousse d'épines."
+          },
+          {
+            "name": "Magie druidique",
+            "desc": "Le druide peut lancer les sorts suivants, la Sagesse étant sa caractéristique d'incantation (DD 15, +7 au toucher avec les attaques de sort).\nÀ volonté - druidisme - communication avec les plantes - localisation des animaux ou des plantes\n2/jour chacun - enchevêtrement - baies nourricières - pousse d'épines\n1/jour chacun - communion avec la nature - croissance végétale - traversée des arbres"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le druide effectue deux attaques. À la place de l'une de ces attaques, il peut lancer un sort dont le temps d'incantation est d'une action."
+          },
+          {
+            "name": "Fouet verdoyant",
+            "desc": "Attaque de sort au corps à corps : +7 pour toucher, allonge 9 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants plus 7 (2d6) dégâts perforants. Si la cible est de taille Grande ou inférieure, le druide peut l'attirer jusqu'à 3 m vers lui.",
+            "attack_bonus": 7,
+            "damage_dice": "2d6",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Lianes entravantes",
+            "desc": "Attaque de sort au corps à corps : +7 pour toucher, allonge 3 m, une créature de taille Grande ou inférieure. Touché : la cible est entravée par des lianes épineuses. Tant qu'elle est entravée de cette manière, elle subit 10 (3d6) dégâts perforants au début de chacun de ses tours, sauf si le druide choisit de ne pas infliger ces dégâts. Une créature entravée ou une créature située à son contact peut utiliser son action pour effectuer un test de Force (Athlétisme) DD 15 et libérer la cible en cas de réussite.",
+            "attack_bonus": 7
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Végétation luxuriante",
+            "desc": "Le druide cible un point qu'il voit dans un rayon de 9 m et crée magiquement une zone de terrain difficile dans un cube de 4,50 m d'arête ayant ce point pour origine. Cette zone est constituée de plantes magiques et persiste pendant 10 minutes."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Rôdeur féerique",
+      {
+        "name": "Rôdeur féerique",
+        "size": "Petite",
+        "type": "fée",
+        "subtype": "rôdeur",
+        "alignment": "au choix",
+        "ac": 16,
+        "hp": 65,
+        "hit_dice": "10d6 + 30",
+        "speed": "9 m, vol 12 m",
+        "initiative": "+5 (15)",
+        "stats": [
+          13,
+          20,
+          16,
+          12,
+          16,
+          12
+        ],
+        "saves": [
+          {
+            "dexterity": 8
+          }
+        ],
+        "skillsaves": [
+          {
+            "dressage": 6
+          },
+          {
+            "athlétisme": 4
+          },
+          {
+            "nature": 4
+          },
+          {
+            "perception": 6
+          },
+          {
+            "discrétion": 8
+          },
+          {
+            "survie": 9
+          }
+        ],
+        "senses": "Perception passive 16",
+        "languages": "sylvestre, 2 autres langues",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Ailes de fée",
+            "desc": "Le rôdeur féerique ne peut pas utiliser sa vitesse de vol lorsqu'il porte une armure intermédiaire ou lourde."
+          },
+          {
+            "name": "Magie druidique",
+            "desc": "Le rôdeur peut lancer les sorts suivants, la Sagesse étant sa caractéristique d'incantation (DD 14).\nÀ volonté - alarme - druidisme - communication avec les animaux\n1/jour chacun - barrage de projectiles - lueurs féeriques - passe sans trace - collet"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le rôdeur effectue deux attaques."
+          },
+          {
+            "name": "Arc court",
+            "desc": "Attaque d'arme à distance : +8 pour toucher, portée 24/96 m, une cible. Touché : 8 (1d6 + 5) dégâts perforants.",
+            "attack_bonus": 8,
+            "damage_dice": "1d6",
+            "damage_bonus": 5
+          },
+          {
+            "name": "Couteau",
+            "desc": "Attaque d'arme au corps à corps ou à distance : +8 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 7 (1d4 + 5) dégâts tranchants.",
+            "attack_bonus": 8,
+            "damage_dice": "1d4",
+            "damage_bonus": 5
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Proie du chasseur",
+            "desc": "Le rôdeur désigne une créature qu'il voit dans un rayon de 24 m. Tant qu'il ne désigne pas une autre créature, il inflige 3 (1d6) dégâts supplémentaires chaque fois qu'il touche cette cible avec une attaque d'arme."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Esquive instinctive",
+            "desc": "Le rôdeur réduit de moitié les dégâts d'une attaque qui le touche. Il doit pouvoir voir l'attaquant."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Savant féerique des métamorphoses",
+      {
+        "name": "Savant féerique des métamorphoses",
+        "size": "Petite",
+        "type": "fée",
+        "alignment": "au choix",
+        "ac": 17,
+        "hp": 75,
+        "hit_dice": "10d6 + 40",
+        "speed": "9 m, vol 9 m",
+        "initiative": "+2 (12)",
+        "stats": [
+          12,
+          15,
+          18,
+          14,
+          12,
+          19
+        ],
+        "skillsaves": [
+          {
+            "médecine": 4
+          },
+          {
+            "perception": 7
+          }
+        ],
+        "senses": "Perception passive 17",
+        "languages": "sylvestre, 2 autres langues",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Maîtrise du corps",
+            "desc": "Le savant réussit automatiquement les jets de sauvegarde contre les sorts et effets qui modifieraient sa forme."
+          },
+          {
+            "name": "Chair malléable",
+            "desc": "Le savant est avantagé aux tests de caractéristique visant à éviter ou à échapper à un agrippement ou à l'état entravé."
+          },
+          {
+            "name": "Magie féerique",
+            "desc": "Le savant peut lancer les sorts suivants sans composantes matérielles, le Charisme étant sa caractéristique d'incantation (DD 15).\nÀ volonté - druidisme - altération d'apparence - agrandissement/rétrécissement\n3/jour chacun - vision dans le noir - métamorphose - forme gazeuse\n1/jour - régénération"
+          },
+          {
+            "name": "Expert en métamorphose",
+            "desc": "Lorsque le savant est sous l'effet du sort métamorphose, ses valeurs d'Intelligence, de Sagesse et de Charisme ne sont pas remplacées par celles de la forme adoptée."
+          },
+          {
+            "name": "Sculpture vivante",
+            "desc": "Lorsque le savant lance altération d'apparence sur lui-même, le sort ne nécessite pas de concentration et dure jusqu'à ce qu'il soit dissipé."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le savant effectue deux attaques, dont une seule peut être Déformation forcée."
+          },
+          {
+            "name": "Armes naturelles",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 7 (2d4 + 2) dégâts perforants.",
+            "attack_bonus": 5,
+            "damage_dice": "2d4",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Déformation forcée",
+            "desc": "Attaque de sort au corps à corps : +7 pour toucher, allonge 1,50 m, une créature. Touché : la cible doit réussir un jet de sauvegarde de Constitution DD 15 ou perdre 21 (6d6) points de vie et subir l'un des effets suivants pendant 1 minute : sa vitesse est réduite à 0 pour l'un de ses modes de déplacement ; elle subit un désavantage aux attaques à l'arme ; ou elle subit un désavantage aux tests et jets de sauvegarde de Force ou de Dextérité (au choix du savant). La cible répète le jet de sauvegarde à la fin de chacun de ses tours. Les créatures dotées du trait Forme immuable réussissent automatiquement ce jet.",
+            "attack_bonus": 7
+          },
+          {
+            "name": "Réparer la forme",
+            "desc": "Le savant restaure 21 (6d6) points de vie à lui-même ou à une créature qu'il touche. Une créature ne peut bénéficier de cette guérison qu'une seule fois avant de terminer un repos long."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Métamorphose rapide",
+            "desc": "Le savant lance métamorphose ou forme gazeuse sur lui-même. Lorsqu'il lance métamorphose de cette manière, il choisit la forme d'une bête de FP 0 et ne dépense pas d'utilisation du sort."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Barde féerique du glamour",
+      {
+        "name": "Barde féerique du glamour",
+        "size": "Petite",
+        "type": "fée",
+        "subtype": "barde",
+        "alignment": "au choix",
+        "ac": 16,
+        "hp": 49,
+        "hit_dice": "9d6 + 18",
+        "speed": "9 m, vol 9 m",
+        "initiative": "+2 (12)",
+        "stats": [
+          12,
+          15,
+          15,
+          14,
+          12,
+          19
+        ],
+        "saves": [
+          {
+            "dexterity": 5
+          },
+          {
+            "wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "tromperie": 7
+          },
+          {
+            "représentation": 10
+          },
+          {
+            "persuasion": 7
+          }
+        ],
+        "senses": "Perception passive 11",
+        "languages": "sylvestre, elfique, commun, 2 autres langues",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Habitué du charme",
+            "desc": "Le barde est avantagé aux jets de sauvegarde contre l'état charmé."
+          },
+          {
+            "name": "Ailes de fée",
+            "desc": "Le barde féerique ne peut pas utiliser sa vitesse de vol lorsqu'il porte une armure intermédiaire ou lourde."
+          },
+          {
+            "name": "Bénédiction féerique",
+            "desc": "Tant que le barde ne porte pas d'armure et ne manie pas de bouclier, il ajoute son modificateur de Charisme à sa CA."
+          },
+          {
+            "name": "Magie bardique",
+            "desc": "Le barde peut lancer les sorts suivants, le Charisme étant sa caractéristique d'incantation (DD 15, +7 au toucher avec les attaques de sort).\nÀ volonté - druidisme - illusion mineure - lueurs féeriques - prestidigitation\n1/jour chacun - flou - apaisement des émotions - trait guidant - motif hypnotique - sanctuaire - suggestion"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Stylet",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants.",
+            "attack_bonus": 5,
+            "damage_dice": "1d4",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Flèche de glamour",
+            "desc": "Attaque de sort à distance : +7 pour toucher, portée 18 m, une cible. Touché : 14 (4d6) dégâts psychiques.",
+            "attack_bonus": 7,
+            "damage_dice": "4d6"
+          },
+          {
+            "name": "Représentation éblouissante (Recharge 5-6)",
+            "desc": "Chaque créature au choix du barde située dans un rayon de 9 m et capable de le voir et de l'entendre doit réussir un jet de sauvegarde de Sagesse DD 15. En cas d'échec, la cible subit 14 (4d6) dégâts psychiques et 14 (4d6) dégâts radiants, ou la moitié en cas de réussite. Une cible qui échoue est également soit aveuglée, soit charmée par le barde (au choix du barde pour chaque cible) jusqu'à la fin du prochain tour du barde."
+          },
+          {
+            "name": "Charme féerique",
+            "desc": "Le barde cible une créature qu'il voit dans un rayon de 9 m. Si la cible peut l'entendre et le comprendre, elle doit réussir un jet de sauvegarde de Sagesse DD 15 ou être charmée magiquement. Une créature charmée de cette manière considère le barde comme une idole admirée qu'elle doit écouter et protéger. Chaque fois que le barde ou ses alliés nuisent à la cible, celle-ci peut répéter le jet de sauvegarde. L'effet dure 1 heure, jusqu'à ce que le barde meure, y mette fin par une action bonus ou charme une autre créature. Une cible qui réussit son jet de sauvegarde est immunisée contre ce Charme féerique pendant 1 heure."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Manteau d'inspiration (3/jour)",
+            "desc": "Le barde cible jusqu'à 5 créatures autres que lui qu'il voit dans un rayon de 9 m et qui peuvent le voir. Chaque créature gagne 10 points de vie temporaires et bénéficie d'un avantage à son premier test de caractéristique, jet d'attaque ou jet de sauvegarde avant le début du prochain tour du barde."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Danseur céleste féerique",
+      {
+        "name": "Danseur céleste féerique",
+        "size": "Petite",
+        "type": "fée",
+        "alignment": "au choix",
+        "ac": 15,
+        "hp": 38,
+        "hit_dice": "7d6 + 14",
+        "speed": "9 m, vol 27 m",
+        "initiative": "+5 (15)",
+        "stats": [
+          11,
+          20,
+          14,
+          11,
+          17,
+          16
+        ],
+        "saves": [
+          {
+            "dexterity": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobaties": 7
+          }
+        ],
+        "damage_resistances": "foudre, tonnerre",
+        "senses": "Perception passive 13",
+        "languages": "sylvestre, auran, 1 autre langue",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Esquive totale",
+            "desc": "Si le danseur céleste est soumis à un effet qui lui permet d'effectuer un jet de sauvegarde de Dextérité pour réduire les dégâts de moitié, il ne subit aucun dégât en cas de réussite et seulement la moitié en cas d'échec."
+          },
+          {
+            "name": "Ailes de fée",
+            "desc": "Le danseur céleste ne peut pas utiliser sa vitesse de vol lorsqu'il porte une armure."
+          },
+          {
+            "name": "Survol",
+            "desc": "Le danseur céleste ne provoque pas d'attaques d'opportunité lorsqu'il quitte la zone d'allonge d'une créature en volant."
+          },
+          {
+            "name": "Mélancolie terrestre",
+            "desc": "Tant que sa vitesse de vol est réduite à 0, le danseur céleste est désavantagé aux tests de caractéristique, jets d'attaque et jets de sauvegarde."
+          },
+          {
+            "name": "Affinité avec le vent",
+            "desc": "Le danseur céleste peut voler normalement même en présence de vents violents, magiques ou non."
+          },
+          {
+            "name": "Magie élémentaire de l'air",
+            "desc": "Le danseur céleste peut lancer les sorts suivants, le Charisme étant sa caractéristique d'incantation (DD 13).\nÀ volonté - druidisme - chute de plume - bourrasque - rafale de vent\n1/jour chacun - contrôle des vents - lien avec la terre - vol - mur de vent"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le danseur céleste effectue deux attaques de Serres et utilise Explosion orageuse si elle est disponible."
+          },
+          {
+            "name": "Serres",
+            "desc": "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d4 + 5) dégâts tranchants plus 2 (1d4) dégâts de foudre.",
+            "attack_bonus": 7,
+            "damage_dice": "1d4",
+            "damage_bonus": 5
+          },
+          {
+            "name": "Explosion orageuse (Recharge 5-6)",
+            "desc": "Chaque créature dans un cône de 4,50 m doit effectuer un jet de sauvegarde de Constitution DD 13. En cas d'échec, elle subit 7 (2d6) dégâts de foudre et 7 (2d6) dégâts de tonnerre, ou la moitié en cas de réussite. Une créature qui échoue est également repoussée de 3 m."
+          },
+          {
+            "name": "Invocation d'élémentaire d'air",
+            "desc": "Trois danseurs célestes situés dans un rayon de 9 m les uns des autres peuvent invoquer magiquement un élémentaire d'air. Chacun doit consacrer son action et son déplacement pendant trois tours consécutifs pour exécuter une danse aérienne et maintenir sa concentration. À la fin du troisième tour, l'élémentaire apparaît dans un espace inoccupé dans un rayon de 18 m. Il reste pendant 1 heure, jusqu'à sa mort, jusqu'à la mort de tous les invocateurs ou jusqu'à ce qu'un invocateur le renvoie par une action bonus. Un danseur céleste ne peut pas recommencer cette danse avant d'avoir terminé un repos court."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {
