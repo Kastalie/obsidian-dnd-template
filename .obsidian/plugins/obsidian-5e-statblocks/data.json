@@ -5802,6 +5802,80 @@
         ],
         "legendary_actions": []
       }
+    ],
+    [
+      "Octavian Meliamne",
+      {
+        "name": "Octavian Meliamne",
+        "source": "Par-delà le Carnaval de Sorcelume",
+        "size": "Moyenne",
+        "type": "fée",
+        "subtype": "barde, elfe",
+        "alignment": "chaotique neutre",
+        "ac": 13,
+        "hp": 16,
+        "hit_dice": "3d8 + 3",
+        "speed": "9 m",
+        "initiative": "+3 (13)",
+        "stats": [
+          11,
+          17,
+          12,
+          15,
+          10,
+          18
+        ],
+        "skillsaves": [
+          {
+            "nature": 4
+          },
+          {
+            "représentation": 6
+          }
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "languages": "elfique, sylvestre, commun",
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Résistance à la magie",
+            "desc": "Octavian est avantagé aux jets de sauvegarde contre les sorts et autres effets magiques."
+          },
+          {
+            "name": "Chant de repos",
+            "desc": "Octavian peut interpréter une chanson pendant un repos court. Tout allié qui entend ce chant récupère 1d6 points de vie supplémentaires s'il dépense un ou plusieurs dés de vie à la fin de ce repos. Octavian peut également bénéficier de cet effet."
+          },
+          {
+            "name": "Présence mélancolique",
+            "desc": "Toute créature qui n'est pas un éladrin et qui commence son tour dans un rayon de 18 m d'Octavian doit réussir un jet de sauvegarde de Sagesse DD 14 ou être charmée pendant 1 minute. Tant qu'elle est charmée de cette manière, elle subit un désavantage aux tests de caractéristique et aux jets de sauvegarde. La créature peut répéter le jet de sauvegarde à la fin de chacun de ses tours. Une créature qui réussit son jet de sauvegarde ou met fin à l'effet devient immunisée à la Présence mélancolique de tout éladrin pendant 24 heures."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Épée courte",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Note discordante",
+            "desc": "Une créature au choix d'Octavian située dans un rayon de 18 m et capable d'entendre sa flûte doit réussir un jet de sauvegarde de Sagesse DD 14 ou subir 4 (1d8) dégâts psychiques. Une créature qui subit ces dégâts doit soustraire 1d4 au prochain jet de sauvegarde qu'elle effectue avant la fin du prochain tour d'Octavian."
+          },
+          {
+            "name": "Incantation",
+            "desc": "Octavian lance l'un des sorts suivants en utilisant uniquement sa flûte comme composante matérielle. Le Charisme est sa caractéristique d'incantation (DD 14).\nÀ volonté - prestidigitation - illusion mineure\n1/jour chacun - charme-monstre - amélioration de caractéristique - terrain hallucinatoire - image silencieuse - communication avec les animaux"
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Pas féerique (2/jour)",
+            "desc": "Octavian se téléporte jusqu'à 9 m vers un espace inoccupé qu'il voit."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {
