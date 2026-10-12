@@ -4473,7 +4473,7 @@
           },
           {
             "name": "Magie profane",
-            "desc": "L'arcaniste peut lancer les sorts suivants, l'Intelligence étant sa caractéristique d'incantation (DD 14, +6 au toucher avec les attaques de sort). lumières dansantes, druidisme, main du mage, prestidigitation"
+            "desc": "L'arcaniste peut lancer les sorts suivants, l'Intelligence étant sa caractéristique d'incantation (DD 14, +6 au toucher avec les attaques de sort). lumières dansantes, druidisme, main du mage, prestidigitation. 2xpar jour flou, agrandissement/rétrécissement, lueurs féeriques, feuilles mortes, projectile magique. 1x par jour contresort, dissipation de la magie, armure du mage."
           },
           {
             "name": "Lanceur de rituels",
@@ -4499,6 +4499,344 @@
             "desc": "L'arcaniste se téléporte jusqu'à 9 m vers un espace inoccupé qu'il voit."
           }
         ]
+      }
+    ],
+    [
+      "Soldat féerique",
+      {
+        "name": "Soldat féerique",
+        "size": "Petite",
+        "type": "fée",
+        "alignment": "au choix",
+        "ac": 14,
+        "hp": 11,
+        "hit_dice": "2d6 + 4",
+        "speed": "9 m, vol 9 m",
+        "initiative": "+3 (13)",
+        "stats": [
+          12,
+          17,
+          14,
+          12,
+          10,
+          12
+        ],
+        "skillsaves": [
+          {
+            "athlétisme": 3
+          },
+          {
+            "perception": 2
+          }
+        ],
+        "senses": "Perception passive 12",
+        "languages": "sylvestre, 1 autre langue",
+        "cr": "1/4",
+        "traits": [
+          {
+            "name": "Ailes de fée",
+            "desc": "Le soldat féerique ne peut pas utiliser sa vitesse de vol lorsqu'il porte une armure intermédiaire ou lourde."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Épée courte",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Arc court",
+            "desc": "Attaque d'arme à distance : +5 pour toucher, portée 24/96 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Incantation druidique",
+            "desc": "Le soldat féerique lance le sort druidisme. Le Charisme est sa caractéristique d'incantation."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Blocage",
+            "desc": "Le soldat féerique ajoute 2 à sa CA contre une attaque qui devrait le toucher. Pour ce faire, le soldat doit voir l'attaquant et manier un bouclier."
+          }
+        ],
+        "bonus_actions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Chevalier féerique",
+      {
+        "name": "Chevalier féerique",
+        "size": "Petite",
+        "type": "fée",
+        "alignment": "au choix",
+        "ac": 18,
+        "hp": 52,
+        "hit_dice": "8d6 + 24",
+        "speed": "9 m, vol 9 m",
+        "initiative": "+4 (14)",
+        "stats": [
+          16,
+          18,
+          17,
+          12,
+          14,
+          16
+        ],
+        "saves": [
+          {
+            "constitution": 6
+          },
+          {
+            "charisma": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "athlétisme": 6
+          },
+          {
+            "perception": 5
+          },
+          {
+            "intimidation": 6
+          }
+        ],
+        "senses": "Perception passive 15",
+        "languages": "sylvestre, 2 autres langues",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Brave",
+            "desc": "Le chevalier féerique est avantagé aux jets de sauvegarde contre l'état effrayé."
+          },
+          {
+            "name": "Ailes de fée",
+            "desc": "Le chevalier féerique ne peut pas utiliser sa vitesse de vol lorsqu'il porte une armure intermédiaire ou lourde."
+          },
+          {
+            "name": "Charge plongeante",
+            "desc": "Si le chevalier féerique vole et plonge d'au moins 6 m en ligne droite vers une cible puis la touche avec une attaque de lance au même tour, l'attaque inflige 7 (2d6) dégâts perforants supplémentaires."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le chevalier féerique effectue deux attaques."
+          },
+          {
+            "name": "Lance",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+            "attack_bonus": 6,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Arc court",
+            "desc": "Attaque d'arme à distance : +7 pour toucher, portée 24/96 m, une cible. Touché : 7 (1d6 + 4) dégâts perforants.",
+            "attack_bonus": 7,
+            "damage_dice": "1d6",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Incantation",
+            "desc": "Le chevalier féerique lance druidisme, lueurs féeriques ou agrandissement/rétrécissement. Le Charisme est sa caractéristique d'incantation (DD 14). Une fois qu'il a lancé lueurs féeriques ou agrandissement/rétrécissement, il ne peut plus lancer ce sort avant d'avoir terminé un repos long."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Encourager un allié",
+            "desc": "Le chevalier féerique cible un allié qu'il voit dans un rayon de 9 m. Si la cible peut entendre le chevalier, elle peut effectuer immédiatement une attaque avec une arme en utilisant sa réaction."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Blocage",
+            "desc": "Le chevalier féerique ajoute 3 à sa CA contre une attaque qui devrait le toucher. Pour ce faire, il doit voir l'assaillant et manier un bouclier. Si l'attaque est une attaque de corps à corps, le chevalier peut utiliser une arme de corps à corps à la place d'un bouclier."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Duelliste féerique",
+      {
+        "name": "Duelliste féerique",
+        "size": "Petite",
+        "type": "fée",
+        "alignment": "au choix",
+        "ac": 17,
+        "hp": 44,
+        "hit_dice": "8d6 + 16",
+        "speed": "12 m, vol 9 m",
+        "initiative": "+4 (14)",
+        "stats": [
+          12,
+          18,
+          14,
+          11,
+          13,
+          17
+        ],
+        "saves": [
+          {
+            "dexterity": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobaties": 7
+          },
+          {
+            "athlétisme": 3
+          },
+          {
+            "intuition": 3
+          }
+        ],
+        "senses": "Perception passive 10",
+        "languages": "sylvestre, 1 autre langue",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Ailes de fée",
+            "desc": "Le duelliste féerique ne peut pas utiliser sa vitesse de vol lorsqu'il porte une armure intermédiaire ou lourde."
+          },
+          {
+            "name": "Défense raffinée",
+            "desc": "Tant qu'il ne porte qu'une armure légère ou aucune armure et ne manie pas de bouclier, le duelliste ajoute son modificateur de Charisme à sa CA."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le duelliste effectue deux attaques de Rapière."
+          },
+          {
+            "name": "Rapière",
+            "desc": "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d8 + 4) dégâts perforants. Si l'attaque est effectuée avec avantage, le duelliste inflige 3 (1d6) dégâts psychiques supplémentaires.",
+            "attack_bonus": 7,
+            "damage_dice": "1d8",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Fente dramatique (Recharge 5-6)",
+            "desc": "Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une cible. Touché : 10 (1d8 + 6) dégâts perforants. Si la cible est sous l'effet du Défi féerique du duelliste, elle subit également 14 (4d6) dégâts psychiques.",
+            "attack_bonus": 7,
+            "damage_dice": "1d8",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Incantation",
+            "desc": "Le duelliste lance druidisme ou lueurs féeriques. Le Charisme est sa caractéristique d'incantation (DD 14). Une fois qu'il a lancé lueurs féeriques, il ne peut plus le relancer avant d'avoir terminé un repos long."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Défi féerique (3/jour)",
+            "desc": "Le duelliste cible une créature qu'il voit dans un rayon de 9 m et la défie magiquement en combat singulier. Si la cible entend et comprend le duelliste, elle peut accepter ou refuser le défi. Si elle refuse, elle subit 18 (4d8) dégâts psychiques. Si elle accepte, le duelliste et la cible sont désavantagés aux jets d'attaque contre toute autre créature que l'autre. De plus, chaque fois que l'un des deux inflige des dégâts à une autre créature que son adversaire désigné, il subit 9 (2d8) dégâts psychiques. L'effet dure 1 minute, jusqu'à ce que le duelliste défie une autre cible ou jusqu'à ce que l'une des deux créatures tombe à 0 point de vie."
+          },
+          {
+            "name": "Feinte",
+            "desc": "Le duelliste cible une créature qu'il voit dans un rayon de 1,50 m. Il gagne l'avantage à la prochaine attaque de corps à corps effectuée contre cette créature avant la fin de son tour."
+          },
+          {
+            "name": "Voltige",
+            "desc": "Le duelliste entreprend l'action Se désengager."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Parade",
+            "desc": "Le duelliste ajoute 3 à sa CA contre une attaque de corps à corps qui devrait le toucher. Pour ce faire, il doit voir l'attaquant et manier une arme de corps à corps."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Druide féerique des spores",
+      {
+        "name": "Druide féerique des spores",
+        "size": "Petite",
+        "type": "fée",
+        "subtype": "druide",
+        "alignment": "au choix",
+        "ac": 15,
+        "hp": 60,
+        "hit_dice": "8d6 + 32",
+        "speed": "9 m, vol 9 m",
+        "initiative": "+1 (11)",
+        "stats": [
+          12,
+          13,
+          18,
+          15,
+          17,
+          12
+        ],
+        "saves": [
+          {
+            "constitution": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "médecine": 6
+          },
+          {
+            "nature": 5
+          }
+        ],
+        "damage_resistances": "nécrotique, poison",
+        "senses": "vision dans le noir 18 m, Perception passive 13",
+        "languages": "sylvestre, commun des profondeurs, 1 autre langue",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Ailes de fée",
+            "desc": "Le druide féerique ne peut pas utiliser sa vitesse de vol lorsqu'il porte une armure intermédiaire ou lourde."
+          },
+          {
+            "name": "Magie druidique",
+            "desc": "Le druide peut lancer les sorts suivants, la Sagesse étant sa caractéristique d'incantation (DD 14, +6 au toucher avec les attaques de sort). À volonté druidisme, jet de poison (2d12 dégâts de poison),rayon empoisonné. 2/jour chacun animation des morts, soins, restauration partielle. 1/jour chacun contagion, simulacre de vie (niveau 4)."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le druide effectue deux attaques de Bâton. À la place d'une attaque de Bâton, il peut lancer un sort dont le temps d'incantation est d'une action ou utiliser Toucher fongique."
+          },
+          {
+            "name": "Bâton",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d8 + 1) dégâts contondants, ou 4 (1d6 + 1) dégâts contondants si tenu à une main, plus 9 (2d8) dégâts nécrotiques.",
+            "attack_bonus": 4,
+            "damage_dice": "1d8",
+            "damage_bonus": 1
+          },
+          {
+            "name": "Toucher fongique",
+            "desc": "La créature touchée effectue un jet de sauvegarde de Constitution DD 14. En cas d'échec, elle est empoisonnée. Tant qu'elle est empoisonnée de cette manière, elle lance 1d4 et soustrait le résultat à tous les jets de sauvegarde effectués contre les sorts et capacités du druide. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Semer les spores",
+            "desc": "Le druide place des spores magiques dans un espace qu'il voit dans un rayon de 9 m. Au début du prochain tour du druide, chaque créature autre que lui située dans un rayon de 1,50 m de cet espace doit réussir un jet de sauvegarde de Constitution DD 14 ou subir 9 (2d8) dégâts de poison et être affectée par Toucher fongique. Les spores sont détruites si elles subissent des dégâts de feu avant leur activation (CA 10, 1 PV)."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Représailles fongiques",
+            "desc": "Lorsqu'une créature située dans un rayon de 3 m lui inflige des dégâts, ou termine son tour dans un rayon de 3 m de lui, le druide libère des spores qui infligent 9 (2d8) dégâts de poison à cette créature."
+          }
+        ],
+        "legendary_actions": []
       }
     ]
   ],
