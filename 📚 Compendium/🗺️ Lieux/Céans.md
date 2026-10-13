@@ -112,7 +112,12 @@ Il s'agit Halia Prisme-Lointain une fadette un peu excentrique aux yeux argenté
 [[🛒 Le Fil d'Argent — Boutique de curiosités et Divination]]
 
 Elle dit vouloir rentrer chez elle après avoir passé plusieurs mois a vendre ses marchandises sur les routes de Céans.
-Elle vient du clan Braiocht. Elle indique que la dernière fois qu'elle y était une étrangère elfe venait d'arriver au clan. Elle a hate de retrouver ses proches.
+Elle vient du clan Braiocht. Elle indique que la dernière fois qu'elle y était une étrangère elfe venait d'arriver au clan. Elle a hâte de retrouver ses proches.
+
+Si le groupe décide de se rendre au cercle des lucioles ils trouvent un lieu désert. la ville est souterraine. Il y a des grandes traces de bêtes sauvages sur le sol ce qui n'augure rien de bon.
+une école druidique, une salle du conseil, un sanctuaire central et des habitations.
+mentions de Qina et des conils brigands.
+Rien n'indique ou ils sont allés
 
 ---
 ## Péage des Brigands
