@@ -11,3 +11,4 @@ Qina qui était partie à leur recherche sans savoir leur nature fut enfermée e
 
 En Gisombre ils cherchaient déjà à réunir la magie des clans féeriques.
 Les guenaudes ont fait appel à eux pour contenir la magie de la féerie qui sans Zybilna devenait incontrôlable. Il se sont donc installés en Prismeer et ont autorisation de puiser dans les sources de magie anciennes et les habitants. Les guenaudes ferment les yeux à ce sujet.
+Leur but : réunir la puissance de la magie druidique d'autrefois, désormais perdue et séparée entre tous les clans.
