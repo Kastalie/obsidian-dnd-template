@@ -2,7 +2,9 @@
 🗺️ Carte:
 ⭐ Niveau: 1
 Description: Le clan Dravenkor est un clan druidique malveillant il se venus s'installer en féerie suite à la prise de pouvoir des genaudes leur alliés de longue date.
+👾 Type: Faune & Sang
 ---
+Shadar-Kai
 Le clan Dravenkor sont de véritables antagonistes qui font le mal. Ils cherchent à récupérer tous les pouvoirs druidiques des clans primordiaux par la force.
 Il capturent des membres des clans primordiaux et drainent leur magie.
 Ils sont originaire du plan Gisombre.
@@ -14,4 +16,4 @@ Les guenaudes ont fait appel à eux pour contenir la magie de la féerie qui san
 Leur but : réunir la puissance de la magie druidique d'autrefois, désormais perdue et séparée entre tous les clans.
 
 Le clan n'est pas capable de changer de plan pour se rendre sur le plan matériel.
-Ils ont enfermé Qina et deux druides du clan Braiocht : Ormilla Braio et Zlutin Braio les jumaux à la tête du clan.
+Ils ont enfermé Qina et deux druides du clan Braiocht : Ormilla Braio et Zlutin Braio les jumeaux à la tête du clan.
