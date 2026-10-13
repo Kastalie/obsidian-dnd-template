@@ -108,7 +108,11 @@ Au pied 2 serpents Giant constrictor snake éveillés :
 
 ## Le cercle des lucioles, clan Braiocht
 l'auberge s'arrête pour faire monter un client.
-Il s'agit
+Il s'agit Halia Prisme-Lointain une fadette un peu excentrique aux yeux argentés.
+[[🛒 Le Fil d'Argent — Boutique de curiosités et Divination]]
+
+Elle dit vouloir rentrer chez elle après avoir passé plusieurs mois a vendre ses marchandises sur les routes de Céans.
+Elle vient du clan Braiocht. Elle indique que la dernière fois qu'elle y était une étrangère elfe venait d'arriver au clan. Elle a hate de retrouver ses proches.
 
 ---
 ## Péage des Brigands
