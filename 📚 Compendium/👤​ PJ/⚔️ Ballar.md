@@ -107,7 +107,7 @@ Chaque hache serait liée à un élément naturel :
 | Clan         | Magie            | Lieu                  | Gemme         |
 | ------------ | ---------------- | --------------------- | ------------- |
 | **Ailbhean** | Eau et Acier     | Forêt de Thetir       | Saphir        |
-| Braiocht     | Esprit et Terre  |                       | Améthyste     |
+| Braiocht     | Esprit et Terre  | Céans                 | Améthyste     |
 | **Caerlann** | Feu et Son       |                       | Ambre         |
 | Dravenkor    | Faune et Sang    | [[Çà-et-là]]          | Rubis         |
 | Erwyn        | Vent et Foudre   |                       | Oeil du tigre |
