@@ -9,5 +9,5 @@ Le clan possède une affiliation à la magie de la terre et de l'esprit.
 Il vivent dans une cité souterraine construite dans un coin sec du marais.
 Le clan est composée uniquement de fadettes druides et soldats.
 Ils sont protecteurs de Zybilna la souveraine de Prismeer.
-Ormilla Braio et Zlutin Braio : jumaux à la tête du clan.
+Ormilla Braio et Zlutin Braio : jumeaux à la tête du clan.
 
