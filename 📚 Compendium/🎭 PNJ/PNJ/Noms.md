@@ -50,8 +50,8 @@ Elle porte sur elle 5 marionnettes, cadeaux de son père pour lui porter chance,
 
 Frères et sœurs :
 Venlie -23-Elle est fascinée par les légendes et la magie.
-Rysn -21- Elle adore les animaux, plutôt timide.
-Tashik -18- Il est prudent, organisé et excellent cuisinier.
+Tashik -21- Il est prudent, organisé et excellent cuisinier.
+Rysn -18- Elle adore les animaux, plutôt timide.
 Joushou -13- Il est très curieux, pose mille questions. Grand admirateur d'Ætys.
 Azir -12- Il agit avant de réfléchir, se retrouve régulièrement dans les ennuis.
 
