@@ -3,7 +3,7 @@
 🎂 Age: 200
 🤝 Faction:
 ❤️ État:
-📍Lieux: Céans
+📍Lieux: Céans + Déchéance
 🖼️ Portrait:
 ---
 
@@ -13,7 +13,8 @@
 >Les guenaudes de l'assemblée du sablier prirent possession de Prismeer et Morgus resta sur place pour organiser une resistance.
 
 Morgus n'a plus de pouvoir qui sont a présent  à Patte Blanche.
-Pour les retrouver il aura besoin
+	Pour les retrouver il aura besoin que les aventuriers inversent le sort d'Edwidge. Il restera a Déchéance pour quelques petites actions de sabotage de Bavlorna en attendant le retour des voyageurs. Lors de l'échange Patte Blanche a également appris a parler le nain.
+	Morgus quant à lui ne mange plus que des carottes.
 
 #### Relations  
 Alliés :  
