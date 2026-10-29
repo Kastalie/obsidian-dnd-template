@@ -12,7 +12,8 @@
 >Trouvant dans traces de magie féerique, il partit à Prismeer. Il ne le trouvât pas.
 >Les guenaudes de l'assemblée du sablier prirent possession de Prismeer et Morgus resta sur place pour organiser une resistance.
 
-
+Morgus n'a plus de pouvoir qui sont a présent  à Patte Blanche.
+Pour les retrouver il aura besoin
 
 #### Relations  
 Alliés :  
@@ -28,11 +29,7 @@ Compagnons :
 
   
 > [!mj] Notes
-> - Première source d'exposition importante concernant Prismeer. 
-> - Peut guider les PJ vers Déchéance.  
-> - Insister sur son côté chevaleresque, honorable et parfois légèrement grandiloquent.  
-> - N'hésite pas à complimenter les héros.  
-> - Malgré sa petite taille, il se considère comme un véritable champion de la Cour Seelie.  
+>  
 
   
 
