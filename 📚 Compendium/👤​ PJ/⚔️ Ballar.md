@@ -104,16 +104,16 @@ Ballar est allé apprendre auprès du clan Ailbhean
 Les anciens du clan Ailbhean pourraient reconnaître immédiatement la hache de Ballar et comprendre qu'elle appartient aux anciennes **Neuf Haches Primordiales**, forgées avant la séparation des clans druidiques.
 Chaque hache serait liée à un élément naturel :
 
-| Clan         | Magie            | Lieu                  | Gemme         |
-| ------------ | ---------------- | --------------------- | ------------- |
-| **Ailbhean** | Eau et Acier     | Forêt de Thetir       | Saphir        |
-| Braiocht     | Esprit et Terre  | Céans                 | Améthyste     |
-| **Caerlann** | Feu et Son       |                       | Ambre         |
-| Dravenkor    | Faune et Sang    | [[Çà-et-là]]          | Rubis         |
-| Erwyn        | Vent et Foudre   |                       | Oeil du tigre |
-| **Faolán**   | Plantes et Nuit  | Bois d'hiver -  Falon | Emeraude      |
-| Gelderlace   | Glace et Poison  |                       | Diamant       |
-| Horvach      | Lumière et roche |                       | Citrine       |
+| Clan         | Magie            | Lieu                     | Gemme         |
+| ------------ | ---------------- | ------------------------ | ------------- |
+| **Ailbhean** | Eau et Acier     | Forêt de Thetir - Faerun | Saphir        |
+| Braiocht     | Esprit et Terre  | Céans - Prismeer         | Améthyste     |
+| **Caerlann** | Feu et Son       | -  Faerun                | Ambre         |
+| Dravenkor    | Faune et Sang    | [[Çà-et-là]] - Prismeer  | Rubis         |
+| Erwyn        | Vent et Foudre   |                          | Oeil du tigre |
+| **Faolán**   | Plantes et Nuit  | Bois d'hiver -  Falon    | Emeraude      |
+| Gelderlace   | Glace et Poison  | Valbise - Faerun         | Diamant       |
+| Horvach      | Lumière et roche |                          | Citrine       |
 
 
 ### Fiche infos
