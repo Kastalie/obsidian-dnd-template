@@ -99,6 +99,8 @@ Les anciens de ton peuple voient peut-être un fils incapable d'égaler les dons
 _Dernier serviteur de Zybilna_
 
 
+
+
 ### Clans d'elfes druides
 Ballar est allé apprendre auprès du clan Ailbhean
 Les anciens du clan Ailbhean pourraient reconnaître immédiatement la hache de Ballar et comprendre qu'elle appartient aux anciennes **Neuf Haches Primordiales**, forgées avant la séparation des clans druidiques.
