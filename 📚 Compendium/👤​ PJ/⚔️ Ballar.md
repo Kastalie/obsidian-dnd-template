@@ -108,7 +108,7 @@ Chaque hache serait liée à un élément naturel :
 | ------------ | ---------------- | ------------------------ | ------------- |
 | **Ailbhean** | Eau et Acier     | Forêt de Thetir - Faerun | Saphir        |
 | Braiocht     | Esprit et Terre  | Céans - Prismeer         | Améthyste     |
-| **Caerlann** | Feu et Son       | -  Faerun                | Ambre         |
+| **Caerlann** | Feu et Son       | mine naine-  Faerun      | Ambre         |
 | Dravenkor    | Faune et Sang    | [[Çà-et-là]] - Prismeer  | Rubis         |
 | Erwyn        | Vent et Foudre   |                          | Oeil du tigre |
 | **Faolán**   | Plantes et Nuit  | Bois d'hiver -  Falon    | Emeraude      |
