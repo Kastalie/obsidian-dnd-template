@@ -110,10 +110,10 @@ Chaque hache serait liée à un élément naturel :
 | Braiocht     | Esprit et Terre  | Céans - Prismeer         | Améthyste     |
 | **Caerlann** | Feu et Son       | mine naine-  Faerun      | Ambre         |
 | Dravenkor    | Faune et Sang    | [[Çà-et-là]] - Prismeer  | Rubis         |
-| Erwyn        | Vent et Foudre   |                          | Oeil du tigre |
+| Erwyn        | Vent et Foudre   | - Cour d'été             | Oeil du tigre |
 | **Faolán**   | Plantes et Nuit  | Bois d'hiver -  Falon    | Emeraude      |
 | Gelderlace   | Glace et Poison  | Valbise - Faerun         | Diamant       |
-| Horvach      | Lumière et roche |                          | Citrine       |
+| Horvach      | Lumière et roche | - Faerun                 | Citrine       |
 
 
 ### Fiche infos
