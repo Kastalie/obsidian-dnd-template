@@ -73,7 +73,7 @@ Personnes importantes :
 
 Accomplissement :
 À seulement quinze ans, elle a conçu seule un nouveau mécanisme pour le spectacle familial en vadrouille dans un village Goliath. Grâce à un système de poulies cachées, de contrepoids et de lumières colorées, les marionnettes semblaient réellement voler parmi les étoiles. Le public en a parlé pendant des mois.
-
+![[Pasted image 20261102111223.png]]
 
 # Niveau 3 : Outils du métier
 
