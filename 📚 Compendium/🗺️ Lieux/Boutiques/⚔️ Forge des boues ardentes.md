@@ -17,5 +17,5 @@ Maître Croâkran Acier-Trempé,
 | **Coutille des roseaux**     | 30 po | 1d10 tranch, allonge deux mains lourde -- ecorchure.                                                                              |
 | **Harpon des eaux vaseuses** | 10 po | 1d60 perf lancer -- ralentissement                                                                                                |
 | **Lance céans **             | 15 po | av si chevauche un crapaud ou un escargot.<br>1d6 perf ou 1d8 si 2 mains. -- renversement                                         |
-| **Bouclier Gravé de Clan**   | 60 po | Un bouclier sur lequel Brom grave gratuitement un symbole représentant les exploits du porteur. Donne +1 aux jets d’Intimidation. |
+| ****                         | 60 po | Un bouclier sur lequel Brom grave gratuitement un symbole représentant les exploits du porteur. Donne +1 aux jets d’Intimidation. |
 |                              |       |                                                                                                                                   |
