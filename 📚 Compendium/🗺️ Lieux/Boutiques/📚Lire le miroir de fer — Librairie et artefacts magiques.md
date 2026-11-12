@@ -9,22 +9,23 @@
 
 ### **Objets vendus**
 
-| Objet                                 | Prix   | Description                                                                                                                |
-| ------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------- |
-| Grimoire Divination                   | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans Divination                             |
-| Grimoire Abjuration                   | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans Abjuration                             |
-| Grimoire Illusion                     | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans Illusion                               |
-| Grimoire Enchantement                 | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans Enchantement                           |
-| Grimoire Evocation                    | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans Evocation                              |
-| Grimoire Transmutation                | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans Transmutation                          |
-| Grimoire nécromancie                  | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans nécromancie                            |
-| Grimoire conjuration                  | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans conjuration                            |
-| Livre des Mantras des Arcanes Stables | 120 po | Donne +1 et avantages aux tests d’Arcane après lecture complète (3h)                                                       |
-| Atlas de chemins                      | 90po   | **Effet :** Révèle des raccourcis ou sentiers cachés dans une région connue (avantage aux jets de Survie pour s’orienter). |
-| Dictionnaire bilingue                 | 300 po | **Effet :** vous connaissez une nouvelle langue                                                                            |
-| Rouleau Rouge du Pacte                | 130 po | **Effet :** Permet de savoir si une créature a déjà passé un pacte magique ou démoniaque.                                  |
-| Contes des ...                        | 45 po  | **Effet :** Un recueil de légendes qui, étrangement, décrivent des évènements que le MJ peut utiliser                      |
-| Chandelle de Lecture Parfaite         | 12 po  | **Effet :** Lorsque allumée, confère avantage aux tests d’Intelligence pour comprendre un texte.                           |
+| Objet                                        | Prix   | Description                                                                                                                |
+| -------------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------- |
+| Grimoire Divination                          | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans Divination                             |
+| Grimoire Abjuration                          | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans Abjuration                             |
+| Grimoire Illusion                            | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans Illusion                               |
+| Grimoire Enchantement                        | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans Enchantement                           |
+| Grimoire Evocation                           | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans Evocation                              |
+| Grimoire Transmutation                       | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans Transmutation                          |
+| Grimoire nécromancie                         | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans nécromancie                            |
+| Grimoire conjuration                         | 80 po  | Permet d'apprendre un sort de niveau 1 supplémentaire -> sera toujours préparé dans conjuration                            |
+| Livre des Mantras des Arcanes Stables        | 120 po | Donne +1 et avantages aux tests d’Arcane après lecture complète (3h)                                                       |
+| Atlas de chemins                             | 90po   | **Effet :** Révèle des raccourcis ou sentiers cachés dans une région connue (avantage aux jets de Survie pour s’orienter). |
+| Dictionnaire bilingue                        | 300 po | **Effet :** vous connaissez une nouvelle langue                                                                            |
+| Rouleau Rouge du Pacte                       | 130 po | **Effet :** Permet de savoir si une créature a déjà passé un pacte magique ou démoniaque.                                  |
+| Contes des ...                               | 45 po  | **Effet :** Un recueil de légendes qui, étrangement, décrivent des évènements que le MJ peut utiliser                      |
+| Chandelle de Lecture Parfaite                | 12 po  | **Effet :** Lorsque allumée, confère avantage aux tests d’Intelligence pour comprendre un texte.                           |
+| [[La légende de Saigne-Nuit et Rugit-Flore]] |        | livre de légendes sur le clan Dravenkor et Faolan                                                                          |
 **Parchemins Magiques (simples)**
 Tous les parchemins ont :
 
