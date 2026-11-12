@@ -19,12 +19,12 @@ Alors que les autres clans s'enfonçaient dans des guerres dont les raisons se p
 
 Ils se réunirent sous un ciel sans lune, au cœur d'un bois dont nul ne connaît plus l'emplacement. Là, les druides déposèrent leurs haches sacrées, reliques dans lesquelles reposait l'essence même de leurs lignées. Puis ils accomplirent un geste que les autres peuples jugèrent insensé : ils échangèrent leurs héritages et un pouvoir, la magie nocturne contre celle des bêtes. Pour accomplir le rituel et sceller leur alliance chaque clan conserva la hache sacrée de l'autre.
 
-La hache bestiale s'appellait Rugit-Flore. La hache buveuse de sang Saigne-Nuit : fut confiée aux gardiens des forêts. À partir de ce jour, chaque clan porta en lui une part de l'autre. 
+La hache bestiale s'appellait Rugit-Flore. La hache buveuse de sang, Saigne-Nuit : fut confiée aux gardiens des forêts. À partir de ce jour, chaque clan porta en lui une part de l'autre. 
 
 Les saisons passèrent.
 Puis les siècles.
 Puis les âges.
 
-Les royaumes s'effondrèrent et les chemins furent engloutis par les forêts grandissantes. Finalement, les deux haches disparurent. Certains prétendent qu'elles furent perdues. D'autres qu'elles choisirent de quitter le monde lorsque les peuples oublièrent le sens de leur pacte.
+Les royaumes s'effondrèrent et les chemins furent engloutis par les forêts grandissantes. Finalement, les deux haches disparurent. Certains prétendent qu'elles furent perdues. D'autres qu'elles choisirent de quitter le monde lorsque les peuples oublièrent leur origine.
 
-Aujourd'hui, seuls demeurent leurs noms. Saigne-Nuit et Rugit-Flore. Ce qui est possédé finit par être perdu. Ce qui est partagé demeure.
+Aujourd'hui, seuls demeurent leurs noms. Saigne-Nuit et Rugit-Flore. Pour nous rappeler qu'a plusieurs on est plus forts, et que ce qui est possédé finit par être perdu. Ce qui est partagé demeure.
