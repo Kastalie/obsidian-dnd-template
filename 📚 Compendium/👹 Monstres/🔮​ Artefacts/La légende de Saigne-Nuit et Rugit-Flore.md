@@ -1,6 +1,6 @@
 ---
 💰 Prix:
-📍Lieux: Clan Dravenkor
+📍Lieux: "[[📚Lire le miroir de fer — Librairie et artefacts magiques]]"
 💎 Rareté: légendaire
 🖼️ Portrait:
 ✨ Effet:
