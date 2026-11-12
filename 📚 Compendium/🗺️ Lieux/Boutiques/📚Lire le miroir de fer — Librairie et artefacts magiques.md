@@ -1,18 +1,11 @@
 ---
 👾 Type: Librairie spécialisée dans les manuscrits rares, les grimoires poussiéreux, les traités oubliés et les cartes antiques.
 ✨ Ambiance: Une boutique située sous terre, dans une ancienne crypte réaménagée. Des lampes à huile montent et descendent doucement au plafond. L’air sent la poussière, le cuir et quelque chose d’inconnu… peut‑être la magie.
-👨 Tenancier: "**Maître Edravan l’Enfoui**"
+👨 Tenancier: "**Maître Morgus Miroir de fer**"
 ---
 ### **Tenancier**
 
- **Maître Edravan l’Enfoui**
-
-Un vieil érudit humain au dos voûté, portant des lunettes multifacettes.  
-Il parle toujours comme s’il révélait un secret, et semble se souvenir de tout ce qu’il a lu depuis 70 ans.
-
-> _“Les livres ne mentent pas… mais certains omettent volontairement des détails.”_
-
-Il a la réputation de **connaître des choses qu’il ne devrait pas savoir**.
+![[🧚‍♀️ Morgus Miroir-De-Fer]]
 
 ### **Objets vendus**
 

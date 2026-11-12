@@ -16,6 +16,10 @@ Morgus n'a plus de pouvoir qui sont a présent  à Patte Blanche.
 	Pour les retrouver il aura besoin que les aventuriers inversent le sort d'Edwidge. Il restera a Déchéance pour quelques petites actions de sabotage de Bavlorna en attendant le retour des voyageurs. Lors de l'échange Patte Blanche a également appris a parler le nain.
 	Morgus quant à lui ne mange plus que des carottes.
 
+
+Morgus tient la boutique : [[📚Lire le miroir de fer — Librairie et artefacts magiques]]
+
+
 #### Relations  
 Alliés :  
 - Edwidge
@@ -24,21 +28,3 @@ Ennemis :
 - Assemblée du Sablier  
 - Bavlorna Paillepourrie  
 - Les serviteurs des guenaudes  
-
-Compagnons :  
-- 
-
-  
-> [!mj] Notes
->  
-
-  
-
-#### Statblock  
-
-
-```statblock  
-
-monster: 
-
-```  
