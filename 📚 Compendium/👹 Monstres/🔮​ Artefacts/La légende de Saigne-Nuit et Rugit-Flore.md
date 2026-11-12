@@ -19,28 +19,12 @@ Alors que les autres clans s'enfonçaient dans des guerres dont les raisons se p
 
 Ils se réunirent sous un ciel sans lune, au cœur d'un bois dont nul ne connaît plus l'emplacement. Là, les druides déposèrent leurs haches sacrées, reliques dans lesquelles reposait l'essence même de leurs lignées. Puis ils accomplirent un geste que les autres peuples jugèrent insensé : ils échangèrent leurs héritages et un pouvoir, la magie nocturne contre celle des bêtes. Pour accomplir le rituel et sceller leur alliance chaque clan conserva la hache sacrée de l'autre.
 
-La hache nocture s'appellait **Rugit-Flore**. La hache buveuse Saigne-Nuit de sang fut confiée aux gardiens des forêts et fut appelée **Saigne-Nuit**.
-
-À partir de ce jour, disent les vieux récits, chaque peuple porta en lui une part de l'autre. La nuit apprit à faire fleurir les racines cachées sous la terre, et les bêtes portèrent dans leurs cœurs une étincelle des mystères obscurs.
+La hache bestiale s'appellait Rugit-Flore. La hache buveuse de sang Saigne-Nuit : fut confiée aux gardiens des forêts. À partir de ce jour, chaque clan porta en lui une part de l'autre. 
 
 Les saisons passèrent.
-
 Puis les siècles.
-
 Puis les âges.
 
-Les clans changèrent de nom, les royaumes s'effondrèrent et les chemins furent engloutis par les forêts grandissantes. Finalement, les deux haches disparurent. Certains prétendent qu'elles furent perdues. D'autres qu'elles choisirent de quitter le monde lorsque les peuples oublièrent le sens de leur pacte.
+Les royaumes s'effondrèrent et les chemins furent engloutis par les forêts grandissantes. Finalement, les deux haches disparurent. Certains prétendent qu'elles furent perdues. D'autres qu'elles choisirent de quitter le monde lorsque les peuples oublièrent le sens de leur pacte.
 
-Aujourd'hui, seuls demeurent leurs noms.
-
-**Saigne-Nuit.**
-
-**Rugit-Flore.**
-
-Et cette leçon, transmise sous mille formes par les conteurs, les druides et les sages :
-
-> _Ce qui est partagé demeure._
-> 
-> _Ce qui est possédé finit par être perdu._
-> 
-> _Les clans qui cherchèrent à accroître leur pouvoir furent effacés par le temps. Ceux qui acceptèrent d'en offrir une part laissèrent derrière eux une légende._
+Aujourd'hui, seuls demeurent leurs noms. Saigne-Nuit et Rugit-Flore. Ce qui est possédé finit par être perdu. Ce qui est partagé demeure.
