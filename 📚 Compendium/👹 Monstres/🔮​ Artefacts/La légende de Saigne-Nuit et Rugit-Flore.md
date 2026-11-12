@@ -12,9 +12,8 @@ Description:
 
 Nul ne sait quelle faute fut commise. Certains récits évoquent l'orgueil. D'autres parlent d'une promesse brisée ou d'un secret que les anciens refusèrent de partager. Toujours est-il qu'une grande discorde naquit parmi eux, et que le peuple uni se fragmenta en clans.
 
-Parmi ces clans s'en trouvait deux dont les noms furent effacés par le temps. L'un gardait les mystères du sang et de la nuit. Il connaissait les marées invisibles qui parcourent toute créature vivante et savait écouter les murmures qui s'élèvent lorsque le soleil disparaît derrière l'horizon.
-
-L'autre veillait sur les bêtes et les forêts. Les arbres inclinaient leurs branches à son passage, et les animaux répondaient à ses appels comme à ceux d'un frère oublié.
+Parmi ces clans s'en trouvait deux dont les noms furent effacés par le temps. L'un gardait les mystères du sang et de la nuit. Connaissant les marées invisibles qui parcourent toute créature vivante ils savaient écouter les murmures qui s'élevaient lors du crépuscule.
+L'autre veillait sur les bêtes et les forêts. Les arbres inclinaient leurs branches à leur passage, et les animaux répondaient à leurs appels.
 
 Alors que les autres clans s'enfonçaient dans des guerres dont les raisons se perdaient déjà dans la brume des mémoires, ces deux peuples comprirent une vérité que les siècles n'ont jamais démentie : nul pouvoir n'est complet lorsqu'il demeure seul.
 
