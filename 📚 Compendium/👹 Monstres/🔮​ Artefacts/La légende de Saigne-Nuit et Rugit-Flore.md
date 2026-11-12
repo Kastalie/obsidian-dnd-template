@@ -17,9 +17,7 @@ L'autre veillait sur les bêtes et les forêts. Les arbres inclinaient leurs bra
 
 Alors que les autres clans s'enfonçaient dans des guerres dont les raisons se perdaient déjà dans la brume des mémoires, ces deux peuples comprirent une vérité que les siècles n'ont jamais démentie : nul pouvoir n'est complet lorsqu'il demeure seul.
 
-Ils se réunirent sous un ciel sans lune, au cœur d'un bois dont nul ne connaît plus l'emplacement. Là, les druides déposèrent leurs haches sacrées, reliques dans lesquelles reposait l'essence même de leurs lignées.
-
-Puis ils accomplirent un geste que les autres peuples jugèrent insensé : ils échangèrent leurs héritages.
+Ils se réunirent sous un ciel sans lune, au cœur d'un bois dont nul ne connaît plus l'emplacement. Là, les druides déposèrent leurs haches sacrées, reliques dans lesquelles reposait l'essence même de leurs lignées. Puis ils accomplirent un geste que les autres peuples jugèrent insensé : ils échangèrent leurs héritages. Le peuple de l'ombre se sépara de son pouvoir nocturne en échange  
 
 La hache de la forêt fut remise aux gardiens des ténèbres et reçut le nom de **Rugit-Flore**.
 
