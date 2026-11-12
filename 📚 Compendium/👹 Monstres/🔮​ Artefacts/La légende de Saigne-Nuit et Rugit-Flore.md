@@ -6,13 +6,13 @@
 ✨ Effet:
 Description:
 ---
+![[delbian (1).png|511]]
+
 À l'âge où le monde était jeune et où les frontières entre le rêve, la forêt et le ciel n'avaient pas encore été tracées, les peuples druides parlaient d'une seule voix.
 
-Nul ne sait quelle faute fut commise. Certains récits évoquent l'orgueil. D'autres parlent d'une promesse brisée ou d'un secret que les anciens refusèrent de partager. Toujours est-il qu'une grande discorde naquit parmi eux, et que le peuple unique se fragmenta en une multitude de clans.
+Nul ne sait quelle faute fut commise. Certains récits évoquent l'orgueil. D'autres parlent d'une promesse brisée ou d'un secret que les anciens refusèrent de partager. Toujours est-il qu'une grande discorde naquit parmi eux, et que le peuple uni se fragmenta en clans.
 
-Parmi ces clans se trouvaient deux peuples dont les noms furent effacés par le temps.
-
-L'un gardait les mystères du sang et de la nuit. Il connaissait les marées invisibles qui parcourent toute créature vivante et savait écouter les murmures qui s'élèvent lorsque le soleil disparaît derrière l'horizon.
+Parmi ces clans s'en trouvait deux dont les noms furent effacés par le temps. L'un gardait les mystères du sang et de la nuit. Il connaissait les marées invisibles qui parcourent toute créature vivante et savait écouter les murmures qui s'élèvent lorsque le soleil disparaît derrière l'horizon.
 
 L'autre veillait sur les bêtes et les forêts. Les arbres inclinaient leurs branches à son passage, et les animaux répondaient à ses appels comme à ceux d'un frère oublié.
 
