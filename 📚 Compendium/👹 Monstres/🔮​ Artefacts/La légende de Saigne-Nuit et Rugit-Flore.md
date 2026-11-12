@@ -17,11 +17,9 @@ L'autre veillait sur les bêtes et les forêts. Les arbres inclinaient leurs bra
 
 Alors que les autres clans s'enfonçaient dans des guerres dont les raisons se perdaient déjà dans la brume des mémoires, ces deux peuples comprirent une vérité que les siècles n'ont jamais démentie : nul pouvoir n'est complet lorsqu'il demeure seul.
 
-Ils se réunirent sous un ciel sans lune, au cœur d'un bois dont nul ne connaît plus l'emplacement. Là, les druides déposèrent leurs haches sacrées, reliques dans lesquelles reposait l'essence même de leurs lignées. Puis ils accomplirent un geste que les autres peuples jugèrent insensé : ils échangèrent leurs héritages et un pouvoir, la magie nocturne contre celle des bêtes. Pour accomplir le rituel et 
+Ils se réunirent sous un ciel sans lune, au cœur d'un bois dont nul ne connaît plus l'emplacement. Là, les druides déposèrent leurs haches sacrées, reliques dans lesquelles reposait l'essence même de leurs lignées. Puis ils accomplirent un geste que les autres peuples jugèrent insensé : ils échangèrent leurs héritages et un pouvoir, la magie nocturne contre celle des bêtes. Pour accomplir le rituel et sceller leur alliance chaque clan conserva la hache sacrée de l'autre.
 
-La hache de la forêt fut remise aux gardiens des ténèbres et reçut le nom de **Rugit-Flore**.
-
-La hache de la nuit fut confiée aux gardiens des bêtes et fut appelée **Saigne-Nuit**.
+La hache nocture s'appellait **Rugit-Flore**. La hache buveuse Saigne-Nuit de sang fut confiée aux gardiens des forêts et fut appelée **Saigne-Nuit**.
 
 À partir de ce jour, disent les vieux récits, chaque peuple porta en lui une part de l'autre. La nuit apprit à faire fleurir les racines cachées sous la terre, et les bêtes portèrent dans leurs cœurs une étincelle des mystères obscurs.
 
