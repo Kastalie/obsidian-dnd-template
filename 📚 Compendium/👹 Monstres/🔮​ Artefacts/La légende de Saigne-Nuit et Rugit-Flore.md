@@ -19,9 +19,7 @@ Alors que les autres clans s'enfonçaient dans des guerres dont les raisons se p
 
 Ils se réunirent sous un ciel sans lune, au cœur d'un bois dont nul ne connaît plus l'emplacement. Là, les druides déposèrent leurs haches sacrées, reliques dans lesquelles reposait l'essence même de leurs lignées.
 
-Puis ils accomplirent un geste que les autres peuples jugèrent insensé.
-
-Ils échangèrent leurs héritages.
+Puis ils accomplirent un geste que les autres peuples jugèrent insensé : ils échangèrent leurs héritages.
 
 La hache de la forêt fut remise aux gardiens des ténèbres et reçut le nom de **Rugit-Flore**.
 
